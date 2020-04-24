@@ -1,4 +1,5 @@
 ---
+layout: person
 given: Caroline
 family: Wagner
 url: https://eeb.princeton.edu/people/caroline-wagner

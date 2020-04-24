@@ -1,4 +1,5 @@
 ---
+layout: person
 given: Thiemo
 family: Fetzer
 email: t.fetzer@warwick.ac.uk

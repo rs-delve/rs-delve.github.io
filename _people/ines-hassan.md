@@ -1,4 +1,5 @@
 ---
+layout: person
 given: Inès
 family: Hassan
 url:

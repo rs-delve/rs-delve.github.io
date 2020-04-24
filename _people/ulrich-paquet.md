@@ -1,4 +1,5 @@
 ---
+layout: person
 given: Ulrich
 family: Paquet
 email: upaq@google.com

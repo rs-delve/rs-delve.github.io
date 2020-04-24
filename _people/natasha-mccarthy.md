@@ -1,4 +1,5 @@
 ---
+layout: person
 given: Natasha
 family: McCarthy
 email: Natasha.McCarthy@royalsociety.org

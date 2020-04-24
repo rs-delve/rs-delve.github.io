@@ -1,4 +1,5 @@
 ---
+layout: person
 given: Miqdad
 family: Asaria
 email: M.Asaria@lse.ac.uk

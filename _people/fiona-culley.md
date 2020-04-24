@@ -1,4 +1,5 @@
 ---
+layout: person
 given: Fiona
 family: Culley
 email: f.culley@imperial.ac.uk

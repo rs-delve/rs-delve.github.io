@@ -1,4 +1,5 @@
 ---
+layout: person
 given: Jessica
 family: Montgomery
 email: Jessica.Montgomery@royalsociety.org

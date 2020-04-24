@@ -1,4 +1,5 @@
 ---
+layout: person
 given: Lois
 family: King
 url: https://www.ed.ac.uk/profile/lois-king

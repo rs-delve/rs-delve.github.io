@@ -47,8 +47,10 @@ layout: home
 ## Secretariat
 
 {% assign lastone = site.people | last %}
+<ul>
 {% for person in site.people %}
 {% include listsecretariat.html %}
 {% endfor %}
+</ul>
 
 

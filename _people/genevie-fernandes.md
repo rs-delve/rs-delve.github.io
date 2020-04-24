@@ -1,4 +1,5 @@
 ---
+layout: person
 given: Genevie
 family: Fernandes
 email: gfernan2@exseed.ed.ac.uk

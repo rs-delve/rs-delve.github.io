@@ -1,4 +1,5 @@
 ---
+layout: person
 given: Axel
 family: Gandy
 email: a.gandy@imperial.ac.uk

@@ -1,4 +1,5 @@
 ---
+layout: person
 given: Majid
 family: Ezzati
 url: https://www.imperial.ac.uk/people/majid.ezzati

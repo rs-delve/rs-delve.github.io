@@ -1,4 +1,5 @@
 ---
+layout: person
 given: Yee Whye
 family: Teh
 email: y.w.teh@stats.ox.ac.uk 

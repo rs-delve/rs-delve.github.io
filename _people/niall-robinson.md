@@ -1,4 +1,5 @@
 ---
+layout: person
 given: Niall
 family: Robinson
 url: https://www.metoffice.gov.uk/research/people/niall-robinson

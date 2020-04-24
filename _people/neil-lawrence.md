@@ -1,4 +1,5 @@
 ---
+layout: person
 given: Neil
 family: Lawrence
 url: http://inverseprobability.com

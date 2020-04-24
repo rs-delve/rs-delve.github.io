@@ -1,4 +1,5 @@
 ---
+layout: person
 given: Sang Woo (Daniel)
 family: Park
 url: https://scholar.google.ca/citations?user=ZSCrs78AAAAJ&hl=en

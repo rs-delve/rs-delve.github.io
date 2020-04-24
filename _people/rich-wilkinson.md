@@ -1,4 +1,5 @@
 ---
+layout: person
 given: Richard
 family: Wilkinson
 email: r.d.wilkinson@sheffield.ac.uk

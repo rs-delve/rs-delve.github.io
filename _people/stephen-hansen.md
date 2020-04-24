@@ -1,4 +1,5 @@
 ---
+layout: person
 given: Stephen
 family: Hansen
 email: stephen.hansen@imperial.ac.uk

@@ -1,4 +1,5 @@
 ---
+layout: person
 given: Sarah
 family: Filippi
 email: s.filippi@imperial.ac.uk
