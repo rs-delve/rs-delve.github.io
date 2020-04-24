@@ -5,6 +5,8 @@
 layout: home
 ---
 
+{% assign begintag = "<li>" %}
+{% assign endtag = "</li>" %}
 {% assign separator = "" %}
 
 ## Reports
@@ -20,7 +22,7 @@ layout: home
 {% assign lastone = site.people | last %}
 <ul>
 {% for person in site.people %}
-<li>{% include liststeeringcommittee.html %}</li>
+{% include liststeeringcommittee.html %}
 {% endfor %}
 </ul>
 
@@ -29,7 +31,7 @@ layout: home
 {% assign lastone = site.people | last %}
 <ul>
 {% for person in site.people %}
-<li>{% include listworkinggroup.html %}</li>
+{% include listworkinggroup.html %}
 {% endfor %}
 </ul>
 
@@ -38,7 +40,7 @@ layout: home
 {% assign lastone = site.people | last %}
 <ul>
 {% for person in site.people %}
-<li>{% include listactionteam.html %}</li>
+{% include listactionteam.html %}
 {% endfor %}
 </ul>
 
