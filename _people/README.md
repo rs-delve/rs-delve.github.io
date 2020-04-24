@@ -25,7 +25,7 @@
 * [Paul Edelstein](./paul-edelstein.md), Professor of Pathology and Laboratory Medicine, UPenn
 * [Majid Ezzati](./majid-ezzati.md), Chair in Global Environmental Health, Imperial
 * [Rachel Griffith](./rachel-griffith.md), Research Director, Institute for Fiscal Studies, and Professor of Economics, University of Manchester
-* [Frank Kelly](./franck-kelly.md), Professor of the Mathematics of Systems, University of Cambridge
+* [Frank Kelly](./frank-kelly.md), Professor of the Mathematics of Systems, University of Cambridge
 * [Neil Lawrence](./neil-lawrence.md) (Action Team)
 * [Carol Propper](./carol-propper.md), Professor of Economics, Imperial
 * [Alison Simmons](./alison-simmons.md), Professor of Gastroenterology, University of Oxford
