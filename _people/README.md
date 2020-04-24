@@ -2,7 +2,7 @@
 
 ### Steering Committee 
 
-* [Venki Ramakrishnan](./venk-ramakrishan.md) FRS (Chair) President of the Royal Society
+* [Venki Ramakrishnan](./venki-ramakrishan.md) FRS (Chair) President of the Royal Society
 * [Devi Sridhar](./devi-sridhar.md) (Chair of Working Group), Professor of Global Public Health, University of Edinburgh
 * [Charles Bangham](./charles-bangham.md) FRS, Professor of Immunology, Faculty of Medicine, Imperial College London
 * [Tim Gowers](./tim-gowers.md) FRS, Royal Society Research Professor, Centre for Mathematical Sciences, University of Cambridge
