@@ -5,6 +5,7 @@ family: Robinson
 url: https://www.metoffice.gov.uk/research/people/niall-robinson
 email:  niall.robinson@informaticslab.co.uk
 twitter:
+actionteam: True
 github: niallrobinson
 ---
 
