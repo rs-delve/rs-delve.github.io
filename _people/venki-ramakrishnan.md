@@ -2,6 +2,7 @@
 layout: person
 given: Venki
 family: Ramakrishnan
+suffix: FRS
 steeringcommittee: Chair
 ---
 
