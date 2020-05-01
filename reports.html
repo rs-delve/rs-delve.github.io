@@ -7,14 +7,17 @@ layout: default
 
 {% for report in site.reports %}
 
+<h1>{{ report.title }}</h1>
+  
     {% if thedate != report.date | date: "%m-%d-%Y" %}
         <h2>{{ report.date | date: "%A, %B %e, %Y" }}</h2>
     {% endif %}
 
     {% assign thedate = report.date | date: "%m-%d-%Y" %}
 
-    <h3 class="headline"><a href="{{ report.url }}">{{ report.title }}</a></h3>
-    {{ report.content }}
-    <hr>
+<h2>Summary</h2>
+    <p>{{ report.summary }}</p>
+	
+    <p><a href="{{ report.url }}">Continued</a></p>
 
 {% endfor %}
