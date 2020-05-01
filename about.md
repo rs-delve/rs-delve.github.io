@@ -1,6 +1,6 @@
 ---
-layout: default
 title: About
+layout: default
 ---
 
 We are at a crucial juncture in the UK’s response to the COVID-19 pandemic. There is a pressing need to analyse emerging data from countries around the world to identify the most important factors that can help slow the spread of the virus and help find long-term solutions to the pandemic. Science has helped to guide the response to the COVID-19 pandemic and there is more the community can do to complement existing efforts. 
