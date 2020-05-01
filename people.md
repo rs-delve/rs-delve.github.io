@@ -1,5 +1,5 @@
 ---
-layout: people
+layout: default
 ---
 
 {% assign begintag = "<li>" %}
