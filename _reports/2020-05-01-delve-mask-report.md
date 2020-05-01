@@ -4,7 +4,6 @@ date: 2020-05-01 00:00:00 Z
 layout: posts
 ---
 
-
 *An earlier version of this document was communicated to SAGE in April
 2020.*
 
