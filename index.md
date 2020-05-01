@@ -13,7 +13,7 @@ layout: home
 
 {% assign lastone = site.reports | last %}
 <ul>
-{% for project in site.reports %}
+{% for report in site.reports %}
 <li>{% include listreport.html %}</li>
 {% endfor %}
 </ul>
