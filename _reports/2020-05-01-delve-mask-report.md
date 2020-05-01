@@ -423,7 +423,7 @@ relies heavily on aggressive testing, tracing and quarantining of virus
 carriers, with lockdown measures in place - does not include universal
 mask policies[^72].
 
-<img src="diagrams/masks/image1.png" style="width:6.27083in;height:3.67708in" />
+<img src="/diagrams/masks/image1.png" style="width:6.27083in;height:3.67708in" />
 
 *Fig. 1: Retrieved from Longrich and Sheppard (2020)*[^73]*.*
 
