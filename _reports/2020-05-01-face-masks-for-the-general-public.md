@@ -401,28 +401,29 @@ outbreaks of SARS and MERS.[^70]
 
 1.  Policies and Mask Types
 
-In Europe, policy recommendations are mostly geared towards encouraging
-use of homemade or other non-surgical facial masks for the general
-population with the aim of providing readily-available protection, while
-reducing the risks of a limited surgical mask supply becoming
-unavailable for the healthcare professionals. Mask policies range from
-recommendations of different forms of homemade masks, from cloths,
-scarves and bandanas in Germany and the Czech Republic - with fines
-administered for non-compliance - to government-controlled surgical mask
-distribution in local pharmacies, such as KF94 masks in South Korea and
-N95 masks in Taiwan[^71]. More information on country policies are
-attached in the Appendix.
+    In Europe, policy recommendations are mostly geared towards
+    encouraging use of homemade or other non-surgical facial masks for
+    the general population with the aim of providing readily-available
+    protection, while reducing the risks of a limited surgical mask
+    supply becoming unavailable for the healthcare professionals. Mask
+    policies range from recommendations of different forms of homemade
+    masks, from cloths, scarves and bandanas in Germany and the Czech
+    Republic - with fines administered for non-compliance - to
+    government-controlled surgical mask distribution in local
+    pharmacies, such as KF94 masks in South Korea and N95 masks in
+    Taiwan[^71]. More information on country policies are attached in
+    the Appendix.
 
-1.  Impact
+2.  Impact
 
-The difference in the rate of increase in cases after the 100th
-confirmed case in European countries with little or no mask wearing
-practices such as Spain and Italy, and Asian countries such as Taiwan
-and Hong Kong with stringent mask policies is notable (see figure
-below). However, it should be noted that New Zealand’s approach - which
-relies heavily on aggressive testing, tracing and quarantining of virus
-carriers, with lockdown measures in place - does not include universal
-mask policies[^72].
+    The difference in the rate of increase in cases after the 100th
+    confirmed case in European countries with little or no mask
+    wearing practices such as Spain and Italy, and Asian countries
+    such as Taiwan and Hong Kong with stringent mask policies is
+    notable (see figure below). However, it should be noted that New
+    Zealand’s approach - which relies heavily on aggressive testing,
+    tracing and quarantining of virus carriers, with lockdown measures
+    in place - does not include universal mask policies[^72].
 
 <img src="/diagrams/masks/image1.png" style="width:100%" />
 
