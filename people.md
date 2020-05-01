@@ -2,8 +2,6 @@
 layout: people
 ---
 
-
-
 {% assign begintag = "<li>" %}
 {% assign endtag = "</li>" %}
 {% assign separator = "" %}
