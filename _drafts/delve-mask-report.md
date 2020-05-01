@@ -46,7 +46,7 @@ summary: 'Face masks could offer an important tool for contributing to the manag
 
 3.  **Face masks reduce droplet dispersal.** Cloth-based face masks
     reduce emission of particles by variable amounts, for example
-    Anfinrud *et al*[^16] showed that they are almost completely
+    Anfinrud *et al*[^15] showed that they are almost completely
     eliminated. Davies *et al*[^17] showed that cloth masks filtered
     viral particles during coughing at about 50 to 100% of the
     filtration efficiency of surgical masks, depending on fabric, with
@@ -180,7 +180,7 @@ environmental transmission (Re), i.e. R0=Ra+Rp+Rs+Re, and found ratios
 of Ra:Rp:Rs:Re = 1:9:8:2[^30]. Note that in this paper, environmental
 transmission is defined as transmission via contamination; in other
 words in a way that would not be attributable to contact with the
-infected source[^31]. This is broadly consistent with estimates of
+infected source[^30]. This is broadly consistent with estimates of
 46%-55% presymptomatic transmission in He *et al*[^32] as well as
 estimates of 48% and 62% in data from Singapore and Tianjin[^33]. We
 note that one report estimated that prior to the implementation of
@@ -626,10 +626,6 @@ existing norms) are not accounted for in the data.
     Speech-Generated Oral Fluid Droplets with Laser Light Scattering.
     New England Journal of Medicine (doi: [10.1056/NEJMc2007800](https://doi.org/10.1056/NEJMc2007800)).
 
-[^16]: Anfinrud P, Stadnytskyi V, Bax CE, Bax A. 2020 Visualizing
-    Speech-Generated Oral Fluid Droplets with Laser Light Scattering.
-    New England Journal of Medicine (doi: [10.1056/NEJMc2007800](https://doi.org/10.1056/NEJMc2007800)).
-
 [^17]: Davies A *et al.* 2013 Testing the efficacy of homemade masks:
     would they protect in an influenza pandemic?. Disaster Medicine and
     Public Health Preparedness (doi: [10.1017/dmp.2013.43](https://doi.org/10.1017/dmp.2013.43)).
@@ -681,10 +677,6 @@ existing norms) are not accounted for in the data.
     Specimens of Infected Patients. NEJM (doi: [10.1056/NEJMc2001737](https://doi.org/10.1056/NEJMc2001737)).
 
 [^30]: Ferretti L *et al.* 2020 Quantifying SARS-CoV-2 transmission
-    suggests epidemic control with digital contact tracing. Science
-    (doi: [10.1126/science.abb6936](https://doi.org/10.1126/science.abb6936)).
-
-[^31]: Ferretti L *et al.* 2020 Quantifying SARS-CoV-2 transmission
     suggests epidemic control with digital contact tracing. Science
     (doi: [10.1126/science.abb6936](https://doi.org/10.1126/science.abb6936)).
 
