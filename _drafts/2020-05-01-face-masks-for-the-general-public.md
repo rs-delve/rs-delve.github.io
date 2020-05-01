@@ -496,17 +496,6 @@ shows COVID-19 symptoms, as opposed to only those who also fill narrower
 criteria (e.g. key workers only). The Czech Republic didn’t broaden
 their testing criteria like Austria did in that period.
 
-#### Is there international evidence that public mask wearing reduces R?
-
-On 17th April, the DELVE action team started a [propensity score-matched
-analysis](https://docs.google.com/document/d/18fOAfA6x7YnGnTQIT9KMtufr8aNOV6W4KcsehGY3djQ/edit)
-to empirically estimate the causal connection between public
-mask-wearing and infection rate and mortality. Analysis takes data from
-77 countries, including other government policies, population density,
-average age, and stage of the epidemic in each country. Whilst initial
-results suggest a reduction in new cases and mortality rates, it is too
-early to interpret the results, as other factors (e.g. compliance,
-existing norms) are not accounted for in the data.
 
 ## Appendix: Mask policies in different countries
 
