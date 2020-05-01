@@ -1,8 +1,9 @@
 ---
+title: Ines Hassan
 layout: person
 given: Inès
 family: Hassan
-url:
+url: 
 github: 
 twitter: drineshassan1
 ---

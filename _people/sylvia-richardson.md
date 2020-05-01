@@ -1,8 +1,9 @@
 ---
+title: Sylvia Richardson
 layout: person
 given: Sylvia
 family: Richardson
-steeringcommittee: True
+steeringcommittee: true
 ---
 
 Sylvia is President Elect, Royal Statistical Society, and Director, MRC Biostatistics Unit

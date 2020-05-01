@@ -1,7 +1,9 @@
 ---
+title: Julie Maxton
 layout: person
 given: Julie
 family: Maxton
-steeringcommittee: True
+steeringcommittee: true
 ---
+
 Julie is Executive Director, Royal Society

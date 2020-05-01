@@ -1,7 +1,8 @@
 ---
+title: Anne Johnson
 given: Anne
 family: Johnson
-steeringcommittee: True
+steeringcommittee: true
 ---
 
 Anne is Professor of Infectious Disease, UCL

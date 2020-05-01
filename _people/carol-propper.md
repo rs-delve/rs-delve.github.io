@@ -1,8 +1,9 @@
 ---
+title: Carol Propper
 layout: person
 given: Carol
 family: Propper
-workinggroup: True
+workinggroup: true
 ---
 
 Carol is Professor of Economics, Imperial
