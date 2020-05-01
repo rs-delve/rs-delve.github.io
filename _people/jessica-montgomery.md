@@ -7,4 +7,4 @@ email: Jessica.Montgomery@royalsociety.org
 secretariat: true
 ---
 
-Jessica Montgomery is a member of the Royal Society's secretariat. 
+Jessica Montgomery is a Senior Policy Adviser at the Royal Society and secretariat to DELVE. 
