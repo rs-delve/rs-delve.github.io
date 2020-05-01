@@ -1,0 +1,16 @@
+<div class="paper">
+  <p class="title">{{ report.title }}</p>
+  <p class="details">
+    <span class="authors">
+      {% assign lastone = report.author | last %}
+      {% for person in report.author %}
+      {% include listperson.html %}
+      {% endfor %}
+    </span>;
+    <span class="info"> {{ site.volume}}{% if report.number %}({{report.number}}){%endif%}:{% if report.firstpage %}{{ report.firstpage }}{% endif %}{% if report.lastpage %}-{{ report.lastpage }}{% endif %}</span>
+  </p>
+  <p class="links">
+    [<a href="{{ site.url }}{{ site.baseurl }}{{ report.url }}">abs</a>]
+    [<a href="{{ report.pdf }}" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', {{ report.pdf}}, 10);">Download PDF</a>]{% if report.supplementary %}[<a href="{{ report.supplementary }}" target="_blank" onclick="ga('send', 'event', 'PDF Downloads', 'Download', {{ report.supplementary }}, 11);">Supplementary Material</a>]{% endif %}{% for extra in report.extras %}[<a href="{{ extra.link }}" target="_blank" onclick="ga('send', 'event', 'Extra Downloads', 'Download', '{{ extra.label }}', 12);">{{ extra.label }}</a>]{% endfor %}
+  </p>
+</div>
