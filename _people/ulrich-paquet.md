@@ -6,7 +6,7 @@ family: Paquet
 email: upaq@google.com
 url: http://ulrichpaquet.com
 twitter: ulrichpaquet
-actionteam: True
+actionteam: true
 github: 
 ---
 

@@ -3,9 +3,10 @@ title: Chris Chiu
 layout: person
 given: Chris
 family: Chiu
-email:
+email: 
 url: https://www.imperial.ac.uk/people/c.chiu
 twitter: 
-actionteam: True
+actionteam: true
 github: 
 ---
+
