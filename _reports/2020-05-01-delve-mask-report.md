@@ -1,10 +1,9 @@
 ---
-title: Delve Mask Report
+title: DELVE Report on Face Masks for the General Public
 date: 2020-05-01 00:00:00 Z
-layout: default
+layout: posts
 ---
 
-# DELVE Report on Face Masks for the General Public
 
 *An earlier version of this document was communicated to SAGE in April
 2020.*
