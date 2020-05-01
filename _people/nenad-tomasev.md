@@ -1,5 +1,5 @@
 ---
-title: 
+title: Nenad Tomasev
 given: Nenad
 family: Temasev
 webpage: https://www.linkedin.com/in/nenadtomasev/?originalSubdomain=uk
@@ -8,3 +8,4 @@ twitter:
 actionteam: true
 github: 
 ---
+
