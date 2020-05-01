@@ -162,8 +162,6 @@ importance.
     cloth mask adequate, what activity would merit a well-fitted
     higher-grade mask?).
 
-## 
-
 ## Evidence Base
 
 ### Current understanding of transmission mechanism and public mask wearing
