@@ -578,23 +578,23 @@ existing norms) are not accounted for in the data.
 
 [^2]: Ferretti L *et al.* 2020 Quantifying SARS-CoV-2 transmission
     suggests epidemic control with digital contact tracing. Science
-    (doi: 10.1126/science.abb6936).
+    (doi: [10.1126/science.abb6936](https://doi.org/10.1126/science.abb6936)).
 
 [^3]: Ganyani, T *et al.* 2020 Estimating the generation interval for
     COVID-19 based on symptom onset data. medRxiv (doi:
-    10.1101/2020.03.05.20031815).
+    [10.1101/2020.03.05.20031815](https://doi.org/10.1101/2020.03.05.20031815)).
 
 [^4]: Li R *et al*. 2020 Substantial undocumented infection facilitates
     the rapid dissemination of novel coronavirus (SARS-CoV2). Science
-    (doi: 10.1126/science.abb3221).
+    (doi: [10.1126/science.abb3221](https://doi.org/10.1126/science.abb3221)).
 
 [^5]: Sutton D, Fuchs K, D’Alton M, Goffman D. 2020 Universal screening
     for SARS-COV2 in women admitted for delivery. NEJM (doi:
-    10.1056/NEJMc2009316).
+    [10.1056/NEJMc2009316](https://doi.org/10.1056/NEJMc2009316)).
 
 [^6]: Pan X *et al*. 2020 Asymptomatic cases in a family cluster with
     SARS-CoV-2 infection. The Lancet Infectious Diseases (doi:
-    [10.1016/S1473-3099(20)30114-6](file:///C:\Users\FrancesB\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\U16H1MIU\10.1016\S1473-3099(20)30114-6)).
+    [10.1016/S1473-3099(20)30114-6](https://doi.org/10.1016/S1473-3099(20)30114-6)).
 
 [^7]: Zou L *et al*. 2020. SARS-CoV-2 Viral Load in Upper Respiratory
     Specimens of Infected Patients. NEJM (doi:10.1056/NEJMc2001737).
@@ -611,15 +611,14 @@ existing norms) are not accounted for in the data.
     [10.1038/s41591-020-0869-5](https://doi.org/10.1038/s41591-020-0869-5)).
 
 [^11]: Tan W *et al*. 2020 Viral Kinetics and Antibody Responses in
-    Patients with COVID-19. MedRxiV (doi: 10.1101/2020.03.24.20042382).
+    Patients with COVID-19. MedRxiV (doi: [10.1101/2020.03.24.20042382](https://doi.org/10.1101/2020.03.24.20042382)).
 
 [^12]: Wölfel, R. et al. (2020). Virological assessment of hospitalized
-    patients with COVID-2019. Nature (doi: 10.1038/s41586-020-2196-x).
+    patients with COVID-2019. Nature (doi: [10.1038/s41586-020-2196-x](https://doi.org/10.1038/s41586-020-2196-x)).
 
 [^13]: World Health Organization. 2020 Modes of transmission of virus
     causing COVID-19: implications for IPC precaution recommendations.
-    See [<span
-    class="underline">https://www.who.int/news-room/commentaries/detail/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations</span>](https://www.who.int/news-room/commentaries/detail/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations)
+    See <https://www.who.int/news-room/commentaries/detail/modes-of-transmission-of-virus-causing-covid-19-implications-for-ipc-precaution-recommendations>.
 
 [^14]: Public Health England. 2020 COVID-19: infection prevention and
     control guidance, see
@@ -627,39 +626,35 @@ existing norms) are not accounted for in the data.
 
 [^15]: Anfinrud P, Stadnytskyi V, Bax CE, Bax A. 2020 Visualizing
     Speech-Generated Oral Fluid Droplets with Laser Light Scattering.
-    New England Journal of Medicine (doi: 10.1056/NEJMc2007800).
+    New England Journal of Medicine (doi: [10.1056/NEJMc2007800](https://doi.org/10.1056/NEJMc2007800)).
 
 [^16]: Anfinrud P, Stadnytskyi V, Bax CE, Bax A. 2020 Visualizing
     Speech-Generated Oral Fluid Droplets with Laser Light Scattering.
-    New England Journal of Medicine (doi: 10.1056/NEJMc2007800).
+    New England Journal of Medicine (doi: [10.1056/NEJMc2007800](https://doi.org/10.1056/NEJMc2007800)).
 
 [^17]: Davies A *et al.* 2013 Testing the efficacy of homemade masks:
     would they protect in an influenza pandemic?. Disaster Medicine and
-    Public Health Preparedness (doi:
-    [10.1017/dmp.2013.43](https://doi.org/10.1017/dmp.2013.43)).
+    Public Health Preparedness (doi: [10.1017/dmp.2013.43](https://doi.org/10.1017/dmp.2013.43)).
 
 [^18]: van der Sande M, Teunis P, Sabel, R. 2008 Professional and
     home-made face masks reduce exposure to respiratory infections among
-    the general population. PLoS One (doi:
-    [10.1371/journal.pone.0002618](https://dx.doi.org/10.1371%2Fjournal.pone.0002618)).
+    the general population. PLoS One (doi: [10.1371/journal.pone.0002618](https://dx.doi.org/10.1371%2Fjournal.pone.0002618)).
 
 [^19]: Howard J. 2020. To help stop coronavirus, everyone should be
     wearing face masks. The science is clear. The Guardian. See <https://www.theguardian.com/commentisfree/2020/apr/04/why-wear-a-mask-may-be-our-best-weapon-to-stop-coronavirus>
 
 [^20]: Canini L *et al* 2010. Surgical mask to prevent influenza
     transmission in households: A cluster randomized trial. PLoS One
-    (doi:
-    [10.1371/journal.pone.0013998](https://doi.org/10.1371/journal.pone.0013998)).
+    (doi: [10.1371/journal.pone.0013998](https://doi.org/10.1371/journal.pone.0013998)).
 
 [^21]: MacIntyre C, Zhang Y, Chughtai A, et al. 2016. Cluster randomised
     controlled trial to examine medical mask use as source control for
-    people with respiratory illness. BMJ Open (doi:
-    10.1136/bmjopen-2016-012330)
+    people with respiratory illness. BMJ Open (doi: [10.1136/bmjopen-2016-012330](https://doi.org/10.1136/bmjopen-2016-012330)
 
 [^22]: Sung AD, Sung JAM, Thomas S, et al. 2016. Universal Mask Usage
     for Reduction of Respiratory Viral Infections After Stem Cell
     Transplant: A Prospective Trial. Clin Infect Dis, 63, 999-1006 (doi:
-    10.1093/cid/ciw451).
+    [10.1093/cid/ciw451](https://doi.org/10.1093/cid/ciw451)).
 
 [^23]: Greenhalgh T *et al*. 2020. Face masks for the public during the
     covid-19 crisis. BMJ (doi:
@@ -670,49 +665,45 @@ existing norms) are not accounted for in the data.
     [10.1136/bmj.m1442](https://doi.org/10.1136/bmj.m1442)).
 
 [^25]: Howard J. 2020. To help stop coronavirus, everyone should be
-    wearing face masks. The science is clear. The Guardian. See [<span
-    class="underline">https://www.theguardian.com/commentisfree/2020/apr/04/why-wear-a-mask-may-be-our-best-weapon-to-stop-coronavirus</span>](https://www.theguardian.com/commentisfree/2020/apr/04/why-wear-a-mask-may-be-our-best-weapon-to-stop-coronavirus)
+    wearing face masks. The science is clear. The Guardian. See <https://www.theguardian.com/commentisfree/2020/apr/04/why-wear-a-mask-may-be-our-best-weapon-to-stop-coronavirus>
 
 [^26]: Rothe C *et al*. 2020 Transmission of 2019-nCoV Infection from an
-    Asymptomatic Contact in Germany. NEJM (doi: 10.1056/NEJMc2001468).
+    Asymptomatic Contact in Germany. NEJM (doi: [10.1056/NEJMc2001468](https://doi.org/10.1056/NEJMc2001468)).
 
 [^27]: Kimball A et al. 2020 Asymptomatic and Presymptomatic SARS-CoV-2
     Infections in Residents of a Long-Term Care Skilled Nursing Facility
     — King County, Washington, March 2020. MMWR Morbidity and Mortality
-    Weekly Report. See
-    <https://www.cdc.gov/mmwr/volumes/69/wr/mm6913e1.htm>
+    Weekly Report. See <https://www.cdc.gov/mmwr/volumes/69/wr/mm6913e1.htm>
 
 [^28]: He X *et al.* 2020 Temporal dynamics in viral shedding and
     transmissibility of COVID-19. Nat Med (doi:
     [10.1038/s41591-020-0869-5](https://doi.org/10.1038/s41591-020-0869-5)).
 
 [^29]: Zou L *et al*. 2020. SARS-CoV-2 Viral Load in Upper Respiratory
-    Specimens of Infected Patients. NEJM (doi:10.1056/NEJMc2001737).
+    Specimens of Infected Patients. NEJM (doi: [10.1056/NEJMc2001737](https://doi.org/10.1056/NEJMc2001737)).
 
 [^30]: Ferretti L *et al.* 2020 Quantifying SARS-CoV-2 transmission
     suggests epidemic control with digital contact tracing. Science
-    (doi: 10.1126/science.abb6936).
+    (doi: [10.1126/science.abb6936](https://doi.org/10.1126/science.abb6936)).
 
 [^31]: Ferretti L *et al.* 2020 Quantifying SARS-CoV-2 transmission
     suggests epidemic control with digital contact tracing. Science
-    (doi: 10.1126/science.abb6936).
+    (doi: [10.1126/science.abb6936](https://doi.org/10.1126/science.abb6936)).
 
 [^32]: He X *et al.* 2020 Temporal dynamics in viral shedding and
     transmissibility of COVID-19. Nat Med (doi:
     [10.1038/s41591-020-0869-5](https://doi.org/10.1038/s41591-020-0869-5)).
 
 [^33]: Ganyani, T *et al.* 2020 Estimating the generation interval for
-    COVID-19 based on symptom onset data. medRxiv (doi:
-    10.1101/2020.03.05.20031815).
+    COVID-19 based on symptom onset data. medRxiv (doi: [10.1101/2020.03.05.20031815](https://doi.org/10.1101/2020.03.05.20031815)).
 
 [^34]: Li R *et al*. 2020 Substantial undocumented infection facilitates
     the rapid dissemination of novel coronavirus (SARS-CoV2). Science
-    (doi: 10.1126/science.abb3221).
+    (doi: [10.1126/science.abb3221](https://doi.org/10.1126/science.abb3221)).
 
 [^35]: Tellier R, Li Y, Cowling BJ, Tang JW. 2019 Recognition of aerosol
     transmission of infectious agents: a commentary. BMC Infectious
-    Diseases (doi:
-    [10.1186/s12879-019-3707-y](https://doi.org/10.1186/s12879-019-3707-y)).
+    Diseases (doi: [10.1186/s12879-019-3707-y](https://doi.org/10.1186/s12879-019-3707-y)).
 
 [^36]: van Doremalen N *et al*. 2020 Aerosol and Surface Stability of
     HCoV-19 (SARS-CoV-2) Compared to SARS-CoV-1. MedRxiv (doi:
