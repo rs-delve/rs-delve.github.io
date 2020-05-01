@@ -9,11 +9,9 @@ layout: default
 
 <h1>{{ report.title }}</h1>
   
-    {% if thedate != report.date | date: "%m-%d-%Y" %}
-        <h2>{{ report.date | date: "%A, %B %e, %Y" }}</h2>
-    {% endif %}
+<h2>{{ report.date | date: "%A, %B %e, %Y" }}</h2>
 
-    {% assign thedate = report.date | date: "%m-%d-%Y" %}
+{% assign thedate = report.date | date: "%m-%d-%Y" %}
 
 <h2>Summary</h2>
     <p>{{ report.summary }}</p>

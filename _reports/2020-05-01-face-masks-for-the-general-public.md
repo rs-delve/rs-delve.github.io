@@ -1,20 +1,22 @@
 ---
 title: Face Masks for the General Public
-date: 2020-05-01 00:00:00 Z
-layout: post
-summary: 'Face masks could offer an important tool for contributing to the management
-  of community transmission of Covid19 within the general population. Evidence supporting
-  their potential effectiveness comes from analysis of: (1) the incidence of asymptomatic
-  and pre-symptomatic transmission; (2) the role of respiratory droplets in transmission,
-  which can travel as far as 1-2 meters; and (3) studies of the use of homemade and
-  surgical masks to reduce droplet spread. Our analysis suggests that their use could
-  reduce onward transmission by asymptomatic and pre-symptomatic wearers if widely
-  used in situations where physical distancing is not possible or predictable, contrasting
-  to the standard use of masks for the protection of wearers. If correctly used on
-  this basis, face masks, including homemade cloth masks, can contribute to reducing
-  viral transmission.
-
-'
+date: 2020-05-01 15:29:00 Z
+layout: report
+summary: > 
+  Face masks could offer an important tool for contributing to the
+  management of community transmission of Covid19 within the general
+  population. Evidence supporting their potential effectiveness comes
+  from analysis of: (1) the incidence of asymptomatic and
+  pre-symptomatic transmission; (2) the role of respiratory droplets
+  in transmission, which can travel as far as 1-2 meters; and (3)
+  studies of the use of homemade and surgical masks to reduce droplet
+  spread. Our analysis suggests that their use could reduce onward
+  transmission by asymptomatic and pre-symptomatic wearers if widely
+  used in situations where physical distancing is not possible or
+  predictable, contrasting to the standard use of masks for the
+  protection of wearers. If correctly used on this basis, face masks,
+  including homemade cloth masks, can contribute to reducing viral
+  transmission.
 ---
 
 *An earlier version of this document was communicated to SAGE in April
@@ -174,13 +176,13 @@ asymptomatic at the time of transmission[^26] [^27]. Mechanistically,
 this is related to the high viral load typical of SARS-CoV-2 at the time
 of symptom onset, as well as evidence of viral shedding occurring prior
 to the appearance of symptoms[^28] [^29]. One recent paper estimated
-contributions to the overall reproduction number R0 arising from
-asymptomatic (Ra), presymptomatic (Rp), symptomatic (Rs), and
-environmental transmission (Re), i.e. R0=Ra+Rp+Rs+Re, and found ratios
-of Ra:Rp:Rs:Re = 1:9:8:2[^30]. Note that in this paper, environmental
+contributions to the overall reproduction number $R_0$ arising from
+asymptomatic ($R_a$), presymptomatic ($R_p$), symptomatic ($R_s$), and
+environmental transmission ($R_e$), i.e. $R_0=R_a+R_p+R_s+R_e$, and found ratios
+of $R_a$:$R_p$:$R_s$:$R_e$ = 1:9:8:2[^2]. Note that in this paper, environmental
 transmission is defined as transmission via contamination; in other
 words in a way that would not be attributable to contact with the
-infected source[^30]. This is broadly consistent with estimates of
+infected source[^2]. This is broadly consistent with estimates of
 46%-55% presymptomatic transmission in He *et al*[^32] as well as
 estimates of 48% and 62% in data from Singapore and Tianjin[^33]. We
 note that one report estimated that prior to the implementation of
@@ -209,7 +211,7 @@ restaurant in Guanzhou, China, in which customers were likely to have
 been infected through droplets that travelled through air conditioning
 airflow; they conclude that the patterns of outbreak is consistent with
 droplet transmission, rather than aerosol transmission. Anfinrud *et
-al*[^39] demonstrates that droplets, smaller than those generated
+al*[^15] demonstrates that droplets, smaller than those generated
 through coughing or sneezing, can be generated via speech, providing
 further evidence that droplet transmission may play important roles.
 Public Health England[^40] also suggests that droplets and contacts are
@@ -235,7 +237,7 @@ outbreak in the outdoor setting.
 
 In addition to events such as coughs and sneezes producing respiratory
 emissions, speech has also been found to produce substantial numbers of
-droplets capable of containing respiratory pathogens[^45]. To this
+droplets capable of containing respiratory pathogens[^15]. To this
 effect, several studies have assessed the usefulness of different types
 of masks in mitigating emissions from an individual to the environment.
 Masks made from cloth or household materials have been found to filter
@@ -292,7 +294,7 @@ unexpectedly mild respiratory virus season. One additional study
 examined the rates of viral respiratory tract infection in bone marrow
 transplant patients when all health care workers and visitors to the
 hospital ward wore surgical masks in comparison to infection rates prior
-to the masking period.[^57]
+to the masking period.[^22]
 
 The study by Canini *et al*[^58] was stopped early because of poor
 enrollment; the study had only a 38% chance of detecting a 40%
@@ -320,7 +322,7 @@ distancing is not possible or predictable in public. These studies
 focused on the use of surgical masks, rather than cloth, limiting
 extrapolation.
 
-Sung et al[^60] studied the effect of a change in surgical mask use on a
+Sung *et al*[^22] studied the effect of a change in surgical mask use on a
 bone marrow transplant use over a four-year period. Prior to this
 change, masks were not worn routinely on the unit. Because the patients
 were hospitalized for longer than the incubation period of viral
@@ -422,7 +424,7 @@ relies heavily on aggressive testing, tracing and quarantining of virus
 carriers, with lockdown measures in place - does not include universal
 mask policies[^72].
 
-<img src="/diagrams/masks/image1.png" style="width:6.27083in;height:3.67708in" />
+<img src="/diagrams/masks/image1.png" style="width:100%" />
 
 *Fig. 1: Retrieved from Longrich and Sheppard (2020)*[^73]*.*
 
@@ -626,6 +628,7 @@ existing norms) are not accounted for in the data.
     Speech-Generated Oral Fluid Droplets with Laser Light Scattering.
     New England Journal of Medicine (doi: [10.1056/NEJMc2007800](https://doi.org/10.1056/NEJMc2007800)).
 
+
 [^17]: Davies A *et al.* 2013 Testing the efficacy of homemade masks:
     would they protect in an influenza pandemic?. Disaster Medicine and
     Public Health Preparedness (doi: [10.1017/dmp.2013.43](https://doi.org/10.1017/dmp.2013.43)).
@@ -676,9 +679,6 @@ existing norms) are not accounted for in the data.
 [^29]: Zou L *et al*. 2020. SARS-CoV-2 Viral Load in Upper Respiratory
     Specimens of Infected Patients. NEJM (doi: [10.1056/NEJMc2001737](https://doi.org/10.1056/NEJMc2001737)).
 
-[^30]: Ferretti L *et al.* 2020 Quantifying SARS-CoV-2 transmission
-    suggests epidemic control with digital contact tracing. Science
-    (doi: [10.1126/science.abb6936](https://doi.org/10.1126/science.abb6936)).
 
 [^32]: He X *et al.* 2020 Temporal dynamics in viral shedding and
     transmissibility of COVID-19. Nat Med (doi:
@@ -707,10 +707,6 @@ existing norms) are not accounted for in the data.
     Conditioning in Restaurant, Guangzhou, China. Emerging Infectious
     Diseases (doi: [10.3201/eid2607.200764](https://doi.org/10.3201/eid2607.200764)).
 
-[^39]: Anfinrud P, Stadnytskyi V, Bax CE, Bax A. 2020 Visualizing
-    Speech-Generated Oral Fluid Droplets with Laser Light Scattering.
-    New England Journal of Medicine (doi: [10.1056/NEJMc2007800](https://doi.org/10.1056/NEJMc2007800)).
-
 [^40]: Public Health England. 2020 Transmission characteristics and
     principles of infection prevention and control. See <https://www.gov.uk/government/publications/wuhan-novel-coronavirus-infection-prevention-and-control/transmission-characteristics-and-principles-of-infection-prevention-and-control>
 
@@ -729,9 +725,6 @@ existing norms) are not accounted for in the data.
 [^44]: Qian H *et al.* 2020 Indoor transmission of SARS-CoV-2. MedRxiv
     (doi: [10.1101/2020.04.04.20053058](https://doi.org/10.1101/2020.04.04.20053058)).
 
-[^45]: Anfinrud P, Stadnytskyi V, Bax CE, Bax A. 2020 Visualizing
-    Speech-Generated Oral Fluid Droplets with Laser Light Scattering.
-    New England Journal of Medicine (doi: [10.1056/NEJMc2007800](https://doi.org/10.1056/NEJMc2007800)).
 
 [^46]: Davies A *et al.* 2013 Testing the efficacy of homemade masks:
     would they protect in an influenza pandemic?. Disaster Medicine and
@@ -781,7 +774,6 @@ existing norms) are not accounted for in the data.
     Epidemiol Infect, 138, 449-56.
     <https://www.ncbi.nlm.nih.gov/pubmed/2009266810.1017/S0950268809991658>.
 
-[^57]: See reference 21.
 
 [^58]: Canini L *et al* 2010. Surgical mask to prevent influenza
     transmission in households: A cluster randomized trial. PLoS One
@@ -792,7 +784,6 @@ existing norms) are not accounted for in the data.
     respiratory virus transmission in households. Emerg Infect Dis
     (doi:10.3201/eid1502.081166 19193267).
 
-[^60]: See reference 21.
 
 [^61]: Howard J. 2020. To help stop coronavirus, everyone should be
     wearing face masks. The science is clear. The Guardian. See <https://www.theguardian.com/commentisfree/2020/apr/04/why-wear-a-mask-may-be-our-best-weapon-to-stop-coronavirus>
@@ -832,22 +823,19 @@ existing norms) are not accounted for in the data.
     <https://www.theguardian.com/world/2020/mar/15/experience-of-sars-key-factor-in-response-to-coronavirus>
 
 [^71]: Wong T. 2020 Coronavirus: Why some countries wear face masks and
-    others don't. 31 March. BBC News. See [<span
-    class="underline">https://www.bbc.co.uk/news/world-52015486</span>](https://www.bbc.co.uk/news/world-52015486)
+    others don't. 31 March. BBC News. See <https://www.bbc.co.uk/news/world-52015486>
 
 [^72]: Hollingsworth J. 2020 New Zealand reported a decline in new
     coronavirus cases for the fourth consecutive day. The country is
     still tightening its border restrictions. 9 April. CNN. See
     <https://edition.cnn.com/2020/04/09/asia/new-zealand-lessons-intl-hnk/index.html>
-    <span class="underline"> </span>
 
 [^73]: Longrich N, Sheppard S. 2020 Public use of face masks to control
     the coronavirus (SARS-Cov-2) pandemic: a review of theory and
-    evidence. Preprints. 2020040021.
+    evidence. Preprints. 2020040021 See <https://www.preprints.org/manuscript/202004.0021/v2/download>.
 
 [^74]: Government of Korea. 2020. Flattening the curve on COVID-19: How
-    Korea responded to a pandemic using ICT. See [<span
-    class="underline">http://www.korea.kr/common/download.do?fileId=190536078&tblKey=GMN</span>](http://www.korea.kr/common/download.do?fileId=190536078&tblKey=GMN)
+    Korea responded to a pandemic using ICT. See <http://www.korea.kr/common/download.do?fileId=190536078&tblKey=GMN>
 
 [^75]: Cowling B *et al*. 2020 Impact assessment of non-pharmaceutical
     interventions against coronavirus disease 2019 and influenza in Hong
@@ -856,25 +844,20 @@ existing norms) are not accounted for in the data.
 
 [^76]: Li I, Zuoyan Z. 2020 Q&A with HK microbiologist Yuen Kwok-yung
     who helped confirm coronavirus' human spread. 10 March. The Straits
-    Times. See [<span
-    class="underline">https://www.straitstimes.com/asia/east-asia/exclusive-qa-with-hong-kong-microbiologist-yuen-kwok-yung-who-helped-confirm</span>](https://www.straitstimes.com/asia/east-asia/exclusive-qa-with-hong-kong-microbiologist-yuen-kwok-yung-who-helped-confirm)
+    Times. See <https://www.straitstimes.com/asia/east-asia/exclusive-qa-with-hong-kong-microbiologist-yuen-kwok-yung-who-helped-confirm>
 
 [^77]: CNA. 2020. COVID-19: Why Singapore changed its guidance on masks
-    and made it mandatory. 14 April. Youtube. See [<span
-    class="underline">https://www.youtube.com/watch?v=dWxfZjH2kf8</span>](https://www.youtube.com/watch?v=dWxfZjH2kf8)
+    and made it mandatory. 14 April. Youtube. See <https://www.youtube.com/watch?v=dWxfZjH2kf8>
 
 [^78]: Cohen, J. 2020. Not wearing masks to protect against coronavirus
     is a ‘big mistake,’ top Chinese scientist says. 27 March.
-    ScienceMag. See [<span
-    class="underline">https://www.sciencemag.org/news/2020/03/not-wearing-masks-protect-against-coronavirus-big-mistake-top-chinese-scientist-says</span>](https://www.sciencemag.org/news/2020/03/not-wearing-masks-protect-against-coronavirus-big-mistake-top-chinese-scientist-says)
+    ScienceMag. See <https://www.sciencemag.org/news/2020/03/not-wearing-masks-protect-against-coronavirus-big-mistake-top-chinese-scientist-says>
 
 [^79]: The Local. 2020 Germany recommends face masks in shops and public
-    transport. 15 April. See [<span
-    class="underline">https://www.thelocal.de/20200415/german-government-pushes-to-make-masks-mandatory-in-public-transport-and-retail</span>](https://www.thelocal.de/20200415/german-government-pushes-to-make-masks-mandatory-in-public-transport-and-retail)
+    transport. 15 April. See <https://www.thelocal.de/20200415/german-government-pushes-to-make-masks-mandatory-in-public-transport-and-retail>
 
 [^80]: World Health Organization. 2020 Coronavirus disease (COVID-19)
-    advice for the public: When and how to use masks. See [<span
-    class="underline">https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks</span>](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks)
+    advice for the public: When and how to use masks. See <https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks>
 
 [^81]: For example: He X *et al.* 2020 Temporal dynamics in viral
     shedding and transmissibility of COVID-19. Nat Med (doi:
@@ -882,11 +865,10 @@ existing norms) are not accounted for in the data.
 
 [^82]: Wong V, Cowling B, Aiello A. 2014 Hand hygiene and risk of
     influenza virus infections in the community: A systematic review and
-    meta-analysis. Epidemiol Infect (doi:10.1017/S095026881400003X).
+    meta-analysis. Epidemiol Infect ([doi:10.1017/S095026881400003X](https://doi.org/10.1017/S095026881400003X)).
 
 [^83]: Devlin H, Campbell D. 2020 WHO considers changing guidance on
-    wearing face masks. 1 April. The Guardian. See [<span
-    class="underline">https://www.theguardian.com/world/2020/apr/01/all-uk-hospital-staff-and-patients-should-wear-masks-says-doctors-group\#maincontent</span>](https://www.theguardian.com/world/2020/apr/01/all-uk-hospital-staff-and-patients-should-wear-masks-says-doctors-group#maincontent)
+    wearing face masks. 1 April. The Guardian. See <https://www.theguardian.com/world/2020/apr/01/all-uk-hospital-staff-and-patients-should-wear-masks-says-doctors-group#maincontent>
 
 [^84]: Greenhalgh T and Howard J. 2020 Masks for all? The science says
     yes. See <https://www.fast.ai/2020/04/13/masks-summary/>
