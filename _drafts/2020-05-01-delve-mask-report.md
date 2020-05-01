@@ -2,19 +2,21 @@
 title: Face Masks for the General Public
 date: 2020-05-01 00:00:00 Z
 layout: post
-summary: 'Face masks could offer an important tool for contributing to the management
-  of community transmission of Covid19 within the general population. Evidence supporting
-  their potential effectiveness comes from analysis of: (1) the incidence of asymptomatic
-  and pre-symptomatic transmission; (2) the role of respiratory droplets in transmission,
-  which can travel as far as 1-2 meters; and (3) studies of the use of homemade and
-  surgical masks to reduce droplet spread. Our analysis suggests that their use could
-  reduce onward transmission by asymptomatic and pre-symptomatic wearers if widely
-  used in situations where physical distancing is not possible or predictable, contrasting
-  to the standard use of masks for the protection of wearers. If correctly used on
-  this basis, face masks, including homemade cloth masks, can contribute to reducing
-  viral transmission.
-
-'
+summary: > 
+  Face masks could offer an important tool for contributing to the
+  management of community transmission of Covid19 within the general
+  population. Evidence supporting their potential effectiveness comes
+  from analysis of: (1) the incidence of asymptomatic and
+  pre-symptomatic transmission; (2) the role of respiratory droplets
+  in transmission, which can travel as far as 1-2 meters; and (3)
+  studies of the use of homemade and surgical masks to reduce droplet
+  spread. Our analysis suggests that their use could reduce onward
+  transmission by asymptomatic and pre-symptomatic wearers if widely
+  used in situations where physical distancing is not possible or
+  predictable, contrasting to the standard use of masks for the
+  protection of wearers. If correctly used on this basis, face masks,
+  including homemade cloth masks, can contribute to reducing viral
+  transmission.
 ---
 
 *An earlier version of this document was communicated to SAGE in April
@@ -714,24 +716,22 @@ existing norms) are not accounted for in the data.
 
 [^36]: van Doremalen N *et al*. 2020 Aerosol and Surface Stability of
     HCoV-19 (SARS-CoV-2) Compared to SARS-CoV-1. MedRxiv (doi:
-    10.1056/NEJMc2004973).
+    [10.1056/NEJMc2004973](https://doi.org/10.1056/NEJMc2004973)).
 
 [^37]: Los Angeles Times. 2020 A choir decided to go ahead with
     rehearsal. Now dozens of members have COVID-19 and two are dead. See
-    <https://www.latimes.com/world-nation/story/2020-03-29/coronavirus-choir-outbreak><span
-    class="underline">.</span>
+    <https://www.latimes.com/world-nation/story/2020-03-29/coronavirus-choir-outbreak>.
 
 [^38]: Lu P *et al.* 2020. COVID-19 Outbreak Associated with Air
     Conditioning in Restaurant, Guangzhou, China. Emerging Infectious
-    Diseases (doi: 10.3201/eid2607.200764).
+    Diseases (doi: [10.3201/eid2607.200764](https://doi.org/10.3201/eid2607.200764)).
 
 [^39]: Anfinrud P, Stadnytskyi V, Bax CE, Bax A. 2020 Visualizing
     Speech-Generated Oral Fluid Droplets with Laser Light Scattering.
-    New England Journal of Medicine (doi: 10.1056/NEJMc2007800).
+    New England Journal of Medicine (doi: [10.1056/NEJMc2007800](https://doi.org/10.1056/NEJMc2007800)).
 
 [^40]: Public Health England. 2020 Transmission characteristics and
-    principles of infection prevention and control. See [<span
-    class="underline">https://www.gov.uk/government/publications/wuhan-novel-coronavirus-infection-prevention-and-control/transmission-characteristics-and-principles-of-infection-prevention-and-control</span>](https://www.gov.uk/government/publications/wuhan-novel-coronavirus-infection-prevention-and-control/transmission-characteristics-and-principles-of-infection-prevention-and-control)
+    principles of infection prevention and control. See <https://www.gov.uk/government/publications/wuhan-novel-coronavirus-infection-prevention-and-control/transmission-characteristics-and-principles-of-infection-prevention-and-control>
 
 [^41]: Wei WE *et al*. 2020 Presymptomatic Transmission of SARS-CoV-2 —
     Singapore, January 23–March 16, 2020. MMWR Morbidity and Mortality
@@ -746,26 +746,23 @@ existing norms) are not accounted for in the data.
     Diseases (doi: 10.3201/eid2607.200764).
 
 [^44]: Qian H *et al.* 2020 Indoor transmission of SARS-CoV-2. MedRxiv
-    (doi:10.1101/2020.04.04.20053058).
+    (doi: [10.1101/2020.04.04.20053058](https://doi.org/10.1101/2020.04.04.20053058)).
 
 [^45]: Anfinrud P, Stadnytskyi V, Bax CE, Bax A. 2020 Visualizing
     Speech-Generated Oral Fluid Droplets with Laser Light Scattering.
-    New England Journal of Medicine (doi: 10.1056/NEJMc2007800).
+    New England Journal of Medicine (doi: [10.1056/NEJMc2007800](https://doi.org/10.1056/NEJMc2007800)).
 
 [^46]: Davies A *et al.* 2013 Testing the efficacy of homemade masks:
     would they protect in an influenza pandemic?. Disaster Medicine and
-    Public Health Preparedness (doi:
-    [10.1017/dmp.2013.43](https://doi.org/10.1017/dmp.2013.43)).
+    Public Health Preparedness (doi: [10.1017/dmp.2013.43](https://doi.org/10.1017/dmp.2013.43)).
 
 [^47]: van der Sande M, Teunis P, Sabel, R. 2008 Professional and
     home-made face masks reduce exposure to respiratory infections among
-    the general population. PLoS One (doi:
-    [10.1371/journal.pone.0002618](https://dx.doi.org/10.1371%2Fjournal.pone.0002618)).
+    the general population. PLoS One (doi: [10.1371/journal.pone.0002618](https://dx.doi.org/10.1371%2Fjournal.pone.0002618)).
 
 [^48]: Milton DK *et al*. 2013 Influenza Virus Aerosols in Human Exhaled
     Breath: Particle Size, Culturability, and Effect of Surgical Masks.
-    Plos Pathogens (doi:
-    [10.1371/journal.ppat.1003205](https://doi.org/10.1371/journal.ppat.1003205)).
+    Plos Pathogens (doi: [10.1371/journal.ppat.1003205](https://doi.org/10.1371/journal.ppat.1003205)).
 
 [^49]: Leung NHL *et al*. 2020 Respiratory virus shedding in exhaled
     breath and efficacy of face masks. Nature Medicine (doi:
@@ -787,16 +784,16 @@ existing norms) are not accounted for in the data.
 
 [^53]: Kumar *et al.* 2020 N95 Mask Decontamination using Standard
     Hospital Sterilization Technologies. MedRxiv
-    (doi:10.1101/2020.04.05.20049346).
+    (doi: [10.1101/2020.04.05.20049346](https://doi.org/10.1101/2020.04.05.20049346)).
 
 [^54]: Brainard JS *et al*. 2020 Facemasks and similar barriers to
     prevent respiratory illness such as COVID-19: A rapid systematic
-    review. MedRxiv (doi: 10.1101/2020.04.01.20049528).
+    review. MedRxiv (doi: [10.1101/2020.04.01.20049528](https://doi.org/10.1101/2020.04.01.20049528)).
 
 [^55]: Xiao J, Shiu EYC, Gao H, et al. 2020. Nonpharmaceutical Measures
     for Pandemic Influenza in Nonhealthcare Settings-Personal Protective
     and Environmental Measures. Emerg Infect Dis, 26,
-    967-75.https://www.ncbi.nlm.nih.gov/pubmed/3202758610.3201/eid2605.190994.
+    967-75. <https://www.ncbi.nlm.nih.gov/pubmed/3202758610.3201/eid2605.190994.>
 
 [^56]: Cowling BJ, Zhou Y, Ip DK, Leung GM, Aiello AE. 2010. Face masks
     to prevent transmission of influenza virus: a systematic review.
@@ -817,16 +814,13 @@ existing norms) are not accounted for in the data.
 [^60]: See reference 21.
 
 [^61]: Howard J. 2020. To help stop coronavirus, everyone should be
-    wearing face masks. The science is clear. The Guardian. See [<span
-    class="underline">https://www.theguardian.com/commentisfree/2020/apr/04/why-wear-a-mask-may-be-our-best-weapon-to-stop-coronavirus</span>](https://www.theguardian.com/commentisfree/2020/apr/04/why-wear-a-mask-may-be-our-best-weapon-to-stop-coronavirus)
+    wearing face masks. The science is clear. The Guardian. See <https://www.theguardian.com/commentisfree/2020/apr/04/why-wear-a-mask-may-be-our-best-weapon-to-stop-coronavirus>
 
 [^62]: Ipsos MORI. 2020 More people say they’re wearing masks to protect
-    themselves from COVID-19 since March. See [<span
-    class="underline">https://www.ipsos.com/en/more-people-say-theyre-wearing-masks-protect-themselves-covid-19-march</span>](https://www.ipsos.com/en/more-people-say-theyre-wearing-masks-protect-themselves-covid-19-march)
+    themselves from COVID-19 since March. See <https://www.ipsos.com/en/more-people-say-theyre-wearing-masks-protect-themselves-covid-19-march>
 
 [^63]: The Telegraph. 2020 Support for wearing face masks in public
-    outweighs opposition, 18 April. See [<span
-    class="underline">https://www.telegraph.co.uk/news/2020/04/18/public-support-wearing-face-masks-public-outweighs-opposition/</span>](https://www.telegraph.co.uk/news/2020/04/18/public-support-wearing-face-masks-public-outweighs-opposition/)
+    outweighs opposition, 18 April. See <https://www.telegraph.co.uk/news/2020/04/18/public-support-wearing-face-masks-public-outweighs-opposition/>
 
 [^64]: Farrow K, Grolleau G, Ibanez L. 2017. Social norms and
     pro-environmental behavior: A review of the evidence. Ecological
