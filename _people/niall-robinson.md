@@ -1,11 +1,12 @@
 ---
+title: Niall Robinson
 layout: person
 given: Niall
 family: Robinson
 url: https://www.metoffice.gov.uk/research/people/niall-robinson
-email:  niall.robinson@informaticslab.co.uk
-twitter:
-actionteam: True
+email: niall.robinson@informaticslab.co.uk
+twitter: 
+actionteam: true
 github: niallrobinson
 ---
 

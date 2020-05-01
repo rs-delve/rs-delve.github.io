@@ -1,8 +1,9 @@
 ---
+title: Demis Hassabis
 layout: person
 given: Demis
 family: Hassibis
-steeringcommittee: True
+steeringcommittee: true
 ---
 
 Demis is Co-founder and CEO of DeepMind

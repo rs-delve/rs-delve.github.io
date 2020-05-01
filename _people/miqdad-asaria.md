@@ -1,4 +1,5 @@
 ---
+title: Miqdad Asaria
 layout: person
 given: Miqdad
 family: Asaria
