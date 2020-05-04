@@ -1,5 +1,6 @@
 ---
 title: Nenad Tomasev
+layout: person
 given: Nenad
 family: Temasev
 webpage: https://www.linkedin.com/in/nenadtomasev/?originalSubdomain=uk

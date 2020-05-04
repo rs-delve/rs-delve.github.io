@@ -1,4 +1,5 @@
 ---
+layout: person
 title: Anne Johnson
 given: Anne
 family: Johnson
