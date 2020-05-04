@@ -5,7 +5,7 @@ given: Marcel
 family: Behr
 email: 
 url: https://www.mcgill.ca/molepi/about-dr-behr
-twitter: https://twitter.com/mbehr_mcgill
+twitter: mbehr_mcgill
 actionteam: true
 github: 
 ---
