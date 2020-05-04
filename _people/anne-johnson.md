@@ -1,6 +1,6 @@
 ---
-layout: person
 title: Anne Johnson
+layout: person
 given: Anne
 family: Johnson
 steeringcommittee: true

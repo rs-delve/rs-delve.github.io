@@ -1,22 +1,20 @@
 ---
 title: Face Masks for the General Public
-date: 2020-05-04
+date: 2020-05-04 00:00:00 Z
 layout: report
-abstract: >
-  Face masks could offer an important tool for contributing to the
-  management of community transmission of Covid19 within the general
-  population. Evidence supporting their potential effectiveness comes
-  from analysis of: (1) the incidence of asymptomatic and
-  pre-symptomatic transmission; (2) the role of respiratory droplets
-  in transmission, which can travel as far as 1-2 meters; and (3)
-  studies of the use of homemade and surgical masks to reduce droplet
-  spread. Our analysis suggests that their use could reduce onward
-  transmission by asymptomatic and pre-symptomatic wearers if widely
-  used in situations where physical distancing is not possible or
-  predictable, contrasting to the standard use of masks for the
-  protection of wearers. If correctly used on this basis, face masks,
-  including homemade cloth masks, can contribute to reducing viral
-  transmission.
+abstract: 'Face masks could offer an important tool for contributing to the management
+  of community transmission of Covid19 within the general population. Evidence supporting
+  their potential effectiveness comes from analysis of: (1) the incidence of asymptomatic
+  and pre-symptomatic transmission; (2) the role of respiratory droplets in transmission,
+  which can travel as far as 1-2 meters; and (3) studies of the use of homemade and
+  surgical masks to reduce droplet spread. Our analysis suggests that their use could
+  reduce onward transmission by asymptomatic and pre-symptomatic wearers if widely
+  used in situations where physical distancing is not possible or predictable, contrasting
+  to the standard use of masks for the protection of wearers. If correctly used on
+  this basis, face masks, including homemade cloth masks, can contribute to reducing
+  viral transmission.
+
+'
 ---
 
 *An earlier version of this document was communicated to SAGE in April
