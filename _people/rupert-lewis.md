@@ -1,5 +1,6 @@
 ---
 title:
+layout: person
 given: Rupert
 family: Lewis
 workinggroup: True

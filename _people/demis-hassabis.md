@@ -2,7 +2,7 @@
 title: Demis Hassabis
 layout: person
 given: Demis
-family: Hassibis
+family: Hassabis
 steeringcommittee: true
 ---
 
