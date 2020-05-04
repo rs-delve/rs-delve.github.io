@@ -1,5 +1,6 @@
 ---
 title: Vasco Carvalho
+layout: person
 given: Vasco
 family: Carvalho
 email: 
