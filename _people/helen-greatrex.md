@@ -2,7 +2,7 @@
 title: Helen Greatrex
 layout: person
 given: Helen
-family: Greatex
+family: Greatrex
 email: 
 url: https://www.helengreatrex.com/
 twitter: 
