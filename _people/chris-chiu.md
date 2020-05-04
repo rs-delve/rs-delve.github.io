@@ -10,3 +10,4 @@ actionteam: true
 github: 
 ---
 
+Chris Chiu is a Clinical Senior Lecturer and Honorary Consultant in the Department of Infectious Diseases at Imperial College London.
