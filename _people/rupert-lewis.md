@@ -1,10 +1,10 @@
 ---
-title:
+title: Rupert Lewis
 layout: person
 given: Rupert
 family: Lewis
-workinggroup: True
-secretariat: True
+workinggroup: true
+secretariat: true
 ---
 
 Rupert is Chief Science Policy Officer at the Royal Society.
