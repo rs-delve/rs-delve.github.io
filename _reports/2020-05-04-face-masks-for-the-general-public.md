@@ -765,13 +765,11 @@ their testing criteria like Austria did in that period.
 
 [^58]: Canini L *et al* 2010. Surgical mask to prevent influenza
     transmission in households: A cluster randomized trial. PLoS One
-    (doi:
-    [10.1371/journal.pone.0013998](https://doi.org/10.1371/journal.pone.0013998)).
+    (doi:[10.1371/journal.pone.0013998](https://doi.org/10.1371/journal.pone.0013998)).
 
 [^59]: MacIntyre CR *et al*. 2009 Face mask use and control of
     respiratory virus transmission in households. Emerg Infect Dis
-    (doi:10.3201/eid1502.081166 19193267).
-
+    (doi:[10.3201/eid1502.081166](https://doi.org/10.3201/eid1502.081166)).
 
 [^61]: Howard J. 2020. To help stop coronavirus, everyone should be
     wearing face masks. The science is clear. The Guardian. See <https://www.theguardian.com/commentisfree/2020/apr/04/why-wear-a-mask-may-be-our-best-weapon-to-stop-coronavirus>
