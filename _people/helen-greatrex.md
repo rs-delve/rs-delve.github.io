@@ -1,5 +1,5 @@
 ---
-title: Helen Greatex
+title: Helen Greatrex
 layout: person
 given: Helen
 family: Greatex
@@ -10,3 +10,4 @@ actionteam: true
 github: 
 ---
 
+Helen is an assistant professor in Remote Sensing and Geo-statistics at The Pennsylvania State University.
