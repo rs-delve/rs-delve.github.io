@@ -6,7 +6,6 @@ layout: default
 {% assign thedate = '' %}
 
 {% for report in site.reports %}
-{% if report.publish %}
 
 <h1>{{ report.title }}</h1>
   
@@ -19,5 +18,4 @@ layout: default
 	
     <p><a href="{{ report.url }}">Continued ...</a></p>
 
-{% endif %}
 {% endfor %}

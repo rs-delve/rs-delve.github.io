@@ -2,7 +2,7 @@
 title: Face Masks for the General Public
 date: 2020-05-04 00:00:00 Z
 layout: report
-publish: true
+published: true
 abstract: 'Face masks could offer an important tool for contributing to the management
   of community transmission of Covid19 within the general population. Evidence supporting
   their potential effectiveness comes from analysis of: (1) the incidence of asymptomatic
