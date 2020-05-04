@@ -4,7 +4,7 @@ layout: person
 given: Stephen
 family: Hansen
 email: stephen.hansen@imperial.ac.uk
-url: https://sekhansen.github.io/
+webpage: https://sekhansen.github.io/
 twitter: 
 actionteam: true
 github: sekhansen

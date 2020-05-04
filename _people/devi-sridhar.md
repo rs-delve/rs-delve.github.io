@@ -3,7 +3,7 @@ title: Devi Sridhar
 layout: person
 given: Devi
 family: Sridhar
-url: https://www.ed.ac.uk/profile/devi-sridhar
+webpage: https://www.ed.ac.uk/profile/devi-sridhar
 email: Devi.Sridhar@ed.ac.uk
 twitter: devisridhar
 workinggroup: Chair

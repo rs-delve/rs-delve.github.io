@@ -4,7 +4,7 @@ layout: person
 given: Axel
 family: Gandy
 email: a.gandy@imperial.ac.uk
-url: https://wwwf.imperial.ac.uk/~agandy/
+webpage: https://wwwf.imperial.ac.uk/~agandy/
 twitter: axel_gandy
 github: 
 actionteam: true

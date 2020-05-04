@@ -4,7 +4,7 @@ layout: person
 given: Yee Whye
 family: Teh
 email: y.w.teh@stats.ox.ac.uk
-url: https://www.stats.ox.ac.uk/~teh/
+webpage: https://www.stats.ox.ac.uk/~teh/
 twitter: 
 github: ywteh
 actionteam: true

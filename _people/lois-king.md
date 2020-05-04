@@ -3,7 +3,7 @@ title: Lois King
 layout: person
 given: Lois
 family: King
-url: https://www.ed.ac.uk/profile/lois-king
+webpage: https://www.ed.ac.uk/profile/lois-king
 twitter: LoisEmilyKing
 github: 
 actionteam: true

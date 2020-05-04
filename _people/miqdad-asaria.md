@@ -4,7 +4,7 @@ layout: person
 given: Miqdad
 family: Asaria
 email: M.Asaria@lse.ac.uk
-url: http://www.lse.ac.uk/lse-health/people/miqdad-asaria
+webpage: http://www.lse.ac.uk/lse-health/people/miqdad-asaria
 twitter: miqedup
 github: miqdadasaria
 actionteam: true

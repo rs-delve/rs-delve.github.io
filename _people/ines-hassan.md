@@ -3,7 +3,7 @@ title: Ines Hassan
 layout: person
 given: Inès
 family: Hassan
-url: 
+webpage: 
 github: 
 actionteam: true
 twitter: drineshassan1

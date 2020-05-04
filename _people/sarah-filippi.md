@@ -4,7 +4,7 @@ layout: person
 given: Sarah
 family: Filippi
 email: s.filippi@imperial.ac.uk
-url: https://www.imperial.ac.uk/people/s.filippi
+webpage: https://www.imperial.ac.uk/people/s.filippi
 twitter: SarahLFilippi
 github: sarahfilippi
 actionteam: true

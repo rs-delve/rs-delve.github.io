@@ -4,7 +4,7 @@ layout: person
 given: Helen
 family: Greatrex
 email: 
-url: https://www.helengreatrex.com/
+webpage: https://www.helengreatrex.com/
 twitter: 
 actionteam: true
 github: 

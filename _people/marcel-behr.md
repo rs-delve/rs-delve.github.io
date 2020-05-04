@@ -4,7 +4,7 @@ layout: person
 given: Marcel
 family: Behr
 email: 
-url: https://www.mcgill.ca/molepi/about-dr-behr
+webpage: https://www.mcgill.ca/molepi/about-dr-behr
 twitter: mbehr_mcgill
 actionteam: true
 github: 

@@ -3,7 +3,7 @@ title: Sang Woo Park
 layout: person
 given: Sang Woo (Daniel)
 family: Park
-url: https://scholar.google.ca/citations?user=ZSCrs78AAAAJ&hl=en
+webpage: https://scholar.google.ca/citations?user=ZSCrs78AAAAJ&hl=en
 email: swp2@princeton.edu
 twitter: sang_woo_park
 github: parksw3

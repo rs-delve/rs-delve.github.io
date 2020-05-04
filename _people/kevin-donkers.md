@@ -3,7 +3,7 @@ title: Kevin Donkers
 layout: person
 given: Kevin
 family: Donkers
-url: https://www.linkedin.com/in/kaedonkers/
+webpage: https://www.linkedin.com/in/kaedonkers/
 github: 
 actionteam: true
 twitter: kevin_donkers

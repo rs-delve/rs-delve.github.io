@@ -4,7 +4,7 @@ layout: person
 given: Chris
 family: Chiu
 email: 
-url: https://www.imperial.ac.uk/people/c.chiu
+webpage: https://www.imperial.ac.uk/people/c.chiu
 twitter: 
 actionteam: true
 github: 
