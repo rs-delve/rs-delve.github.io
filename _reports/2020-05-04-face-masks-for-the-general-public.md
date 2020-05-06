@@ -845,7 +845,7 @@ their testing criteria like Austria did in that period.
 [^80]: World Health Organization. 2020 Coronavirus disease (COVID-19)
     advice for the public: When and how to use masks. See <https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/when-and-how-to-use-masks>
 
-[^81]: For example: He X *et al.* 2020 Temporal dynamics in viral
+[^81]: He X *et al.* 2020 Temporal dynamics in viral
     shedding and transmissibility of COVID-19. Nat Med (doi:
     [10.1038/s41591-020-0869-5](https://doi.org/10.1038/s41591-020-0869-5)).
 
