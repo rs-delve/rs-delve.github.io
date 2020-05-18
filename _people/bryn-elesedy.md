@@ -9,4 +9,4 @@ github: brynhayder
 actionteam: true
 ---
 
-Bryn is a PhD student in Statistics at the University of Oxford.
+Bryn is a PhD student in Computer Science at the University of Oxford.
