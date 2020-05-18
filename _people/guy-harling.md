@@ -4,7 +4,7 @@ layout: person
 given: Guy
 family: Harling
 webpage: http://www.guyharling.com/
-email: g.harling@ucl.ac.uk 
+email: g.harling@ucl.ac.uk
 twitter: harlingg
 github: 
 actionteam: true
