@@ -3,7 +3,7 @@ title: Michael Hutchinson
 layout: person
 given: Michael
 family: Hutchinson
-webpage: http://mjhutchinson.io/
+webpage: http://mjhutchinson.github.io/
 twitter: 
 github: MJHutchinson
 actionteam: true
