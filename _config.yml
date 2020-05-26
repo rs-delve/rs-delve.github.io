@@ -2,7 +2,7 @@
 title: Royal Society DELVE Initiative
 timezone: UTC
 collections:
-  addendums:
+  addenda:
     title: Addenda
     output: true
     permalink: "/addenda/:year/:month/:day/:title:output_ext"

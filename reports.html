@@ -5,7 +5,8 @@ layout: default
 
 {% assign thedate = '' %}
 
-{% for report in site.reports %}
+{% assign reports = site.reports | sort: 'date' | reverse %}
+{% for report in reports  %}
 
 <h1>{{ report.title }}</h1>
   
@@ -14,7 +15,7 @@ layout: default
 {% assign thedate = report.date | date: "%m-%d-%Y" %}
 
 <h2>Summary</h2>
-    <p>{{ report.abstract }}</p>
+    {{ report.abstract | markdownify }}
 	
     <p><a href="{{ report.url }}">Continued ...</a></p>
 
