@@ -51,7 +51,7 @@ abstract: >
     particular, local integration of systems is likely to maximize
     ability to conduct the agile, locally differentiated outbreak
     management that may be needed as the epidemic evolves.
-published: False
+published: True
 ---
 
 *This work was carried out rapidly in May 2020 so that an early
