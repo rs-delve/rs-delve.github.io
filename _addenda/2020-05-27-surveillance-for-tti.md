@@ -37,7 +37,7 @@ abstract: >
   exploited to increase the efficiency of the TTI process.
 ref: TD2
 report: TTI
-published: False
+published: True
 ---
 
 *What sort of epidemic surveillance is needed, and how it can aid TTI

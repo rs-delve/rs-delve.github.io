@@ -38,5 +38,5 @@ report: TTI
 ref: TD3
 pdfonly: True
 pdf: /pdfs/2020-05-27-effectiveness-and-resource-requirements-of-tti-strategies.pdf 
-published: False
+published: True
 ---
