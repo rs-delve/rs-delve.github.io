@@ -1,7 +1,6 @@
 ---
-title: "TTI-TD1: The Potential Role of Firms in Test, Trace, Isolate"
+title: 'TTI-TD1: The Potential Role of Firms in Test, Trace, Isolate'
 date: 2020-05-27 00:00:00 Z
-published: false
 layout: addendum
 authors:
 - given: Tim
@@ -11,7 +10,6 @@ authors:
 ref: TD1
 report: TTI
 abstract: 
-published: true
 ---
 
 An effective system of TTI has to align with the incentives of firms,
