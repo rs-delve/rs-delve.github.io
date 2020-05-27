@@ -1,0 +1,22 @@
+---
+title: Addenda
+layout: default
+---
+
+{% assign thedate = '' %}
+
+{% assign addenda = site.addenda | sort: 'date' | reverse %}
+{% for addendum in addenda  %}
+
+<h3>{%if addendum.pdfonly %}<a href="{{ addendum.pdf }}">{% else %}<a href="{{ addendum.url }}">{%endif%}{{ addendum.title }}</a></h3>
+  
+<h4>{{ addendum.date | date: "%A, %B %e, %Y" }}</h4>
+
+{% assign thedate = addendum.date | date: "%m-%d-%Y" %}
+
+{% if addendum.authors %}
+{% assign authors=addendum.authors %}
+<p><i>Prepared for the DELVE Initiative by {% include listauthors.html %}</i></p>{% endif %}
+
+    
+{% endfor %}
