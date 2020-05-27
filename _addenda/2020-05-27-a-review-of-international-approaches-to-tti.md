@@ -1,7 +1,8 @@
 ---
-title: "TTI-TD4: A Review of International Approaches to Test, Trace, Isolate"
+title: 'TTI-TD4: A Review of International Approaches to Test, Trace, Isolate'
+date: 2020-05-27 00:00:00 Z
+published: false
 layout: addendum
-date: 2020-05-27
 authors:
 - given: Genevie
   family: Fernandes
@@ -22,7 +23,6 @@ authors:
 ref: TD4
 report: TTI
 abstract: 
-published: False
 ---
 
 TTI strategies have been developed by countries across the world,

@@ -1,9 +1,10 @@
 ---
-title: "TTI-TD2: Surveillance for Test, Trace, Isolate"
+title: 'TTI-TD2: Surveillance for Test, Trace, Isolate'
+date: 2020-05-27 00:00:00 Z
+published: false
 layout: addendum
-date: 2020-05-27
 authors:
-- given: Sylvia 
+- given: Sylvia
   family: Richardson
   institute: 
   url: 
@@ -11,33 +12,28 @@ authors:
   family: Diggle
   institute: 
   url: 
-abstract: >
-  Any TTI strategy that can only involve a fraction of the at-risk
-  population must begin with a surveillance study to establish how
-  incidence, and therefore potential disease transmission, varies
-  between sub-populations and between individuals within
-  sub-populations. This section describes how a surveillance study
-  might be designed and analysed, taking account of patterns of
-  heterogeneity of exposure and risk across the population, and
-  potentially drawing information from multiple
-  data-sources. Implementation of a surveillance system of this kind
-  would require: 1) the design and regular (potentially weekly)
-  implementation of a country-wide stratified quasi-random sampling
-  scheme of antigenic diagnostic tests, to act as a “gold-standard”;
-  2) diagnostic testing of sampled individuals; 3) real-time analysis
-  of the resulting data to produce stratum-specific predictive
-  probability maps of incidence that can inform selection of
-  individuals for TTI follow-up and adaptation of future sampling so
-  as to maximise overall utility.  Coordination with multiple sources
-  of non-randomised self-reported symptom data on probable/possible
-  case incidence would also be desirable, as this would enable
-  gold-standard and self-reported sources of data to be analysed
-  together to make best possible use of all relevant data-sources,
-  thus creating an agile real-time surveillance system that can be
-  exploited to increase the efficiency of the TTI process.
+abstract: 'Any TTI strategy that can only involve a fraction of the at-risk population
+  must begin with a surveillance study to establish how incidence, and therefore potential
+  disease transmission, varies between sub-populations and between individuals within
+  sub-populations. This section describes how a surveillance study might be designed
+  and analysed, taking account of patterns of heterogeneity of exposure and risk across
+  the population, and potentially drawing information from multiple data-sources.
+  Implementation of a surveillance system of this kind would require: 1) the design
+  and regular (potentially weekly) implementation of a country-wide stratified quasi-random
+  sampling scheme of antigenic diagnostic tests, to act as a “gold-standard”; 2) diagnostic
+  testing of sampled individuals; 3) real-time analysis of the resulting data to produce
+  stratum-specific predictive probability maps of incidence that can inform selection
+  of individuals for TTI follow-up and adaptation of future sampling so as to maximise
+  overall utility.  Coordination with multiple sources of non-randomised self-reported
+  symptom data on probable/possible case incidence would also be desirable, as this
+  would enable gold-standard and self-reported sources of data to be analysed together
+  to make best possible use of all relevant data-sources, thus creating an agile real-time
+  surveillance system that can be exploited to increase the efficiency of the TTI
+  process.
+
+'
 ref: TD2
 report: TTI
-published: False
 ---
 
 *What sort of epidemic surveillance is needed, and how it can aid TTI
