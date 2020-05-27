@@ -1,5 +1,5 @@
 ---
-title: "TTI-TD2: Surveillance for Test, Trace, Isolate"
+title: 'TTI-TD2: Surveillance for Test, Trace, Isolate'
 date: 2020-05-27 00:00:00 Z
 layout: addendum
 authors:
@@ -11,7 +11,7 @@ authors:
   family: Diggle
   institute: 
   url: 
-abstract: "Any TTI strategy that can only involve a fraction of the at-risk population
+abstract: 'Any TTI strategy that can only involve a fraction of the at-risk population
   must begin with a surveillance study to establish how incidence, and therefore potential
   disease transmission, varies between sub-populations and between individuals within
   sub-populations. This section describes how a surveillance study might be designed
@@ -28,7 +28,7 @@ abstract: "Any TTI strategy that can only involve a fraction of the at-risk popu
   would enable gold-standard and self-reported sources of data to be analysed together
   to make best possible use of all relevant data-sources, thus creating an agile real-time
   surveillance system that can be exploited to increase the efficiency of the TTI
-  process."
+  process.'
 ref: TD2
 report: TTI
 ---
