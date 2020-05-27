@@ -20,6 +20,27 @@ scientific evidence becomes available.*
 
 {{ page.abstract | markdownify }}
 
+### Table of Contents
+
+* [Key points](#key-points)
+* [Test Trace Isolate](test-trace-isolate)
+  * [1. The role of TTI in COVID-19 response](#1-the-role-of-tti-in-covid-19-response)
+  * [2. Factors that influence optimal performance of a TTI system](#2-factors-that-influence-optimal-performance-of-a-tti-system)
+  * [3. Increasing speed of testing and tracing](#3-increasing-speed-of-testing-and-tracing)
+  * [4. Maximizing population participation and compliance with TTI guidance](#4-maximizing-population-participation-and-compliance-with-tti-guidance)
+    * [Avoid Perception of Negative Consequences from Engaging in TTI](#avoid-perception-of-negative-consequences-from-engaging-in-tti)
+    * [Incentivize Participation in TTI](#incentivize-participation-in-tti)
+  * [5. Increasing epidemic coverage of TTI](#5-increasing-epidemic-coverage-of-tti)
+  * [6. Managing TTI capacity constraints](#6-managing-tti-capacity-constraints)
+    * [Which contacts should be traced?](#which-contacts-should-be-traced)
+    * [Which contacts should be asked to isolate, and when?](#which-contacts-should-be-asked-to-isolate-and-when)
+  * [7. Effective TTI within a broader epidemic response](#7-effective-tti-within-a-broader-epidemic-response)
+  * [8. Next steps](#8-next-steps)
+  * [Technical Appendices](#technical-appendices){% assign addenda = site.addenda | sort: 'date' | reverse %}{% for addendum in addenda  %}{% if addendum.report == 'TTI' %}
+    * [{{ addendum.title }}]({%if addendum.pdfonly %}{{ addendum.pdf }}{% else %}{{ addendum.url }}{%endif%}){% endif %}{% endfor %}
+  * [Footnotes and References](#footnotes-and-references)
+
+
 
 ## Key points 
 
@@ -946,7 +967,7 @@ work could be extended. These could include:
 Many of these points highlight the need to include ongoing evaluation of
 the TTI system as it is rolled out and the epidemic evolves.
 
-# Technical Appendices
+## Technical Appendices
 
 The following are materials prepared by individual members of DELVE as
 inputs into this report.
