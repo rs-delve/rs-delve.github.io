@@ -401,7 +401,7 @@ be beneficial to increase the agility of the surveillance system.
 
 An example of a surveillance
 system combining designed and routinely collected data to reconstruct
-the underlying space-time incidence data can be found in [the attached technical appendix](/pdfs/2020-05-27-underlying-space-time-incidence-of-a-disease.pdf).
+the underlying space-time incidence data can be found in [this docment](/pdfs/2020-05-27-underlying-space-time-incidence-of-a-disease.pdf).
 
 [^1]: The sensitivity of a test is the proportion of true positives, the
     specificity is the proportion of true negatives. For RT-PCR based
