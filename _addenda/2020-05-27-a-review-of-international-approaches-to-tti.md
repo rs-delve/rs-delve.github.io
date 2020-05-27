@@ -1,5 +1,6 @@
 ---
-title: "TTI-TD4: A Review of International Approaches to Test, Trace, Isolate"	date: 2020-05-27 
+title: "TTI-TD4: A Review of International Approaches to Test, Trace, Isolate"	
+date: 2020-05-27 
 published: true	
 layout: addendum	
 authors:	
