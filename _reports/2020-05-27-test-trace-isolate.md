@@ -38,6 +38,7 @@ scientific evidence becomes available.*
   8. [Next steps](#8-next-steps)
 * [Technical Appendices](#technical-appendices){% assign addenda = site.addenda | sort: 'date' | reverse %}{% for addendum in addenda  %}{% if addendum.report == 'TTI' %}
   * [{{ addendum.title }}]({%if addendum.pdfonly %}{{ addendum.pdf }}{% else %}{{ addendum.url }}{%endif%}){% endif %}{% endfor %}
+  * [Simulation Software](https://github.com/rs-delve/tti-explorer/)
 * [Footnotes and References](#footnotes-and-references)
 
 
@@ -986,6 +987,9 @@ inputs into this report.
 {% endfor %}
 </ul>
 
+### Simulation Software
+
+* [Github Repository for the TTI Explorer Simulation Software used for TTI-TD3](https://github.com/rs-delve/tti-explorer/).
 
 
 ## Footnotes and References
