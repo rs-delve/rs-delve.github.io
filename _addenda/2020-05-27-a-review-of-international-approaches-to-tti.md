@@ -1,5 +1,27 @@
 ---
-title: 2020 05 27 A Review Of International Approaches To Tti
+title: "TTI-TD4: A Review of International Approaches to Test, Trace, Isolate"	date: 2020-05-27 
+published: true	
+layout: addendum	
+authors:	
+- given: Genevie	
+  family: Fernandes	
+  institute: 	
+  url: 	
+- given: Devi	
+  family: Sridhar	
+  institute: 	
+  url: 	
+- given: Diva	
+  family: Fanian	
+  institute: 	
+  url: 	
+- given: Mariana	
+  family: Soto Pachecho	
+  institute: 	
+  url: 	
+ref: TD4	
+report: TTI	
+abstract: 
 ---
 
 TTI strategies have been developed by countries across the world,
