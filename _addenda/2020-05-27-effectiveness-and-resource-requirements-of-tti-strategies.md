@@ -1,7 +1,6 @@
 ---
 title: 'TTI-TD3: Effectiveness and Resource Requirements of Test Trace Isolate Strategies'
 date: 2020-05-27 00:00:00 Z
-published: false
 layout: addendum
 abstract: 'We use an individual-level transmission and contact simulation model to
   explore the effectiveness and resource requirements of various test-trace-isolate
@@ -37,8 +36,7 @@ authors:
   institute: 
 report: TTI
 ref: TD3
-pdfonly: True
-pdf: /pdfs/2020-05-27-effectiveness-and-resource-requirements-of-tti-strategies.pdf 
-published: True
+pdfonly: true
+pdf: "/pdfs/2020-05-27-effectiveness-and-resource-requirements-of-tti-strategies.pdf"
 ---
 
