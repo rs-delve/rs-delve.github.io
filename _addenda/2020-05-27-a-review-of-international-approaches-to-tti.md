@@ -16,7 +16,7 @@ authors:
   institute: 
   url: 
 - given: Mariana
-  family: Soto Pachecho
+  family: Soto Pacheco
   institute: 
   url: 
 ref: TD4
