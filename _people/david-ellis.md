@@ -1,4 +1,5 @@
 ---
+title: David Ellis
 layout: person
 given: David
 family: Ellis
