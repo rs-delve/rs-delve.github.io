@@ -1,0 +1,12 @@
+---
+title: Data & Software
+layout: default
+---
+
+{% assign entries = site.data_software | sort: 'date' %}
+{% for entry in entries  %}
+
+<h1><a href="{{ entry.url }}">{{ entry.title }}</a></h1>
+{{ entry.abstract | markdownify }}
+
+{% endfor %}

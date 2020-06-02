@@ -19,6 +19,10 @@ collections:
   uploads:
     title: Uploads
     output: true
+  data_software:
+    title: Data & Software
+    output: true
+    permalink: "/data_software/:title:output_ext"
 description: This is the GitHub Repository of the Royal Society DELVE Initiative
 baseurl: ''
 url: http://rs-delve.github.io
