@@ -1,7 +1,10 @@
 ---
-title: DELVE Global COVID-19 Dataset 
+title: DELVE Global COVID-19 Dataset
 layout: post
-abstract: 'This openly-licensed research-ready dataset consolidates country-level COVID-19 data from multiple sources. It contains cases, deaths, tests, non-pharmaceutical interventions, excess mortality, mobility statistics, weather patterns and other metadata for up to 170 countries.'
+abstract: This openly-licensed research-ready dataset consolidates country-level COVID-19
+  data from multiple sources. It contains cases, deaths, tests, non-pharmaceutical
+  interventions, excess mortality, mobility statistics, weather patterns and other
+  metadata for up to 170 countries.
 ---
 
 <button name="button"><a href="https://github.com/rs-delve/covid19_datasets/"><i class="fab fa-github"></i> View on Github</a></button>
