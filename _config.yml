@@ -6,6 +6,10 @@ collections:
     title: Addenda
     output: true
     permalink: "/addenda/:year/:month/:day/:title:output_ext"
+  data_software:
+    title: Data & Software
+    output: true
+    permalink: "/data_software/:title:output_ext"
   people:
     title: People
     output: true
@@ -19,10 +23,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-  data_software:
-    title: Data & Software
-    output: true
-    permalink: "/data_software/:title:output_ext"
 description: This is the GitHub Repository of the Royal Society DELVE Initiative
 baseurl: ''
 url: http://rs-delve.github.io
