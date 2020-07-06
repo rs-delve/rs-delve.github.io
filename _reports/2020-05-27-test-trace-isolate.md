@@ -16,10 +16,6 @@ abstract: |
 version could inform discussions at SAGE. It may be revisited as further
 scientific evidence becomes available.*
 
-## Summary
-
-{{ page.abstract | markdownify }}
-
 ### Table of Contents
 
 * [Key points](#key-points)

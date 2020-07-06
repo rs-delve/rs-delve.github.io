@@ -20,9 +20,6 @@ abstract: 'Face masks could offer an important tool for contributing to the mana
 *An earlier version of this document was communicated to SAGE in April
 2020.*
 
-## Summary
-
-{{ page.abstract | markdownify }}
 
 
 ### Key points
