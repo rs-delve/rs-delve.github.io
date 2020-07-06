@@ -18,7 +18,7 @@ The production process typically involves mapping from a Word document to GFM. A
 
 <./convert_doc.sh> 
 
-To run the script, simply type
+To run the script, simply type into a bash command line console.
 
 ```
 ./convert_doc.sh YYYY-MM-DD-report-name.docx YYYY-MM-DD-report-name.md
@@ -33,7 +33,7 @@ To run the script, you will need to have installed `pandoc` on your machine loca
 
 For figures. The script will place each figure into a subdirectory called `diagrams/media/image-file-name.ext`. Move these files into a subdirectory associated with the report here:
 
-<./diagrams/>
+<./diagrams>
 
 Creating a new subdirectory for the report files.
 
