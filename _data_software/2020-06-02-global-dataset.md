@@ -1,6 +1,6 @@
 ---
 title: DELVE Global COVID-19 Dataset
-date: 2020-06-02
+date: 2020-06-02 00:00:00 Z
 layout: post
 abstract: This openly-licensed research-ready dataset consolidates country-level COVID-19
   data from multiple sources. It contains cases, deaths, tests, non-pharmaceutical
