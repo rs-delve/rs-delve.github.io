@@ -24,6 +24,7 @@ abstract: 'Face masks could offer an important tool for contributing to the mana
 
 {{ page.abstract | markdownify }}
 
+
 ### Key points
 
 1.  **Asymptomatic (including presymptomatic) infected individuals are

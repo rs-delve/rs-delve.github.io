@@ -23,7 +23,7 @@ scientific evidence becomes available.*
 ### Table of Contents
 
 * [Key points](#key-points)
-* [Test Trace Isolate](test-trace-isolate)
+* [Test Trace Isolate](#test-trace-isolate)
   1. [The role of TTI in COVID-19 response](#1-the-role-of-tti-in-covid-19-response)
   2. [Factors that influence optimal performance of a TTI system](#2-factors-that-influence-optimal-performance-of-a-tti-system)
   3. [Increasing speed of testing and tracing](#3-increasing-speed-of-testing-and-tracing)
