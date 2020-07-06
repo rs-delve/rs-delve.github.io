@@ -16,7 +16,13 @@ Some tips for preparing the Word document for correct formating.
 
 The production process typically involves mapping from a Word document to GFM. A script for making the initial conversions is available here:
 
-<./convert_doc.sh YYYY-MM-DD-report-name.docx YYYY-MM-DD-report-name.md>
+<./convert_doc.sh> 
+
+To run the script, simply type
+
+```
+./convert_doc.sh YYYY-MM-DD-report-name.docx YYYY-MM-DD-report-name.md
+```
 
 where `YYYY-MM-DD` is the date of report release.
 
