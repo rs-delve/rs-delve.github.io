@@ -1,9 +1,12 @@
 ---
-title: Data & Software
+title: "Data & Software"
 layout: default
 ---
 
-{% assign entries = site.data_software | sort: 'date' %}
+{% assign thedate = '' %}
+
+
+{% assign entries = site.data_software | sort: 'date' | reverse %}
 {% for entry in entries  %}
 
 <h1><a href="{{ entry.url }}">{{ entry.title }}</a></h1>
