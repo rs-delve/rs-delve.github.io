@@ -1,6 +1,8 @@
 ---
 title: 'NOS-TD2: Management of Nosocomial (Hospital-Acquired) Infections of SARS-CoV2'
-subtitle: "A Scoping Review of UK government Guidelines and Practice and International approaches"
+date: 2020-07-06 00:00:00 Z
+subtitle: A Scoping Review of UK government Guidelines and Practice and International
+  approaches
 layout: addendum
 authors:
 - given: Genevie

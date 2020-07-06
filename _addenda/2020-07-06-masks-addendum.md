@@ -1,5 +1,6 @@
 ---
-title: "MAS-TD1: Report on Face Masks for the General Public - An Update"
+title: 'MAS-TD1: Report on Face Masks for the General Public - An Update'
+date: 2020-07-06 00:00:00 Z
 abstract: 
 layout: addendum
 ref: TD1
