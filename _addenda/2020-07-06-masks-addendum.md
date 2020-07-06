@@ -4,6 +4,7 @@ abstract:
 layout: addendum
 ref: TD1
 report: MAS
+publish: False
 ---
 
 ## Summary
@@ -161,19 +162,19 @@ was linked to spread of infection in the facility.*
 
 -   A recent study from Hong Kong supports the role of masks in
     preventing indoor transmission. All 14 of the case clusters
-    occurring over the first 100 days of the pandemic occurred in indoor
-    settings.[^11] Eleven of these clusters, that involved 113 cases,
-    occurred in recreational mask-off settings (bars, restaurants, gyms)
-
--   whereas there were only 3 clusters involving only 11 cases in
-    workplace “mask on” settings (p = 0.04). The authors also surveyed
-    mask-wearing compliance of 10,050 pedestrians in early April and
-    found that 97% of them were wearing masks. They make the argument
-    that one of the reasons for almost complete control of the epidemic
-    in Hong Kong is because of universal mask wearing. The city is very
-    densely populated, yet despite this has had an early and sustained
-    control over transmission with only 148 cases total per million
-    population and \< 25 cases/day for the last several weeks.[^12]
+    occurring over the first 100 days of the pandemic occurred in
+    indoor settings.[^11] Eleven of these clusters, that involved 113
+    cases, occurred in recreational mask-off settings (bars,
+    restaurants, gyms) whereas there were only 3 clusters involving
+    only 11 cases in workplace “mask on” settings (p = 0.04). The
+    authors also surveyed mask-wearing compliance of 10,050
+    pedestrians in early April and found that 97% of them were wearing
+    masks. They make the argument that one of the reasons for almost
+    complete control of the epidemic in Hong Kong is because of
+    universal mask wearing. The city is very densely populated, yet
+    despite this has had an early and sustained control over
+    transmission with only 148 cases total per million population and
+    \< 25 cases/day for the last several weeks.[^12]
 
 -   Mitze and colleagues used the early adoption of a universal public
     mask requirement in Jena, Germany to estimate mask effectiveness in

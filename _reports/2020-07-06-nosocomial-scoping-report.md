@@ -617,93 +617,93 @@ following important measures that have been reported to reduce
 hospital-acquired transmission, organised according to transmission
 routes shown in Figure 1.
 
-1.  **Minimise risk of importation into hospitals**
+1.  Minimise risk of importation into hospitals
 
-    1.  **Consistent and reasonable limits on visitors (varying by local
-        epidemic state)**
+    1.  Consistent and reasonable limits on visitors (varying by local
+        epidemic state)
 
-    2.  **Minimise agency/multi-site staffing and staff movements
+    2.  Minimise agency/multi-site staffing and staff movements
         between sites (including hospitals, care homes and other
-        institutions) as practical**
+        institutions) as practical
 
-    3.  **Entry screening, or self-certification, of staff, patients and
-        visitors for signs and symptoms of COVID-19 infection**[^53]
+    3.  Entry screening, or self-certification, of staff, patients and
+        visitors for signs and symptoms of COVID-19 infection[^53]
 
-    4.  **Maximise use of telemedicine and remote consultations**
+    4.  Maximise use of telemedicine and remote consultations
 
-2.  **Minimise risk of transmission within hospitals**
+2.  Minimise risk of transmission within hospitals
 
-    1.  **Aerosol/droplet transmission**
+    1.  Aerosol/droplet transmission
 
-        1.  **Requirements to wear surgical/cloth masking by staff,
+        1.  Requirements to wear surgical/cloth masking by staff,
             visitors and patients wherever feasible, for source control;
             in addition to staff masking for wearer-protection in
-            specific high-risk settings**[^54]
+            specific high-risk settings[^54]
 
-        2.  **Organise hospitals into COVID-19 stratified “hot” and
+        2.  Organise hospitals into COVID-19 stratified “hot” and
             “cold” zones, or entire hospitals into “hot” and “cold”
-            hospitals if feasible**
+            hospitals if feasible
 
-        3.  **Cohort staff to limit physical overlap and movement
-            between zones if possible, i.e., “bubbling”**
+        3.  Cohort staff to limit physical overlap and movement
+            between zones if possible, i.e., “bubbling”
 
-        4.  **Limits on communal activities for** healthcare workers
-            **(break rooms, cafeteria) and maintenance of physical
-            distancing**
+        4.  Limits on communal activities for healthcare workers
+            (break rooms, cafeteria) and maintenance of physical
+            distancing
 
-        5.  **Move Multidisciplinary Team and other meetings online as
-            much as possible**
+        5.  Move Multidisciplinary Team and other meetings online as
+            much as possible
 
-        6.  **Maximise use of remote consultations for outpatients**
+        6.  Maximise use of remote consultations for outpatients
 
-        7.  **Maintain effective airflow handling systems (acknowledging
-            building infrastructure limits)**
+        7.  Maintain effective airflow handling systems (acknowledging
+            building infrastructure limits)
 
-        8.  **Physical distancing, especially in** likely hotspots
+        8.  Physical distancing, especially in likely hotspots
             (e.g., waiting rooms, triage locations, A&E, corridors,
-            lifts, staff lounges, canteens or cafeterias**)**
+            lifts, staff lounges, canteens or cafeterias)
 
-    2.  **Contact transmission**
+    2.  Contact transmission
 
-        1.  **Repeated frequent handwashing for everyone present in
-            facility**
+        1.  Repeated frequent handwashing for everyone present in
+            facility
 
-        2.  **Ensuring access to appropriate personal protective
-            equipment for all staff**
+        2.  Ensuring access to appropriate personal protective
+            equipment for all staff
 
-        3.  **Training on donning and doffing personal protective
+        3.  Training on donning and doffing personal protective
             equipment (e.g., masks, gowns, gloves, visors), and
-            mandating staff use as appropriate**
+            mandating staff use as appropriate
 
-        4.  **Reduced sharing of equipment (e.g., computer keyboards)**
+        4.  Reduced sharing of equipment (e.g., computer keyboards)
 
-        5.  **Expanded and improved environmental cleaning procedures
+        5.  Expanded and improved environmental cleaning procedures
             (including exploring novel methods such as UV light,
-            antiviral surfaces, optimum surfaces)**
+            antiviral surfaces, optimum surfaces)
 
-3.  **Minimise risk of outbreak occurrence and expansion within
-    hospital**
+3.  Minimise risk of outbreak occurrence and expansion within
+    hospital
 
-    1.  **Active clinical surveillance of patients for the development
-        of COVID-19 infection**
+    1.  Active clinical surveillance of patients for the development
+        of COVID-19 infection
 
-    2.  **Prompt isolation, testing, investigation and contact tracing
-        of infected** healthcare workers
+    2.  Prompt isolation, testing, investigation and contact tracing
+        of infected healthcare workers
 
-    3.  **Prompt quarantine of** healthcare workers **and patients with
+    3.  Prompt quarantine of healthcare workers and patients with
         significant exposure to known cases, and self-monitoring for
-        those with lesser exposure**
+        those with lesser exposure
 
-    4.  **Rapid and standardised outbreak investigations and
-        reporting,** including root-cause analysis
+    4.  Rapid and standardised outbreak investigations and
+        reporting, including root-cause analysis
 
-    5.  **Provision of sick leave without penalty or prejudice based on
-        symptoms (including contract staff)**
+    5.  Provision of sick leave without penalty or prejudice based on
+        symptoms (including contract staff)
 
-4.  **Minimise risk of exportation from hospitals**
+4.  Minimise risk of exportation from hospitals
 
-    1.  **Testing/quarantining of patients being discharged to own home
-        or institutional care**
+    1.  Testing/quarantining of patients being discharged to own home
+        or institutional care
 
 The simultaneous use of overlapping infection control measures has made
 it difficult to evaluate the importance of each measure individually.
@@ -856,8 +856,7 @@ hospitals, of the kind successfully implemented for MRSA.[^55]
 
 [^14]: Dora, AV., Winnett, A., Jatt, LP., Davar, K., Watanabe, M., Sohn,
     L. et al. (2020) Universal and Serial Laboratory Testing for
-    SARS-CoV-2 at a Long-Term Care Skilled Nursing Facility for Veterans
-    - Los Angeles, California, 2020. MMWR Morbidity and Mortality Weekly
+    SARS-CoV-2 at a Long-Term Care Skilled Nursing Facility for Veterans - Los Angeles, California, 2020. MMWR Morbidity and Mortality Weekly
     Reports. doi:
     [10.15585/mmwr.mm6921e1](https://www.cdc.gov/mmwr/volumes/69/wr/mm6921e1.htm?s_cid=mm6921e1_w).
     PubMed PMID: 32463809
