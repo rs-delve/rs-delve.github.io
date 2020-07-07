@@ -8,13 +8,13 @@ layout: post
 {% assign authors=page.authors %}
 <p><i>Prepared for the DELVE Initiative by {% include listauthors.html %}</i></p>{% endif %}
 
-{% include cite-as.html %}
-
 {% if page.abstract %}
 
 <h2>Summary</h2>
 
 {{ page.abstract | markdownify }}
 {% endif %}
+
+{% include cite-as.html %}
 
 {{ content }}

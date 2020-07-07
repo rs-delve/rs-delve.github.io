@@ -1,6 +1,26 @@
-{% if page.layout == report %}
-{% assign authors="DELVE Initiative"}
-{% else %}
-{% assign authors="DELVE Initiative"}
+{% assign authors=page.authors %}
+{% if page.layout == "report" %}
+{% capture report_ref %}
+DELVE Report No. {{ page.report_number }}.
+{% endcapture %}
+{% elsif page.layout == "addendum" %}
+{% capture report_ref %}
+DELVE Addendum {{ page.report }}-{{ page.ref }}.
+{% endcapture %}
+{% elsif page.layout == "data-software" %}
+{% capture report_ref %}
+{% endcapture %}
 {% endif %}
-Cite as: {{ authors }} ({{ page.date | date: '%Y' }}), {{ page.title }}. Report No. page.report_number. Published {{ page.date | date: '%D %B %Y' }}. Available from {{ page.url }}.
+{% if page.authors %}
+{% capture report_authors %}
+{% include listauthors.html %}
+{% endcapture %}
+{% else %}
+{% capture report_authors %}
+DELVE Initiative
+{% endcapture %}
+{% endif %}
+<p>Cite as:
+
+{{ report_authors }} ({{ page.date | date: '%Y' }}), <i>{{ page.title }}</i>. {{ report_ref }} Published {{ page.date | date: '%d %B %Y' }}. Available from <a href="{{ site.url }}{{ site.baseurl}}{{ page.url }}">{{ site.url }}{{ site.baseurl}}{{ page.url }}</a>.</p>
+

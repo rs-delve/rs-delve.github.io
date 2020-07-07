@@ -2,6 +2,7 @@
 title: Test, Trace, Isolate
 date: 2020-05-27 00:00:00 Z
 layout: report
+report_number: 2
 abstract: |
   When effectively implemented at scale, Test, Trace, Isolate (TTI) can contribute to controlling the UK COVID-19 epidemic, but only as part of a wider package of public health interventions, including physical and social distancing, control of infection procedures, outbreak investigation and control. TTI is most effective in breaking chains of transmission, and reducing the effective reproductive number (R<sub>e</sub>), when there is maximum: (i) **speed**, i.e., quick turn-around of both index case testing and contact tracing (and testing); (ii) **compliance**, i.e., a high proportion of people in each chain are willing and able to follow guidance; and (iii) **coverage**, i.e., identification of most chains through integration of consistent case data and real-time, high-precision population surveillance. Each of these three aspects of TTI needs careful attention, as do the trade-offs implicit in choices of how precisely to implement TTI in terms of who to test, trace and isolate, and when to do so.
 

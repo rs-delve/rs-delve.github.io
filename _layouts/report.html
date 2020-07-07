@@ -4,7 +4,6 @@ layout: post
 
 {% include mathjax_code.html %}
 
-{% include cite-as.html %}
 
 {% if page.abstract %}
 
@@ -13,5 +12,6 @@ layout: post
 {{ page.abstract | markdownify }}
 {% endif %}
 
+{% include cite-as.html %}
 
 {{ content }}
