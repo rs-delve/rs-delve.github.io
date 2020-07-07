@@ -240,9 +240,9 @@ was linked to spread of infection in the facility.
 
 ### Surgical and cloth masks reduce onward transmission of small particle aerosols of infectious agents
 
-***Several clinical and laboratory studies demonstrate that surgical and
+Several clinical and laboratory studies demonstrate that surgical and
 cloth masks can effectively reduce the transmission of small particle
-aerosols of infectious agents.*** Since aerosol particles are smaller
+aerosols of infectious agents. Since aerosol particles are smaller
 than airborne droplets, this substantiates the effectiveness of surgical
 and cloth masks for source control of droplets.
 
