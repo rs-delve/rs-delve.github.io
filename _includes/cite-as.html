@@ -1,0 +1,6 @@
+{% if page.layout == report %}
+{% assign authors="DELVE Initiative"}
+{% else %}
+{% assign authors="DELVE Initiative"}
+{% endif %}
+Cite as: {{ authors }} ({{ page.date | date: '%Y' }}), {{ page.title }}. Report No. page.report_number. Published {{ page.date | date: '%D %B %Y' }}. Available from {{ page.url }}.
