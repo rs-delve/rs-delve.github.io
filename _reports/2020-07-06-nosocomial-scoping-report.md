@@ -1,66 +1,18 @@
 ---
-title: Scoping Report on Hospital and Health Care Acquisition of COVID-19 and its Control
+title: Scoping Report on Hospital and Health Care Acquisition of COVID-19 and its
+  Control
 date: 2020-07-06 00:00:00 Z
 report_number: 3
 layout: report
-abstract: "-   The focus of this report is on SARS-CoV-2 infection acquired in
-    hospital. It is timed to inform decisions about the opening up of
-    hospitals and other healthcare settings for non-COVID-19
-    activities and NHS plans for winter and future waves of COVID-19.
-
--   Transmission of COVID-19 in hospitals and social care settings in
-    patients, residents and staff has been recognised as an important
-    feature of the COVID-19 epidemic throughout the world; efforts to
-    prevent infections have had varying success. Transmissions early
-    in the epidemic reflected evolving understanding of the disease
-    (e.g., the risk of asymptomatic infection and role of masks in
-    source control) and limited access to testing and personal
-    protective equipment.
-
--   Infections in hospital have important implications for infection
-    outcomes (hospitalised patients and some staff are at higher
-    risk), workforce planning (healthcare workers being unable to work
-    during peak pressure periods), and amplification of community
-    transmission (through discharge of infectious patients and
-    transmission to families and other contacts from healthcare
-    workers and patients).
-
--   Using publicly available data, we estimate that at least 10% (95% confidence interval: 4-15%) of all COVID-19 infections in England were among patient-facing healthcare workers and resident-facing social care workers during the period from 26<sup>th</sup> April to 7<sup>th</sup> June 2020. An estimated further 1% of infections in this period were acquired by inpatients in hospital, with an additional 6% of all infections among care home residents. This does not consider secondary cases arising from hospital acquired infections elsewhere.
-
--   Although surveillance systems and large-scale hospital-based studies
-    have recently been set up, there remain gaps in availability of
-    surveillance data on hospital-acquired infections, particularly of
-    healthcare workers (including agency staff) and in nursing homes;
-    important questions remain unanswered, including about the impact
-    on Black, Asian and minority ethnic (BAME) health and social care
-    workers.
-
--   At present, there is no single organisation with clear oversight of
-    hospital-related infection surveillance, monitoring and response.
-    Data obtained from surveillance, monitoring and outbreak
-    investigations need to feed into epidemiological and modelling
-    research, including to evaluate interventions. There remain
-    significant opportunities to link epidemiological and phylogenetic
-    datasets to improve the ability to identify and respond to
-    changing epidemic dynamics.
-
--   In recent weeks, there have been significant improvements reported
-    in data collection and prevention of hospital acquired infection,
-    but the data are not yet publicly available to assess the impact
-    of changes and these are urgently needed.
-
--   The report considers what further actions are needed to build
-    comprehensive surveillance and infection control systems, with
-    awareness that this would require further resources and expert
-    support to the hospital, public health and care sectors. It sets
-    out a suggested framework for effective centralised surveillance
-    and monitoring of hospital acquired infections, linked to rapid
-    infection control responses with sharing of best practice,
-    coordinated through local teams. In the medium-term, we envisage
-    an ambitious and comprehensive approach to prevention of infection
-    transmitted through respiratory droplets and aerosol routes in
-    hospitals, of the breadth and scale successfully implemented for
-    methicillin-resistant *Staphylococcus aureus* (MRSA)."
+abstract: |-
+  -   The focus of this report is on SARS-CoV-2 infection acquired in hospital. It is timed to inform decisions about the opening up of hospitals and other healthcare settings for non-COVID-19 activities and NHS plans for winter and future waves of COVID-19.
+  -   Transmission of COVID-19 in hospitals and social care settings in patients, residents and staff has been recognised as an important feature of the COVID-19 epidemic throughout the world; efforts to prevent infections have had varying success. Transmissions early in the epidemic reflected evolving understanding of the disease (e.g., the risk of asymptomatic infection and role of masks in source control) and limited access to testing and personal protective equipment.
+  -   Infections in hospital have important implications for infection outcomes (hospitalised patients and some staff are at higher risk), workforce planning (healthcare workers being unable to work during peak pressure periods), and amplification of community transmission (through discharge of infectious patients and transmission to families and other contacts from healthcare workers and patients).
+  -   Using publicly available data, we estimate that at least 10% (95% confidence interval: 4-15%) of all COVID-19 infections in England were among patient-facing healthcare workers and resident-facing social care workers during the period from 26<sup>th</sup> April to 7<sup>th</sup> June 2020. An estimated further 1% of infections in this period were acquired by inpatients in hospital, with an additional 6% of all infections among care home residents. This does not consider secondary cases arising from hospital acquired infections elsewhere.
+  -   Although surveillance systems and large-scale hospital-based studies have recently been set up, there remain gaps in availability of surveillance data on hospital-acquired infections, particularly of healthcare workers (including agency staff) and in nursing homes; important questions remain unanswered, including about the impact on Black, Asian and minority ethnic (BAME) health and social care workers.
+  -   At present, there is no single organisation with clear oversight of hospital-related infection surveillance, monitoring and response. Data obtained from surveillance, monitoring and outbreak investigations need to feed into epidemiological and modelling research, including to evaluate interventions. There remain significant opportunities to link epidemiological and phylogenetic datasets to improve the ability to identify and respond to changing epidemic dynamics.
+  -   In recent weeks, there have been significant improvements reported in data collection and prevention of hospital acquired infection, but the data are not yet publicly available to assess the impact of changes and these are urgently needed.
+  -   The report considers what further actions are needed to build comprehensive surveillance and infection control systems, with awareness that this would require further resources and expert support to the hospital, public health and care sectors. It sets out a suggested framework for effective centralised surveillance and monitoring of hospital acquired infections, linked to rapid infection control responses with sharing of best practice, coordinated through local teams. In the medium-term, we envisage an ambitious and comprehensive approach to prevention of infection transmitted through respiratory droplets and aerosol routes in hospitals, of the breadth and scale successfully implemented for methicillin-resistant *Staphylococcus aureus* (MRSA).
 ---
 
 *This paper has drawn on evidence available up to 28 June 2020. Further
