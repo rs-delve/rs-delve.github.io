@@ -1,5 +1,5 @@
 ---
-title: 'The Potential Role of Firms in Test, Trace, Isolate'
+title: The Potential Role of Firms in Test, Trace, Isolate
 date: 2020-05-27 00:00:00 Z
 layout: addendum
 authors:
