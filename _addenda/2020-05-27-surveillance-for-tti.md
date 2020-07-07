@@ -6,11 +6,11 @@ authors:
 - given: Sylvia	
   family: Richardson	
   institute: 	
-  url: "/people/sylvia-richardson.md"	
+  url: "/people/sylvia-richardson.html"	
 - given: Peter	
   family: Diggle	
   institute: 	
-  url: "/people/peter-diggle.md"
+  url: "/people/peter-diggle.html"
 abstract: 'Any TTI strategy that can only involve a fraction of the at-risk population	
   must begin with a surveillance study to establish how incidence, and therefore potential	
   disease transmission, varies between sub-populations and between individuals within	
