@@ -971,7 +971,7 @@ The following are materials prepared by individual members of DELVE as
 inputs into this report.
 
 
-{% assign addenda = site.addenda | sort: 'date' | reverse %}
+{% assign addenda = site.addenda | sort: 'ref'  %}
 <ul>
 {% for addendum in addenda  %}
 {% if addendum.report == 'TTI' %}

@@ -1,17 +1,65 @@
 ---
 title: Scoping Report on Hospital and Health Care Acquisition of COVID-19 and its Control
 report_number: 3
-date: 2020-07-06 00:00:00 Z
 layout: report
-abstract: |-
-  -   The focus of this report is on SARS-CoV-2 infection acquired in hospital. It is timed to inform decisions about the opening up of hospitals and other healthcare settings for non-COVID-19 activities and NHS plans for winter and future waves of COVID-19.
-  -   Transmission of COVID-19 in hospitals and social care settings in patients, residents and staff has been recognised as an important feature of the COVID-19 epidemic throughout the world; efforts to prevent infections have had varying success. Transmissions early in the epidemic reflected evolving understanding of the disease (e.g., the risk of asymptomatic infection and role of masks in source control) and limited access to testing and personal protective equipment.
-  -   Infections in hospital have important implications for infection outcomes (hospitalised patients and some staff are at higher risk), workforce planning (healthcare workers being unable to work during peak pressure periods), and amplification of community transmission (through discharge of infectious patients and transmission to families and other contacts from healthcare workers and patients).
-  -   Using publicly available data, we estimate that at least 10% (95% confidence interval: 4-15%) of all COVID-19 infections in England were among patient-facing healthcare workers and resident-facing social care workers during the period from 26<sup>th</sup> April to 7<sup>th</sup> June 2020. An estimated further 1% of infections in this period were acquired by inpatients in hospital, with an additional 6% of all infections among care home residents. This does not consider secondary cases arising from hospital acquired infections elsewhere.
-  -   Although surveillance systems and large-scale hospital-based studies have recently been set up, there remain gaps in availability of surveillance data on hospital-acquired infections, particularly of healthcare workers (including agency staff) and in nursing homes; important questions remain unanswered, including about the impact on Black, Asian and minority ethnic (BAME) health and social care workers.
-  -   At present, there is no single organisation with clear oversight of hospital-related infection surveillance, monitoring and response. Data obtained from surveillance, monitoring and outbreak investigations need to feed into epidemiological and modelling research, including to evaluate interventions. There remain significant opportunities to link epidemiological and phylogenetic datasets to improve the ability to identify and respond to changing epidemic dynamics.
-  -   In recent weeks, there have been significant improvements reported in data collection and prevention of hospital acquired infection, but the data are not yet publicly available to assess the impact of changes and these are urgently needed.
-  -   The report considers what further actions are needed to build comprehensive surveillance and infection control systems, with awareness that this would require further resources and expert support to the hospital, public health and care sectors. It sets out a suggested framework for effective centralised surveillance and monitoring of hospital acquired infections, linked to rapid infection control responses with sharing of best practice, coordinated through local teams. In the medium-term, we envisage an ambitious and comprehensive approach to prevention of infection transmitted through respiratory droplets and aerosol routes in hospitals, of the breadth and scale successfully implemented for methicillin-resistant *Staphylococcus aureus* (MRSA).
+abstract: "-   The focus of this report is on SARS-CoV-2 infection acquired in
+    hospital. It is timed to inform decisions about the opening up of
+    hospitals and other healthcare settings for non-COVID-19
+    activities and NHS plans for winter and future waves of COVID-19.
+
+-   Transmission of COVID-19 in hospitals and social care settings in
+    patients, residents and staff has been recognised as an important
+    feature of the COVID-19 epidemic throughout the world; efforts to
+    prevent infections have had varying success. Transmissions early
+    in the epidemic reflected evolving understanding of the disease
+    (e.g., the risk of asymptomatic infection and role of masks in
+    source control) and limited access to testing and personal
+    protective equipment.
+
+-   Infections in hospital have important implications for infection
+    outcomes (hospitalised patients and some staff are at higher
+    risk), workforce planning (healthcare workers being unable to work
+    during peak pressure periods), and amplification of community
+    transmission (through discharge of infectious patients and
+    transmission to families and other contacts from healthcare
+    workers and patients).
+
+-   Using publicly available data, we estimate that at least 10% (95% confidence interval: 4-15%) of all COVID-19 infections in England were among patient-facing healthcare workers and resident-facing social care workers during the period from 26<sup>th</sup> April to 7<sup>th</sup> June 2020. An estimated further 1% of infections in this period were acquired by inpatients in hospital, with an additional 6% of all infections among care home residents. This does not consider secondary cases arising from hospital acquired infections elsewhere.
+
+-   Although surveillance systems and large-scale hospital-based studies
+    have recently been set up, there remain gaps in availability of
+    surveillance data on hospital-acquired infections, particularly of
+    healthcare workers (including agency staff) and in nursing homes;
+    important questions remain unanswered, including about the impact
+    on Black, Asian and minority ethnic (BAME) health and social care
+    workers.
+
+-   At present, there is no single organisation with clear oversight of
+    hospital-related infection surveillance, monitoring and response.
+    Data obtained from surveillance, monitoring and outbreak
+    investigations need to feed into epidemiological and modelling
+    research, including to evaluate interventions. There remain
+    significant opportunities to link epidemiological and phylogenetic
+    datasets to improve the ability to identify and respond to
+    changing epidemic dynamics.
+
+-   In recent weeks, there have been significant improvements reported
+    in data collection and prevention of hospital acquired infection,
+    but the data are not yet publicly available to assess the impact
+    of changes and these are urgently needed.
+
+-   The report considers what further actions are needed to build
+    comprehensive surveillance and infection control systems, with
+    awareness that this would require further resources and expert
+    support to the hospital, public health and care sectors. It sets
+    out a suggested framework for effective centralised surveillance
+    and monitoring of hospital acquired infections, linked to rapid
+    infection control responses with sharing of best practice,
+    coordinated through local teams. In the medium-term, we envisage
+    an ambitious and comprehensive approach to prevention of infection
+    transmitted through respiratory droplets and aerosol routes in
+    hospitals, of the breadth and scale successfully implemented for
+    methicillin-resistant *Staphylococcus aureus* (MRSA)."
 ---
 
 *This paper has drawn on evidence available up to 28 June 2020. Further
@@ -21,6 +69,13 @@ been provided in good faith by subject experts. DELVE and the Royal
 Society accept no legal liability for decisions made based on this
 evidence.*
 
+Cite as: DELVE Initiative (2020) DELVE Scoping report on
+hospital and health care acquisition of COVID-19 and its control. Report
+No. 3. Published 6 July 2020.
+
+## Summary
+
+{{ page.abstract | markdownify }}
 
 
 ### Table of Contents
@@ -32,7 +87,7 @@ evidence.*
 5. [Successful infection control practices for COVID-19](#5-successful-infection-control-practices-for-covid-19)
 6. [Summary considerations](#6-summary-considerations)
 
-* [Technical Appendices](#technical-appendices){% assign addenda = site.addenda | sort: 'title' %}{% for addendum in addenda  %}{% if addendum.report == 'NOS' %}
+* [Technical Appendices](#technical-appendices){% assign addenda = site.addenda | sort: 'ref' %}{% for addendum in addenda  %}{% if addendum.report == 'NOS' %}
   * [{{ addendum.title }}]({%if addendum.pdfonly %}{{ addendum.pdf }}{% else %}{{ addendum.url }}{%endif%}){% endif %}{% endfor %}
 * [Footnotes and References](#footnotes-and-references)
 
@@ -563,93 +618,93 @@ following important measures that have been reported to reduce
 hospital-acquired transmission, organised according to transmission
 routes shown in Figure 1.
 
-1.  Minimise risk of importation into hospitals
+1.  **Minimise risk of importation into hospitals**
 
-    1.  Consistent and reasonable limits on visitors (varying by local
-        epidemic state)
+    1.  **Consistent and reasonable limits on visitors (varying by local
+        epidemic state)**
 
-    2.  Minimise agency/multi-site staffing and staff movements
+    2.  **Minimise agency/multi-site staffing and staff movements
         between sites (including hospitals, care homes and other
-        institutions) as practical
+        institutions) as practical**
 
-    3.  Entry screening, or self-certification, of staff, patients and
-        visitors for signs and symptoms of COVID-19 infection[^53]
+    3.  **Entry screening, or self-certification, of staff, patients and
+        visitors for signs and symptoms of COVID-19 infection**[^53]
 
-    4.  Maximise use of telemedicine and remote consultations
+    4.  **Maximise use of telemedicine and remote consultations**
 
-2.  Minimise risk of transmission within hospitals
+2.  **Minimise risk of transmission within hospitals**
 
-    1.  Aerosol/droplet transmission
+    1.  **Aerosol/droplet transmission**
 
-        1.  Requirements to wear surgical/cloth masking by staff,
+        1.  **Requirements to wear surgical/cloth masking by staff,
             visitors and patients wherever feasible, for source control;
             in addition to staff masking for wearer-protection in
-            specific high-risk settings[^54]
+            specific high-risk settings**[^54]
 
-        2.  Organise hospitals into COVID-19 stratified “hot” and
+        2.  **Organise hospitals into COVID-19 stratified “hot” and
             “cold” zones, or entire hospitals into “hot” and “cold”
-            hospitals if feasible
+            hospitals if feasible**
 
-        3.  Cohort staff to limit physical overlap and movement
-            between zones if possible, i.e., “bubbling”
+        3.  **Cohort staff to limit physical overlap and movement
+            between zones if possible, i.e., “bubbling”**
 
-        4.  Limits on communal activities for healthcare workers
-            (break rooms, cafeteria) and maintenance of physical
-            distancing
+        4.  **Limits on communal activities for** healthcare workers
+            **(break rooms, cafeteria) and maintenance of physical
+            distancing**
 
-        5.  Move Multidisciplinary Team and other meetings online as
-            much as possible
+        5.  **Move Multidisciplinary Team and other meetings online as
+            much as possible**
 
-        6.  Maximise use of remote consultations for outpatients
+        6.  **Maximise use of remote consultations for outpatients**
 
-        7.  Maintain effective airflow handling systems (acknowledging
-            building infrastructure limits)
+        7.  **Maintain effective airflow handling systems (acknowledging
+            building infrastructure limits)**
 
-        8.  Physical distancing, especially in likely hotspots
+        8.  **Physical distancing, especially in** likely hotspots
             (e.g., waiting rooms, triage locations, A&E, corridors,
-            lifts, staff lounges, canteens or cafeterias)
+            lifts, staff lounges, canteens or cafeterias**)**
 
-    2.  Contact transmission
+    2.  **Contact transmission**
 
-        1.  Repeated frequent handwashing for everyone present in
-            facility
+        1.  **Repeated frequent handwashing for everyone present in
+            facility**
 
-        2.  Ensuring access to appropriate personal protective
-            equipment for all staff
+        2.  **Ensuring access to appropriate personal protective
+            equipment for all staff**
 
-        3.  Training on donning and doffing personal protective
+        3.  **Training on donning and doffing personal protective
             equipment (e.g., masks, gowns, gloves, visors), and
-            mandating staff use as appropriate
+            mandating staff use as appropriate**
 
-        4.  Reduced sharing of equipment (e.g., computer keyboards)
+        4.  **Reduced sharing of equipment (e.g., computer keyboards)**
 
-        5.  Expanded and improved environmental cleaning procedures
+        5.  **Expanded and improved environmental cleaning procedures
             (including exploring novel methods such as UV light,
-            antiviral surfaces, optimum surfaces)
+            antiviral surfaces, optimum surfaces)**
 
-3.  Minimise risk of outbreak occurrence and expansion within
-    hospital
+3.  **Minimise risk of outbreak occurrence and expansion within
+    hospital**
 
-    1.  Active clinical surveillance of patients for the development
-        of COVID-19 infection
+    1.  **Active clinical surveillance of patients for the development
+        of COVID-19 infection**
 
-    2.  Prompt isolation, testing, investigation and contact tracing
-        of infected healthcare workers
+    2.  **Prompt isolation, testing, investigation and contact tracing
+        of infected** healthcare workers
 
-    3.  Prompt quarantine of healthcare workers and patients with
+    3.  **Prompt quarantine of** healthcare workers **and patients with
         significant exposure to known cases, and self-monitoring for
-        those with lesser exposure
+        those with lesser exposure**
 
-    4.  Rapid and standardised outbreak investigations and
-        reporting, including root-cause analysis
+    4.  **Rapid and standardised outbreak investigations and
+        reporting,** including root-cause analysis
 
-    5.  Provision of sick leave without penalty or prejudice based on
-        symptoms (including contract staff)
+    5.  **Provision of sick leave without penalty or prejudice based on
+        symptoms (including contract staff)**
 
-4.  Minimise risk of exportation from hospitals
+4.  **Minimise risk of exportation from hospitals**
 
-    1.  Testing/quarantining of patients being discharged to own home
-        or institutional care
+    1.  **Testing/quarantining of patients being discharged to own home
+        or institutional care**
 
 The simultaneous use of overlapping infection control measures has made
 it difficult to evaluate the importance of each measure individually.
@@ -725,6 +780,25 @@ hospitals, of the kind successfully implemented for MRSA.[^55]
     modelling research and evaluation. This research is needed to
     evaluate which interventions are cost-effective and feasible in
     preventing hospital and social care transmission in the long-term.
+
+## Technical Appendices
+
+The following are materials prepared by individual members of DELVE as
+inputs into this report.
+
+{% assign addenda = site.addenda | sort: 'ref'  %}
+<ul>
+{% for addendum in addenda  %}
+{% if addendum.report == 'NOS' %}
+<li> {%if addendum.pdfonly %}<a href="{{ addendum.pdf }}">{% else %}<a href="{{ addendum.url }}">{%endif%}{{ addendum.title }}</a>
+  {% if addendum.authors %}
+{% assign authors=addendum.authors %}
+    <p><i>Prepared for the DELVE Initiative by {% include listauthors.html %}</i></p></li>
+{% endif %}
+{% endif %}
+{% endfor %}
+</ul>
+
 
 # Footnotes and References
 
@@ -802,7 +876,8 @@ hospitals, of the kind successfully implemented for MRSA.[^55]
 
 [^14]: Dora, AV., Winnett, A., Jatt, LP., Davar, K., Watanabe, M., Sohn,
     L. et al. (2020) Universal and Serial Laboratory Testing for
-    SARS-CoV-2 at a Long-Term Care Skilled Nursing Facility for Veterans - Los Angeles, California, 2020. MMWR Morbidity and Mortality Weekly
+    SARS-CoV-2 at a Long-Term Care Skilled Nursing Facility for Veterans
+    - Los Angeles, California, 2020. MMWR Morbidity and Mortality Weekly
     Reports. doi:
     [10.15585/mmwr.mm6921e1](https://www.cdc.gov/mmwr/volumes/69/wr/mm6921e1.htm?s_cid=mm6921e1_w).
     PubMed PMID: 32463809
@@ -1025,7 +1100,7 @@ hospitals, of the kind successfully implemented for MRSA.[^55]
     with population prevalence.
 
 [^54]: DELVE: Data Evaluation and Learning for Viral Epidemics (2020)
-    Face Masks for the General Public. Published 4 May. Report No 2.
+    Face Masks for the General Public. Published 4 May. Report No 1.
     Available from:
     <https://rs-delve.github.io/reports/2020/05/04/face-masks-for-the-general-public.html>
 
