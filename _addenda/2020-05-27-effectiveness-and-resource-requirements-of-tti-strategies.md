@@ -1,5 +1,5 @@
 ---
-title: 'Effectiveness and Resource Requirements of Test Trace Isolate Strategies'
+title: Effectiveness and Resource Requirements of Test Trace Isolate Strategies
 date: 2020-05-27 00:00:00 Z
 layout: addendum
 abstract: We use an individual-level transmission and contact simulation model to
