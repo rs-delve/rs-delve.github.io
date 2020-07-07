@@ -1,7 +1,7 @@
 ---
 title: 'MAS-TD1: Report on Face Masks for the General Public - An Update'
 date: 2020-07-07 00:00:00 Z
-published: false
+published: true
 abstract: 
 authors:
 - given: Paul
