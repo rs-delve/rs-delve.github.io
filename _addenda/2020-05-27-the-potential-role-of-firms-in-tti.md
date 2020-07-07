@@ -1,12 +1,12 @@
 ---
-title: 'The Potential Role of Firms in Test, Trace, Isolate'
+title: 'pThe Potential Role of Firms in Test, Trace, Isolate'
 date: 2020-05-27 00:00:00 Z
 layout: addendum
 authors:
 - given: Tim
   family: Besley
   institute: 
-  url: "/people/tim-besley.md"
+  url: "/people/tim-besley.html"
 ref: TD1
 report: TTI
 abstract: 
