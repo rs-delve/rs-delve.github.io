@@ -6,9 +6,11 @@ authors:
 - given: Paul
   family: Edelstein
   institute: 
+  url: /people/paul-edelstein.html
 - given: Lalita
   family: Ramakrishnan
   institute: 
+  url: /people/lalita-ramakrishnan.html
 layout: addendum
 ref: TD1
 report: MAS
