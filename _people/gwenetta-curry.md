@@ -5,7 +5,7 @@ given: Gwenetta
 family: Curry
 webpage: https://www.ed.ac.uk/profile/gwenetta-curry
 email: 
-twitter:
+twitter: 
 github: 
 actionteam: true
 ---
