@@ -1,5 +1,5 @@
 ---
-title: 'A Review of International Approaches to Test, Trace, Isolate'
+title: A Review of International Approaches to Test, Trace, Isolate
 date: 2020-05-27 00:00:00 Z
 layout: addendum
 authors:
