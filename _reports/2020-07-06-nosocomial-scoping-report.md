@@ -22,13 +22,6 @@ been provided in good faith by subject experts. DELVE and the Royal
 Society accept no legal liability for decisions made based on this
 evidence.*
 
-Cite as: DELVE Initiative (2020) DELVE Scoping report on
-hospital and health care acquisition of COVID-19 and its control. Report
-No. 3. Published 6 July 2020.
-
-## Summary
-
-{{ page.abstract | markdownify }}
 
 
 ### Table of Contents
