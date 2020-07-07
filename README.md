@@ -56,15 +56,18 @@ For technical addendum, the process is similar. Only now, you place the report i
 
 ```
 ---
-title: 'CODE-TDX: Addendum Title'
+title: 'Addendum Title'
 abstract: 'Addendum summary goes here'
+published: true
 authors:
 - given: Jane
   family: Doe
   institute: 
+  url: /people/jane-doe.html
 - given: John
   family: Doe
   institute: 
+  url: /people/john-doe.html
 layout: addendum
 ref: TDX
 report: CODE
@@ -72,5 +75,7 @@ report: CODE
 ```
 
 Here `CODE` should be a three letter code representing the 'parent report' (e.g. `MAS` for the masks report). And `TDX` is TD followed by a number representing the number of the technical appendum. E.g. `TD1`.
+
+The entry `published` indicates whether the document should be shown on the site. This can be set to `false` for reports that can only be published after a particular time (due to press release etc.).
 
 
