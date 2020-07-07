@@ -975,7 +975,7 @@ inputs into this report.
 <ul>
 {% for addendum in addenda  %}
 {% if addendum.report == 'TTI' %}
-<li> {%if addendum.pdfonly %}<a href="{{ addendum.pdf }}">{% else %}<a href="{{ addendum.url }}">{%endif%}{{ addendum.title }}</a>
+<li> {% include link-addendum-title.html %}
   {% if addendum.authors %}
 {% assign authors=addendum.authors %}
     <p><i>Prepared for the DELVE Initiative by {% include listauthors.html %}</i></p></li>

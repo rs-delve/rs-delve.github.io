@@ -8,7 +8,7 @@ layout: default
 {% assign addenda = site.addenda | sort: 'ref' | reverse | sort: 'date' | reverse %}
 {% for addendum in addenda  %}
 
-<h3>{%if addendum.pdfonly %}<a href="{{ addendum.pdf }}">{% else %}<a href="{{ addendum.url }}">{%endif%}{{ addendum.title }}</a></h3>
+<h3>{% include link-addendum-title.html %}</h3>
   
 <h4>{{ addendum.date | date: "%A, %B %e, %Y" }}</h4>
 
