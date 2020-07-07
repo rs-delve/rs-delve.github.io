@@ -1,5 +1,5 @@
 ---
-title: 'TTI-TD2: Surveillance for Test, Trace, Isolate'
+title: 'Surveillance for Test, Trace, Isolate'
 date: 2020-05-27 00:00:00 Z
 layout: addendum
 authors:
