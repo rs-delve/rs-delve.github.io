@@ -5,19 +5,19 @@ layout: data-software
 authors:
 - given: Aviskar
   family: Bhoopchand
-  url: /people/avishkar-bhoopchand.html
+  url: "/people/avishkar-bhoopchand.html"
 - given: Andrei
   family: Paleyes
-  url: /people/andrei-paleyes.html
+  url: "/people/andrei-paleyes.html"
 - given: Kevin
   family: Donkers
-  url: /people/kevin-donkers.html
+  url: "/people/kevin-donkers.html"
 - given: Nenad
   family: Tomasev
-  url: /people/nenad-tomasev.html
+  url: "/people/nenad-tomasev.html"
 - given: Ulrich
   family: Paquet
-  url: /people/ulrich-paquet.html
+  url: "/people/ulrich-paquet.html"
 abstract: This openly-licensed research-ready dataset consolidates country-level COVID-19
   data from multiple sources. It contains cases, deaths, tests, non-pharmaceutical
   interventions, excess mortality, mobility statistics, weather patterns and other

@@ -1,5 +1,6 @@
 ---
 title: Scoping Report on Hospital and Health Care Acquisition of COVID-19 and its Control
+date: 2020-07-06 00:00:00 Z
 report_number: 3
 layout: report
 abstract: "-   The focus of this report is on SARS-CoV-2 infection acquired in
