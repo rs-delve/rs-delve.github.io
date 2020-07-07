@@ -6,11 +6,11 @@ authors:
 - given: Genevie
   family: Fernandes
   institute: 
-  url: /people/genevie-fernandes.html
+  url: "/people/genevie-fernandes.html"
 - given: Devi
   family: Sridhar
   institute: 
-  url: /people/devi-sridhar.html
+  url: "/people/devi-sridhar.html"
 - given: Diva
   family: Fanian
   institute: 

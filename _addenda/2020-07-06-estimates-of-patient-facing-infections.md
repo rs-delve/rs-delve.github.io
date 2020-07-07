@@ -8,7 +8,7 @@ authors:
 - given: David
   family: Ellis
   institute: 
-  url: /people/david-ellis.html
+  url: "/people/david-ellis.html"
 report: NOS
 ref: TD1
 pdfonly: true
