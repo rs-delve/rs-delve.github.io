@@ -134,8 +134,8 @@ remaining asymptomatic. 52% of them were still PCR-positive at 8 days
 and 10% at 15 days. Thus, asymptomatic infected individuals can have
 nasopharyngeal viral carriage for several days.
 
-*The devastating effect of presymptomatic transmission is highlighted by
-a report of a Covid-19 outbreak at a Seattle care home.*[^7] *A high
+The devastating effect of presymptomatic transmission is highlighted by
+a report of a Covid-19 outbreak at a Seattle care home.[^7] A high
 rate of presymptomatic disease in care home residents allowed spread of
 infection to several facility wings. A total of 57 residents (64% of all
 residents) and 26 staff (18% of all staff) were infected. Infected staff
@@ -144,7 +144,7 @@ janitorial staff, many of whom worked in multiple facility wings. Eleven
 of the infected residents were hospitalised and 15 died. The lack of
 recognition of presymptomatic spread of infection, and the assumption
 that asymptomatic persons were not contagious, was the main factor that
-was linked to spread of infection in the facility.*
+was linked to spread of infection in the facility.
 
 ### New studies providing support for efficacy of masks in preventing onward transmission of SARS-CoV2
 
