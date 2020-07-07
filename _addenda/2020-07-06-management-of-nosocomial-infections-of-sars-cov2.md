@@ -8,7 +8,7 @@ authors:
 - given: Genevie
   family: Fernandes
   institute: 
-  url: 
+  url: /people/genevie-fernandes.html
 ref: TD2
 report: NOS
 abstract: 
