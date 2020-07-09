@@ -21,7 +21,9 @@ authors:
 - given: Yee Whye
   family: Teh
   url: "/people/yee-whye-teh.html"
-abstract: TTI-Explorer is a library for simulating infection spread. This library is built to explore the impact of various test-trace-isolate strategies and social distancing measures on the spread of COVID-19 in the UK.
+abstract: TTI-Explorer is a library for simulating infection spread. This library
+  is built to explore the impact of various test-trace-isolate strategies and social
+  distancing measures on the spread of COVID-19 in the UK.
 ---
 
 <button name="button"><a href="https://github.com/rs-delve/tti-explorer/"><i class="fab fa-github"></i>View on Github</a></button>
