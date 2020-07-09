@@ -3,27 +3,39 @@ title: Face Masks for the General Public
 date: 2020-05-04 00:00:00 Z
 layout: report
 report_number: 1
-abstract: 'Face masks could offer an important tool for contributing to the management
-  of community transmission of Covid19 within the general population. Evidence supporting
-  their potential effectiveness comes from analysis of: (1) the incidence of asymptomatic
-  and pre-symptomatic transmission; (2) the role of respiratory droplets in transmission,
-  which can travel as far as 1-2 meters; and (3) studies of the use of homemade and
-  surgical masks to reduce droplet spread. Our analysis suggests that their use could
-  reduce onward transmission by asymptomatic and pre-symptomatic wearers if widely
-  used in situations where physical distancing is not possible or predictable, contrasting
-  to the standard use of masks for the protection of wearers. If correctly used on
-  this basis, face masks, including homemade cloth masks, can contribute to reducing
-  viral transmission.
-
-'
+abstract: 'Face masks could offer an important tool for contributing to the
+  management of community transmission of Covid19 within the general
+  population. Evidence supporting their potential effectiveness comes
+  from analysis of: (1) the incidence of asymptomatic and
+  pre-symptomatic transmission; (2) the role of respiratory droplets
+  in transmission, which can travel as far as 1-2 meters; and (3)
+  studies of the use of homemade and surgical masks to reduce droplet
+  spread. Our analysis suggests that their use could reduce onward
+  transmission by asymptomatic and pre-symptomatic wearers if widely
+  used in situations where physical distancing is not possible or
+  predictable, contrasting to the standard use of masks for the
+  protection of wearers. If correctly used on this basis, face masks,
+  including homemade cloth masks, can contribute to reducing viral
+  transmission.'
+note: An earlier version of this document was communicated to SAGE in April 2020.
+update: /addenda/2020/07/07/masks-update.html
 ---
 
-*An earlier version of this document was communicated to SAGE in April
-2020.*
 
 
+### Table of Contents
 
-### Key points
+* [Key Points](#key-points)
+* [Policy Implications](#policy-implications)
+* [Areas where further investigation is needed](#areas-where-further-investigation-is-needed)
+* [Evidence Base](#evidence-base)
+* [Appendix: Mask policies in different countries](#appendix-mask-policies-in-different-countries)
+* [Additional Material](#additional-material){% assign addenda = site.addenda | sort: 'ref' %}{% for addendum in addenda  %}{% if addendum.report == 'MAS' %}
+  * [{{ addendum.title }}]({%if addendum.pdfonly %}{{ addendum.pdf }}{% else %}{{ addendum.url }}{%endif%}){% endif %}{% endfor %}
+* [Footnotes and References](#footnotes-and-references)
+
+
+## Key points
 
 1.  **Asymptomatic (including presymptomatic) infected individuals are
     infectious.** Without mitigation, the current estimate is that
@@ -74,7 +86,8 @@ evidence” should not be misinterpreted as “evidence of absence”, and in
 support of face mask usage by the public based on the precautionary
 principle.
 
-### Policy implications
+
+## Policy implications
 
 -   Strategies to transition out of lockdown need to take into account
     the role of both symptomatic and asymptomatic individuals in
@@ -134,7 +147,7 @@ Technical annexes to this document provide detailed analyses, review
 additional considerations, and highlight particular practical issues of
 importance.
 
-### Areas where further investigation is needed
+## Areas where further investigation is needed
 
 -   While there is good indirect supporting evidence that suggests
     droplets are a main transmission route, the relative contribution of
@@ -557,7 +570,25 @@ their testing criteria like Austria did in that period.
 </tbody>
 </table>
 
-## References
+## Additional Material
+
+The following is a list of additional material associated with this report from the DELVE initiative.
+
+{% assign addenda = site.addenda | sort: 'ref'  %}
+<ul>
+{% for addendum in addenda  %}
+{% if addendum.report == 'MAS' %}
+<li> {% include link-addendum-title.html %}
+  {% if addendum.authors %}
+{% assign authors=addendum.authors %}
+    <p><i>Prepared for the DELVE Initiative by {% include listauthors.html %}</i></p></li>
+{% endif %}
+{% endif %}
+{% endfor %}
+</ul>
+
+
+## Footnotes and References
 
 [^1]: He X *et al.* 2020 Temporal dynamics in viral shedding and
     transmissibility of COVID-19. Nat Med (doi:

@@ -3,8 +3,6 @@ title: Reports
 layout: default
 ---
 
-{% assign thedate = '' %}
-
 {% assign reports = site.reports | sort: 'date' | reverse %}
 {% for report in reports  %}
 
@@ -12,10 +10,12 @@ layout: default
   
 <h2>{{ report.date | date: "%A, %B %e, %Y" }}</h2>
 
-{% assign thedate = report.date | date: "%m-%d-%Y" %}
+{% if report.update %}
+<p><b><i>An update to this report is <a href="{{ report.update }}">available here.</a></i></b></p>
+{% endif %}
 
 <h2>Summary</h2>
-    {{ report.abstract | markdownify }}
+    {{ report.abstract | split:'<!--break-->' | first | markdownify }}
 	
     <p><a href="{{ report.url }}">Continued ...</a></p>
 
