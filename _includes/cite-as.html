@@ -1,17 +1,21 @@
-{% assign authors=page.authors %}
-{% if page.layout == "report" %}
+{% if entry %}
+{% else %}
+{% assign entry=page %}
+{% endif %}
+{% assign authors=entry.authors %}
+{% if entry.layout == "report" %}
 {% capture report_ref %}
-DELVE Report No. {{ page.report_number }}.
+DELVE Report No. {{ entry.report_number }}.
 {% endcapture %}
-{% elsif page.layout == "addendum" %}
+{% elsif entry.layout == "addendum" %}
 {% capture report_ref %}
-DELVE Addendum {{ page.report }}-{{ page.ref }}.
+DELVE Addendum {{ entry.report }}-{{ entry.ref }}.
 {% endcapture %}
-{% elsif page.layout == "data-software" %}
+{% elsif entry.layout == "data-software" %}
 {% capture report_ref %}
 {% endcapture %}
 {% endif %}
-{% if page.authors %}
+{% if entry.authors %}
 {% capture report_authors %}
 {% include listauthors.html %}
 {% endcapture %}
@@ -22,5 +26,5 @@ DELVE Initiative
 {% endif %}
 <p>Cite as:
 
-{{ report_authors }} ({{ page.date | date: '%Y' }}), <i>{{ page.title }}</i>. {{ report_ref }} Published {{ page.date | date: '%d %B %Y' }}. Available from <a href="{{ site.url }}{{ site.baseurl}}{{ page.url }}">{{ site.url }}{{ site.baseurl}}{{ page.url }}</a>.</p>
+{{ report_authors }} ({{ entry.date | date: '%Y' }}), <i>{{ entry.title }}</i>. {{ report_ref }} Published {{ entry.date | date: '%d %B %Y' }}. Available from <a href="{{ site.url }}{{ site.baseurl}}{{ entry.url }}">{{ site.url }}{{ site.baseurl}}{{ entry.url }}</a>.</p>
 
