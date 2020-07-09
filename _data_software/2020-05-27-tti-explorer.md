@@ -34,7 +34,7 @@ Our model builds upon the model of Kucharski et al. (2020). We use the BBC Pande
 
 This work was conducted for the Test, Trace, Isolate project as part of the Royal Society's DELVE initiative. This repository facilitiates simulations for a technical report which can be found here. These simulations inform the report for the Test, Trace, Isolate project which can be found here. Exact version of this repo used in the report is available as a tag.
 
-For an introduction to the functionality offered by tti-explorer, start with the (tti-experiment notebook)[https://colab.research.google.com/github/rs-delve/tti-explorer/blob/master/notebooks/tti-experiment.ipynb].
+For an introduction to the functionality offered by TTI-explorer, start with the (TTI-experiment notebook)[https://colab.research.google.com/github/rs-delve/tti-explorer/blob/master/notebooks/tti-experiment.ipynb].
 
 ## Further information
 
