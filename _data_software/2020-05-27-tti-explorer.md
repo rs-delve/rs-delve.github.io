@@ -1,5 +1,5 @@
 ---
-title: tti-explorer simulation software
+title: TTI-Explorer Simulation Software
 date: 2020-05-27 00:00:00 Z
 layout: data-software
 authors:
