@@ -6,5 +6,5 @@ DELVE – Data Evaluation and Learning for Viral Epidemics – is a multi-discip
  
 Findings from the DELVE project will be posted on this site, with the aim of informing the development of strategic approaches to managing the covid-19 pandemic. These reports reflect understandings at the time of publication. As our scientific understanding of covid-19 and the pandemic develops, new insights will emerge of relevance to many of the reports posted on these pages.
  
-Publications are posted to the [reports page](./reports.html) as they become available.
+Publications are posted to the [reports page](./reports.html) as they become available, with supporting technical information on the [addenda page](./addenda.html).
  

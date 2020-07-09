@@ -7,6 +7,10 @@ layout: default
 {% for entry in entries  %}
 
 <h1><a href="{{ entry.url }}">{{ entry.title }}</a></h1>
+
 {{ entry.abstract | markdownify }}
+
+{% include cite-as.html %}
+
 
 {% endfor %}
