@@ -13,11 +13,12 @@ abstract: |-
   -   At present, there is no single organisation with clear oversight of hospital-related infection surveillance, monitoring and response. Data obtained from surveillance, monitoring and outbreak investigations need to feed into epidemiological and modelling research, including to evaluate interventions. There remain significant opportunities to link epidemiological and phylogenetic datasets to improve the ability to identify and respond to changing epidemic dynamics.
   -   In recent weeks, there have been significant improvements reported in data collection and prevention of hospital acquired infection, but the data are not yet publicly available to assess the impact of changes and these are urgently needed.
   -   The report considers what further actions are needed to build comprehensive surveillance and infection control systems, with awareness that this would require further resources and expert support to the hospital, public health and care sectors. It sets out a suggested framework for effective centralised surveillance and monitoring of hospital acquired infections, linked to rapid infection control responses with sharing of best practice, coordinated through local teams. In the medium-term, we envisage an ambitious and comprehensive approach to prevention of infection transmitted through respiratory droplets and aerosol routes in hospitals, of the breadth and scale successfully implemented for methicillin-resistant *Staphylococcus aureus* (MRSA).
-note: "This paper has drawn on evidence available up to 28 June 2020. Further evidence on this topic is constantly published and DELVE may return to this topic in the future. This independent overview of the science has been provided in good faith by subject experts. DELVE and the Royal Society accept no legal liability for decisions made based on this evidence."
+note: This paper has drawn on evidence available up to 28 June 2020. Further evidence
+  on this topic is constantly published and DELVE may return to this topic in the
+  future. This independent overview of the science has been provided in good faith
+  by subject experts. DELVE and the Royal Society accept no legal liability for decisions
+  made based on this evidence.
 ---
-
-
-
 
 ### Table of Contents
 
