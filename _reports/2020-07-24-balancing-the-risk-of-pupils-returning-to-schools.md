@@ -1212,7 +1212,7 @@ measures[^47]. A review of the approaches used by countries which are at
 more advanced stages of the outbreak or who have lower cases of COVID-19
 may offer lessons for the UK. In this summary, the school policies used
 in seven countries were analysed: Germany, France, Spain, Italy,
-Denmark, Israel, New Zealand, and Australia (see Appendum TD1 for detailed
+Denmark, Israel, New Zealand, and Australia (see [Addendum TD1](/addenda/2020/07/24/international-comparisons-of-school-policies.html) for detailed
 country profiles). Other countries that used notably different
 interventions are also noted.
 

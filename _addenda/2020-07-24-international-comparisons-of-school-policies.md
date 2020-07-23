@@ -1043,30 +1043,30 @@ In Israel, children cannot check books out of libraries, share food, borrow penc
 
 **Sources:**
 
-1.  **The Times of Israel (2020) Education Ministry proposes reopening
+1.  The Times of Israel (2020) Education Ministry proposes reopening
     some schools starting May 3. Available at:
     <https://www.timesofisrael.com/education-ministry-proposes-reopening-some-schools-starting-may-3/>
-    \[Accessed June 30 2020\].**
+    \[Accessed June 30 2020\].
 
-2.  **Reuters (2020) Israeli children can go back to school from
+2.  Reuters (2020) Israeli children can go back to school from
     Sunday - Netanyahu. Available at:
     <https://uk.reuters.com/article/uk-health-coronavirus-israel-schools/israeli-children-can-go-back-to-school-from-sunday-netanyahu-idUKKBN22Q356>
-    \[Accessed June 30 2020\].**
+    \[Accessed June 30 2020\].
 
-3.  **Ministry of Education (2020) *<span dir="rtl">פורטל</span> <span
+3.  Ministry of Education (2020) *<span dir="rtl">פורטל</span> <span
     dir="rtl">הורים</span>* \[online\] Available at:
     <https://parents.education.gov.il/prhnet/parents/safety-emergency/back-to-school>
-    \[Accessed June 25 2020\].**
+    \[Accessed June 25 2020\].
 
-4.  **Sheva, A. (2020) *493 cases of coronavirus in Israel's schools and
+4.  Sheva, A. (2020) *493 cases of coronavirus in Israel's schools and
     preschools - Inside Israel* \[online\] Available at:
     <https://www.israelnationalnews.com/News/News.aspx/281786>
-    \[Accessed June 25 2020\].**
+    \[Accessed June 25 2020\].
 
-5.  **The Economist (2020) *The Middle East is fighting a second wave of
-    COVID-19* \[online\] \[Accessed June 25 2020\].**
+5.  The Economist (2020) *The Middle East is fighting a second wave of
+    COVID-19* \[online\] \[Accessed June 25 2020\].
 
-6.  **Discussion with local government source.**
+6.  Discussion with local government source.
 
 7.  Clalit Health Services, (2020). חולי קורונה בישראל: תמונת מצב \|
     שירותי בריאות כללית. Available at:
