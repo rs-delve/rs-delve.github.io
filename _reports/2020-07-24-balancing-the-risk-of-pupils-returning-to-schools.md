@@ -1586,7 +1586,7 @@ such as life chances, earnings, health and mortality.
 
 ### a. What we know
 
-1.  *Estimates of expected learning loss*
+#### i. Estimates of expected learning loss
 
 Even a relatively short time in school increases a child’s cognitive
 ability; even a relatively short period of missed school will therefore
@@ -1734,7 +1734,7 @@ In summary, the skills loss from missing school is not trivial, and is
 likely to lead to lower earnings, higher risk of poverty and
 unemployment with impacts on health and life expectancy.
 
-1.  *Variation in learning loss*
+#### ii. Variation in learning loss
 
 The actual loss of learning in the current pandemic will vary by
 context, depending on what schools and families have been able to
@@ -1838,7 +1838,7 @@ more likely to have lower levels of educational outcomes and, as
 discussed in the next section, more likely to experience learning loss
 during the pandemic.
 
-1.  *Variation in schooling and home support during the pandemic*
+#### iii. Variation in schooling and home support during the pandemic
 
 It is important to understand why school closures are likely to have
 impacted on children’s learning and specifically why they might have
