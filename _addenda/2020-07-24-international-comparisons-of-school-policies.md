@@ -1,5 +1,5 @@
 ---
-title: International comparisons of school policies 
+title: International comparisons of school policies
 date: 2020-07-24 00:00:00 Z
 layout: addendum
 authors:

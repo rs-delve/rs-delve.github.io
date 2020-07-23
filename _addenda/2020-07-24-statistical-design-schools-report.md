@@ -1,9 +1,10 @@
 ---
-title: Statistical designs for studies seeking to understand COVID-19 transmission in schools
+title: Statistical designs for studies seeking to understand COVID-19 transmission
+  in schools
 date: 2020-07-24 00:00:00 Z
 layout: addendum
 authors:
-- given: Richard 
+- given: Richard
   family: Wilkinson
   institute: 
   url: "/people/rich-wilkinson.html"
