@@ -63,7 +63,7 @@ note: This paper has drawn on evidence available up to 10 July 2020. Further evi
   2. [Opening Schools Safely](#2-opening-schools-safely)
   3. [Learning loss from school closures](#3-learning-loss-from-school-closures)
   4. [Measures of other losses](#4-measures-of-other-losses)
-  5. [Commentary on the Government’s school opening plan & next steps](#5-commentary-on-the-governments-school-opening-plan-next-steps)
+  5. [Commentary on the Government’s school opening plan & next steps](#5-commentary-on-the-governments-school-opening-plan--next-steps)
 * [Technical Appendices](#technical-appendices){% assign addenda = site.addenda | sort: 'ref' %}{% for addendum in addenda  %}{% if addendum.report == 'SCH' %}
   * [{{ addendum.title }}]({%if addendum.pdfonly %}{{ addendum.pdf }}{% else %}{{ addendum.url }}{%endif%}){% endif %}{% endfor %}
 * [Appendix: Estimates of the socio-economic gaps in learning](#appendix-estimates-of-the-socio-economic-gaps-in-learning)
@@ -1703,7 +1703,7 @@ affected by the lockdown, so from the mid-2030s, all workers in their
 And for the 50 years following that, around a quarter of the entire
 workforce will have lower skills, with a consequently lower growth rate.
 The present value of such a fall in the growth rate is measured in
-billions not millions. Turning again to Jaume and Willén (2019)[^78],
+billions not millions. Turning again to Jaume and Willén (2019)[^77],
 they estimate the aggregate earnings loss in Argentina from lower skills
 if $2.34 billion per year.
 
@@ -1913,7 +1913,7 @@ planned[^101]<sup>.</sup>
 
 NFER have kindly shared early findings with us and full details can be
 found in Julius and Sims (2020), Lucas et al. 2020 and Sharp et al.
-2020[^102]<sup>.</sup> Findings include:
+2020[^102]<sup>,</sup>[^102a]. Findings include:
 
 -   In May 2020, teachers reported being in regular contact with, on
     average, 60 percent of their pupils. However, less than half of
@@ -3002,8 +3002,7 @@ anonymous school leaders.
     10.2807/1560-7917.ES.2020.25.21.2000903](https://doi.org/10.2807/1560-7917.ES.2020.25.21.2000903).
 
 [^30]: Fontanet, A. et al (2020) Cluster of Covid-19 in Northern France:
-    A retrospective closed cohort study. *medRxiv* preprint, 23 April
-    2020. [doi:
+    A retrospective closed cohort study. *medRxiv* preprint, 23 April 2020. [doi:
     10.1101/2020.04.18.20071134](https://doi.org/10.1101/2020.04.18.20071134).
 
 [^31]: Kadari-Ovadia, S. et al. (2020) Schools in Jerusalem shut as
@@ -3225,15 +3224,9 @@ anonymous school leaders.
     Strikes: Evidence from Argentina. Journal of Labor Economics vol.
     37(4) pp. 1097 – 1139
 
-[^78]: Jaume, D. and Willén, A. (2019) The Long-Run Effects of Teacher
-    Strikes: Evidence from Argentina. Journal of Labor Economics vol.
-    37(4) pp. 1097 – 1139
 
 [^79]: Office for National Statistics (2014) Intergenerational
-    transmission of disadvantage in the UK & EU. Available at:
-
-    [<span
-    class="underline">http://webarchive.nationalarchives.gov.uk/20160105160709/http://www.ons.gov.uk/ons/rel/household-income/intergenerational-transmission-of-poverty-in-the-uk---eu/2014/sty-causes-of-poverty-uk.html</span>](http://webarchive.nationalarchives.gov.uk/20160105160709/http:/www.ons.gov.uk/ons/rel/household-income/intergenerational-transmission-of-poverty-in-the-uk---eu/2014/sty-causes-of-poverty-uk.html).
+    transmission of disadvantage in the UK & EU. Available at: <http://webarchive.nationalarchives.gov.uk/20160105160709/http:/www.ons.gov.uk/ons/rel/household-income/intergenerational-transmission-of-poverty-in-the-uk---eu/2014/sty-causes-of-poverty-uk.html>.
     Note that the ONS explicitly set this as the effect of education
     directly: “… the Individual’s assessment of their childhood
     household financial situation is not a significant predictor of
@@ -3353,7 +3346,9 @@ anonymous school leaders.
     Responses to Covid-19: Pupil Engagement in Remote Learning*.
     \[online\]. Available at: [<span
     class="underline">https://www.nfer.ac.uk/media/4073/schools\_responses\_to\_COVID\_19\_pupil\_engagement\_in\_remote\_learning.pdf</span>](https://www.nfer.ac.uk/media/4073/schools_responses_to_covid_19_pupil_engagement_in_remote_learning.pdf)
-    \[19 June 2020\]. Sharp, C., Sims, D and Rutt, S. (2020). *School’s
+    \[19 June 2020\]. 
+	
+[^102a]: Sharp, C., Sims, D and Rutt, S. (2020). *School’s
     Responses to Covid-19: Returning Pupils to School* \[online\].
     Available at: [<span
     class="underline">https://www.nfer.ac.uk/media/4060/schools\_responses\_to\_‌COVID\_19\_early\_report\_final.pdf</span>](https://www.nfer.ac.uk/media/4060/schools_responses_to_covid_19_early_report_final.pdf)
@@ -3601,8 +3596,7 @@ anonymous school leaders.
     Sheffield; 7 May 2020 2020.
 
 [^151]: XenZone (2020) *Week 14: How Covid-19 is Affecting the Mental
-    Health of Young People in the BAME Community. Published* 11 June
-    2020. Available at:
+    Health of Young People in the BAME Community. Published* 11 June 2020. Available at:
     <https://xenzone.com/wp-content/uploads/2020/06/BAME_infographic_June-2020_WEB-v2.pdf>
 
 [^152]: Viner, R., Patalay, P., Nicholls, D. et al. (2020) *You-COPE:
@@ -3790,7 +3784,6 @@ anonymous school leaders.
     Population. SSRN 3624264. [doi:
     10.1016/S2215-0366(20)30308-4](https://doi.org/10.1016/S2215-0366(20)30308-4)
 
-[^185]: UK Government (2020) *Education plans from September
-    2020* Available at
+[^185]: UK Government (2020) *Education plans from September 2020* Available at
     <https://www.gov.uk/guidance/education-plans-from-september-2020>
     \[Accessed 9 July 2020\].
