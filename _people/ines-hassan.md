@@ -1,5 +1,5 @@
 ---
-title: Ines Hassan
+title: Inès Hassan
 layout: person
 given: Inès
 family: Hassan
@@ -9,4 +9,4 @@ actionteam: true
 twitter: drineshassan1
 ---
 
-Dr Hassan is studyig the MSc in Global Health in Edinburgh following an industrial career in the pharmaceutical industry.
+Dr Hassan is studying the MSc in Global Health in Edinburgh following an industrial career in the pharmaceutical industry.

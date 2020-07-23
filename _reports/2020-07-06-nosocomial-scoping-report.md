@@ -4,7 +4,7 @@ title: Scoping Report on Hospital and Health Care Acquisition of COVID-19 and it
 date: 2020-07-06 00:00:00 Z
 report_number: 3
 layout: report
-abstract: |-
+abstract: |
   -   The focus of this report is on SARS-CoV-2 infection acquired in hospital. It is timed to inform decisions about the opening up of hospitals and other healthcare settings for non-COVID-19 activities and NHS plans for winter and future waves of COVID-19.
   -   Transmission of COVID-19 in hospitals and social care settings in patients, residents and staff has been recognised as an important feature of the COVID-19 epidemic throughout the world; efforts to prevent infections have had varying success. Transmissions early in the epidemic reflected evolving understanding of the disease (e.g., the risk of asymptomatic infection and role of masks in source control) and limited access to testing and personal protective equipment.<!--break-->
   -   Infections in hospital have important implications for infection outcomes (hospitalised patients and some staff are at higher risk), workforce planning (healthcare workers being unable to work during peak pressure periods), and amplification of community transmission (through discharge of infectious patients and transmission to families and other contacts from healthcare workers and patients).
@@ -548,6 +548,11 @@ of non-respiratory pathogens like hepatitis B, methicillin-resistant
 insufficient to prevent SARS-CoV-2 which appears to transmit
 predominantly through the respiratory droplet route.
 
+A. cat
+   1. Dog
+      * Fish
+   2. Apple
+
 # 5. Successful infection control practices for COVID-19
 
 There is much publicly available guidance on specific infection
@@ -562,90 +567,88 @@ routes shown in Figure 1.
 
 1.  Minimise risk of importation into hospitals
 
-    1.  Consistent and reasonable limits on visitors (varying by local
+    a.  Consistent and reasonable limits on visitors (varying by local
         epidemic state)
 
-    2.  Minimise agency/multi-site staffing and staff movements
+    b.  Minimise agency/multi-site staffing and staff movements
         between sites (including hospitals, care homes and other
         institutions) as practical
 
-    3.  Entry screening, or self-certification, of staff, patients and
+    c.  Entry screening, or self-certification, of staff, patients and
         visitors for signs and symptoms of COVID-19 infection[^53]
 
-    4.  Maximise use of telemedicine and remote consultations
+    d.  Maximise use of telemedicine and remote consultations
 
-2.  Minimise risk of transmission within hospitals
+2. Minimise risk of transmission within hospitals
+   1. Aerosol/droplet transmission
+      1.  Requirements to wear surgical/cloth masking by staff,
+          visitors and patients wherever feasible, for source control;
+          in addition to staff masking for wearer-protection in
+          specific high-risk settings[^54]
 
-    1.  Aerosol/droplet transmission
+      2.  Organise hospitals into COVID-19 stratified “hot” and
+          “cold” zones, or entire hospitals into “hot” and “cold”
+          hospitals if feasible
 
-        1.  Requirements to wear surgical/cloth masking by staff,
-            visitors and patients wherever feasible, for source control;
-            in addition to staff masking for wearer-protection in
-            specific high-risk settings[^54]
+	   iii.  Cohort staff to limit physical overlap and movement
+          between zones if possible, i.e., “bubbling”
 
-        2.  Organise hospitals into COVID-19 stratified “hot” and
-            “cold” zones, or entire hospitals into “hot” and “cold”
-            hospitals if feasible
+       iv.  Limits on communal activities for healthcare workers
+          (break rooms, cafeteria) and maintenance of physical
+          distancing
 
-        3.  Cohort staff to limit physical overlap and movement
-            between zones if possible, i.e., “bubbling”
+       v.  Move Multidisciplinary Team and other meetings online as
+          much as possible
 
-        4.  Limits on communal activities for healthcare workers
-            (break rooms, cafeteria) and maintenance of physical
-            distancing
+       vi.  Maximise use of remote consultations for outpatients
 
-        5.  Move Multidisciplinary Team and other meetings online as
-            much as possible
+       vii.  Maintain effective airflow handling systems (acknowledging
+          building infrastructure limits)
 
-        6.  Maximise use of remote consultations for outpatients
+       viii.  Physical distancing, especially in likely hotspots
+          (e.g., waiting rooms, triage locations, A&E, corridors,
+          lifts, staff lounges, canteens or cafeterias)
+    
+	b. Contact transmission
 
-        7.  Maintain effective airflow handling systems (acknowledging
-            building infrastructure limits)
+      i.  Repeated frequent handwashing for everyone present in
+          facility
 
-        8.  Physical distancing, especially in likely hotspots
-            (e.g., waiting rooms, triage locations, A&E, corridors,
-            lifts, staff lounges, canteens or cafeterias)
+      ii.  Ensuring access to appropriate personal protective
+          equipment for all staff
 
-    2.  Contact transmission
+      iii.  Training on donning and doffing personal protective
+          equipment (e.g., masks, gowns, gloves, visors), and
+          mandating staff use as appropriate
 
-        1.  Repeated frequent handwashing for everyone present in
-            facility
+      iv.  Reduced sharing of equipment (e.g., computer keyboards)
 
-        2.  Ensuring access to appropriate personal protective
-            equipment for all staff
-
-        3.  Training on donning and doffing personal protective
-            equipment (e.g., masks, gowns, gloves, visors), and
-            mandating staff use as appropriate
-
-        4.  Reduced sharing of equipment (e.g., computer keyboards)
-
-        5.  Expanded and improved environmental cleaning procedures
-            (including exploring novel methods such as UV light,
-            antiviral surfaces, optimum surfaces)
+      v.  Expanded and improved environmental cleaning procedures
+          (including exploring novel methods such as UV light,
+          antiviral surfaces, optimum surfaces)
 
 3.  Minimise risk of outbreak occurrence and expansion within
     hospital
 
-    1.  Active clinical surveillance of patients for the development
+    a.  Active clinical surveillance of patients for the development
         of COVID-19 infection
 
-    2.  Prompt isolation, testing, investigation and contact tracing
+    b.  Prompt isolation, testing, investigation and contact tracing
         of infected healthcare workers
 
-    3.  Prompt quarantine of healthcare workers and patients with
+    c.  Prompt quarantine of healthcare workers and patients with
         significant exposure to known cases, and self-monitoring for
         those with lesser exposure
 
-    4.  Rapid and standardised outbreak investigations and
+    d.  Rapid and standardised outbreak investigations and
         reporting, including root-cause analysis
 
-    5.  Provision of sick leave without penalty or prejudice based on
+    e.  Provision of sick leave without penalty or prejudice based on
         symptoms (including contract staff)
 
 4.  Minimise risk of exportation from hospitals
 
-    1.  Testing/quarantining of patients being discharged to own home
+    a.  Testing/quarantining of patients being discharged to own home
         or institutional care
 
 The simultaneous use of overlapping infection control measures has made
