@@ -2303,7 +2303,7 @@ still limited but there is some useful data on child and youth mental
 health and on the impact of lockdown and school closures on parents’
 time use and their paid work, which we review below.
 
-#### i.  *Impact on child health*
+#### i. Impact on child health
 
 Early evidence from during the pandemic suggests that children do report
 that they miss being in school. It is young people (adolescents) who are

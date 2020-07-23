@@ -212,116 +212,116 @@ In Israel, children cannot check books out of libraries, share food, borrow penc
 <tr class="odd">
 <td>Total population</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>82.79 million</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td>Date of first reported case of COVID-19</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>January 2020</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>Epidemiological situation on 22nd June 2020</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Confirmed cases: 192,119</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Active cases: 7,850</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Deaths: 8,969</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Recovered: 175,300</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td>School closures</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Although some states closed schools from February, on a national level schools were closed on 16th March 2020. There were 1,214 active COVID-19 cases and 13 deaths in the country when this decision was made. The children of essential workers were able to attend throughout the closures.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>School opening macro policies</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>The federal government announced on 20th April that states should reopen schools using a staggered approach by May 6th 2020 – 7 weeks after closing – allowing for physical distancing measures to be implemented. This announcement was made when there were 1,323 active cases of COVID-19 in the country.</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>However, there was no federal or regional approach to school openings. A decentralised and inconsistent approach was implemented across the country. For example, from 24th April, some state schools reopened to students in the final two years of school e.g. in North Rhine-Westphalia, a state that had one of the highest rates of Covid-19 cases in the country, while others only used online learning tools.</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Although the majority of schools are now open, classes are not yet operating at full capacity in most states. There are some exceptions, e.g. in the state of Hessen, all primary schools are operating at full capacity with no distancing measures in place.</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Attendance is not currently mandatory.</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Education ministers published a strategy paper on the 28th of March recommending that schools open for all students after the summer holidays, i.e. in August with blended learning measures in place. Initial plans to continue implementing physical distancing measures after the summer break has since been abandoned by most states to allow schools to operate at full capacity, following advice from the Conference of Education Ministers (KMK) in June. This was announced when there were approximately 7,300 active cases, 534 new cases and 14 daily deaths across the country.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td>School opening micro policies</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Although the majority of schools are now open, classes are typically divided into smaller groups to allow for distancing measures to continue. The majority of students are still learning through online-distancing tools. However, schools in some states, e.g.in Hessen have opened all primary schools at full capacity with no distancing measures.</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>The RKI – the official public health body- and later the government provided non-statutory guidance on the use of non-pharmaceutical interventions (NPI) for schools to prevent the further spread of Covid-19 as detailed in Table 2.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>Facilitators</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Large-scale community testing has made it easy for Germany to track the source of outbreaks. This has enabled local school closures where necessary.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td>Challenges</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>A decentralised approach to school openings has made it difficult to keep track of useful interventions</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>There have been a number of changes to national guidance and state approach which has been confusing for schools and families.</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Once schools open at full capacity in August, a typically large number of children in classrooms – up to 32 – will increase the likelihood of transmission</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>Outcomes to date</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>In May, the reproduction rate (Ro) rose above 1 once schools and other sectors reopened. This was not attributed to school settings and</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Localised closures are being implemented at varying levels in accordance with the number infections, e.g. in mid-to-late June:</p>
-</blockquote>
+
 <ul>
-<li><blockquote>
+<li>
 <p><strong>City-wide school closures:</strong> Schools and daycare centres in the German district of Gütersloh closed after an outbreak of 400-657 cases at a local meat factory</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p><strong>Neighbourhood closures:</strong> Several schools in Madeburg, Saxony-Anhalt were closed after an accumulation of ~60 new cases in a few days.</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p><strong>Individual school closures:</strong> In Wuppertal, North Rhine-Westphalia, a primary school was forced to close after new infections were detected</p>
-</blockquote></li>
+</li>
 </ul></li>
 </ul></td>
 </tr>
@@ -378,70 +378,70 @@ In Israel, children cannot check books out of libraries, share food, borrow penc
 <tr class="odd">
 <td>Total population</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>5.79 million</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td>Date of first reported case of COVID-19</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>22 February 2020</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>Epidemiological situation on 22nd June 2020</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Confirmed: 12,561</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Active cases: 578</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Deaths: 603</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Recovered: 11,393</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td>School closures</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Schools closed on 23rd March 2020. This decision was made when there were 1,144 active cases and 6 daily deaths in the country.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>School opening macro policies</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>The government recommended that schools partially open from 15th April 2020, after one month of closures, when municipalities considered it safe.</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Day-care facilities, pupils from pre-school (&lt;3 years old) to fifth grade (11 years old) and those with special needs from all grades were also able to return to school from this date. Before and after-school care (for pupils up to the fifth grade) opened at the same time.</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>The approach was agreed with teachers’ unions, local authorities and municipalities. However, most municipalities opened on the following week when health they were confident that associated health requirements could be met.</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>On 19th June 2020, the National Board of Health and the Ministry of Children and Education updated guidelines that will relax distancing rules and allow schools to operate at normal capacity from 1st August 2020. This was announced when there were 509 active cases, 47 new cases and 0 daily deaths.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td>School opening micro policies</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Before schools opened, the Ministry of Children and Education and the Ministry of Health issued statutory guidelines for the safe reopening process taking into account the need to maintain good health at day-care facilities and schools. This included the use of outdoor spaces, e.g. a football stadium to ensure classes could be taught without compromising on distancing rules. See Table 2 for an overview of these guidelines.</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>As explained above, these rules will be relaxed from 1st August 2020. This includes no mandatory distancing measures.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -456,26 +456,26 @@ In Israel, children cannot check books out of libraries, share food, borrow penc
 <tr class="even">
 <td>Challenges</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>All guidelines are non-statutory which may result in varying approaches across the schools in the country.</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>There was hesitation from parents in the first few weeks. However, the public “mood” shifted and parents are more open to sending their children to schools</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>Outcome to date</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Two weeks after schools – and other sectors - opened, the Danish authorities previously reported an increase in the reproduction (R) rate of Covid-19, from 0.6 to 0.9 per cent. However, there were no signs that the partial reopening of schools had caused a bigger spread of infection.” Importantly, R had fallen to 0.7 in the first week of May according to the Statens Serum Institut (SSI)</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>On June 24th, nine weeks after schools opened the active number of cases has continued to fall, indicating that schools opening may not be contributing to major transmissions in cases</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>In June, an “outbreak” resulted in infections in 34 persons in the town of Hjørring. Pupils and teachers from a few classes in two schools were sent into isolation. There was no widespread school closures. Other than that, schools have not been associated with an increased transmission of the virus.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 </tbody>
@@ -536,82 +536,82 @@ In Israel, children cannot check books out of libraries, share food, borrow penc
 <tr class="odd">
 <td>Total population</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>60.42 million</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td>Date of first reported case of COVID-19</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>31st January 2020</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>Epidemiological situation on 22nd June 2020</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Confirmed cases: 238,833</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Active cases: 19,573</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Deaths: 34,675</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Recovered: 184,585</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td>School closures</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Although some municipalities closed schools from January, on 4th March schools were closed nationwide. There were 2,705 active COVID-19 cases and 28 daily deaths in the country when this decision was made.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>School opening macro policies</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>On 20th April, the federal proposed to Regions that schools should open after the summer break on 14th September 2020. Leaving pupils without in-person instruction for 6 months.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td>School opening micro policies</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Government guidance on the school's approach to reopening will be released on 25th June. In an earlier draft released at the end of May, it outlined physical distancing and enhanced hygiene measures would be used. It was proposed that masks would be worn in schools and visitor and parents would not be allowed on site. Practice runs have been held in some regions to ensure physical distancing measures, in particular, can be upheld.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>Facilitators</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Although, the long school closure period is detrimental to children, it does allow schools sufficient time to prepare for new distancing, hygiene and reporting measures. For example, Italy only launched its contact tracing app in June, leaving sufficient time to iron out any teething issues before schools open in the autumn.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td>Challenges</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Schools have the autonomy to decide how they will manage distancing and other NPI measures once they open, which may lead to inconsistent approaches and suboptimal outcomes in more deprived neighbourhoods.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>Outcomes to date</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>N/A</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 </tbody>
@@ -664,65 +664,65 @@ In Israel, children cannot check books out of libraries, share food, borrow penc
 <tr class="odd">
 <td>Total population</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>66.98 million</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td>Date of first reported case of COVID-19</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>24th January 2020</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>Epidemiological situation on 22nd June 2020</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Confirmed cases: 161,348</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Active cases: 56,490</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Deaths: 29,731</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Recovered: 75,127</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td>School closures</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Schools closed across the country on March 16th when there were 6,473 active cases of COVID-19 and 148 daily deaths.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>School opening macro policies</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Decisions were made on a national level, although responsibility is with local authorities and decentralised state services.</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>80-85% schools (1.4 million pupils) across the country opened from May 11th to May 18th combining in-person and online learning.</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Children in kindergarten and primary schools were first to return; administrators were told to prioritise instruction for children ages 5, 6 and 10. Middle schools gradually opened in administrative divisions that were labelled as “green zones” and that had relatively low infection rates. High schools and vocational colleges opened a week later, starting with years 5 and 6. Students with disabilities, those with poor grades, and those whose parents are key workers were also prioritised.</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Places were not guaranteed, while smaller classes sizes were being accommodated.</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>On 15th June, the government announced that all schools had to open at full capacity from 22nd June when physical distancing measures could be relaxed. However, this excludes those in lycées (aged 15-18). Attendance is now compulsory.</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>The school calendar for the remainder of the year has not been updated, and the summer break will begin on 4th July.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -741,20 +741,20 @@ In Israel, children cannot check books out of libraries, share food, borrow penc
 <tr class="even">
 <td>Challenges</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Containment challenges early on resulted in an increased number of cases, and hospital capacity/PPE challenges delaying lockdown easing.</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>The division of the country into zones may cause greater inequalities in health as the area less able to cope with increased infection rates will likely be in less well-resourced areas.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>Outcomes to date</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>After the initial phased opening of schools, when 1.4 million children had returned to school (30% attendance rate), a flare-up of 70 cases of COVID-19 was reported among students. Individual schools were subsequently shut down to allow for isolation. Given that the incubation period for the virus is several days, it was generally believed that the children were infected outside of a school setting.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 </tbody>
@@ -828,85 +828,85 @@ In Israel, children cannot check books out of libraries, share food, borrow penc
 <tr class="odd">
 <td>Total population</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>46.94 million</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td>Date of first reported case of COVID-19</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>31 January 2020</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>Epidemiological situation on 22nd June 2020</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Confirmed cases: 294,166</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Active cases: 68,881</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Deaths: 28,327</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Recovered: N/A</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td>School closures</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Schools closed across the country on 10th March alongside other sectors. There were 1,622 total COVID-19 cases, 10 new daily cases and 35 daily deaths in the country at this time.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>School opening macro policies</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Phased school openings have been in place since May 25th enabling a limited group of children to attend school in person and the remainder taught through distance learning (online/TV). When schools first open there were 482 daily new cases and 42 daily deaths.</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>At the Education Sector Conference of June 11, a draft guideline on schools reopening was presented for the 2020-21 academic year which begins in September. The guidelines - which incorporated the input of the autonomous regional administrative divisions - prioritises face-to-face teaching at full capacity.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td>School opening micro policies</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Although, the draft guidelines from the Education Sector Conference outlines that all pupils are to return to school from September, this will still be a combination of blended learning - online and in-person -and some distancing measures will be in place. See Table 2.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>Facilitators</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Much like Italy, although, the long school closure period is detrimental to children, it does allow schools sufficient time to prepare for new distancing, hygiene and reporting measures.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td>Challenges</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Not all schools have been able to fulfil the minimum compulsory teaching days since March. Although, an effort is being made to provide additional support now, not all schools and households have the right technology to enable online distance learning.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>Outcomes to date</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>N/A</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 </tbody>
@@ -953,83 +953,83 @@ In Israel, children cannot check books out of libraries, share food, borrow penc
 <tr class="odd">
 <td>Total population</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>8.84 million</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td>Date of first reported case of COVID-19</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>21 February 2020</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>Epidemiological situation on 22nd June 2020</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Confirmed cases: 22,044</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Active cases: 5,796</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Deaths: 308</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Recovered: 15,940</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td>School closures</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Schools closed across the country on 12th March before other limitations were posed on other sectors. There were 1,622 total COVID-19 cases, 10 new daily cases and 35 daily deaths in the country at this time.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>School opening macro policies</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>On 3rd May 2020, children in grades 1-3 and 11-12 were allowed to return to school for phased in-person teaching from 3rd May or to attend revision classes before key exams.</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>One week later, nurseries and kindergartens opened on a full-week or rotating half-week schedule, respectively.</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>The move was initially boycotted by several municipalities and many parents who cited poor government preparation</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td>School opening micro policies</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Classes were limited in size and mask-wearing was compulsory. School attendance was optional for all children, except for those taking matriculation exams.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>Facilitators</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Much like Italy, although, the long school closure period is detrimental to children, it does allow schools sufficient time to prepare for new distancing, hygiene and reporting measures.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td>Challenges</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Not all schools have been able to fulfil the minimum compulsory teaching days since March. Although, an effort is being made to provide additional support now, not all schools and households have the right technology to enable online distance learning.</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Laboratories for testing are overwhelmed with a surge in cases in June; resulting in some patients waiting days for test results.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -1080,53 +1080,53 @@ In Israel, children cannot check books out of libraries, share food, borrow penc
 <tr class="odd">
 <td>Total population</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>4.88 million</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td>Date of first reported case of COVID-19</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>28 February 2020</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>Epidemiological situation on 22nd June 2020</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Confirmed cases: 1,519</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Active cases: 3</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Deaths: 22</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Recovered: 1,484</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td>School closures</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Schools closed across the country on 23rd March along with other sectors. There was an incidence of 52 cases in the country and 0 deaths at the time of closure.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>School opening macro policies</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Schools reopened on 29th April 2020 using a phased approach while the country was at ‘Alert Level 3’, only allowing those who need supervision to return. In-person teaching was prioritized for children in primary to secondary school from years 1-10 ( aged 5-15 years) who could not study from home and whose parents needed to return to work. Although at the secondary school level, pupils in years 11-13 (aged 16-18 years) had to remain at home. All pupils had access to distance learning.</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>As the number of new cases fell and the alert level was lowered over the weeks, less restrictive measures were required in schools. At the current ‘Alert level 1’, no distancing rules apply and so all children can attend school at full capacity.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -1146,17 +1146,17 @@ In Israel, children cannot check books out of libraries, share food, borrow penc
 <tr class="even">
 <td>Challenges</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>All guidelines are non-statutory which may have resulted in varying approaches across the schools in the country. However, successful suppression of the virus meant that this was not an issue.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>Outcomes to date</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>There have been no new cases of COVID-19 in schools.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 </tbody>
@@ -1208,56 +1208,56 @@ In Israel, children cannot check books out of libraries, share food, borrow penc
 <tr class="odd">
 <td>Total population</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>24.88 million</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td>Date of first reported case of COVID-19</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>25 January 2020</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>Epidemiological situation on 22nd June 2020</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>Confirmed cases: 7,558</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Active cases: 523</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Deaths: 104</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Recovered: 6,931</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td>School closures</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>In Australia, schools were never closed as per advice from the Australian Health Protection Principal Committee which drew a lot of criticism from local government and schools. Some independent and private schools chose to close. On 22-23 March, some state governments enacted local school closures.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td>School opening macro policies</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>In March, after the federal government released their response plan for COVID-19 - which stated that state and territory governments are responsible for operational aspects of social distancing. Some state governments brought forward school holidays and asked pupils who could work from home to do so to allow them to implement social distancing and appropriate hygiene measures.</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>At the start of the new term started in April, schools were open to students, but parents were free to use online learning tools if preferred.</p>
-</blockquote></li>
-<li><blockquote>
+</li>
+<li>
 <p>Since mid-May, school attendance has made compulsory in most state and territories in Australia for those who are not in any high-risk categories. Further restrictions lifted on 15 June and all group activity will be back to normal in all states by the state of Term 3, in the 3rd week of July.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -1277,9 +1277,9 @@ In Israel, children cannot check books out of libraries, share food, borrow penc
 <tr class="even">
 <td>Challenges</td>
 <td><ul>
-<li><blockquote>
+<li>
 <p>The Federal government received a lot of criticism for not closing schools early and for inconsistent messaging on how and when schools would open.</p>
-</blockquote></li>
+</li>
 </ul></td>
 </tr>
 <tr class="odd">
