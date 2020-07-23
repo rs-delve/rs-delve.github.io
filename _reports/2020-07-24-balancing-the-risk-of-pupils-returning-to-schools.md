@@ -1371,7 +1371,7 @@ relax a variety of NPIs simultaneously[^51]<sup>.</sup>
 
 ### d. Key Interventions for Schools in the UK
 
-1.  *Implementing Further School Closures*
+#### i. Implementing Further School Closures
 
 Although, nationwide school closures were implemented as cases of
 COVID-19 surged around the world, once pupils were readmitted –
@@ -1415,7 +1415,7 @@ essential that we learn from this and provide clear guidance and
 determine a coherent chain of command and responsibility to take
 effective local decisions.
 
-1.  *Face coverings in Schools*
+#### ii. Face coverings in Schools
 
 The use of face coverings or face shields has not been recommended in
 the Government’s guidance for schools unless children or staff display
@@ -1463,7 +1463,7 @@ children, the use of face coverings will likely provide greater benefit
 at less risk to language development for older children in secondary
 schools.
 
-1.  *Winter challenges*
+#### iii. Winter challenges
 
 The 2020-21 winter ‘flu season will pose challenges for monitoring and
 responding to possible COVID-19 in schools, and this should be
