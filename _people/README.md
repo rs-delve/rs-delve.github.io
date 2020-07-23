@@ -19,7 +19,7 @@
 
 ### Working Group
 
-* [Nigel Field](./nigel-field.md), Director of the Centre of Molecular Epidemiology and Translational Research, Institute for Global Health, UCL
+* [Nigel Field](./nigel-field.md) (chair), Director of the Centre of Molecular Epidemiology and Translational Research, Institute for Global Health, UCL
 * [Tim Besley](./tim-besley.md), Professor of Economics of Political Science, LSE
 * [Simon Burgess](./simon-burgess.md), Professor of Economics, University of Bristol
 * [Peter Diggle](./peter-diggle.md), Professor of Statistics, Lancaster University
