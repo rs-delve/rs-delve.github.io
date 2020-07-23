@@ -7,13 +7,12 @@ layout: default
 {% assign endtag = "</li>" %}
 {% assign separator = "" %}
 
-
-## Steering Committee
+## Action Team
 
 {% assign lastone = site.people | last %}
 <ul>
 {% for person in site.people %}
-{% include liststeeringcommittee.html %}
+{% include listactionteam.html %}
 {% endfor %}
 </ul>
 
@@ -26,14 +25,15 @@ layout: default
 {% endfor %}
 </ul>
 
-## Action Team
+## Steering Committee
 
 {% assign lastone = site.people | last %}
 <ul>
 {% for person in site.people %}
-{% include listactionteam.html %}
+{% include liststeeringcommittee.html %}
 {% endfor %}
 </ul>
+
 
 ## Secretariat
 

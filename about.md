@@ -15,8 +15,8 @@ DELVE will contribute data driven analysis to complement the evidence base infor
 
 This work will be carried out by three cross-disciplinary groups:
 
-* Working group: a team of data scientists and subject-matter experts to carry out data analysis, synthesis of results and rapid review
-* Advisory group: a wide group of experts to provide review and feedback
-* Committee: a high-level expert group to oversee the work and communicate findings to the Government’s Chief Scientific Advisor and his networks in government
+* [Action Team](./people.html#action-team): a team of data scientists and subject-matter experts to carry out data analysis, synthesis of results and rapid review
+* [Working group](./people.html#working-group): a group of subject matter and data experts to work closely with the action team in constructing reports.
+* [Steering Committee](./people.html#steering-committee): a high-level expert group to oversee the work and communicate findings to the Government’s Chief Scientific Advisor and his networks in government
 
 For more details see [this page](https://royalsociety.org/news/2020/04/royal-society-convenes-data-analytics-group-to-tackle-COVID-19/).
