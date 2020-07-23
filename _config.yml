@@ -1,8 +1,6 @@
 ---
 title: Royal Society DELVE Initiative
 timezone: UTC
-plugins:
-  - jekyll-remote-theme
 collections:
   addenda:
     title: Addenda
@@ -25,6 +23,8 @@ collections:
   uploads:
     title: Uploads
     output: true
+plugins:
+- jekyll-feed
 description: This is the GitHub Repository of the Royal Society DELVE Initiative
 baseurl: ''
 url: http://rs-delve.github.io
@@ -35,6 +35,3 @@ github:
   repository: rs-delve.github.io
 future: true
 theme: minima
-#remote_theme: benbalter/retlab
-plugins:
-- jekyll-feed
