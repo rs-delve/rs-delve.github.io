@@ -19,8 +19,9 @@
 
 ### Working Group
 
-* [Devi Sridhar](./devi-sridhar.md) (Chair)
+* [Nigel Field](./nigel-field.md), Director of the Centre of Molecular Epidemiology and Translational Research, Institute for Global Health, UCL
 * [Tim Besley](./tim-besley.md), Professor of Economics of Political Science, LSE
+* [Simon Burgess](./simon-burgess.md), Professor of Economics, University of Bristol
 * [Peter Diggle](./peter-diggle.md), Professor of Statistics, Lancaster University
 * [Paul Edelstein](./paul-edelstein.md), Professor of Pathology and Laboratory Medicine, UPenn
 * [Majid Ezzati](./majid-ezzati.md), Chair in Global Environmental Health, Imperial
@@ -29,6 +30,7 @@
 * [Neil Lawrence](./neil-lawrence.md) (Action Team)
 * [Carol Propper](./carol-propper.md), Professor of Economics, Imperial
 * [Alison Simmons](./alison-simmons.md), Professor of Gastroenterology, University of Oxford
+* [Devi Sridhar](./devi-sridhar.md)
 * [Yee Whye Teh](./yee-whye-teh.md) (Action Team)
 
 ### Action Team 
