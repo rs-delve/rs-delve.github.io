@@ -7,6 +7,7 @@ webpage: https://iris.ucl.ac.uk/iris/browse/profile?upi=NMFIE70
 email: nigel.field@ucl.ac.uk
 twitter: fienige
 workinggroup: Chair
+actionteam: true
 steeringcommittee: true
 ---
 
