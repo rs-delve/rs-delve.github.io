@@ -60,9 +60,9 @@ for decisions made based on this evidence."
 * [Commentary on the Government’s school opening plan](#commentary-on-the-governments-school-opening-plan)
 * [Next steps](#next-steps)
 * [Report Findings](#report-findings)
-  1. [Background](#background)
-  2. [Opening Schools Safely](#opening-schools-safely)
-  3. [Learning loss from school closures](#learning-loss-from-school-closures)
+  1. [Background](#1-background)
+  2. [Opening Schools Safely](#2-opening-schools-safely)
+  3. [Learning loss from school closures](#3-learning-loss-from-school-closures)
   4. [Measures of other losses](#4-measures-of-other-losses)
   5. [Commentary on the Government’s school opening plan & next steps](#5-commentary-on-the-governments-school-opening-plan-next-steps)
 * [Technical Appendices](#technical-appendices){% assign addenda = site.addenda | sort: 'ref' %}{% for addendum in addenda  %}{% if addendum.report == 'SCH' %}
@@ -2169,7 +2169,7 @@ in the form of a QQ plot.
 
 This picture fits well with the increased inequality seen in learning inputs over the lockdown period, and is concerning for the future learning outcomes for these cohorts and their life chances beyond education.
 
-## Measures of other losses
+## 4. Measures of other losses
 
 In this section we consider some of the other impacts from school
 closures, beyond infection and learning.
@@ -2215,7 +2215,7 @@ children, are not necessarily directly related to school closures. In
 this section we review evidence that might inform our understanding of
 any direct impacts from not having face to face schooling.
 
-1.  <span id="_Toc46340148" class="anchor"></span>*What we know*
+### a. What we know
 
 Remote schooling is likely to impact children and young people
 differently, depending on their age and stage of development. Early in
@@ -2230,7 +2230,7 @@ physical distancing rules, since children tend to be less active out of
 term time. Sleep patterns and diets have also found to be worse when
 children are out of school. Growing levels of obesity among children are
 a risk, since children tend to gain weight when out of
-school[^129][^130].
+school[^129]<sup>,</sup>[^130].
 
 Previous health crises have also suggested that procedures such as
 quarantines have a negative impact on children’s psychological health
@@ -2304,7 +2304,7 @@ still limited but there is some useful data on child and youth mental
 health and on the impact of lockdown and school closures on parents’
 time use and their paid work, which we review below.
 
-1.  *Impact on child health*
+#### i.  *Impact on child health*
 
 Early evidence from during the pandemic suggests that children do report
 that they miss being in school. It is young people (adolescents) who are
@@ -2380,7 +2380,7 @@ eligible for Free School Meals reported food insecurity over the period,
 compared to just one in ten adults with children who are not eligible
 for FSM.
 
-1.  *Ability of parents to return to work*
+#### ii.  *Ability of parents to return to work*
 
 Schools being closed has also had implications for parents[^167].
 Although the primary purpose of school is not to provide childcare, it
@@ -2390,9 +2390,6 @@ undertake childcare and ideally support their home schooling. This is
 only feasible for those who work at home. For other parents, school
 closures will significantly impact on their ability to undertake paid
 work.
-
-**<span class="underline">  
-</span>**
 
 
 <img src="/diagrams/schools/chart1.png" style="width:100%" />
@@ -2470,7 +2467,7 @@ negative impact of the pandemic for many minority ethnic groups is more
 likely to be via a reduction in their household income rather than the
 direct impact of school closures on parents’ ability to work.
 
-1.  <span id="_Toc45279433" class="anchor"></span>*What we need to do*
+### b. What we need to do
 
 Evidence documenting the impact of school closures and social distancing
 on children’s mental health and other outcomes is accumulating, though
@@ -2506,11 +2503,11 @@ available within the next few months:
     respondents with children. The relevant studies for data on impacts
     on children are:
 
-    1.  Millennium Cohort Study (born 2000-02)
+    a.  Millennium Cohort Study (born 2000-02)
 
-    2.  Next Steps (born 1989-90)
+    b.  Next Steps (born 1989-90)
 
-    3.  1970 British Cohort Study.
+    c.  1970 British Cohort Study.
 
 3.  The Avon Study of Parents and Children have collected data from
     their cohorts which consist of a parent cohort (n=3720 mean age 59)
