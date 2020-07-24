@@ -3605,13 +3605,10 @@ anonymous school leaders.
     COVID-19 pandemic.* London: University College London (UCL).
 
 [^153]: Children’s Commissioner for England (2020) Angry, fed up,
-    isolated: Coronavirus and children’s mental health. Available at:
-    [<span
-    class="underline">https://www.childrenscommissioner.gov.uk/2020/04/03/angry-fed-up-isolated-coronavirus-and-childrens-mental-health/</span>](https://www.childrenscommissioner.gov.uk/2020/04/03/angry-fed-up-isolated-coronavirus-and-childrens-mental-health/).
+    isolated: Coronavirus and children’s mental health. Available at: <https://www.childrenscommissioner.gov.uk/2020/04/03/angry-fed-up-isolated-coronavirus-and-childrens-mental-health/>.
 
 [^154]: Emerging Minds (n.d.). Co-SPACE study. Further information
-    available at: [Co-SPACE Study
-    News](https://emergingminds.org.uk/co-space-study-news/)
+    available at: [Co-SPACE Study News](https://emergingminds.org.uk/co-space-study-news/)
 
 [^155]: Ford, T., Vostanis, P., Meltzer, H., and Goodman, R. (2007).
     Psychiatric disorder among British children looked after by local
@@ -3621,8 +3618,8 @@ anonymous school leaders.
 
 [^156]: Bressan, S., Gallo, E., Tirelli, F., Gregori, D. and Da Dalt, L.
     (2020) Lockdown: more domestic accidents than COVID-19 in children.
-    *Arch Dis Child. [doi:
-    10.1136/archdischild-2020-319547](http://dx.doi.org/10.1136/archdischild-2020-319547)*
+    *Arch Dis Child*. [doi:
+    10.1136/archdischild-2020-319547](http://dx.doi.org/10.1136/archdischild-2020-319547)
 
 [^157]: Bhopal, S., Buckland, A., McCone, R., Villis, AI., Owens, S.
     (2020) Who has been missed? Dramatic decrease in numbers of children
@@ -3635,8 +3632,7 @@ anonymous school leaders.
     <https://youngminds.org.uk/about-us/reports/coronavirus-impact-on-young-people-with-mental-health-needs/>
 
 [^159]: NSPCC Learning (2020). *What children are saying to Childline
-    about coronavirus*. Available at:
-    <https://learning.nspcc.org.uk/research-resources/2020/childline-briefing-coronavirus>
+    about coronavirus*. Available at: <https://learning.nspcc.org.uk/research-resources/2020/childline-briefing-coronavirus>
 
 [^160]: [Munkhaugen](https://www.sciencedirect.com/science/article/abs/pii/S1750946717300739#!),
     EK.,
