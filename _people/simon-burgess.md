@@ -1,5 +1,6 @@
 ---
 title: Simon Burgess
+layout: person
 given: Simon
 family: Burgess
 webpage: https://simonburgesseconomics.co.uk/
