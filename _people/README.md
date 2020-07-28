@@ -29,6 +29,7 @@
 * [Frank Kelly](./frank-kelly.md), Professor of the Mathematics of Systems, University of Cambridge
 * [Neil Lawrence](./neil-lawrence.md) (Action Team)
 * [Carol Propper](./carol-propper.md), Professor of Economics, Imperial
+* [Aziz Sheikh](./aziz-sheikh.md), Director of the Usher Institute, Edinburgh University
 * [Alison Simmons](./alison-simmons.md), Professor of Gastroenterology, University of Oxford
 * [Devi Sridhar](./devi-sridhar.md)
 * [Yee Whye Teh](./yee-whye-teh.md) (Action Team)
