@@ -1,6 +1,7 @@
 ---
 title: Royal Society DELVE Initiative
 timezone: UTC
+logo: logo.png
 collections:
   addenda:
     title: Addenda
@@ -37,3 +38,7 @@ ghub:
   edit: true
   repository: rs-delve.github.io
 future: true
+publisher: Royal Society
+author:
+  name: Royal Society DELVE Initiative
+  github: rs-delve
