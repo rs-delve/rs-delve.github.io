@@ -1,7 +1,6 @@
 ---
 title: Economic Aspects of the COVID-19 Crisis in the UK
 date: 2020-08-14 00:00:00 Z
-published: true
 report_number: 5
 layout: report
 abstract: |
