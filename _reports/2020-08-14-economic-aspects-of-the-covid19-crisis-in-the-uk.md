@@ -128,9 +128,9 @@ abstract: |
   economic analysis, calling for further access to data in key areas.
 note: This paper has drawn on evidence available up to 10 August 2020. Further evidence
   on this topic is constantly published and DELVE will continue to develop this report
-  as it becomes available. This independent overview of the science has
-  been provided in good faith by subject experts. DELVE and the Royal Society accept
-  no legal liability for decisions made based on this evidence.
+  as it becomes available. This independent overview of the science has been provided
+  in good faith by subject experts. DELVE and the Royal Society accept no legal liability
+  for decisions made based on this evidence.
 ---
 
 <style>
