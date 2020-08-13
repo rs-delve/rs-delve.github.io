@@ -1,11 +1,11 @@
 ---
 title: Test, Trace, Isolate
+date: 2020-05-27 00:00:00 Z
 authors:
 - consortium:
     name: The DELVE Initiative
   institute: The Royal Society
   url: http://rs-delve.github.io/people.html
-date: 2020-05-27 00:00:00 Z
 layout: report
 report_number: 2
 abstract: |
