@@ -1,6 +1,7 @@
 ---
 title: Economic Aspects of the COVID-19 Crisis in the UK
 date: 2020-08-14 00:00:00 Z
+published: false
 authors:
 - consortium:
     name: The DELVE Initiative
