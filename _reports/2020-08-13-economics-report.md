@@ -707,7 +707,8 @@ income per capita have also adjusted most strongly. These observations
 are also supported by research from the US (Chetty et al. (2020), Cox et
 al. (2020)).
 
-<img src="/diagrams/economics/image6.png" style="width:100%" />
+<img src="/diagrams/economics/image6.png" style="width:50%" />
+<img src="/diagrams/economics/image7.png" style="width:50%" />
 
 **Figure 4**: Year-on-year growth in discretionary spending by income
 levels (UK left, Spain right)
