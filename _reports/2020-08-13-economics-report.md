@@ -1499,13 +1499,13 @@ table th{
 }
 </style>
 <table>
-<tr><td rowspan="2" style="border:0"></td><th colspan="6">DV: Covid death rate in ...</th></tr>
-<tr><th colspan="3">without controls</th><th colspan="3">Region fixed effects</th></tr>
-<tr><th style="text-align: right">DV:</th><th>March</th><th>April</th><th>May</th><th>March</th><th>April</th><th>May</th></tr>
-<tr><td rowspan="2">Avg M2 per kitchen staff</td><td>-2.971*</td><td>-2.810*</td><td>1.898</td><td>-2.642*</td><td>-4.302*</td><td>0.738</td></tr>
-<td>(1.519)</td><td>(2.278)</td><td>(2.605)</td><td>(1.411)</td><td>(2.345)</td><td>(2.651)</td></tr>
-<tr><td>Mean of DV</td><td>67.9</td><td>140</td><td>98.5</td><td>67.9</td><td>140</td><td>98.5</td></tr>
-<tr><td>Local authority districts</td><td>326</td><td>326</td><td>326</td><td>326</td><td>326</td><td>326</td></tr>
+  <tr><td rowspan="2" style="border:0"></td><th colspan="6">DV: Covid death rate in ...</th></tr>
+  <tr><th colspan="3">without controls</th><th colspan="3">Region fixed effects</th></tr>
+  <tr><th style="text-align: right">DV:</th><th>March</th><th>April</th><th>May</th><th>March</th><th>April</th><th>May</th></tr>
+  <tr><td rowspan="2">Avg M2 per kitchen staff</td><td>-2.971*</td><td>-2.810*</td><td>1.898</td><td>-2.642*</td><td>-4.302*</td><td>0.738</td></tr>
+  <tr><td>(1.519)</td><td>(2.278)</td><td>(2.605)</td><td>(1.411)</td><td>(2.345)</td><td>(2.651)</td></tr>
+  <tr><td>Mean of DV</td><td>67.9</td><td>140</td><td>98.5</td><td>67.9</td><td>140</td><td>98.5</td></tr>
+  <tr><td>Local authority districts</td><td>326</td><td>326</td><td>326</td><td>326</td><td>326</td><td>326</td></tr>
 </table>
 
 It is important to leverage data on the physical make-up of economic
