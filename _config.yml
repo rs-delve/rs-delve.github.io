@@ -29,7 +29,9 @@ plugins:
 - jekyll-seo-tag
 - jekyll-remote-theme
 remote_theme: lawrennd/proceedings
-description: This is the GitHub Repository of the Royal Society DELVE Initiative convened as a multidisciplinary group of scientists, statisticians, economists, public health experts to deal with the COVID pandemic.
+description: This is the GitHub Repository of the Royal Society DELVE Initiative convened
+  as a multidisciplinary group of scientists, statisticians, economists, public health
+  experts to deal with the COVID pandemic.
 baseurl: ''
 url: http://rs-delve.github.io
 markdown: kramdown
