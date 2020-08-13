@@ -1,7 +1,6 @@
 ---
 title: Royal Society DELVE Initiative
 timezone: UTC
-logo: logo.png
 collections:
   addenda:
     title: Addenda
@@ -24,6 +23,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+logo: logo.png
 plugins:
 - jekyll-feed
 - jekyll-seo-tag
