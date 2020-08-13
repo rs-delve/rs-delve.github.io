@@ -33,8 +33,7 @@ baseurl: ''
 url: http://rs-delve.github.io
 markdown: kramdown
 github_username: rs-delve
-github:
+ghub:
   edit: true
   repository: rs-delve.github.io
 future: true
-theme: minima
