@@ -1,12 +1,12 @@
 ---
 title: Economic Aspects of the COVID-19 Crisis in the UK
+date: 2020-08-14 00:00:00 Z
+published: false
 authors:
 - consortium:
     name: The DELVE Initiative
   institute: The Royal Society
   url: http://rs-delve.github.io/people.html
-date: 2020-08-14 00:00:00 Z
-published: false
 report_number: 5
 layout: report
 abstract: |
