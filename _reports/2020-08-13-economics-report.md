@@ -128,15 +128,15 @@ abstract: |
 
 * [Key Conclusions](#key-conclusions)
 * [Introduction](#introduction)
-* [1. An Integrated Evaluation of the Health and Economic Consequences of Lockdown Measures and Reopening Strategies](#1-an-integrated-evaluation-of-the-health-and-economic-consequences-of-lockdown-measures-and-reopening-strategies)
-* [2. Tracking the Impact of Economic Shocks in Real-Time Transaction Data](#2-tracking-the-impact-of-economic-shocks-in-real-time-transaction-data)
-* [3. Designing Targeted Interventions: Some Guiding Principles](#3-designing-targeted-interventions-some-guiding-principles)
-* [4. Supply-Chains Under Lockdown: Assessing Costs and Designing Targeted Interventions](#4-supply-chains-under-lockdown-assessing-costs-and-designing-targeted-interventions)
-* [5. Trade-offs Between Economic and Health Risks When Considering the Lockdown Release Date](#5-trade-offs-between-economic-and-health-risks-when-considering-the-lockdown-release-date)
-* [6. The Pandemic and the Labour Market](#6-the-pandemic-and-the-labour-market)
-* [7. Economic Issues in Physical Distancing](#7-economic-issues-in-physical-distancing)
-* [8. Workforce Rotation Within an Organisation: A Micro-Strategy to Shift the Policy Frontier Upwards](#8-workforce-rotation-within-an-organisation-a-micro-strategy-to-shift-the-policy-frontier-upwards)
-* [9. Planning for the Possibility of Waning Immunity](#9-planning-for-the-possibility-of-waning-immunity)
+1. [An Integrated Evaluation of the Health and Economic Consequences of Lockdown Measures and Reopening Strategies](#1-an-integrated-evaluation-of-the-health-and-economic-consequences-of-lockdown-measures-and-reopening-strategies)
+2. [Tracking the Impact of Economic Shocks in Real-Time Transaction Data](#2-tracking-the-impact-of-economic-shocks-in-real-time-transaction-data)
+3. [Designing Targeted Interventions: Some Guiding Principles](#3-designing-targeted-interventions-some-guiding-principles)
+4. [Supply-Chains Under Lockdown: Assessing Costs and Designing Targeted Interventions](#4-supply-chains-under-lockdown-assessing-costs-and-designing-targeted-interventions)
+5. [Trade-offs Between Economic and Health Risks When Considering the Lockdown Release Date](#5-trade-offs-between-economic-and-health-risks-when-considering-the-lockdown-release-date)
+6. [The Pandemic and the Labour Market](#6-the-pandemic-and-the-labour-market)
+7. [Economic Issues in Physical Distancing](#7-economic-issues-in-physical-distancing)
+8. [Workforce Rotation Within an Organisation: A Micro-Strategy to Shift the Policy Frontier Upwards](#8-workforce-rotation-within-an-organisation-a-micro-strategy-to-shift-the-policy-frontier-upwards)
+9. [Planning for the Possibility of Waning Immunity](#9-planning-for-the-possibility-of-waning-immunity)
 * [References](#references)
 * [Footnotes](#footnotes)
 
@@ -1501,7 +1501,7 @@ table th{
 <tr><td rowspan="2" style="border:0"></td><th colspan="6">DV: Covid death rate in ...</th></tr>
 <tr><th colspan="3">without controls</th><th colspan="3">Region fixed effects</th></tr>
 <tr><th style="text-align: right">DV:</th><th>March</th><th>April</th><th>May</th><th>March</th><th>April</th><th>May</th></tr>
-<tr><td rowspan="2">Avg M2 per kitchen staff</td><td>-2.971* </td><td>-2.810*</td><td>1.898</td><td>-2.642*</td><td>-4.302*</td><td>0.738</td></tr>
+<tr><td rowspan="2">Avg M2 per kitchen staff</td><td>-2.971*</td><td>-2.810*</td><td>1.898</td><td>-2.642*</td><td>-4.302*</td><td>0.738</td></tr>
 <td>(1.519)</td><td>(2.278)</td><td>(2.605)</td><td>(1.411)</td><td>(2.345)</td><td>(2.651)</td></tr>
 <tr><td>Mean of DV</td><td>67.9</td><td>140</td><td>98.5</td><td>67.9</td><td>140</td><td>98.5</td></tr>
 <tr><td>Local authority districts</td><td>326</td><td>326</td><td>326</td><td>326</td><td>326</td><td>326</td></tr>
@@ -1619,7 +1619,7 @@ counted and isolated. The delay in the organisational reaction may occur
 because many infections may be asymptomatic, symptoms are not reported,
 individual-level testing is delayed, or organisational decision-making
 takes time. Without further interventions, the moment at which the
-organisation reacts, there would be 2<sup>6</sup>=64 infections.[^31]
+organisation reacts, there would be $2^6=64$ infections.[^31]
 
 Now, consider introducing a rotation scheme: the organisation is divided
 into two equally sized groups and, at each instance, one group actively
@@ -2182,9 +2182,7 @@ of Testing and Quarantining.” *NBER Working Paper* No. 27104.
 <https://www.nber.org/papers/w27104>
 
 Garibaldi P., E. R. Moen, and C A. Pissarides. 2020. “Modelling Contacts
-and Transitions in the SIR
-
-Epidemics Model.” *Covid Economics*, 5:1-20.
+and Transitions in the SIR Epidemics Model.” *Covid Economics*, 5:1-20.
 <https://www.carloalberto.org/wp-content/uploads/2020/04/garibaldi.pdf>
 
 Glover, A., J. Heathcote, D. Krueger, and J.-V. Rios-Rull. 2020. “Health
