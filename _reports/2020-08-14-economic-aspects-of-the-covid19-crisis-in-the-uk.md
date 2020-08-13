@@ -1,7 +1,7 @@
 ---
 title: Economic Aspects of the COVID-19 Crisis in the UK
 date: 2020-08-14 00:00:00 Z
-published: false
+published: true
 report_number: 5
 layout: report
 abstract: |
@@ -123,6 +123,13 @@ abstract: |
   pandemic. Fourth, it considers the data needed for conducting
   economic analysis, calling for further access to data in key areas.
 ---
+
+<style>
+  img {
+  margin-left: auto;
+  margin-right: auto;
+  }
+</style>
 
 ### Table of Contents
 
@@ -648,7 +655,7 @@ high-quality data on approximately 15,000 users of a financial app
 (Money DashBoard). The vertical lines indicate the start (on 23 March)
 and the relaxation (on 15 June) of the lockdown measures.
 
-<img src="/diagrams/economics/image3.png" style="width:4.94533in" alt="A close up of a map Description automatically generated" />
+<img src="/diagrams/economics/image3.png" style="width:90%" alt="A close up of a map Description automatically generated" />
 
 **Figure 2**: Average weekly spending in various sectors normalised to
 100 in January (left); and year-on-year changes (right). Red line refers
@@ -707,8 +714,8 @@ income per capita have also adjusted most strongly. These observations
 are also supported by research from the US (Chetty et al. (2020), Cox et
 al. (2020)).
 
-<img src="/diagrams/economics/image6.png" style="width:50%" />
-<img src="/diagrams/economics/image7.png" style="width:50%" />
+<img src="/diagrams/economics/image6.png" style="width:49%" />
+<img src="/diagrams/economics/image7.png" style="width:49%" />
 
 **Figure 4**: Year-on-year growth in discretionary spending by income
 levels (UK left, Spain right)
@@ -721,7 +728,7 @@ other hand, low-earning families (depicted as red line in Figure 4) have
 increased their borrowing to fund spending on essential consumption such
 as groceries, food, and utility bills.
 
-<img src="/diagrams/economics/image10.png" style="width:60%" />
+<img src="/diagrams/economics/image10.png" style="width:80%" />
 
 **Figure 5**: Decline in earnings, income and expenditure in June 2020
 relative to June 2019 across different incomes groups.
@@ -1465,7 +1472,7 @@ quintile to more than 3.9 square meters in the upper quintile in the
 distribution across districts. Naturally, we would expect this variation
 to be even more significant across establishments within districts.
 
-<img src="/diagrams/economics/image12.png" style="width:70%" />
+<img src="/diagrams/economics/image12.png" style="width:90%" />
 
 **Figure 7:** Estimate of average space per kitchen staff member across
 English and Welsh Local Authority Districts.
