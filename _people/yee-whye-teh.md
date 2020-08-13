@@ -1,9 +1,9 @@
 ---
 title: Yee Whye Teh
+position: 0
 layout: person
 given: Yee Whye
 family: Teh
-position: Action Team Convener
 email: y.w.teh@stats.ox.ac.uk
 webpage: https://www.stats.ox.ac.uk/~teh/
 twitter: 

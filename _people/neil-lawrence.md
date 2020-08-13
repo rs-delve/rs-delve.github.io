@@ -1,9 +1,9 @@
 ---
 title: Neil Lawrence
+position: 0
 layout: person
 given: Neil
 family: Lawrence
-position: Action Team Convener
 orcid: 0000-0001-9258-1030
 webpage: http://inverseprobability.com
 email: ndl21@cam.ac.uk

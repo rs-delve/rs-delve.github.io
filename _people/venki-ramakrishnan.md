@@ -1,9 +1,9 @@
 ---
 title: Venki Ramakrishnan
+position: 0
 layout: person
 given: Venki
 family: Ramakrishnan
-position: Chair, Steering Committee 
 suffix: FRS
 steeringcommittee: true
 ---
