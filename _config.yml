@@ -37,4 +37,3 @@ ghub:
   edit: true
   repository: rs-delve.github.io
 future: true
-theme: minima
