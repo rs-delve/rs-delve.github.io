@@ -25,6 +25,9 @@ collections:
     output: true
 plugins:
 - jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
 description: This is the GitHub Repository of the Royal Society DELVE Initiative
 baseurl: ''
 url: http://rs-delve.github.io

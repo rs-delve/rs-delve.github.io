@@ -3,9 +3,6 @@ title: People
 layout: default
 ---
 
-{% assign begintag = "<li>" %}
-{% assign endtag = "</li>" %}
-{% assign separator = "" %}
 
 ## Action Team
 
