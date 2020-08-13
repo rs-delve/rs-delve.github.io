@@ -1,11 +1,11 @@
 ---
 title: Face Masks for the General Public
+date: 2020-05-04 00:00:00 Z
 authors:
 - consortium:
     name: The DELVE Initiative
   institute: The Royal Society
   url: http://rs-delve.github.io/people.html
-date: 2020-05-04 00:00:00 Z
 layout: report
 report_number: 1
 abstract: 'Face masks could offer an important tool for contributing to the management
