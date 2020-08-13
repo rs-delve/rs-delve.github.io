@@ -1,11 +1,11 @@
 ---
 title: Balancing the Risks of Pupils Returning to Schools
+date: 2020-07-24 00:00:00 Z
 author:
 - consortium:
     name: The DELVE Initiative
   institute: The Royal Society
   url: http://rs-delve.github.io/people.html
-date: 2020-07-24 00:00:00 Z
 report_number: 4
 layout: report
 abstract: |
