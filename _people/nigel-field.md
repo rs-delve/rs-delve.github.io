@@ -3,10 +3,11 @@ title: Nigel Field
 layout: person
 given: Nigel
 family: Field
+position: Chair, Working Group
 webpage: https://iris.ucl.ac.uk/iris/browse/profile?upi=NMFIE70
 email: nigel.field@ucl.ac.uk
 twitter: fienige
-workinggroup: Chair
+workinggroup: true
 actionteam: true
 steeringcommittee: true
 ---
