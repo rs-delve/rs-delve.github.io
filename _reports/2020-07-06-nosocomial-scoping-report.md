@@ -1,12 +1,12 @@
 ---
 title: Scoping Report on Hospital and Health Care Acquisition of COVID-19 and its
   Control
+date: 2020-07-06 00:00:00 Z
 authors:
 - consortium:
     name: The DELVE Initiative
   institute: The Royal Society
   url: http://rs-delve.github.io/people.html
-date: 2020-07-06 00:00:00 Z
 report_number: 3
 layout: report
 abstract: |
