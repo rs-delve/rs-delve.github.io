@@ -3,7 +3,6 @@ title: People
 layout: default
 ---
 
-
 ## Action Team
 
 {% assign lastone = site.people | last %}

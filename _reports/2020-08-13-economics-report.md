@@ -1,9 +1,9 @@
 ---
 title: Economic Aspects of the COVID-19 Crisis in the UK
 date: 2020-08-14 00:00:00 Z
+published: false
 report_number: 5
 layout: report
-published: false
 abstract: |
   The coming months will bring new challenges for the economy and
   public health, as winter brings with it the risk of a second wave of
