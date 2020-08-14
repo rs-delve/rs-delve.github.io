@@ -5,8 +5,8 @@ given: Azhar
 family: Hussain
 webpage: 
 email: 
-twitter: Azhar_Economist
-github: 
+twitter: 
+github: https://github.com/azharhsain
 actionteam: true
 ---
 
