@@ -21,7 +21,7 @@ authors:
   institute: University of Nottingham
 ---
 
-*This post was originally prepared for 29th July 2020. DELVE overviews of the science are provided in good faith by subject experts. DELVE and the Royal Society accept no legal liability for decisions made based on this evidence.*
+*This post was originally prepared for 29th July 2020.*
 
 School is the best place for children during the pandemic and the
 Government should prioritise keeping schools open wherever possible. Our
