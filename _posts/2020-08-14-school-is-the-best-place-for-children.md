@@ -1,6 +1,10 @@
 ---
 title: School is the Best Place for Children
 authors:
+- given: Simon
+  family: Burges
+  institute: University of Bristol
+  url: "/people/simon-burges.html"
 - given: Inès
   family: Hassan
   institute: University of Edinburgh
@@ -9,10 +13,6 @@ authors:
   family: Vignoles
   institute: University of Cambridge
   url: "/people/anna-vignoles.html"
-- given: Simon
-  family: Burges
-  institute: University of Bristol
-  url: "/people/simon-burges.html"
 - given: Richard J.
   family: Wilkinson
   url: "/people/rich-wilkinson.html"
@@ -21,7 +21,6 @@ authors:
 
 School is the best place for children during the pandemic and the
 Government should prioritise keeping schools open wherever possible. Our
-
 [report](https://royalsociety.org/news/2020/07/delve-opening-schools-should-be-prioritised-report/),
 published on 24<sup>th</sup> July 2020 outlined why.
 
@@ -30,7 +29,7 @@ after the summer break following six months of home or “blended”
 schooling has naturally left parents and guardians anxious. Earlier
 plans for a return in June were challenged on safety grounds by
 headteachers, unions and experts and many households are juggling
-home-schooling and their own work and family commitments.
+home-schooling and their own work and family commitments.<!--break-->
 
 The costs to children from school closures are considerable, and the
 infection risk from opening schools is likely lower than activities like
