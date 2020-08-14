@@ -14,6 +14,6 @@ layout: default
 {% assign authors=post.authors %}
 <p><i>By {% include listauthors.html %}</i></p>{% endif %}
 
-{{ report.abstract | split:'<!--break-->' | first | markdownify }}
+{{ post.content | split:'<!--break-->' | first | markdownify }}
 	
 {%endfor%}
