@@ -15,5 +15,7 @@ layout: default
 <p><i>By {% include listauthors.html %}</i></p>{% endif %}
 
 {{ post.content | split:'<!--break-->' | first | markdownify }}
-	
+
+<p><a href="{{ post.url }}">Continued ...</a></p>
+
 {%endfor%}

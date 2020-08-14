@@ -4,9 +4,9 @@ date: 2020-08-14 00:00:00 Z
 layout: post
 authors:
 - given: Simon
-  family: Burges
+  family: Burgess
   institute: University of Bristol
-  url: "/people/simon-burges.html"
+  url: "/people/simon-burgess.html"
 - given: Inès
   family: Hassan
   institute: University of Edinburgh
