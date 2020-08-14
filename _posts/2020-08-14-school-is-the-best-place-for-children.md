@@ -1,6 +1,7 @@
 ---
 title: School is the Best Place for Children
 date: 2020-08-14 00:00:00 Z
+layout: post
 authors:
 - given: Simon
   family: Burges
