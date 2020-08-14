@@ -36,11 +36,18 @@ baseurl: ''
 url: http://rs-delve.github.io
 markdown: kramdown
 github_username: rs-delve
+display:
+  copy_button:
+    bibtex: false
+    endnote: false
+    apa: false
+    ris: false
+  comments: false
 ghub:
   edit: true
   repository: rs-delve.github.io
 future: true
-publisher: Royal Society
+publisher: The Royal Society
 author:
   name: Royal Society DELVE Initiative
   github: rs-delve
