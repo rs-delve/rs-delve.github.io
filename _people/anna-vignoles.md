@@ -4,6 +4,7 @@ layout: person
 given: Anna
 family: Vignoles
 webpage: https://www.educ.cam.ac.uk/people/staff/vignoles/
+twitter: AnnaVignoles
 workinggroup: true
 ---
 
