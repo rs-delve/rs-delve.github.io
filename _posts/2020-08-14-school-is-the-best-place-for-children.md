@@ -15,7 +15,7 @@ authors:
   family: Vignoles
   institute: University of Cambridge
   url: "/people/anna-vignoles.html"
-- given: Richard J.
+- given: Richard
   family: Wilkinson
   url: "/people/rich-wilkinson.html"
   institute: University of Nottingham
