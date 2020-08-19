@@ -10,7 +10,6 @@ authors:
   url: "/people/yee-whye-teh.html"
 ---
 
-
 Yee Whye Teh, Avishkar Bhoopchand, Peter Diggle, Bryn Elesedy, Bobby He, Michael Hutchinson, Ulrich Paquet, Jonathan Read, Nenad Tomasev, Sheheryar Zaidi, on behalf of Royal Society DELVE Initiative
 
 ## *WORK IN PROGRESS. NOT TO BE DISTRIBUTED.*
