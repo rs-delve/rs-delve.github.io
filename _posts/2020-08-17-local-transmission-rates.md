@@ -68,7 +68,7 @@ There are a number of limitations to our current approach, mostly due to limitat
 
 
 <div id="html" markdown="0" style="float:none; width=1300;height=1200">
-<embed type="text/html" src="https://www.stats.ox.ac.uk/~teh/Rmap_time/?map=0807_6weeks"
+<embed type="text/html" src="https://www.stats.ox.ac.uk/~teh/Rmap_time/?map=0812_6weeks"
 width="1300" height="1200">
 </div>
 
