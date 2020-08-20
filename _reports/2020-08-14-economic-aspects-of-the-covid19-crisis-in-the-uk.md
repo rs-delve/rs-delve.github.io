@@ -103,7 +103,7 @@ abstract: |
   interventions would benefit from access to a range of different data
   types, including data relating to transmission of COVID-19, use of
   public transport, consumer spending and financial transactions. Many
-  useful indicators of the economy’s response to COVID-10 could be
+  useful indicators of the economy’s response to COVID-19 could be
   found in data typically held by private financial institutions and
   are generally considered to have commercial value. While some
   progress has been made in making such data available, the UK lags
