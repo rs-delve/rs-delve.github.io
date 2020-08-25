@@ -48,18 +48,6 @@ There are a number of limitations to our current approach, mostly due to limitat
 *   NHS Test and Trace and outbreak investigations mean that testing is now more targeted, and, from the perspective of understanding rates of transmissions from case counts, can introduce biases.
 *   Uncertainties in Rt in local authorities are high and sensitive to random local events.
 
-### Future Works
-
-* Improvements to user interface.
-* Scale up computations using GPUs and/or TPUs.
-* Incorporate different data types into the model:
-  *   Death data
-  *   Seroprevalence data
-  *   Zoe app, NHS Covid triage data
-* Improve data sources:
-  *   Separated Pillar 1 and 2 data
-  *   Test delay information
-  *   Number of tests and test positivity rates per at local authority level
 
 
 
