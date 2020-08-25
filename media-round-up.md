@@ -129,15 +129,14 @@ link](https://protect-eu.mimecast.com/s/4SC-C76yxTEYwOS8web-_?domain=independent
 * **BBC World Service Newshour** (radio) **–** (no link)  
 (Anne’s interview from 14.50)
 
-[**BBC News at One, 27/05/2020 13:00:07 - 27/05/2020
+* [**BBC News at One, 27/05/2020 13:00:07 - 27/05/2020
 13:05:04**](https://protect-eu.mimecast.com/s/IvjPCP1Kwi508QcwGo4k?domain=durrants.net)
 (no link)  
 *BBC News, 27 May 2020*
 
 * [**Test and trace system will start on
 Thursday**](https://protect-eu.mimecast.com/s/hWqBClOkyuz10LT9yjf6n?domain=durrants.net)  
-*[bbc.co.uk](https://www.bbc.co.uk/news/health-52820592), 27 May 2020*  
-<https://www.bbc.co.uk/news/health-52820592>
+*[bbc.co.uk](https://www.bbc.co.uk/news/health-52820592), 27 May 2020* <https://www.bbc.co.uk/news/health-52820592>
 
 * [**Local coronavirus lockdowns aim to stamp out
 infection**](https://protect-eu.mimecast.com/s/Qzl0CpgoDcx915uD7M9eX?domain=durrants.net)  
@@ -160,9 +159,8 @@ plans](https://www.researchprofessionalnews.com/rr-news-uk-politics-2020-5-royal
 ***<https://www.researchprofessionalnews.com/rr-news-uk-politics-2020-5-royal-society-data-group-backs-test-trace-and-isolate-plans/>
 
 * [Covid-19 news: Boris Johnson admits UK was unprepared for
-pandemic](https://www.newscientist.com/article/2237475-covid-19-news-boris-johnson-admits-uk-was-unprepared-for-pandemic/)**  
-***New Scientist (Online)-*
-<https://www.newscientist.com/article/2237475-covid-19-news-boris-johnson-admits-uk-was-unprepared-for-pandemic/>
+pandemic](https://www.newscientist.com/article/2237475-covid-19-news-boris-johnson-admits-uk-was-unprepared-for-pandemic/)** 
+***New Scientist (Online)-* <https://www.newscientist.com/article/2237475-covid-19-news-boris-johnson-admits-uk-was-unprepared-for-pandemic/>
 
 * [**NHS launches test-and-trace
 system**](https://protect-eu.mimecast.com/s/N1ziCy8A4Iy7qYsMvL_wN?domain=durrants.net)  
@@ -215,7 +213,8 @@ outbreak](https://www.independent.co.uk/news/health/coronavirus-covid-nhs-hospit
 [Web article link](https://protect-eu.mimecast.com/s/LTdqCzm48I4Rp7FoRGEpx?domain=independent.co.uk)[**Covid-19:
 One in 10 cases in England occurred in frontline health and social care
 staff**](https://protect-eu.mimecast.com/s/AA0JCElXgIp61MtpKWbYQ?domain=durrants.net)  
-*[bmj.com](https://www.bmj.com/content/370/bmj.m2717), 07 Jul 2020*  
+
+* [bmj.com](https://www.bmj.com/content/370/bmj.m2717), 07 Jul 2020*  
 [Web article
 link](https://protect-eu.mimecast.com/s/uJAwC0goncmrJZiovs3ED?domain=ct.moreover.com)
 
@@ -244,27 +243,27 @@ workers, report reveals](https://www.dailymail.co.uk/news/article-8494241/One-TE
 
 ### *Broadcast/Bulletins*
 
-[**BBC Radio 5 Live, 06/07/2020 13:00:00 - 06/07/2020
+* [**BBC Radio 5 Live, 06/07/2020 13:00:00 - 06/07/2020
 13:04:58**](https://protect-eu.mimecast.com/s/xyJmCElXgIpWJYfP_tK3?domain=durrants.net)
 (no link)
 
-[**BBC Radio 4, 06/07/2020 13:05:00 - 06/07/2020
+* [**BBC Radio 4, 06/07/2020 13:05:00 - 06/07/2020
 13:08:05**](https://protect-eu.mimecast.com/s/093_CLg1pcQPp7IKE_7L?domain=durrants.net)
 (no link)
 
-[**BBC 2 Radio, 06/07/2020 13:00:02 - 06/07/2020
+* [**BBC 2 Radio, 06/07/2020 13:00:02 - 06/07/2020
 13:05:01**](https://protect-eu.mimecast.com/s/DTB5CNxKrcjNrzC8767u?domain=durrants.net)
 (no link)
 
-[**BBC Radio 6 Music, 06/07/2020 14:30:01 - 06/07/2020
+* [**BBC Radio 6 Music, 06/07/2020 14:30:01 - 06/07/2020
 14:33:06**](https://protect-eu.mimecast.com/s/NKSuCWnKEFDjgVH2QkTq?domain=durrants.net)
 (no link)
 
-[**BBC Radio Scotland, 07/07/2020 03:30:00 - 07/07/2020
+* [**BBC Radio Scotland, 07/07/2020 03:30:00 - 07/07/2020
 03:34:58**](https://protect-eu.mimecast.com/s/2WjnCRgKyc5rkxcP6bzl1?domain=durrants.net)
 (no link)
 
-[**BBC Wales, 07/07/2020 03:30:01 - 07/07/2020
+* [**BBC Wales, 07/07/2020 03:30:01 - 07/07/2020
 03:35:01**](https://protect-eu.mimecast.com/s/E5B2CLg1pcQPp7ImRHX_k?domain=durrants.net)
 (no link)
 
@@ -317,28 +316,25 @@ Guardian](https://www.theguardian.com/education/2020/jul/24/uk-children-could-lo
 * [**UK economic cost of coronavirus school
 closures**](https://inews.co.uk/news/education/uk-economic-cost-coronavirus-school-closures-2080s-561164)
 
-[I](https://inews.co.uk/news/education/uk-economic-cost-coronavirus-school-closures-2080s-561164),
-24 July
+* [**UK economic cost of coronavirus school
+closures**](https://inews.co.uk/news/education/uk-economic-cost-coronavirus-school-closures-2080s-561164),
+The i 24 July
 
 * [**School closures will hit UK productivity for years, experts
 warn**](https://www.independent.co.uk/news/health/coronavirus-school-closed-pupils-royal-society-delve-a9634441.html)
-
 Independent, 24 July
 
 * [**School closures reduce pupils earning potential in the
 future**](https://www.dailymail.co.uk/news/article-8554943/School-closures-reduce-pupils-earning-potential-future-report.html)
-
 Daily Mail, 24 July
 
 * [**Closed schools could sap pupils earnings for
 life**](https://news.stv.tv/politics/closed-schools-could-sap-pupils-earnings-for-life-report?top)
-
 STV News
 
 * [**Re-opening schools must be the top priority, say
 scientists**](https://protect-eu.mimecast.com/s/JH1CCDRZOI31xLT5RRnqu?domain=durrants.net)  
-*[The
-Herald](https://www.heraldscotland.com/news/18603534.coronavirus-no-notable-rise-infection-countries-schools-reopened-say-scientists/),
+*[The Herald](https://www.heraldscotland.com/news/18603534.coronavirus-no-notable-rise-infection-countries-schools-reopened-say-scientists/),
 24 Jul 2020*
 
 ### Specialist education press
@@ -352,12 +348,10 @@ Supplement](https://www.tes.com/news/coronavirus-give-teachers-ppe-keep-schools-
 
 * [**The cost of lockdown attainment gap widens by up to 52 for primary
 pupils**](https://schoolsweek.co.uk/the-cost-of-lockdown-attainment-gap-widens-by-up-to-52-for-primary-pupils/)
-
 Schools Week, 24 July 2020
 
 * [**The eight policies to ensure schools can stay
 open**](https://schoolsweek.co.uk/the-8-policies-to-ensure-schools-can-stay-open/)
-
 Schools Week, 24 July 2020
 
 ## DELVE Economics Report
