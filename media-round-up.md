@@ -292,11 +292,9 @@ link**](https://protect-eu.mimecast.com/s/4KY7Cg5DqhGrB1u33hcmI?domain=thetimes.
 children**](https://protect-eu.mimecast.com/s/41VpCy8A4ILg4PsMQbJcK?domain=durrants.net)  
 *[The Times
 Scotland](https://www.thetimes.co.uk/article/coronavirus-in-scotland-life-long-effect-on-children-as-education-disrupted-mclrzjng6),
-24 Jul 2020, p10, UK, Keyword: The Royal Society, Journalist: Helen
-Puttick*
+24 Jul 2020, p10, 
 
-* [**School break will hit pay
-\[...\]**](https://protect-eu.mimecast.com/s/gSxfCBgXMc81nXc61DRUS?domain=durrants.net)  
+* [**School break will hit pay**](https://protect-eu.mimecast.com/s/gSxfCBgXMc81nXc61DRUS?domain=durrants.net)  
 *The Times Ireland, 24 Jul 2020*
 
 * [**Pupils' earnings will suffer for 50 years because of missed
