@@ -271,26 +271,24 @@ workers, report reveals](https://www.dailymail.co.uk/news/article-8494241/One-TE
 * [**Lost school time 'will hurt economy for 65
 years'**](https://protect-eu.mimecast.com/s/Bj6MCAnXLFEgRKs8Qbs5b?domain=durrants.net)  
 *[bbc.co.uk,](https://www.bbc.co.uk/news/education-53514564#:~:text=The%20school%20time%20lost%20because,by%20the%20Royal%20Society%20suggests.&text=The%20research%20group%2C%20including%20academics,in%20a%20reduced%20growth%20rate.)
-24 Jul 2020, UK, Keyword: The Royal Society*  
+24 Jul 2020*  
 [**Web article
 link**](https://protect-eu.mimecast.com/s/nwP0Cj2gwhR2O4s71ONJv?domain=ct.moreover.com)
 
 * [**School break will hit pay
 \[...\]**](https://protect-eu.mimecast.com/s/2mqUCr0qGc2pmRS7XsT1n?domain=durrants.net)
 (no link)  
-*The Times, 24 Jul 2020, p10, UK, Keyword: The Royal Society*
+*The Times, 24 Jul 2020*
 
 * [**Coronavirus in Scotland: Life-long effect on children as education
 disrupted**](https://protect-eu.mimecast.com/s/q8L3CxGz0hxyX5cvv1tsr?domain=durrants.net)  
 *[thetimes.co.uk](https://www.thetimes.co.uk/article/coronavirus-in-scotland-life-long-effect-on-children-as-education-disrupted-mclrzjng6),
-24 Jul 2020, UK, Keyword: The Royal Society*  
+24 Jul 2020
 [**Web article
 link**](https://protect-eu.mimecast.com/s/4KY7Cg5DqhGrB1u33hcmI?domain=thetimes.co.uk)
 
-* [**Life-long effect on
-children**](https://protect-eu.mimecast.com/s/41VpCy8A4ILg4PsMQbJcK?domain=durrants.net)  
-*[The Times
-Scotland](https://www.thetimes.co.uk/article/coronavirus-in-scotland-life-long-effect-on-children-as-education-disrupted-mclrzjng6),
+* [**Life-long effect on children**](https://protect-eu.mimecast.com/s/41VpCy8A4ILg4PsMQbJcK?domain=durrants.net)  
+*[The Times Scotland](https://www.thetimes.co.uk/article/coronavirus-in-scotland-life-long-effect-on-children-as-education-disrupted-mclrzjng6),
 24 Jul 2020, p10, 
 
 * [**School break will hit pay**](https://protect-eu.mimecast.com/s/gSxfCBgXMc81nXc61DRUS?domain=durrants.net)  
