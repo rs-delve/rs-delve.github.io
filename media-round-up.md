@@ -24,7 +24,6 @@ millions -
 scientists**](https://protect-eu.mimecast.com/s/MRrRCNxKrcVYwVIypQZL?domain=durrants.net)  
 *[uk.yahoo.com](https://www.msn.com/en-gb/news/coronavirus/keeping-uk-over-70s-in-lockdown-would-allow-fewer-restrictions-for-millions-scientists/ar-BB13DCV2?li=BBoPRmx&srcref=rss&parent-title=fire-chief-3-missing-in-uk-power-plant-collapse-likely-dead&parent-ns=ar&parent-content-id=BBpV66c),
 05 May 2020*
-
 [Web article
 link](https://protect-eu.mimecast.com/s/pYVNC98AzIRJrRsENCukf?domain=uk.news.yahoo.com)
 
@@ -225,7 +224,7 @@ care workers](https://www.standard.co.uk/news/health/coronavirus-infections-10-h
 * [90 per cent of infected nurses and doctors caught Covid in
 hospitals](https://protect-eu.mimecast.com/s/gA_xClOkyuXo5jhXB2dQ?domain=durrants.net)  
 *[uk.yahoo.com](https://protect-eu.mimecast.com/s/5_TbCk5jxh5n6PcLyY6E?domain=uk.yahoo.com),
-06 Jul 2020 (no link)*
+*06 Jul 2020 (no link)*
 
 * [Web article link](https://protect-eu.mimecast.com/s/w_5TCwjyNhyLz2F1ojvBB?domain=uk.news.yahoo.com)[**Up
 to nine in 10 infected nurses and doctors caught coronavirus in
@@ -233,7 +232,6 @@ hospitals at peak of
 crisis**](https://protect-eu.mimecast.com/s/ADxFCnZmATmGqksQaeCS?domain=durrants.net)  
 *[news.yahoo.com](https://protect-eu.mimecast.com/s/LGZUCmw0zIW5K9FX_IDq?domain=news.yahoo.com),
 06 Jul 2020 (no link)*
-
 * [Web article link](https://protect-eu.mimecast.com/s/ta21CxGz0hxJ4zFRlGiow?domain=ct.moreover.com)[One
 in TEN coronavirus cases in England in May were among NHS and care
 workers, report reveals](https://www.dailymail.co.uk/news/article-8494241/One-TEN-coronavirus-cases-England-NHS-care-workers-report-reveals.html)*[dailymail.co.uk](https://protect-eu.mimecast.com/s/-n7ICoYnBCvXLQf4oblj?domain=dailymail.co.uk),
@@ -370,15 +368,12 @@ Instant Play Link:
 
 * [**Times Radio, 14/08/2020 05:50:02 - 14/08/2020
 05:55:00**](https://protect-eu.mimecast.com/s/BGoQCElXgIprWrUNDscn3?domain=durrants.net)  
-*Times Radio, 14 Aug 2020  
-*Instant Play Link:  
-<http://my.tvey.es/Nz7o8>
+*Times Radio, 14 Aug 2020* Instant Play Link: <http://my.tvey.es/Nz7o8>
 
 * [**‘Raise sick pay’ to lower virus
 risk**](https://protect-eu.mimecast.com/s/bWkmCY6YJTAx3MHx27mM?domain=durrants.net)  
 *[bbc.co.uk](https://www.bbc.co.uk/news/business-53772260), 13 Aug
-2020*  
-[**Web article
+2020* [**Web article
 link**](https://protect-eu.mimecast.com/s/MVPSCqjpEhX5OZHLFXKW?domain=ct.moreover.com)  
   
 * [**Academics urge targeted approach to
