@@ -5,13 +5,12 @@ layout: page
 
 ## DELVE launch
 
-[**Leading scientists at the prestigious Royal Society launch an urgent
+* [Leading scientists at the prestigious Royal Society launch an urgent
 probe into how Britain can end its draconian
-lockdown**](https://protect-eu.mimecast.com/s/h6D7CxGz0hmRy5svJVsyY?domain=durrants.net)  
+lockdown](https://protect-eu.mimecast.com/s/h6D7CxGz0hmRy5svJVsyY?domain=durrants.net)  
 *[dailymail.co.uk](https://www.dailymail.co.uk/news/article-8228989/Royal-Society-launch-urgent-probe-Britain-ease-way-draconian-lockdown.html),
 17 Apr 2020*  
-[**Web article
-link**](https://protect-eu.mimecast.com/s/S5TsCGZXkTWOmNTWzxaas?domain=dailymail.co.uk)
+[**Web article link**](https://protect-eu.mimecast.com/s/S5TsCGZXkTWOmNTWzxaas?domain=dailymail.co.uk)
 
 ## Facemasks for the General Public
 
