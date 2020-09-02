@@ -3,7 +3,6 @@ title: Media
 layout: page
 ---
 
-
 ## DELVE Economics Report
 
 * [**Good Morning Britain, 14/08/2020 08:19:00 - 14/08/2020
