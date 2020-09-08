@@ -51,29 +51,36 @@ There are a number of limitations to our current approach, mostly due to limitat
 ### Map
 <style>
 .map-container {
-  position: relative;
-  width: 1500px;
-  height: 1000px;
-  margin-left: -50%;
-  margin-right: -50%;
-  text-align: center;
-  border: 1px solid black;
+    position: relative;
+    width: 1050px;
+    height: 675px;
+    border: 5px solid black;
+    margin-left: -20%;
+    text-align: center;
+    overflow: visible;
 }
 .map-frame{
     position: relative;
     align: center;
-    height: 100%;
-    width: 100%;
-    border: 1px dashed red;
+    /*
+    This height value is a bit of a hack!
+    It is there to let the search box overflow into the post
+    Not sure what the correct thing to do in this case is
+    */
+    height: 1000px;
+    width: 1100px;
+    overflow: visible;
+    border: 0;
 }
 </style>
 
 This text is before the map
+<p>
 <div class="map-container">
-    <iframe class="map-frame" src="{{ base.url | prepend: site.url }}/assets/rmap/map/index.html" allow="fullscreen">
-    </iframe>
+<iframe class="map-frame" src="{{ base.url | prepend: site.url }}/assets/rmap/website/index.html" allow="fullscreen">
+</iframe>
 </div>
-
+</p>
 This text is after the map
 
 ### Results
