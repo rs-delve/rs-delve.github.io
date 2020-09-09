@@ -77,7 +77,7 @@ There are a number of limitations to our current approach, mostly due to limitat
 This text is before the map
 <p>
 <div class="map-container">
-<iframe class="map-frame" src="{{ base.url | prepend: site.url }}/assets/rmap/website/index.html" allow="fullscreen">
+<iframe class="map-frame" src="https://rs-delve.github.io/Rmap/map" allow="fullscreen">
 </iframe>
 </div>
 </p>
