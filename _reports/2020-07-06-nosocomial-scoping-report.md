@@ -553,10 +553,6 @@ of non-respiratory pathogens like hepatitis B, methicillin-resistant
 insufficient to prevent SARS-CoV-2 which appears to transmit
 predominantly through the respiratory droplet route.
 
-A. cat
-   1. Dog
-      * Fish
-   2. Apple
 
 # 5. Successful infection control practices for COVID-19
 
