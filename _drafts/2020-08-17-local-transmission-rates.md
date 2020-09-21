@@ -14,41 +14,27 @@ Yee Whye Teh, Avishkar Bhoopchand, Peter Diggle, Bryn Elesedy, Bobby He, Michael
 ## *WORK IN PROGRESS. NOT TO BE DISTRIBUTED.*
 
 ### Aim
-As the UK pivots to a more localised strategy to manage the Covid-19 epidemic, it is important to understand localised rates of transmissions in individual local authorities. 
-This can be an important component of an effective monitoring system and allows to more quickly identify hotspots where there are elevated levels of transmissions.
+As the UK pivots to a more localised strategy to manage the Covid-19 epidemic, 
+it is important to understand localised rates of transmissions. 
+This can be a component of an effective monitoring system and 
+allows to more quickly identify hotspots 
+where there are elevated levels of transmissions. 
+It can also be a useful tool for the public to understand 
+where infections are growing and to adapt their behaviour accordingly.
 
-A standard measure of the rate of transmission is given by the effective reproduction number Rt.
-However, estimating Rt reliably across small areas with low incidences is difficult because of the low information content in the data, as well as because of sensitivities to random local events.
-
-### Methods
-
-We aim to develop a Bayesian method to reliably estimate Rt across local authorities with appropriately quantified uncertainties. 
-
-#### Data
-
-We use publicly available Pillar 1+2 case count time series:
-*   312 lower-tier local authorities (LTLA) in England, 
-*   14 NHS Health Board level in Scotland, and  
-*   22 Unitary local authorities in Wales
-
-#### Model
-
-At its core, our model uses a renewal equation formulation of epidemic dynamics within each local authority, building on the method of Cori et al (2013) (https://doi.org/10.1093/aje/kwt133). 
-In addition,
-*   We use a spatio-temporal Gaussian process to model correlations in effective reproduction numbers across neighbouring local authorities and across neighbouring points in time.
-*   We use a cross-coupled metapopulation approach to model infections crossing local authority boundaries.
-
-
-### Limitations
-
-There are a number of limitations to our current approach, mostly due to limitations in the fidelity and detail of the publicly available data.
-*   Testing capacity and regimes in the UK has changed over time. This is particularly salient in the difference between Pillar 1 and Pillar 2 tests, and in the widening application of Pillar 2 tests, initially in healthcare workers, then to key workers, and now to the wider community. 
-*   Particularly, delays between infections and test results are unknown, different across Pillars 1 and 2, and across time.
-*   NHS Test and Trace and outbreak investigations mean that testing is now more targeted, and, from the perspective of understanding rates of transmissions from case counts, can introduce biases.
-*   Uncertainties in Rt in local authorities are high and sensitive to random local events.
-
+We have developed a [system](https://rs-delve.github.io/Rmap) to estimate localised rates of transmissions, 
+and to use these to do short-term forecasts of 
+incidence rates in local authorities.
+The system is based on a Bayesian statistical model 
+for estimating the effective reproduction number Rt 
+in individual local authorities and using these to forecast incidence rates.
+Estimating Rt reliably across small areas with low incidences is difficult 
+because of the low information content in the data, interactions across areas, 
+as well as because of sensitivities to random local events. 
+Further description of our method can be found [here](https://rs-delve.github.io/Rmap/data-methods.html).
 
 ### Map
+
 <style>
 .map-container {
     position: relative;
@@ -83,8 +69,4 @@ This text is before the map
 </p>
 This text is after the map
 
-### Results
-
-* [Our approach](https://www.stats.ox.ac.uk/~teh/Rmap_time/?map=0812_6weeks)
-* [Modelling each local authority separately](https://www.stats.ox.ac.uk/~teh/Rmap_time/?map=cori)
 
