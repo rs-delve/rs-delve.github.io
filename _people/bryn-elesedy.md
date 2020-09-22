@@ -3,7 +3,7 @@ title: Bryn Elesedy
 layout: person
 given: Bryn
 family: Elesedy
-webpage: https://brynhayder.github.io/about/
+webpage: https://bryn.ai/
 twitter: 
 github: brynhayder
 actionteam: true
