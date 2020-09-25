@@ -10,7 +10,7 @@ authors:
 - given: Bobby
   family: He
   institute: University of Oxford
-  url: "/people/bobby-he.html
+  url: "/people/bobby-he.html"
 ---
 
 Yee Whye Teh, Avishkar Bhoopchand, Peter Diggle, Bryn Elesedy, Bobby He, Michael Hutchinson, Ulrich Paquet, Jonathan Read, Nenad Tomasev, Sheheryar Zaidi, on behalf of Royal Society DELVE Initiative
