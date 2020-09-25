@@ -18,24 +18,15 @@ Yee Whye Teh, Avishkar Bhoopchand, Peter Diggle, Bryn Elesedy, Bobby He, Michael
 ## *WORK IN PROGRESS. NOT TO BE DISTRIBUTED.*
 
 ### Aim
-As the UK pivots to a more localised strategy to manage the Covid-19 epidemic, 
-it is important to understand localised rates of transmissions. 
-This can be a component of an effective monitoring system and 
-allows to more quickly identify hotspots 
-where there are elevated levels of transmissions. 
-It can also be a useful tool for the public to understand 
-where infections are growing and to adapt their behaviour accordingly.
+Local interventions are playing an increasingly important role in UK's strategy to contain the Covid-19 pandemic. As such, it is crucial for national and local policy makers as well as health protection teams that precise, accurate and timely predictions of Covid-19 incidences and transmission rates are available at fine spatial scales. 
 
-We have developed a [system](https://rs-delve.github.io/Rmap) to estimate localised rates of transmissions, 
-in order to predict short-term forecasts of 
-incidence rates in local authorities.
-The system is based on a Bayesian statistical model 
-for estimating the effective reproduction number $R_t$ 
-in individual local authorities and using these to forecast incidence rates.
-Estimating $R_t$ reliably across small areas with low incidences is difficult 
-because of the low information content in the data, interactions across areas, 
-as well as because of sensitivities to random local events. To alleviate these problems, our system introduces spatiotemporal dependencies between reproduction numbers across neighbouring localities, in order to smooth estimates of $R_t$ across localities and time. Several computational considerations have been deployed, so that our model is sufficiently efficient to provide daily updates of $R_t$ predictions and incidence rates across local authorities, which will be displayed at our publicly available [website](https://rs-delve.github.io/Rmap) 
-Further description of our method can be found [here](https://rs-delve.github.io/Rmap/data-methods.html).
+Obtaining such predictions has proven a challenging problem, not least due to the prevelance of asymptomatic Covid-19 transmissions, as well as logistical issues involved in national testing systems. In addition, low case counts at a local level further confounds the inference for Covid-19 transmission rates, adding unwelcome uncertainty. 
+
+To address these concerns, we have developed a [system](https://rs-delve.github.io/Rmap) that leans on shared statistical strength across geographic location and time, in order to estimate localised rates of transmissions 
+and predict short-term forecasts of incidence rates in local authorities. To alleviate the aforementioned problems, our model introduces spatiotemporal dependencies between reproduction numbers across neighbouring localities, in order to smooth estimates of $R_t$ across localities and time. Our system is based on a Bayesian statistical model, and we have incorporated several computational considerations to improve the efficiency of our posterior simulation. As a result, we are able to provide daily updates of $R_t$ predictions and incidence rates across local authorities in Great Britain, which will be displayed at our publicly available [website](https://rs-delve.github.io/Rmap). Further information about our method can be found [here](https://rs-delve.github.io/Rmap/data-methods.html).
+
+We hope that our model and website will be of interest to researchers, policy makers and the public alike, to help identify upcoming local outbreaks and to aid in the containment of Covid-19.
+
 
 ### Map
 
@@ -64,7 +55,7 @@ Further description of our method can be found [here](https://rs-delve.github.io
 }
 </style>
 
-This text is before the map
+Below is an interactive snapshot of our [website](https://rs-delve.github.io/Rmap), displaying in map form the predicted $R_t$, incidence rates and probability that $R_t>1$ across local authorities in Great Britain.
 <p>
 <div class="map-container">
 <iframe class="map-frame" src="https://rs-delve.github.io/Rmap/map" allow="fullscreen">
