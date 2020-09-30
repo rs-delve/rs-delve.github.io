@@ -920,32 +920,32 @@ future development. Historically, development of new vaccines is seen as
 high risk and has typically taken around 10 years at a cost estimated as
 between $500 million to $1-2bn, with a likelihood of entering the market
 of only 6-7%
-[^69–71](http://sciwheel.com/work/citation?ids=9447219,9464968,9127635&pre=&pre=&pre=&suf=&suf=&suf=&sa=0,0,0).
+[^69][^70][^71](http://sciwheel.com/work/citation?ids=9447219,9464968,9127635&pre=&pre=&pre=&suf=&suf=&suf=&sa=0,0,0).
 
 Both ‘push’ and ‘pull’ incentives can be used to finance vaccine
 development and both have been used to accelerate the development of
 SARS-CoV-2 vaccines
-[^72–74](http://sciwheel.com/work/citation?ids=9514747,9530979,8570950&pre=&pre=&pre=&suf=&suf=&suf=&sa=0,0,0).
+[^72][^73][^74](http://sciwheel.com/work/citation?ids=9514747,9530979,8570950&pre=&pre=&pre=&suf=&suf=&suf=&sa=0,0,0).
 ‘Push’ funding finances investment in basic research and development of
 both the vaccine and manufacturing capacity without the need for a
 specific goal to be achieved, thereby reducing the cost for the
 developer. ‘Pull’ funding has been used to accelerate the development,
 availability and uptake of vaccines and other medical products, by
 guaranteeing reward for successful development
-[^72,74,75](http://sciwheel.com/work/citation?ids=9514747,8570950,9514716&pre=&pre=&pre=&suf=&suf=&suf=&sa=0,0,0).
+[^72][^74][^75](http://sciwheel.com/work/citation?ids=9514747,8570950,9514716&pre=&pre=&pre=&suf=&suf=&suf=&sa=0,0,0).
 An example of ‘pull’ funding are Advanced Market Commitments (AMCs),
 purchase agreements that can be used to guarantee price and quantity of
 vaccines purchased before the results of clinical trials are known and
 in advance of licencing
-[^74,76](http://sciwheel.com/work/citation?ids=8570950,9500068&pre=&pre=&suf=&suf=&sa=0,0).
+[^74][^76](http://sciwheel.com/work/citation?ids=8570950,9500068&pre=&pre=&suf=&suf=&sa=0,0).
 AMC have been used, most notably, by the global vaccine alliance Gavi, a
 public-private partnership, to secure supply of vaccines for preventing
 pneumococcal disease in low income countries
-[^76,77](http://sciwheel.com/work/citation?ids=9500068,9644120&pre=&pre=&suf=&suf=&sa=0,0).
+[^76][^77](http://sciwheel.com/work/citation?ids=9500068,9644120&pre=&pre=&suf=&suf=&sa=0,0).
 A purchase guarantee at a fixed price incentivises and de-risks vaccine
 development and investment in manufacturing capacity for the provider,
 and secures affordable vaccine supply for the purchaser
-[^74,78](http://sciwheel.com/work/citation?ids=9442114,8570950&pre=&pre=&suf=&suf=&sa=0,0),
+[^74][^78](http://sciwheel.com/work/citation?ids=9442114,8570950&pre=&pre=&suf=&suf=&sa=0,0),
 although AMC have been criticised for the relatively high price paid
 [^79](http://sciwheel.com/work/citation?ids=9089111&pre=&suf=&sa=0).
 The concerns about high prices may be ameliorated if joint negotiations
