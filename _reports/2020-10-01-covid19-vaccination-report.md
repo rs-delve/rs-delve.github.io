@@ -704,8 +704,7 @@ immunity.
 The WHO gives a Target Product Profile for a SARS-CoV-2 vaccine as
 inducing a minimum of 6 months but preferably at least a year of
 protection, with efficacy in at least 50% of the population (preferably
-70%) including in older people
-[^62](http://sciwheel.com/work/citation?ids=9500735&pre=&suf=&sa=0).
+70%) including in older people.[^62]
 
 We show in Figure 1 how these concepts are related to population-level
 immune responses to SARS-CoV-2 due to natural infection or vaccination.
@@ -736,19 +735,16 @@ infection: this is called herd immunity. However, herd immunity becomes
 harder to achieve when vaccine-induced or natural immunity is partial
 and/or short-lived, allowing secondary infections to occur, or when
 logistical or other constraints limit vaccine deployment and coverage.
-The authors in
-[^63](http://sciwheel.com/work/citation?ids=9516539&pre=&suf=&sa=0)
+The authors in[^63]
 employed simple epidemiological models to explore the impact of a
 partially transmission-blocking vaccine on the timing and number of
-future COVID-19 infections. The analysis in
-[^63](http://sciwheel.com/work/citation?ids=9516539&pre=&suf=&sa=0)
+future COVID-19 infections. The analysis in[^63]
 assumes that vaccine immunity has a finite duration and reduces the
 vaccinated individual’s susceptibility to natural infection to a level
 below that of an unvaccinated person. Although successful vaccines may
 operate on the basis of the generation of a memory T cell or antibody
 response against the pathogen (as previously discussed in the immunology
-section), these details are not explicitly considered in
-[^63](http://sciwheel.com/work/citation?ids=9516539&pre=&suf=&sa=0),
+section), these details are not explicitly considered in,[^63]
 and instead are accounted for more generally through the parameters
 describing the effectiveness of the vaccine-induced immune response.
 
@@ -757,10 +753,9 @@ describing the effectiveness of the vaccine-induced immune response.
 **Figure 2:** Schematic of qualitative vaccination rate required to
 eliminate infections as a function of the effectiveness and duration of
 vaccinal immunity adapted from
-[^63](http://sciwheel.com/work/citation?ids=9516539&pre=&suf=&sa=0).
+[^63].
 
-The results in
-[^63](http://sciwheel.com/work/citation?ids=9516539&pre=&suf=&sa=0)
+The results in[^63]
 suggest that both the effectiveness of a vaccine and the duration of the
 immunity it confers affect the vaccination coverage required to achieve
 a disease-free state at equilibrium (see Figure 2). With a fully
@@ -775,8 +770,7 @@ imperfect vaccine could have important impacts on SARS-CoV-2 infection
 dynamics and control.
 
 Several practical aspects related to vaccine deployment bear mentioning
-in the context of the discussion of this work. For the most part,
-[^63](http://sciwheel.com/work/citation?ids=9516539&pre=&suf=&sa=0)
+in the context of the discussion of this work. For the most part,[^63]
 considers a uniform, well-mixed population, and the authors show that
 their results are qualitatively robust to considerations of
 heterogeneity in the transmission of and susceptibility to SARS-CoV-2
@@ -826,13 +820,11 @@ must be specifically tested in clinical trials of appropriate groups.
 Ultimately, the ability to properly plan for the level of vaccination
 required and who to prioritise will depend on an improved understanding
 of the nature and duration of vaccine immunity, disease susceptibility
-and transmission
-[^64–66](http://sciwheel.com/work/citation?ids=9501723,9500788,9715630&pre=&pre=&pre=&suf=&suf=&suf=&sa=0,0,0).
+and transmission.[^64][^[65][^66]
 To interpret the results of different trials and to aid the design of
 future trials, further research is needed to understand which immune
 responses protect against infection and disease, and should be the goal
-of any vaccine candidate
-[^41](http://sciwheel.com/work/citation?ids=9183531&pre=&suf=&sa=0).
+of any vaccine candidate.[^41]
 How and which antibody responses and the threshold amount of antibody
 needed to protect against SARS-CoV-2 infection is not known. Most
 vaccines under development aim to elicit antibody responses to the S
@@ -852,8 +844,7 @@ antibodies and cellular responses are most frequently measured in blood
 due to ease of access, those found in the airways can be a better
 correlate of protection for respiratory infection than serum antibodies.
 For example, IgA, an antibody which is known to be produced following
-SARS-CoV-2 infection, may act as a first barrier to infection
-[^67](http://sciwheel.com/work/citation?ids=8753250&pre=&suf=&sa=0).
+SARS-CoV-2 infection, may act as a first barrier to infection.[^67]
 These local immune responses are less well understood and therefore
 research in this area needs priority.
 
