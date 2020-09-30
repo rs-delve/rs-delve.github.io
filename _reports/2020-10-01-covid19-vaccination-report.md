@@ -1,7 +1,7 @@
 ---
-title: "SARS-CoV-2 Vaccine Development & Implementation; Scenarios, Options, key
-decisions"
-date: 2020-10-01
+title: SARS-CoV-2 Vaccine Development & Implementation; Scenarios, Options, key decisions
+date: 2020-10-01 00:00:00 Z
+published: false
 authors:
 - consortium:
     name: The DELVE Initiative
@@ -122,7 +122,7 @@ abstract: |
   and understanding of infectious disease, vaccine design, testing and
   manufacture as well as public expectations of vaccination will
   provide long-term solutions and preparedness.
-published: True
+published: False
 ---
 
 <style>
