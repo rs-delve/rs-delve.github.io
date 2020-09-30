@@ -42,7 +42,9 @@ We used publicly available data on positive tests
 from the combined Pillars 1 and 2 of UK's testing strategy.
 Unfortunately, due to the unclear relationship between the number of positive tests
 and true incidence rates, predictions of the system cannot be directly
-interpreted as predictions of true transmission and incidence rates. Further
+interpreted as predictions of true transmission and incidence rates. 
+However, we believe it can be used, along with other indicators based potentially on other data sources, to build a fuller and more timely picture of the state of the Covid-19 epidemic each local authority as it unfolds.
+Further
 details of the limitations of the system can be found
 [here](http://rs-delve.github.io/Rmap/limitations.html).
 
