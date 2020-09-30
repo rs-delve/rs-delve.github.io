@@ -3,7 +3,7 @@ title: Andrei Paleyes
 layout: person
 given: Andrei
 family: Paleyes
-webpage: https://www.linkedin.com/in/andreipaleyes/?originalSubdomain=uk
+webpage: https://paleyes.info
 email: ap2169@cam.ac.uk
 twitter: 
 actionteam: true
