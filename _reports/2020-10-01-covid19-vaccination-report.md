@@ -276,11 +276,11 @@ been identified in most people who have recovered from infection,
 ### The role of T cells
 
 SARS-CoV-2-specific T cells are detectable in convalescing patients
-following COVID-19,[^9][^10][^11][^12][^13]
+following COVID-19,[^9],[^10],[^11],[^12],[^13]
 but their role in protection is not known. Studies have reported that
 virus-specific T cells are detectable even in those who do not have
 detectable levels of antibody, and in those who experienced mild or
-asymptomatic infection.[^13][^14]
+asymptomatic infection.[^13],[^14]
 Thus T cell responses may prove to be a more reliable test of prior
 exposure to SARS-CoV-2 than serological tests for antibodies, and a
 better test for population surveys of previous infection. However, the
