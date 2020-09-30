@@ -10,7 +10,6 @@ authors:
 - given: Avishkar
   family: Bhoopchand
   url: "/people/avishkar-bhoopchand.html"
-
 ---
 
 Yee Whye Teh, Avishkar Bhoopchand, Peter Diggle, Bryn Elesedy, Bobby He, Michael Hutchinson, Ulrich Paquet, Jonathan Read, Nenad Tomasev, Sheheryar Zaidi
