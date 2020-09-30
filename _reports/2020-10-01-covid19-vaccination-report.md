@@ -122,7 +122,7 @@ abstract: |
   and understanding of infectious disease, vaccine design, testing and
   manufacture as well as public expectations of vaccination will
   provide long-term solutions and preparedness.
-published: False
+published: True
 ---
 
 <style>
@@ -711,7 +711,7 @@ protection, with efficacy in at least 50% of the population (preferably
 We show in Figure 1 how these concepts are related to population-level
 immune responses to SARS-CoV-2 due to natural infection or vaccination.
 
-<img src="/diagrams/vaccines/image1.png" style="width:6.26736in;height:4.53125in" />
+<img src="/diagrams/vaccines/image1.png" style="width:100%" />
 
 **Figure 1:** Population-level immune responses to SARS-CoV-2 infection.
 Primary infection gives rise to different degrees of immunity in
@@ -753,7 +753,7 @@ section), these details are not explicitly considered in
 and instead are accounted for more generally through the parameters
 describing the effectiveness of the vaccine-induced immune response.
 
-<img src="/diagrams/vaccines/image2.png" style="width:3.71875in;height:2.25in" />
+<img src="/diagrams/vaccines/image2.png" style="width:100%" />
 
 **Figure 2:** Schematic of qualitative vaccination rate required to
 eliminate infections as a function of the effectiveness and duration of
@@ -979,7 +979,7 @@ The US government has invested in the development of vaccine candidates
 under Operation Warp Speed
 [^85](http://sciwheel.com/work/citation?ids=9545348&pre=&suf=&sa=0).
 
-<img src="/diagrams/vaccines/image3.png" style="width:6.5in;height:3.36111in" />
+<img src="/diagrams/vaccines/image3.png" style="width:100%" />
 
 **Figure 3:** Probability of success as a function of number of
 candidates. Source: [<span
@@ -1026,7 +1026,7 @@ likely to have greater overall health outcomes, in terms of lives saved,
 than unequal allocation to wealthier nations
 [^91](http://sciwheel.com/work/citation?ids=9666209&pre=&suf=&sa=0).
 
-> <img src="/diagrams/vaccines/image4.png" style="width:6.5in;height:2.98611in" />
+<img src="/diagrams/vaccines/image4.png" style="width:100%" />
 
 **From:** WHO Member States Briefing June 2020. A Global Framework to
 Ensure Equitable and Fair Allocation of COVID-19 products.
@@ -2382,33 +2382,34 @@ to the highest scientific and ethical standards. Eight ethical criteria
 for conducting SARS-CoV-2 challenge studies are set out in Table 1:
 
 **Table 1:** Eight criteria for SARS-CoV-2 challenge studies
-
+<table><tr><td>
 Criterion 1: SARS-CoV-2 challenge studies must have strong scientific
 justification.
-
+</td></tr><tr><td>
 Criterion 2: It must be reasonable to expect that the potential benefits
 of SARS-CoV-2 challenge studies outweigh risks.
-
+</td></tr><tr><td>
 Criterion 3: SARS-CoV-2 challenge research programmes should be informed
 by consultation and engagement with the public as well as relevant
 experts and policy-makers.
-
+</td></tr><tr><td>
 Criterion 4: SARS-CoV-2 challenge study research programmes should
 involve close coordination between researchers, funders, policy-makers
 and regulators.
-
+</td></tr><tr><td>
 Criterion 5: SARS-CoV-2 challenge studies should be situated where the
 research can be conducted to the highest scientific, clinical and
 ethical standards.
-
+</td></tr><tr><td>
 Criterion 6: SARS-CoV-2 challenge study researchers should ensure that
 participant selection criteria limit and minimize risk.
-
+</td></tr><tr><td>
 Criterion 7: SARS-CoV-2 challenge studies should be reviewed by a
 specialized independent committee.
-
+</td></tr><tr><td>
 Criterion 8: SARS-CoV-2 challenge studies must involve rigorous informed
 consent.’
+</td></tr></table>
 
 We remark that it remains the case, to our knowledge, that there is no
 (statistically significant) evidence that remdesivir reduces the risk of
