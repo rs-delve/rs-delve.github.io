@@ -2407,7 +2407,7 @@ Criterion 7: SARS-CoV-2 challenge studies should be reviewed by a
 specialized independent committee.
 </td></tr><tr><td>
 Criterion 8: SARS-CoV-2 challenge studies must involve rigorous informed
-consent.’
+consent.
 </td></tr></table>
 
 We remark that it remains the case, to our knowledge, that there is no
@@ -3093,13 +3093,11 @@ sterile filtered and can be shipped to the fill-to-finish site.
 
 [^107]: IATA - The Time to Prepare for COVID-19 Vaccine Transport is Now \[Internet\]. \[cited 2020 Sep 10\]. Available from: https://www.iata.org/en/pressroom/pr/2020-09-09-01/(http://sciwheel.com/work/bibliography/9633254).
 
-[^108]: Coronavirus: Health workers’ army to be trained to deliver Covid
-vaccine - BBC News \[Internet\]. \[cited 2020 Sep 7\]. Available from:
-https://www.bbc.co.uk/news/health-53946412(http://sciwheel.com/work/bibliography/9598934).
+[^108]: Coronavirus: Health workers’ army to be trained to deliver Covid vaccine - BBC News \[Internet\]. \[cited 2020 Sep 7\]. Available from: <https://www.bbc.co.uk/news/health-53946412>.
 
-[^109]: RAPID ASSISTANCE IN MODELLING THE PANDEMIC: RAMP \[Internet\].  \[cited 2020 Sep 7\]. Available from: https://epcced.github.io/ramp/(http://sciwheel.com/work/bibliography/9598935).
+[^109]: RAPID ASSISTANCE IN MODELLING THE PANDEMIC: RAMP \[Internet\].  \[cited 2020 Sep 7\]. Available from: <https://epcced.github.io/ramp/>.
 
-[^110]: Nuffield Council on Bioethics. Fair and equitable access to COVID-19 treatments and vaccines \[Internet\]. Policy briefing: Key challenges for ensuring fair and equitable access to COVID-19 vaccines and treatments. 2020 \[cited 2020 Sep 29\]. Available from: https://www.nuffieldbioethics.org/news/policy-briefing-key-challenges-for-ensuring-fair-and-equitable-access-to-covid-19-vaccines-and-treatments(http://sciwheel.com/work/bibliography/9644185).
+[^110]: Nuffield Council on Bioethics. Fair and equitable access to COVID-19 treatments and vaccines \[Internet\]. Policy briefing: Key challenges for ensuring fair and equitable access to COVID-19 vaccines and treatments. 2020 \[cited 2020 Sep 29\]. Available from: <https://www.nuffieldbioethics.org/news/policy-briefing-key-challenges-for-ensuring-fair-and-equitable-access-to-covid-19-vaccines-and-treatments>.
 
 [^111]: Daniels N. Accountability for reasonableness. BMJ. 2000 Nov 25;321(7272):1300–1.(http://sciwheel.com/work/bibliography/1882430)
 
