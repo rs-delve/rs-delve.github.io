@@ -1,6 +1,7 @@
 ---
 title: SARS-CoV-2 Vaccine Development & Implementation; Scenarios, Options, key decisions
 date: 2020-10-01 00:00:00 Z
+published: true
 authors:
 - consortium:
     name: The DELVE Initiative
@@ -464,8 +465,7 @@ symptomatic infection within a relatively short time. For many vaccines,
 having high levels of antibodies and/or T cells is associated with
 efficacy. These immune markers may then act as correlates of protection
 so that their measurement can be used as a surrogate to predict vaccine
-efficacy.
-[^38],[^39]
+efficacy.[^38],[^39]
 
 Once correlates of protection are identified they might be used in
 vaccine trials and allow researchers to estimate vaccine efficacy before
@@ -473,16 +473,14 @@ larger scale or more complex trials such as population-level field
 studies (which take time and large numbers of volunteers) or human
 infection challenge studies with deliberate infection of volunteers
 (which tend to be small scale and have accompanying risks with ethical
-implications that need careful thought ([<span
-class="underline">Appendix
-1</span>](#appendix-1-human-challenge-studies))). If the correlates are
+implications that need careful thought ([Appendix
+1](#appendix-1-human-challenge-studies)). If the correlates are
 well understood, they might be used to rapidly assess whether an
 individual responds to a vaccine and is likely to be protected.
 Appropriate correlates of protection for SARS-CoV-2 are not yet known.
 Correlates will probably differ depending on the desired outcome
 measure, such as protection against infection itself, prevention of
-symptomatic infection or severe disease, or transmission.
-[^38]
+symptomatic infection or severe disease, or transmission.[^38]
 Protection invoked by a vaccine may rely on different components of the
 immune system to those that develop following natural infection.
 
@@ -514,8 +512,7 @@ Nevertheless, work is ongoing to develop and partially standardise these
 methods in both academic and commercial labs. The U.S. Food and Drug
 Administration (FDA) recommends that studies of the immune response to
 vaccine candidates should include both antibody responses, including
-neutralisation assays, and assessment of the T cell responses.
-[^40]
+neutralisation assays, and assessment of the T cell responses.[^40]
 
 ### Standardisation of Clinical Trials
 
@@ -530,8 +527,7 @@ different vaccine candidates and aid vaccine development. One difficulty
 in establishing correlates of protection is that different tests may be
 performed by different laboratories using different definitions of
 immunity. Standardisation of immunological assays as well as clinical
-endpoints would allow comparison of data across trials.
-[^41]
+endpoints would allow comparison of data across trials.[^41]
 International availability of and requirements to use standard reagents
 will ensure consistency across different studies.
 
@@ -622,8 +618,8 @@ do not show much disease or pathology with SARS-CoV-2.
 To address gaps in understanding of protective immunity and to develop a
 strategy for selecting or rejecting vaccine candidates, human infection
 challenge with SARS-CoV-2 is being considered[^57]
-([<span class="underline">Appendix
-1</span>](#appendix-1-human-challenge-studies)). Human infection
+([Appendix
+1](#appendix-1-human-challenge-studies)). Human infection
 challenges with influenza and other respiratory viruses have been
 conducted safely for many decades and have provided critical knowledge
 for the development of vaccines. By deliberately inoculating volunteers
@@ -639,8 +635,7 @@ effective treatment or long-term complications require careful
 consideration to balance the risks to individual volunteers and benefit
 to society in accelerating the development of effective vaccines,
 especially when field trials using community exposure are still possible
-albeit only in some places
-[^58–60](http://sciwheel.com/work/citation?ids=8984878,9072479,9232872&pre=&pre=&pre=&suf=&suf=&suf=&sa=0,0,0).
+albeit only in some places.[^58],[^59],[^60]
 The WHO has published an ethical framework for SARS-CoV-2 challenge
 studies and a number of groups are considering strategies to mitigate
 risk. Specifically, COVID-19 is now known to cause mild or asymptomatic
@@ -671,8 +666,7 @@ immunised producing a strong enough immune response to be protected.
 Vaccine efficacy is typically measured as the proportion of those
 vaccinated who are protected from symptomatic infection. For example,
 inactivated influenza vaccines have an average efficacy in preventing
-confirmed influenza infection of around 59% of individuals
-[^61](http://sciwheel.com/work/citation?ids=4992963&pre=&suf=&sa=0).
+confirmed influenza infection of around 59% of individuals.[^61]
 Differences in the response of individuals to a vaccine may in part be
 explained because certain groups, such as children or older people,
 often respond poorly to vaccines.
@@ -684,8 +678,7 @@ replication might be reduced but may potentially allow transmission to
 occur. For example, the recent trials of the ChAdOx1 nCoV-19 vaccine in
 primates, resulted in a reduction in clinical severity and amount of
 virus in the lungs of vaccinated animals, but did not reduce viral
-shedding from the nose
-[^33](http://sciwheel.com/work/citation?ids=9359413&pre=&suf=&sa=0).
+shedding from the nose.[^33]
 
 Partial immunity might result because over time protective immune memory
 responses wane. Re-exposure to the pathogen or a booster vaccine can
