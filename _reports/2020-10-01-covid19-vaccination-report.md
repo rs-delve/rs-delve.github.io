@@ -890,7 +890,7 @@ studies.
 The COVID pandemic has caused enormous global economic damage. The
 International Monetary Fund (IMF) estimates that the cumulative output
 loss over 2020-21 could be $9 trillion, with the global economy
-projected to contract by 3% in 2020[^68](http://sciwheel.com/work/citation?ids=9529648&pre=&suf=&sa=0). In
+projected to contract by 3% in 2020.[^68] In
 addition to the health impact, the macroeconomic impact of an effective
 SARS-CoV-2 vaccine has convinced governments, non-governmental
 organisations (NGOs) and industry to make unprecedented levels of
@@ -903,28 +903,28 @@ monopoly and prices set by willingness to pay and investment needs for
 future development. Historically, development of new vaccines is seen as
 high risk and has typically taken around 10 years at a cost estimated as
 between $500 million to $1-2bn, with a likelihood of entering the market
-of only 6-7%[^69],[^70],[^71](http://sciwheel.com/work/citation?ids=9447219,9464968,9127635&pre=&pre=&pre=&suf=&suf=&suf=&sa=0,0,0).
+of only 6-7%.[^69],[^70],[^71]
 
 Both ‘push’ and ‘pull’ incentives can be used to finance vaccine
 development and both have been used to accelerate the development of
-SARS-CoV-2 vaccines[^72],[^73],[^74](http://sciwheel.com/work/citation?ids=9514747,9530979,8570950&pre=&pre=&pre=&suf=&suf=&suf=&sa=0,0,0).
+SARS-CoV-2 vaccines.[^72],[^73],[^74]
 ‘Push’ funding finances investment in basic research and development of
 both the vaccine and manufacturing capacity without the need for a
 specific goal to be achieved, thereby reducing the cost for the
 developer. ‘Pull’ funding has been used to accelerate the development,
 availability and uptake of vaccines and other medical products, by
-guaranteeing reward for successful development[^72],[^74],[^75](http://sciwheel.com/work/citation?ids=9514747,8570950,9514716&pre=&pre=&pre=&suf=&suf=&suf=&sa=0,0,0).
+guaranteeing reward for successful development.[^72],[^74],[^75]
 An example of ‘pull’ funding are Advanced Market Commitments (AMCs),
 purchase agreements that can be used to guarantee price and quantity of
 vaccines purchased before the results of clinical trials are known and
-in advance of licencing[^74],[^76](http://sciwheel.com/work/citation?ids=8570950,9500068&pre=&pre=&suf=&suf=&sa=0,0).
+in advance of licencing.[^74],[^76]
 AMC have been used, most notably, by the global vaccine alliance Gavi, a
 public-private partnership, to secure supply of vaccines for preventing
-pneumococcal disease in low income countries[^76],[^77](http://sciwheel.com/work/citation?ids=9500068,9644120&pre=&pre=&suf=&suf=&sa=0,0).
+pneumococcal disease in low income countries.[^76],[^77]
 A purchase guarantee at a fixed price incentivises and de-risks vaccine
 development and investment in manufacturing capacity for the provider,
-and secures affordable vaccine supply for the purchaser[^74],[^78](http://sciwheel.com/work/citation?ids=9442114,8570950&pre=&pre=&suf=&suf=&sa=0,0),
-although AMC have been criticised for the relatively high price paid[^79](http://sciwheel.com/work/citation?ids=9089111&pre=&suf=&sa=0).
+and secures affordable vaccine supply for the purchaser,[^74],[^78]
+although AMC have been criticised for the relatively high price paid.[^79]
 The concerns about high prices may be ameliorated if joint negotiations
 are carried out by multiple countries. For SARS-CoV-2 vaccines such
 advanced investment in developing vaccines and manufacturing capacity
@@ -937,37 +937,30 @@ vaccination drives.
 Individual governments have acted to secure vaccine supplies. To date,
 the UK government is reported to have made forward purchasing deals to
 secure over 300 million vaccine doses, potentially enough for almost 5
-doses per person[^80](http://sciwheel.com/work/citation?ids=9644113&pre=&suf=&sa=0),
-with the USA, European Union and Japan also securing hundreds of
-millions of doses[^81](http://sciwheel.com/work/citation?ids=9531006&pre=&suf=&sa=0)(Table
-1). The UK government has invested in vaccine manufacturing facilities
+doses per person,[^80] with the USA, European Union and Japan also securing hundreds of
+millions of doses[^81] (Table 1). The UK government has invested in vaccine manufacturing facilities
 to increase capacity, for example, in partnership with biotech company
 Valneva in Livingston, West Lothian, as well as supporting the fast
 track construction of the UK Vaccine Manufacturing and Innovation Centre
-(VMIC)[^82],[^83](http://sciwheel.com/work/citation?ids=9441805,9441804&pre=&pre=&suf=&suf=&sa=0,0).
+(VMIC).[^82],[^83]
 Furthermore, the government has secured other necessary supplies for
-example, ordering 65 million injection devices for autumn 2020[^84](http://sciwheel.com/work/citation?ids=9442066&pre=&suf=&sa=0).
+example, ordering 65 million injection devices for autumn 2020.[^84]
 The US government has invested in the development of vaccine candidates
-under Operation Warp Speed[^85](http://sciwheel.com/work/citation?ids=9545348&pre=&suf=&sa=0).
+under Operation Warp Speed.[^85]
 
 <img src="/diagrams/vaccines/image3.png" style="width:100%" />
 
 **Figure 3:** Probability of success as a function of number of
-candidates. Source: [<span
-class="underline">https://www.AcceleratingHT.org/</span>](https://www.acceleratinght.org/)
+candidates. Source: <https://www.AcceleratingHT.org/>.
 
 It is advantageous for countries to unite in their negotiations with
 multiple firms for development and manufacturing of vaccines; this will
 ensure a higher probability of success, with more vaccination at a lower
-overall cost
-[^86](http://sciwheel.com/work/citation?ids=8560625&pre=&suf=&sa=0).
-The model illustrated in Fig 3 suggests that it would be optimal to
+overall cost.[^86] The model illustrated in Fig 3 suggests that it would be optimal to
 invest in 20 vaccine candidates to ensure the likelihood of success to
 be above 0.8, and this is the point at which the economic benefits of
 advancing vaccine development and manufacturing capacity are optimised
-(Michael Kremer, personal communication; for more details, see [<span
-class="underline">https://www.AcceleratingHT.org/</span>](https://www.acceleratinght.org/)
-)[^87](http://sciwheel.com/work/citation?ids=9529436&pre=&suf=&sa=0).
+(Michael Kremer, personal communication; for more details, see <https://www.AcceleratingHT.org/>.[^87]
 
 COVAX is a global collaboration on COVID-19 vaccines coordinated by
 Gavi, CEPI and the WHO, which aims to secure billions of doses of
