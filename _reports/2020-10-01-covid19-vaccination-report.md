@@ -1,7 +1,7 @@
 ---
 title: SARS-CoV-2 Vaccine Development & Implementation; Scenarios, Options, key decisions
 date: 2020-10-01 00:00:00 Z
-published: false
+published: true
 authors:
 - consortium:
     name: The DELVE Initiative
@@ -594,14 +594,11 @@ to test vaccines and determine protective mechanisms. Safety testing of
 vaccines in animal models can help to predict potential harmful effects
 including vaccine enhanced disease upon infection. Non-human primates
 can be infected with SARS-CoV-2 as they possess a similar ACE2 receptor
-(which the virus uses to infect cells) to humans
-[^2],[^45],[^46]
+(which the virus uses to infect cells) to humans[^2],[^45],[^46]
 and SARS-CoV-2 challenged or vaccinated rhesus macaques demonstrated
-protection against reinfection.
-[^2],[^3],[^47]
+protection against reinfection.[^2],[^3],[^47]
 Small animals can also be infected, including transgenic mice which have
-been engineered to express the human ACE2 receptor
-[^48–53](http://sciwheel.com/work/citation?ids=8616701,8997978,9078812,9388568,9550469,9540791&pre=&pre=&pre=&pre=&pre=&pre=&suf=&suf=&suf=&suf=&suf=&suf=&sa=0,0,0,0,0,0).
+been engineered to express the human ACE2 receptor.[^48][^49][^50][^51][^52][^53]
 The Syrian golden hamster in particular has emerged as a suitable animal
 model for SARS-CoV-2 and has been used to demonstrate the protective
 effect of antibodies.[^54]
@@ -609,15 +606,13 @@ However, data from animal experiments must be interpreted with caution.
 Rechallenge studies have so far been undertaken only a short time after
 vaccination or primary infection, so the longevity of protection is not
 known, furthermore variation in models employed reduces our ability to
-compare different vaccines.
-[^33],[^55]
+compare different vaccines.[^33],[^55]
 Animal immune systems differ fundamentally from the human immune system
 in certain respects we understand and possibly ways we do not understand
 yet, experimental animals are often housed under unusually clean
 conditions and lack experience of infections and other diseases, and the
 doses of virus used in animal experiments tend to be much higher than
-those encountered in natural human infection
-[^45,49,51,56](http://sciwheel.com/work/citation?ids=8997978,8993230,9388568,9687276&pre=&pre=&pre=&pre=&suf=&suf=&suf=&suf=&sa=0,0,0,0).
+those encountered in natural human infection.[^45][^49][^51][^56]
 NHPs are currently viewed as the most useful model but are very
 expensive so numbers used are very small. NHPs are also outbred so
 results can be highly variable and most animal models (including NHPs)
@@ -627,8 +622,7 @@ do not show much disease or pathology with SARS-CoV-2.
 
 To address gaps in understanding of protective immunity and to develop a
 strategy for selecting or rejecting vaccine candidates, human infection
-challenge with SARS-CoV-2 is being considered
-[^57](http://sciwheel.com/work/citation?ids=8596169&pre=&suf=&sa=0)
+challenge with SARS-CoV-2 is being considered[^57]
 ([<span class="underline">Appendix
 1</span>](#appendix-1-human-challenge-studies)). Human infection
 challenges with influenza and other respiratory viruses have been
