@@ -1,5 +1,5 @@
 ---
-title: SARS-CoV-2 Vaccine Development & Implementation; Scenarios, Options, key decisions
+title: SARS-CoV-2 Vaccine Development & Implementation; Scenarios, Options, Key Decisions
 date: 2020-10-01 00:00:00 Z
 authors:
 - consortium:
