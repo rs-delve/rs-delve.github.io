@@ -346,9 +346,8 @@ enhancement.
 ## What is the current situation with vaccines in clinical development?
 
 Over 200 SARS-CoV-2 vaccine candidates are currently in development
-[^27] [^28] [^29] [^30][<span
-class="underline">(Appendix
-2)</span>](https://www.who.int/publications/m/item/draft-landscape-of-covid-19-candidate-vaccines).
+[^27] [^28] [^29] [^30][(Appendix
+2)](https://www.who.int/publications/m/item/draft-landscape-of-covid-19-candidate-vaccines).
 Some candidates that are in the later stages of clinical trials (e.g.
 the Oxford/Astrazeneca ChAdOx1) are based on “viral vectors”, where part
 of the SARS-CoV-2 genetic code is inserted into another harmless virus.
@@ -1734,7 +1733,7 @@ of protection.
 <p><strong>7.5m doses</strong></p>
 <p>(3.3m UK health and social care workers)</p>
 <p><strong>17m doses</strong></p>
-<p>(7.3m other key workers)<a href="http://sciwheel.com/work/citation?ids=9658064&amp;pre=&amp;suf=&amp;sa=0">[<a href="#fn:145" class="footnote">145</a>]</a></p></td>
+<p>(7.3m other key workers)[<a href="#fn:145" class="footnote">145</a>]</p></td>
 <td>Not all those at high risk can be identified.</td>
 </tr>
 </tbody>
@@ -1764,18 +1763,15 @@ Transmission to those in high risk groups may be reduced by vaccination
 of health and care workers by creating a cocoon which protects the
 vulnerable. In our recent report, we estimate that early in the
 pandemic, at least 10% (CI 4-15%) of all COVID-19 infections in England
-were among these groups, with 6% of infections among care home residents
-[^147].
+were among these groups, with 6% of infections among care home residents.[^147]
 Vaccination of care home staff against influenza has been shown to
-significantly reduce mortality
-[^148]. A
+significantly reduce mortality.[^148] A
 significant proportion of transmission events are likely to occur within
 households. Therefore, if transmission is reduced by vaccination, it
 might be extended to those who share households with those in vulnerable
 groups. 74% of clinically extremely vulnerable (CEV) people live with
 other people (in the UK), and 15% live in a household with children aged
-under 16 years
-[^141].
+under 16 years.[^141]
 However, it will be difficult to identify and prioritise all contacts of
 the vulnerable.
 
@@ -1818,8 +1814,7 @@ vaccinated.
 </table>
 
 Under Scenario 3, the vaccine is offered to the whole population or
-large sectors of the population
-[^149] [^150].
+large sectors of the population.[^149] [^150]
 A widespread vaccination programme would eventually aim to achieve herd
 immunity, in which a sufficient proportion of a population is immune to
 prevent sustained transmission of an infection. This strategy would
@@ -1829,8 +1824,7 @@ milder SARS-CoV-2 infection which are still unknown.
 
 For widespread use, the WHO recommends a vaccine product profile of at
 least 50% efficacy in the wider population, preferably 70%, with
-consistent protection shown in the older people
-[^62] [^118].
+consistent protection shown in the older people.[^62] [^118]
 A widespread vaccination policy could substantially reduce disease
 burden, even in the absence of herd immunity. A recent model suggested
 that, assuming immunity lasts at least one year, over 50% of deaths
@@ -1840,33 +1834,28 @@ vaccine has more than 50% efficacy
 Once a vaccine is widely available and assuming sufficient vaccine
 efficiency, widespread vaccination, particularly of high-transmission
 groups may prove to be a more efficient strategy to minimise deaths and
-hospitalisations than targeting vulnerable groups
-[^65] [^140] [^143],
+hospitalisations than targeting vulnerable groups,[^65] [^140] [^143]
 however, this is dependent on our ability to identify and prioritise
 those driving transmission events, for example, the role of children in
-SARS-CoV2 transmission is still unclear
-[^151] [^152].
+SARS-CoV2 transmission is still unclear.[^151] [^152]
 
 To achieve herd immunity, a suitable vaccine must provide sufficient
 immunity in those vaccinated to reach an immunity threshold within the
 population. Estimates of the proportion of the population that would
-need to be immune to achieve herd immunity vary
-[^153].
+need to be immune to achieve herd immunity vary.[^153]
 Vaccine induced immunity will be in addition to naturally acquired
 immunity following infection. For SARS-CoV-2, estimates of R<sub>0</sub>
 vary, however (based on 1-1/R<sub>0</sub>) the proportion of the
 population that would need to be immune to achieve herd immunity has
 been estimated as 50-80%, although herd immunity may be achieved at a
 lower rate of immunity, for example if it exists in those more likely to
-transmit infection and depending on behaviours
-[^139] [^154] [^155].
+transmit infection and depending on behaviours.[^139] [^154] [^155]
 A recent model suggested that the epidemic might be constrained if 50%
 of the population is vaccinated, in addition to naturally acquired
 immunity, if that vaccination is optimally targeted for example to those
 most likely to be onwards transmitters; however in reality optimal
 strategies are unlikely to be achieved, as those transmitting cannot be
-easily identified and selectively prioritised
-[^65].
+easily identified and selectively prioritised.[^65]
 
 This strategy requires a vaccine to be available in a large number of
 doses. The UK government has agreements to secure hundreds of millions
@@ -1882,8 +1871,7 @@ response to any vaccine is likely to be heterogeneous. Potentially,
 therefore the virus would continue to circulate, as immunity may be
 induced in too low a proportion of recipients or be too short lived to
 achieve herd immunity, however the extent and frequency of outbreaks
-would be expected to decrease
-[^63] [^156] [^157].
+would be expected to decrease.[^63] [^156] [^157]
 Even if herd immunity is achieved, outbreaks could still occur for
 example, in social groups or geographical regions of low uptake or as
 immunity wanes.
@@ -1898,8 +1886,7 @@ protect those who cannot be vaccinated or who respond poorly and are
 likely to remain vulnerable to infection or disease. If the vaccine is
 partially effective, correlates of protection are unknown and therefore
 protection cannot be tested for, widespread vaccination could lead to
-increases in risky behaviour in those who assume they are protected
-[^118].
+increases in risky behaviour in those who assume they are protected.[^118]
 
 Even once high levels of immunity are achieved in the population,
 surveillance must be maintained as there is a risk that the virus could
@@ -1943,8 +1930,7 @@ vaccine itself would ideally prevent both transmission and disease, but
 crucially must induce immunity sufficiently rapidly to protect before
 the outbreak has spread through the community. The WHO recommends
 immunity must be induced in less than 2 weeks and ideally following a
-single dose to be suitable to contain outbreaks
-[^62].
+single dose to be suitable to contain outbreaks.[^62]
 Immunity induced by the vaccine could be short lived if it is sufficient
 to contain the outbreak. Sufficient doses would need to be available
 locally as part of a rapid response. Success would require continuous
@@ -1990,8 +1976,7 @@ effective strategy.
 Individuals receiving vaccines will need to be monitored for longevity
 of immunity and efficacy in clinically and geographically diverse
 populations to establish the overall effectiveness of first generation
-vaccines
-[^118] [^159].
+vaccines.[^118] [^159]
 Furthermore, if different vaccines are suitable for use in different
 populations or more than one vaccine needs to be used in combination,
 this will require coordination of the manufacturing and supply chains.
@@ -2002,7 +1987,7 @@ with waning of immunity and immunopathology. Rare adverse events or
 limited effectiveness in the field may only come to light when very
 large numbers of people are vaccinated.
 
-<span id="_w17zo4cc680j" class="anchor"></span>As immunity builds in the
+As immunity builds in the
 population as a result of naturally-acquired immunity, use of
 therapeutic monoclonal antibodies, or through vaccination, viruses that
 mutate so as to be less well recognised by and evade the immune system
