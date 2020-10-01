@@ -955,20 +955,17 @@ COVAX is a global collaboration on COVID-19 vaccines coordinated by
 Gavi, CEPI and the WHO, which aims to secure billions of doses of
 affordable SARS-CoV-2 vaccines which will be available to all
 participating nations, securing sufficient supply initially for 3% and
-then 20% of participating countries' populations
-[^79,88,89].
+then 20% of participating countries' populations.[^79],[^88],[^89]
 COVAX aims to secure USD 18.1bn in funding to support the development,
-procurement and delivery of 2 billion doses of vaccines by the end of
-2021. The Gavi COVAX AMC will fund access for lower-income countries. To
+procurement and delivery of 2 billion doses of vaccines by the end of 2021. 
+The Gavi COVAX AMC will fund access for lower-income countries. To
 date 170 nations including 76 wealthy nations, have expressed intent to
-participate in the scheme, including a UK commitment of £571m
-[^90].
+participate in the scheme, including a UK commitment of £571m.[^90]
 Such international collaboration to invest in multiple vaccine
 candidates reduces the risk to individual countries, strengthens their
 negotiating position and helps to secure global supplies, reduces the
 risk that ‘vaccine nationalism’ could reduce availability, and that a
-bidding war could increase prices
-[^72,81],
+bidding war could increase prices,[^72],[^81]
 rendering vaccines unaffordable to LMIC. The participation of a
 significant number of high-income countries will likely create
 incentives for others to join the syndicate. If it is politically
@@ -976,8 +973,7 @@ impossible for all countries to join, informal coordination of
 initiatives should be pursued (Michael Kremer, personal communication).
 Furthermore, cooperative allocation of vaccine doses once available is
 likely to have greater overall health outcomes, in terms of lives saved,
-than unequal allocation to wealthier nations
-[^91].
+than unequal allocation to wealthier nations.[^91]
 
 <img src="/diagrams/vaccines/image4.png" style="width:100%" />
 
@@ -990,8 +986,7 @@ Once a safe and effective vaccine is available the choice of vaccination
 strategies will need to be phased to match manufacturing capacity. CEPI
 estimates that for 2021 a global annual capacity of between 2 to 4
 billion doses could be available without disrupting existing vaccine
-supplies with much of the capacity being in India and China
-[^92].
+supplies with much of the capacity being in India and China.[^92]
 They hope to distribute 2.1 billion doses in 2020/1 and will target
 high-risk individuals. If immunity is short lived and annual vaccine
 boosters are needed, capacity will be needed to extend coverage whilst
@@ -1084,8 +1079,7 @@ ability to upscale. More traditional formulations are well established
 but newer technologies may have a smaller manufacturing footprint and
 produce many doses rapidly in bulk. COVID-19 vaccines need to be
 manufactured under current Good Manufacturing Practices (cGMP) in a
-registered manufacturing facility
-[^94], at
+registered manufacturing facility,[^94] at
 high volume, rapidly and ideally at low enough cost to allow
 affordability and mass immunisation. An overview of the manufacturing
 process for different vaccine platforms is shown in Appendix 3.
@@ -1095,15 +1089,12 @@ chimpanzee replication-deficient adenovirus-vectored vaccine (ChAdOx1)
 expressing the SARS-CoV-2 spike protein and (2) the self-amplifying RNA
 (saRNA) vaccine formulated in lipid nanoparticles (LNPs). The ChAdOx1
 vaccine developed by the University of Oxford and commercialised in
-collaboration with AstraZeneca is currently in phase 3 clinical trials
-[^29].
+collaboration with AstraZeneca is currently in phase 3 clinical trials.[^29]
 The saRNA vaccine is developed by Imperial College London and is in
-phase 1 clinical trials
-[^29].
+phase 1 clinical trials.[^29]
 
 Besides these two UK-based candidate vaccines, the UK Government also
-agreed to acquire vaccines from an additional four suppliers from abroad
-[^95],
+agreed to acquire vaccines from an additional four suppliers from abroad,[^95]
 some of which are planned to be manufactured in the UK, as listed in
 **Table 1** below. Thus, in total, the UK Government is planning to
 source four different vaccine types, from seven different suppliers
@@ -1136,7 +1127,7 @@ of their advancement through clinical trials.
 <td>30 + 70</td>
 <td>Serum Institute of India</td>
 <td>India, UK, Netherlands</td>
-<td><a href="http://sciwheel.com/work/citation?ids=9598898,9598897,9598901,9598891&amp;pre=&amp;pre=&amp;pre=&amp;pre=&amp;suf=&amp;suf=&amp;suf=&amp;suf=&amp;sa=0,0,0,0">(29,95–97)</a></td>
+<td>(29,95–97)</td>
 </tr>
 <tr class="odd">
 <td>BioNTech, Pfizer</td>
@@ -1145,7 +1136,7 @@ of their advancement through clinical trials.
 <td>30</td>
 <td>BioNTech, Pfizer</td>
 <td>Germany, USA, Belgium</td>
-<td><a href="http://sciwheel.com/work/citation?ids=9598897,9598898,9598913,9598914,9598918&amp;pre=&amp;pre=&amp;pre=&amp;pre=&amp;pre=&amp;suf=&amp;suf=&amp;suf=&amp;suf=&amp;suf=&amp;sa=0,0,0,0,0">(29,95,98–100)</a></td>
+<td>(29,95,98–100)</td>
 </tr>
 <tr class="even">
 <td>Janssen Pharmaceutical Companies</td>
@@ -1154,7 +1145,7 @@ of their advancement through clinical trials.
 <td>30 + 22</td>
 <td>Biological E</td>
 <td>India</td>
-<td><a href="http://sciwheel.com/work/citation?ids=9598897,9598898,9598921&amp;pre=&amp;pre=&amp;pre=&amp;suf=&amp;suf=&amp;suf=&amp;sa=0,0,0">(29,95,101)</a></td>
+<td>(29,95,101)</td>
 </tr>
 <tr class="odd">
 <td>Novavax</td>
@@ -1163,7 +1154,7 @@ of their advancement through clinical trials.
 <td>60</td>
 <td>FUJIFILM Diosynth Biotechnologies</td>
 <td>Teesside, UK</td>
-<td><a href="http://sciwheel.com/work/citation?ids=9598897,9598898,9598926&amp;pre=&amp;pre=&amp;pre=&amp;suf=&amp;suf=&amp;suf=&amp;sa=0,0,0">(29,95,102)</a></td>
+<td>(29,95,102)</td>
 </tr>
 <tr class="even">
 <td>Imperial College London</td>
@@ -1172,7 +1163,7 @@ of their advancement through clinical trials.
 <td>Not disclosed</td>
 <td>Centre for Process Innovation</td>
 <td>Darlington, UK</td>
-<td><a href="http://sciwheel.com/work/citation?ids=9598897,9598898,9598928&amp;pre=&amp;pre=&amp;pre=&amp;suf=&amp;suf=&amp;suf=&amp;sa=0,0,0">(29,95,103)</a></td>
+<td>(29,95,103)</td>
 </tr>
 <tr class="odd">
 <td>Valneva</td>
@@ -1181,7 +1172,7 @@ of their advancement through clinical trials.
 <td>60 + 40</td>
 <td>Valneva UK</td>
 <td>Livingston, Scotland</td>
-<td><a href="http://sciwheel.com/work/citation?ids=9598897,9598898,9598913,9598929&amp;pre=&amp;pre=&amp;pre=&amp;pre=&amp;suf=&amp;suf=&amp;suf=&amp;suf=&amp;sa=0,0,0,0">(29,95,98,104)</a></td>
+<td>(29,95,98,104)</td>
 </tr>
 <tr class="even">
 <td>Sanofi Pasteur, GSK</td>
@@ -1190,7 +1181,7 @@ of their advancement through clinical trials.
 <td>60</td>
 <td>Sanofi Pasteur, GSK</td>
 <td>USA</td>
-<td><a href="http://sciwheel.com/work/citation?ids=9598897,9598898,9598930,9598932&amp;pre=&amp;pre=&amp;pre=&amp;pre=&amp;suf=&amp;suf=&amp;suf=&amp;suf=&amp;sa=0,0,0,0">(29,95,105,106)</a></td>
+<td>(29,95,105,106)</td>
 </tr>
 </tbody>
 </table>
@@ -1312,21 +1303,17 @@ manufacture. GSK who are a major vaccine manufacturer currently make
 about 3 million doses of vaccine a day. That is about 1 billion doses
 per year or about 1/15th of the quantity needed for COVID-19 but not
 necessarily available. Similarly, global vaccine capacity for influenza
-(in 2009) was 900 million doses
-[^69].
+(in 2009) was 900 million doses.[^69]
 Substantial components of manufacturing capacity (e.g. - for fill and
 finish) can be repurposed across vaccines, but not all manufacturing can
 be repurposed. Global coordination of investment in new plants should
-ensure the most efficient use of manufacturing capacity
-[^93].
+ensure the most efficient use of manufacturing capacity.[^93]
 
 The vaccine supply chain consists of: (1) sourcing of raw materials and
 consumables used for vaccine drug substance and drug product
 manufacturing, and (2) the distribution of the finished product. In both
 cases, the supply chain consists of a series of transportation and
-storage steps
-[^107].
-The sourcing of material and consumables as well as the distribution and
+storage steps.[^107] The sourcing of material and consumables as well as the distribution and
 administration of vaccines might be disrupted by the pandemic itself if
 and when borders are closed, or transportation and travel is restricted,
 personnel become ill, raw material or consumable manufacturing
@@ -1338,8 +1325,7 @@ the population.
 The International Air Transport Association recently reported that 8000
 Boeing 747 cargo loads would be needed to distribute a single dose of
 vaccine to 7.8 billion people. Frozen vaccines would be more difficult
-to transport because of lack of suitable carrying capacity
-[^107].
+to transport because of lack of suitable carrying capacity.[^107]
 There is currently uncertainty around the thermostability of these
 vaccines, especially the newer vaccine types such as the RNA vaccines.
 It is possible that RNA vaccines would need to be transported and stored
@@ -1357,14 +1343,12 @@ manufacturing-supply-administration chain appears to be the final
 administration step. To address this administration challenge,
 additional staff will need to be trained (e.g. pharmacists, midwives,
 physiotherapists, dentists and vets) to immunise the population rapidly
-and safely
-[^108].
+and safely.[^108]
 In principle, vaccination campaigns can also be designed to maximise the
 number of individuals vaccinated per medical staff per unit time. All of
 the seven vaccines to be acquired by the UK government are administered
 intramuscularly; however, these might require two doses in a prime and
-boost regimen thus requiring even more medical staff and resources
-[^29].
+boost regimen thus requiring even more medical staff and resources.[^29]
 
 ### Advantages of an integrated manufacturing-distribution-administration chain
 
@@ -1377,8 +1361,7 @@ instrumental in designing and operating such complex systems. By
 developing and using such methods, the entire system might be operated
 at its maximum potential. In parallel to this, epidemiology modelling
 can be used to predict COVID-19 disease spread and minimise COVID-19
-related mortalities
-[^109].
+related mortalities.[^109]
 Coupling these two models and using them in real-time with data from the
 underlying physical processes, could help combat the current COVID-19
 pandemic more effectively in the UK and beyond.
@@ -1387,8 +1370,7 @@ pandemic more effectively in the UK and beyond.
 
 There are a number of issues that need to be considered around the
 impact of COVID-19 vaccine programmes and how they are rolled out on
-health inequality
-[^110].
+health inequality.[^110]
 These can be split into those that impact health inequalities in the UK
 and those that impact health inequalities globally. They can be further
 split into those that are direct effects of the vaccine programme versus
@@ -1399,8 +1381,7 @@ Given that it is likely that at least in the immediate term the demand
 for the vaccine will outstrip supply there will be questions about who
 is given priority access. It is important that these questions are
 resolved in fair, transparent and accountable ways employing appropriate
-processes to do so
-[^111].
+processes to do so.[^111]
 Thinking first about the various scenarios outlined for vaccine roll out
 in the UK it is apparent that there will be different sets of winners
 and losers in each scenario. When choosing between scenarios these
@@ -1411,8 +1392,7 @@ deciding which of the scenarios to pursue in terms of their impacts on
 exacerbating or ameliorating existing health inequalities. Clear
 criteria should be defined to judge the relative merits of the different
 scenarios and clear justification for why a given scenario is chosen
-over others should be made explicit
-[^112].
+over others should be made explicit.[^112]
 It is important to recognise that vaccines are one element in the
 portfolio of tools that can be used to tackle COVID-19. As vaccines
 become available the allocation of resources and efforts across
@@ -1436,8 +1416,7 @@ is also valuable to ensure policies that are chosen improve population
 health and wellbeing overall and reduce health inequalities.
 
 Other key within-country considerations include the impacts of existing
-inequalities in supply of healthcare workforce
-[^113].
+inequalities in supply of healthcare workforce.[^113]
 Poorer parts of the population suffer from worse health in the UK and
 are currently underserved in terms of access to primary care. If
 existing primary care infrastructure is utilised to deliver COVID-19
@@ -1469,18 +1448,15 @@ pharmaceutical licencing backed up by international trade rules such as
 TRIPS (Trade-Related Aspects of Intellectual Property Rights) have in
 the past been seen as restricting access to healthcare from those who
 need it most in order to serve the financial interests of the
-pharmaceutical industry
-[^114]. A
+pharmaceutical industry.[^114] A
 particularly striking recent case study is that of antiretroviral drugs
-in South Africa
-[^115].
+in South Africa.[^115]
 Careful consideration should be given to the issue of access to
 healthcare globally when engaging in licensing agreements with vaccine
 manufacturers and participating in collective purchasing agreements with
 other governments. World Health Organization initiatives to ensure
 equitable access for all globally provide valuable opportunities to
-collaborate with other countries to promote health equity
-[^89].
+collaborate with other countries to promote health equity.[^89]
 
 
 # Ensuring the success of a vaccination programme: vaccine acceptability 
@@ -1504,8 +1480,7 @@ risk that a vaccine that is poorly effective or reactogenic, or which
 requires multiple booster injections will not create an incentive for
 uptake among those who perceive themselves at low risk, and if the
 vaccine is perceived as having been rushed through safety testing, this
-might create long term distrust and hesitancy
-[^116],[^117],[^118],[^119].
+might create long term distrust and hesitancy.[^116],[^117],[^118],[^119]
 
 ## Clear communication is needed to build trust in vaccines, increase acceptability and thus effectiveness
 
@@ -1516,8 +1491,7 @@ informed decision-making. Such communication should include information
 on the benefits of any vaccine to individuals and their close contacts
 and community; it should not hide the potential limitations of vaccines
 including possible limited availability, incomplete protection requiring
-boosting and reactogenicity
-[^37],[^120],[^121],[^122].
+boosting and reactogenicity.[^37],[^120],[^121],[^122]
 While such negative or complicating factors might lower uptake, their
 discovery post-rollout is likely to have a far greater negative impact
 on uptake. One important aspect of vaccination to be communicated
@@ -1528,30 +1502,24 @@ are supportive when vaccines are rolled out in a staggered manner.
 Effective communication programmes can benefit from using previously
 validated approaches. For example, the 3 E’s (Explanation, Engagement
 and Education) approach is used by the Bank of England to address the
-‘twin deficits’ of public understanding and trust
-[^123],[^124],[^125].
+‘twin deficits’ of public understanding and trust.[^123],[^124],[^125]
 Involving widely trusted individuals with broad reach, such as
 healthcare professionals particularly in primary care, can help to
-manage expectations and anxieties
-[^37].
+manage expectations and anxieties.[^37]
 Approaches such as the 3 E’s require a thorough understanding of
 communities’ beliefs, values, power structures and behaviours in order
 to be effective, as was seen when tackling a polio outbreak in Somali
-pastoralist communities in 2013-14
-[^126].
+pastoralist communities in 2013-14.[^126]
 
 The vaccine hesitancy seen for many non-COVID-19 vaccines is very likely
-to also occur for any COVID-19 vaccine
-[^127].
+to also occur for any COVID-19 vaccine.[^127]
 Some hesitancy is based on rational concerns, which can be addressed
-through clear communication and dialogue
-[^128],
+through clear communication and dialogue,[^128]
 however people may have a range of concerns or fears. One framework for
 understanding vaccine hesitancy uses two axes: one considering the level
 of trust individuals and groups have in health authorities; the other
 considering people’s commitment to managing risk in their lives in
-general, and their own health in particular
-[^129].
+general, and their own health in particular.[^129]
 Those who take control of their health but distrust authority are likely
 to rationalize their hesitancy, while those who do not are more likely
 to simply avoid the issue as far as possible. The varied reasons for
@@ -1559,8 +1527,7 @@ vaccine hesitancies will require alternative strategies that meet
 individuals where they are. One example of such an approach is ‘convert
 communicators’, where those with previously strongly held opinions
 explain why they previously held that position and provide new
-information that caused them to change their mind
-[^130],[^131].
+information that caused them to change their mind.[^130],[^131]
 
 ## Barriers to vaccine uptake need to be minimised
 
@@ -1582,8 +1549,7 @@ A further step to reducing barriers would be to mandate vaccination as a
 prerequisite for resuming activities of various kinds. For example,
 vaccination could be mandatory for health care workers to engage in
 certain activities as has been used in some settings, for example, with
-influenza and hepatitis B vaccination
-[^128],[^132].
+influenza and hepatitis B vaccination.[^128],[^132]
 
 ## Priority groups will often require dedicated focus accounting for specific needs and concerns
 
@@ -1604,27 +1570,22 @@ risk. As scientists work to create a viable vaccine it will become
 extremely important for this population to have adequate access and high
 uptake. Studies have shown that immunisations in the UK are well
 received, but there is evidence that uptake of some immunisations are
-lower in Black and Asian minority groups
-[^133].
+lower in Black and Asian minority groups.[^133]
 Cultural belief differences as well as cultural mistrust are major
-obstacles in the implementation of vaccine and immunization promotion
-[^134].
+obstacles in the implementation of vaccine and immunization promotion.[^134]
 There is a long history of minorities being mistreated by the healthcare
 system which reduces their participation. Physician communication
 behaviours have been shown to have different effects on patient trust
-depending on the race of the patient
-[^135].
+depending on the race of the patient.[^135]
 While cultural mistrust may deter ethnic minorities from going to their
 general practitioner, lack of culturally sensitive communication limits
 the public health information they receive. Health guidance
 communication only given in English reduces the participation in
 immunization among children from ethnic minority backgrounds due to
-language barriers
-[^134].
+language barriers.[^134]
 Overcoming these barriers will require collaboration with patients and
 their families to ensure that ethnic minority populations have access to
-vaccinations
-[^136].
+vaccinations.[^136]
 
 # Requirements and consequences of vaccination programmes, possible scenarios
 
@@ -1658,8 +1619,7 @@ the next 6-18 months. However, these may be suboptimal. Furthermore, a
 vaccine may be developed but not available to the UK as a priority.
 Decisions on which vaccine strategies to adopt will depend on the
 availability of a vaccine, the immunity elicited and acceptability of
-the vaccine
-[^79],[^137],[^138],[^139],[^140].
+the vaccine.[^79],[^137],[^138],[^139],[^140]
 Different vaccine strategies will have different results; immunity in
 vulnerable populations and those at high risk of exposure, or reduced
 transmission or elimination of the infection in the population at large.
@@ -1667,12 +1627,11 @@ The effects of vaccination in different groups such as children,
 clinically vulnerable groups and older people must be considered. All
 vaccine scenarios discussed below are examples, are not mutually
 exclusive and are likely to occur in conjunction with continued
-non-pharmaceutical interventions .
+non-pharmaceutical interventions.
 
 Current clinical trials are designed to test efficacy in reducing
 clinical disease (symptomatic infection) and the FDA has stipulated a
-requirement for 50% efficacy for licensure
-[^40];
+requirement for 50% efficacy for licensure;[^40]
 trials are not necessarily designed to detect protection against
 infection, severe disease, transmission, or efficacy in different
 groups, although these may be measured as secondary outcomes. A vaccine
@@ -1686,8 +1645,7 @@ This will necessitate a flexible approach, in which vaccines are
 evaluated as they complete clinical trials, and vaccine strategies
 adapted on an ongoing basis. This should be supported by modelling
 studies to determine optimal vaccination strategies as information
-emerges on vaccine properties and availability
-[^138],[^139],[^140].
+emerges on vaccine properties and availability.[^138],[^139],[^140]
 As vaccine strategies develop, this will require clear open
 communication with the public and health care workers.
 
@@ -1708,8 +1666,8 @@ communication with the public and health care workers.
 <td>Effective at preventing severe disease in high risk groups.</td>
 <td>Virus continues to circulate.</td>
 <td><p>Examples:</p>
-<p><strong>5m doses</strong> (2.2m clinically extremely vulnerable in UK)<a href="http://sciwheel.com/work/citation?ids=9658058&amp;pre=&amp;suf=&amp;sa=0">(141)</a></p>
-<p><strong>29m doses</strong> (12.5m UK over 65s)<a href="http://sciwheel.com/work/citation?ids=9658055&amp;pre=&amp;suf=&amp;sa=0">(142)</a></p>
+<p><strong>5m doses</strong> (2.2m clinically extremely vulnerable in UK)(141)</p>
+<p><strong>29m doses</strong> (12.5m UK over 65s)(142)</p>
 <p><strong>60m doses</strong> (25.5m UK over 50s)</p></td>
 <td><p>Potential for large reduction in disease burden for relatively low number of doses.</p>
 <p>Some vaccines might be of low efficacy in older people.</p>
@@ -1721,25 +1679,20 @@ communication with the public and health care workers.
 In Scenario 1, vaccines would be administered to those at most risk of
 severe disease. This would require fewer doses than a strategy of
 widespread vaccination, and is likely to be the optimal strategy when
-vaccine supplies are limited
-[^65],[^143].
+vaccine supplies are limited.[^65],[^143]
 Decisions will need to be made as to who should be within the priority
-groups for vaccination according to efficacy and availability
-[^79],[^137].
+groups for vaccination according to efficacy and availability.[^79],[^137]
 The UK Joint Committee on Vaccination and Immunisation (JCVI) has issued
 interim advice that this could include those over 50 and with other risk
 factors, such as chronic heart disease, chronic kidney disease, chronic
-pulmonary disease, malignancy, obesity and dementia
-[^144].
+pulmonary disease, malignancy, obesity and dementia.[^144]
 The WHO initially recommended prioritisation of people over 65, adults
 between 30 and 70 suffering from cardiovascular disease, cancer,
 diabetes, obesity or chronic respiratory disease, as well as health care
-workers
-[^137].
+workers.[^137]
 Priority groups could also include those in the clinically extremely
 vulnerable group, who have been shielding, pregnant women and those who
-are immunosuppressed
-[^144],
+are immunosuppressed,[^144]
 but only if the vaccine can be safely used in these groups. The vaccine
 should ideally be effective at preventing severe disease in a high
 proportion of those in the high-risk groups such as older people, who
@@ -2886,7 +2839,7 @@ sterile filtered and can be shipped to the fill-to-finish site.
 
 [^27]: Amanat F, Krammer F. SARS-CoV-2 Vaccines: Status Report. Immunity.  2020 Apr 14;52(4):583–9.
 
-[^28]: COVID-19 vaccine tracker \[Internet\]. \[cited 2020 Sep 12\].  Available from: https://vac-lshtm.shinyapps.io/ncov\_vaccine\_landscape/.
+[^28]: COVID-19 vaccine tracker \[Internet\]. \[cited 2020 Sep 12\].  Available from: <https://vac-lshtm.shinyapps.io/ncov_vaccine_landscape/>.
 
 [^29]: Draft landscape of COVID-19 candidate vaccines \[Internet\].  \[cited 2020 Sep 7\]. Available from: https://www.who.int/publications/m/item/draft-landscape-of-covid-19-candidate-vaccines.
 
@@ -3014,7 +2967,7 @@ sterile filtered and can be shipped to the fill-to-finish site.
 
 [^91]: Chinazzi M, Davis J, Dean N, Mu K, Piontti A, Xiong X, et al.  Estimating the effect of cooperative versus uncooperative strategies of COVID-19 vaccine allocation: a modeling study.
 
-[^92]: CEPI survey assesses potential COVID-19 vaccine manufacturing capacity – CEPI \[Internet\]. \[cited 2020 Sep 13\]. Available from: https://cepi.net/news\_cepi/cepi-survey-assesses-potential-covid-19-vaccine-manufacturing-capacity/.
+[^92]: CEPI survey assesses potential COVID-19 vaccine manufacturing capacity – CEPI \[Internet\]. \[cited 2020 Sep 13\]. Available from: <https://cepi.net/news_cepi/cepi-survey-assesses-potential-covid-19-vaccine-manufacturing-capacity/>.
 
 [^93]: Khamsi R. If a coronavirus vaccine arrives, can the world make enough? Nature.  2020;580(7805):578–80.
 
