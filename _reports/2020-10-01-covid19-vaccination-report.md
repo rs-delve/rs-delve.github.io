@@ -598,7 +598,7 @@ can be infected with SARS-CoV-2 as they possess a similar ACE2 receptor
 and SARS-CoV-2 challenged or vaccinated rhesus macaques demonstrated
 protection against reinfection.[^2],[^3],[^47]
 Small animals can also be infected, including transgenic mice which have
-been engineered to express the human ACE2 receptor.[^48][^49][^50][^51][^52][^53]
+been engineered to express the human ACE2 receptor.[^48],[^49],[^50],[^51],[^52],[^53]
 The Syrian golden hamster in particular has emerged as a suitable animal
 model for SARS-CoV-2 and has been used to demonstrate the protective
 effect of antibodies.[^54]
@@ -612,7 +612,7 @@ in certain respects we understand and possibly ways we do not understand
 yet, experimental animals are often housed under unusually clean
 conditions and lack experience of infections and other diseases, and the
 doses of virus used in animal experiments tend to be much higher than
-those encountered in natural human infection.[^45][^49][^51][^56]
+those encountered in natural human infection.[^45],[^49],[^51],[^56]
 NHPs are currently viewed as the most useful model but are very
 expensive so numbers used are very small. NHPs are also outbred so
 results can be highly variable and most animal models (including NHPs)
@@ -814,7 +814,7 @@ must be specifically tested in clinical trials of appropriate groups.
 Ultimately, the ability to properly plan for the level of vaccination
 required and who to prioritise will depend on an improved understanding
 of the nature and duration of vaccine immunity, disease susceptibility
-and transmission.[^64][^[65][^66]
+and transmission.[^64],[^[65],[^66]
 To interpret the results of different trials and to aid the design of
 future trials, further research is needed to understand which immune
 responses protect against infection and disease, and should be the goal
@@ -903,27 +903,27 @@ monopoly and prices set by willingness to pay and investment needs for
 future development. Historically, development of new vaccines is seen as
 high risk and has typically taken around 10 years at a cost estimated as
 between $500 million to $1-2bn, with a likelihood of entering the market
-of only 6-7%[^69][^70][^71](http://sciwheel.com/work/citation?ids=9447219,9464968,9127635&pre=&pre=&pre=&suf=&suf=&suf=&sa=0,0,0).
+of only 6-7%[^69],[^70],[^71](http://sciwheel.com/work/citation?ids=9447219,9464968,9127635&pre=&pre=&pre=&suf=&suf=&suf=&sa=0,0,0).
 
 Both ‘push’ and ‘pull’ incentives can be used to finance vaccine
 development and both have been used to accelerate the development of
-SARS-CoV-2 vaccines[^72][^73][^74](http://sciwheel.com/work/citation?ids=9514747,9530979,8570950&pre=&pre=&pre=&suf=&suf=&suf=&sa=0,0,0).
+SARS-CoV-2 vaccines[^72],[^73],[^74](http://sciwheel.com/work/citation?ids=9514747,9530979,8570950&pre=&pre=&pre=&suf=&suf=&suf=&sa=0,0,0).
 ‘Push’ funding finances investment in basic research and development of
 both the vaccine and manufacturing capacity without the need for a
 specific goal to be achieved, thereby reducing the cost for the
 developer. ‘Pull’ funding has been used to accelerate the development,
 availability and uptake of vaccines and other medical products, by
-guaranteeing reward for successful development[^72][^74][^75](http://sciwheel.com/work/citation?ids=9514747,8570950,9514716&pre=&pre=&pre=&suf=&suf=&suf=&sa=0,0,0).
+guaranteeing reward for successful development[^72],[^74],[^75](http://sciwheel.com/work/citation?ids=9514747,8570950,9514716&pre=&pre=&pre=&suf=&suf=&suf=&sa=0,0,0).
 An example of ‘pull’ funding are Advanced Market Commitments (AMCs),
 purchase agreements that can be used to guarantee price and quantity of
 vaccines purchased before the results of clinical trials are known and
-in advance of licencing[^74][^76](http://sciwheel.com/work/citation?ids=8570950,9500068&pre=&pre=&suf=&suf=&sa=0,0).
+in advance of licencing[^74],[^76](http://sciwheel.com/work/citation?ids=8570950,9500068&pre=&pre=&suf=&suf=&sa=0,0).
 AMC have been used, most notably, by the global vaccine alliance Gavi, a
 public-private partnership, to secure supply of vaccines for preventing
-pneumococcal disease in low income countries[^76][^77](http://sciwheel.com/work/citation?ids=9500068,9644120&pre=&pre=&suf=&suf=&sa=0,0).
+pneumococcal disease in low income countries[^76],[^77](http://sciwheel.com/work/citation?ids=9500068,9644120&pre=&pre=&suf=&suf=&sa=0,0).
 A purchase guarantee at a fixed price incentivises and de-risks vaccine
 development and investment in manufacturing capacity for the provider,
-and secures affordable vaccine supply for the purchaser[^74][^78](http://sciwheel.com/work/citation?ids=9442114,8570950&pre=&pre=&suf=&suf=&sa=0,0),
+and secures affordable vaccine supply for the purchaser[^74],[^78](http://sciwheel.com/work/citation?ids=9442114,8570950&pre=&pre=&suf=&suf=&sa=0,0),
 although AMC have been criticised for the relatively high price paid[^79](http://sciwheel.com/work/citation?ids=9089111&pre=&suf=&sa=0).
 The concerns about high prices may be ameliorated if joint negotiations
 are carried out by multiple countries. For SARS-CoV-2 vaccines such
@@ -944,7 +944,7 @@ millions of doses[^81](http://sciwheel.com/work/citation?ids=9531006&pre=&suf=&s
 to increase capacity, for example, in partnership with biotech company
 Valneva in Livingston, West Lothian, as well as supporting the fast
 track construction of the UK Vaccine Manufacturing and Innovation Centre
-(VMIC)[^82][^83](http://sciwheel.com/work/citation?ids=9441805,9441804&pre=&pre=&suf=&suf=&sa=0,0).
+(VMIC)[^82],[^83](http://sciwheel.com/work/citation?ids=9441805,9441804&pre=&pre=&suf=&suf=&sa=0,0).
 Furthermore, the government has secured other necessary supplies for
 example, ordering 65 million injection devices for autumn 2020[^84](http://sciwheel.com/work/citation?ids=9442066&pre=&suf=&sa=0).
 The US government has invested in the development of vaccine candidates
