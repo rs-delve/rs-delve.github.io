@@ -738,11 +738,9 @@ describing the effectiveness of the vaccine-induced immune response.
 
 **Figure 2:** Schematic of qualitative vaccination rate required to
 eliminate infections as a function of the effectiveness and duration of
-vaccinal immunity adapted from
-[^63].
+vaccinal immunity adapted from.[^63]
 
-The results in[^63]
-suggest that both the effectiveness of a vaccine and the duration of the
+The results in[^63] suggest that both the effectiveness of a vaccine and the duration of the
 immunity it confers affect the vaccination coverage required to achieve
 a disease-free state at equilibrium (see Figure 2). With a fully
 transmission-blocking vaccine, relatively low vaccination rates are
@@ -806,7 +804,7 @@ must be specifically tested in clinical trials of appropriate groups.
 Ultimately, the ability to properly plan for the level of vaccination
 required and who to prioritise will depend on an improved understanding
 of the nature and duration of vaccine immunity, disease susceptibility
-and transmission.[^64],[^[65],[^66]
+and transmission.[^64],[^65],[^66]
 To interpret the results of different trials and to aid the design of
 future trials, further research is needed to understand which immune
 responses protect against infection and disease, and should be the goal
@@ -881,7 +879,7 @@ studies.
 
 The COVID pandemic has caused enormous global economic damage. The
 International Monetary Fund (IMF) estimates that the cumulative output
-loss over 2020-21 could be $9 trillion, with the global economy
+loss over 2020-21 could be USD 9 trillion, with the global economy
 projected to contract by 3% in 2020.[^68] In
 addition to the health impact, the macroeconomic impact of an effective
 SARS-CoV-2 vaccine has convinced governments, non-governmental
@@ -894,7 +892,7 @@ large-scale high-risk R&D investment, patents that preserve market
 monopoly and prices set by willingness to pay and investment needs for
 future development. Historically, development of new vaccines is seen as
 high risk and has typically taken around 10 years at a cost estimated as
-between $500 million to $1-2bn, with a likelihood of entering the market
+between USD 500 million to USD 1-2bn, with a likelihood of entering the market
 of only 6-7%.[^69],[^70],[^71]
 
 Both ‘push’ and ‘pull’ incentives can be used to finance vaccine
@@ -960,7 +958,7 @@ affordable SARS-CoV-2 vaccines which will be available to all
 participating nations, securing sufficient supply initially for 3% and
 then 20% of participating countries' populations
 [^79,88,89](http://sciwheel.com/work/citation?ids=9089111,9644104,9644101&pre=&pre=&pre=&suf=&suf=&suf=&sa=0,0,0).
-COVAX aims to secure $18.1bn in funding to support the development,
+COVAX aims to secure USD 18.1bn in funding to support the development,
 procurement and delivery of 2 billion doses of vaccines by the end of
 2021. The Gavi COVAX AMC will fund access for lower-income countries. To
 date 170 nations including 76 wealthy nations, have expressed intent to
@@ -2120,12 +2118,11 @@ efficacy.
 
 The race today is to make a vaccine, any vaccine with cost not being a
 major consideration. However as time progresses governments will want a
-cost effective vaccine. To date Moderna are thought to be targeting $50
-to $60 per course ($25 to $30 per dose), Biontec/Pfizer $19.50 per dose
-and AstraZeneca a few dollars per dose
-[^166](http://sciwheel.com/work/citation?ids=9715734&pre=&suf=&sa=0).
+cost effective vaccine. To date Moderna are thought to be targeting USD 50
+to USD 60 per course (USD 25 to USD 30 per dose), Biontec/Pfizer USD 19.50 per dose
+and AstraZeneca a few dollars per dose.[^166]
 To use the Moderna vaccine for one cycle of vaccinations in the UK would
-cost about $3.4-4 billion just for the vaccine. Even a few dollars a
+cost about USD 3.4-4 billion just for the vaccine. Even a few dollars a
 dose will be out of reach for much of the world's population. As the
 memories of the economic cost of our recent shutdowns recede there will
 also be significant pressure to reduce annual re-vaccination costs if
