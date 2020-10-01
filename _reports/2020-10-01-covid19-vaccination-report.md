@@ -420,14 +420,14 @@ Different vaccines will generate distinctive immune responses, and
 therefore have different abilities to prevent infection, transmission
 and disease. Immunity generated may be mainly antibody-mediated or a
 more balanced antibody and T cell response
-[^36](http://sciwheel.com/work/citation?ids=1306209&pre=&suf=&sa=0). A
+[^36]. A
 variety of T cell types can be produced, with different abilities to
 protect against infection and form memory cells. Memory may be short or
 long-lived. Different vaccines may require single or multiple doses to
 induce a good memory response and will differ in the immediate unwanted
 side effects (reactogenicity) that will influence vaccine uptake and
 acceptability
-[^37](http://sciwheel.com/work/citation?ids=8896765&pre=&suf=&sa=0).
+[^37].
 Vaccines may work less well in certain groups, particularly in older
 people who often respond poorly to vaccination and are particularly
 vulnerable to SARS-CoV-2.
@@ -440,7 +440,7 @@ example injection into a muscle, may not induce good local immune
 responses in the airways, so may not prevent upper respiratory tract
 infection, viral shedding or transmission even if it protects the lung.
 This phenomenon has been seen in non-human primates studies
-[^3](http://sciwheel.com/work/citation?ids=8934337&pre=&suf=&sa=0). The
+[^3]. The
 majority of vaccines currently under development administer the vaccine
 by the intramuscular route. Phase III clinical trials currently underway
 use a reduction in COVID-19 disease in vaccine recipients as their
@@ -957,19 +957,19 @@ Gavi, CEPI and the WHO, which aims to secure billions of doses of
 affordable SARS-CoV-2 vaccines which will be available to all
 participating nations, securing sufficient supply initially for 3% and
 then 20% of participating countries' populations
-[^79,88,89](http://sciwheel.com/work/citation?ids=9089111,9644104,9644101&pre=&pre=&pre=&suf=&suf=&suf=&sa=0,0,0).
+[^79,88,89].
 COVAX aims to secure USD 18.1bn in funding to support the development,
 procurement and delivery of 2 billion doses of vaccines by the end of
 2021. The Gavi COVAX AMC will fund access for lower-income countries. To
 date 170 nations including 76 wealthy nations, have expressed intent to
 participate in the scheme, including a UK commitment of £571m
-[^90](http://sciwheel.com/work/citation?ids=9644109&pre=&suf=&sa=0).
+[^90].
 Such international collaboration to invest in multiple vaccine
 candidates reduces the risk to individual countries, strengthens their
 negotiating position and helps to secure global supplies, reduces the
 risk that ‘vaccine nationalism’ could reduce availability, and that a
 bidding war could increase prices
-[^72,81](http://sciwheel.com/work/citation?ids=9514747,9531006&pre=&pre=&suf=&suf=&sa=0,0),
+[^72,81],
 rendering vaccines unaffordable to LMIC. The participation of a
 significant number of high-income countries will likely create
 incentives for others to join the syndicate. If it is politically
@@ -978,7 +978,7 @@ initiatives should be pursued (Michael Kremer, personal communication).
 Furthermore, cooperative allocation of vaccine doses once available is
 likely to have greater overall health outcomes, in terms of lives saved,
 than unequal allocation to wealthier nations
-[^91](http://sciwheel.com/work/citation?ids=9666209&pre=&suf=&sa=0).
+[^91].
 
 <img src="/diagrams/vaccines/image4.png" style="width:100%" />
 
@@ -992,7 +992,7 @@ strategies will need to be phased to match manufacturing capacity. CEPI
 estimates that for 2021 a global annual capacity of between 2 to 4
 billion doses could be available without disrupting existing vaccine
 supplies with much of the capacity being in India and China
-[^92](http://sciwheel.com/work/citation?ids=9646232&pre=&suf=&sa=0).
+[^92].
 They hope to distribute 2.1 billion doses in 2020/1 and will target
 high-risk individuals. If immunity is short lived and annual vaccine
 boosters are needed, capacity will be needed to extend coverage whilst
@@ -1032,7 +1032,7 @@ the manufacturing challenges are:
 
 It is clear that worldwide there will be a long lag time to reach a
 suitable level of sustainable manufacturing
-[^93](http://sciwheel.com/work/citation?ids=8776842&pre=&suf=&sa=0).
+[^93].
 With vaccine development normally taking over 10 years and costing 1 to
 2 billion pounds, capacity has been built as needed. To build a new
 biotechnology manufacturing and filling facility can typically take 3-5
@@ -1076,7 +1076,7 @@ fill lines may need significant modification.
 The type of vaccine is very important for determining what route of
 manufacture is needed and therefore what type and scale of capacity is
 needed
-[^93,94](http://sciwheel.com/work/citation?ids=8776842,2301463&pre=&pre=&suf=&suf=&sa=0,0).
+[^93,94].
 Administration route and storage conditions determine the methods of
 fill finish, storage and distribution of the product.
 
@@ -1086,7 +1086,7 @@ but newer technologies may have a smaller manufacturing footprint and
 produce many doses rapidly in bulk. COVID-19 vaccines need to be
 manufactured under current Good Manufacturing Practices (cGMP) in a
 registered manufacturing facility
-[^94](http://sciwheel.com/work/citation?ids=2301463&pre=&suf=&sa=0), at
+[^94], at
 high volume, rapidly and ideally at low enough cost to allow
 affordability and mass immunisation. An overview of the manufacturing
 process for different vaccine platforms is shown in Appendix 3.
@@ -1097,14 +1097,14 @@ expressing the SARS-CoV-2 spike protein and (2) the self-amplifying RNA
 (saRNA) vaccine formulated in lipid nanoparticles (LNPs). The ChAdOx1
 vaccine developed by the University of Oxford and commercialised in
 collaboration with AstraZeneca is currently in phase 3 clinical trials
-[^29](http://sciwheel.com/work/citation?ids=9598897&pre=&suf=&sa=0).
+[^29].
 The saRNA vaccine is developed by Imperial College London and is in
 phase 1 clinical trials
-[^29](http://sciwheel.com/work/citation?ids=9598897&pre=&suf=&sa=0).
+[^29].
 
 Besides these two UK-based candidate vaccines, the UK Government also
 agreed to acquire vaccines from an additional four suppliers from abroad
-[^95](http://sciwheel.com/work/citation?ids=9598898&pre=&suf=&sa=0),
+[^95],
 some of which are planned to be manufactured in the UK, as listed in
 **Table 1** below. Thus, in total, the UK Government is planning to
 source four different vaccine types, from seven different suppliers
@@ -1314,19 +1314,19 @@ about 3 million doses of vaccine a day. That is about 1 billion doses
 per year or about 1/15th of the quantity needed for COVID-19 but not
 necessarily available. Similarly, global vaccine capacity for influenza
 (in 2009) was 900 million doses
-[^69](http://sciwheel.com/work/citation?ids=9447219&pre=&suf=&sa=0).
+[^69].
 Substantial components of manufacturing capacity (e.g. - for fill and
 finish) can be repurposed across vaccines, but not all manufacturing can
 be repurposed. Global coordination of investment in new plants should
 ensure the most efficient use of manufacturing capacity
-[^93](http://sciwheel.com/work/citation?ids=8776842&pre=&suf=&sa=0).
+[^93].
 
 The vaccine supply chain consists of: (1) sourcing of raw materials and
 consumables used for vaccine drug substance and drug product
 manufacturing, and (2) the distribution of the finished product. In both
 cases, the supply chain consists of a series of transportation and
 storage steps
-[^107](http://sciwheel.com/work/citation?ids=9633254&pre=&suf=&sa=0).
+[^107].
 The sourcing of material and consumables as well as the distribution and
 administration of vaccines might be disrupted by the pandemic itself if
 and when borders are closed, or transportation and travel is restricted,
@@ -1340,7 +1340,7 @@ The International Air Transport Association recently reported that 8000
 Boeing 747 cargo loads would be needed to distribute a single dose of
 vaccine to 7.8 billion people. Frozen vaccines would be more difficult
 to transport because of lack of suitable carrying capacity
-[^107](http://sciwheel.com/work/citation?ids=9633254&pre=&suf=&sa=0).
+[^107].
 There is currently uncertainty around the thermostability of these
 vaccines, especially the newer vaccine types such as the RNA vaccines.
 It is possible that RNA vaccines would need to be transported and stored
@@ -1359,13 +1359,13 @@ administration step. To address this administration challenge,
 additional staff will need to be trained (e.g. pharmacists, midwives,
 physiotherapists, dentists and vets) to immunise the population rapidly
 and safely
-[^108](http://sciwheel.com/work/citation?ids=9598934&pre=&suf=&sa=0).
+[^108].
 In principle, vaccination campaigns can also be designed to maximise the
 number of individuals vaccinated per medical staff per unit time. All of
 the seven vaccines to be acquired by the UK government are administered
 intramuscularly; however, these might require two doses in a prime and
 boost regimen thus requiring even more medical staff and resources
-[^29](http://sciwheel.com/work/citation?ids=9598897&pre=&suf=&sa=0).
+[^29].
 
 ### Advantages of an integrated manufacturing-distribution-administration chain
 
@@ -1379,7 +1379,7 @@ developing and using such methods, the entire system might be operated
 at its maximum potential. In parallel to this, epidemiology modelling
 can be used to predict COVID-19 disease spread and minimise COVID-19
 related mortalities
-[^109](http://sciwheel.com/work/citation?ids=9598935&pre=&suf=&sa=0).
+[^109].
 Coupling these two models and using them in real-time with data from the
 underlying physical processes, could help combat the current COVID-19
 pandemic more effectively in the UK and beyond.
@@ -1389,7 +1389,7 @@ pandemic more effectively in the UK and beyond.
 There are a number of issues that need to be considered around the
 impact of COVID-19 vaccine programmes and how they are rolled out on
 health inequality
-[^110](http://sciwheel.com/work/citation?ids=9644185&pre=&suf=&sa=0).
+[^110].
 These can be split into those that impact health inequalities in the UK
 and those that impact health inequalities globally. They can be further
 split into those that are direct effects of the vaccine programme versus
@@ -1401,7 +1401,7 @@ for the vaccine will outstrip supply there will be questions about who
 is given priority access. It is important that these questions are
 resolved in fair, transparent and accountable ways employing appropriate
 processes to do so
-[^111](http://sciwheel.com/work/citation?ids=1882430&pre=&suf=&sa=0).
+[^111].
 Thinking first about the various scenarios outlined for vaccine roll out
 in the UK it is apparent that there will be different sets of winners
 and losers in each scenario. When choosing between scenarios these
@@ -1413,7 +1413,7 @@ exacerbating or ameliorating existing health inequalities. Clear
 criteria should be defined to judge the relative merits of the different
 scenarios and clear justification for why a given scenario is chosen
 over others should be made explicit
-[^112](http://sciwheel.com/work/citation?ids=4058990&pre=&suf=&sa=0).
+[^112].
 It is important to recognise that vaccines are one element in the
 portfolio of tools that can be used to tackle COVID-19. As vaccines
 become available the allocation of resources and efforts across
@@ -1438,7 +1438,7 @@ health and wellbeing overall and reduce health inequalities.
 
 Other key within-country considerations include the impacts of existing
 inequalities in supply of healthcare workforce
-[^113](http://sciwheel.com/work/citation?ids=9644092&pre=&suf=&sa=0).
+[^113].
 Poorer parts of the population suffer from worse health in the UK and
 are currently underserved in terms of access to primary care. If
 existing primary care infrastructure is utilised to deliver COVID-19
@@ -1471,17 +1471,17 @@ TRIPS (Trade-Related Aspects of Intellectual Property Rights) have in
 the past been seen as restricting access to healthcare from those who
 need it most in order to serve the financial interests of the
 pharmaceutical industry
-[^114](http://sciwheel.com/work/citation?ids=1952060&pre=&suf=&sa=0). A
+[^114]. A
 particularly striking recent case study is that of antiretroviral drugs
 in South Africa
-[^115](http://sciwheel.com/work/citation?ids=2781693&pre=&suf=&sa=0).
+[^115].
 Careful consideration should be given to the issue of access to
 healthcare globally when engaging in licensing agreements with vaccine
 manufacturers and participating in collective purchasing agreements with
 other governments. World Health Organization initiatives to ensure
 equitable access for all globally provide valuable opportunities to
 collaborate with other countries to promote health equity
-[^89](http://sciwheel.com/work/citation?ids=9644101&pre=&suf=&sa=0).
+[^89].
 
 
 # Ensuring the success of a vaccination programme: vaccine acceptability 
@@ -1506,7 +1506,7 @@ requires multiple booster injections will not create an incentive for
 uptake among those who perceive themselves at low risk, and if the
 vaccine is perceived as having been rushed through safety testing, this
 might create long term distrust and hesitancy
-[^116],[^117],[^118],[^119](http://sciwheel.com/work/citation?ids=9416768,8459148,9546262,8773177&pre=&pre=&pre=&pre=&suf=&suf=&suf=&suf=&sa=0,0,0,0).
+[^116],[^117],[^118],[^119].
 
 ## Clear communication is needed to build trust in vaccines, increase acceptability and thus effectiveness
 
@@ -1518,7 +1518,7 @@ on the benefits of any vaccine to individuals and their close contacts
 and community; it should not hide the potential limitations of vaccines
 including possible limited availability, incomplete protection requiring
 boosting and reactogenicity
-[^37],[^120],[^121],[^122](http://sciwheel.com/work/citation?ids=9361547,8802371,7145030,8896765&pre=&pre=&pre=&pre=&suf=&suf=&suf=&suf=&sa=0,0,0,0).
+[^37],[^120],[^121],[^122].
 While such negative or complicating factors might lower uptake, their
 discovery post-rollout is likely to have a far greater negative impact
 on uptake. One important aspect of vaccination to be communicated
@@ -1530,29 +1530,29 @@ Effective communication programmes can benefit from using previously
 validated approaches. For example, the 3 E’s (Explanation, Engagement
 and Education) approach is used by the Bank of England to address the
 ‘twin deficits’ of public understanding and trust
-[^123],[^124],[^125](http://sciwheel.com/work/citation?ids=9447478,9447510,9447459&pre=&pre=&pre=&suf=&suf=&suf=&sa=0,0,0).
+[^123],[^124],[^125].
 Involving widely trusted individuals with broad reach, such as
 healthcare professionals particularly in primary care, can help to
 manage expectations and anxieties
-[^37](http://sciwheel.com/work/citation?ids=8896765&pre=&suf=&sa=0).
+[^37].
 Approaches such as the 3 E’s require a thorough understanding of
 communities’ beliefs, values, power structures and behaviours in order
 to be effective, as was seen when tackling a polio outbreak in Somali
 pastoralist communities in 2013-14
-[^126](http://sciwheel.com/work/citation?ids=3542195&pre=&suf=&sa=0).
+[^126].
 
 The vaccine hesitancy seen for many non-COVID-19 vaccines is very likely
 to also occur for any COVID-19 vaccine
-[^127](http://sciwheel.com/work/citation?ids=9712049&pre=&suf=&sa=0).
+[^127].
 Some hesitancy is based on rational concerns, which can be addressed
 through clear communication and dialogue
-[^128](http://sciwheel.com/work/citation?ids=1306315&pre=&suf=&sa=0),
+[^128],
 however people may have a range of concerns or fears. One framework for
 understanding vaccine hesitancy uses two axes: one considering the level
 of trust individuals and groups have in health authorities; the other
 considering people’s commitment to managing risk in their lives in
 general, and their own health in particular
-[^129](http://sciwheel.com/work/citation?ids=3741925&pre=&suf=&sa=0).
+[^129].
 Those who take control of their health but distrust authority are likely
 to rationalize their hesitancy, while those who do not are more likely
 to simply avoid the issue as far as possible. The varied reasons for
@@ -1561,7 +1561,7 @@ individuals where they are. One example of such an approach is ‘convert
 communicators’, where those with previously strongly held opinions
 explain why they previously held that position and provide new
 information that caused them to change their mind
-[^130],[^131](http://sciwheel.com/work/citation?ids=9575881,9575901&pre=&pre=&suf=&suf=&sa=0,0).
+[^130],[^131].
 
 ## Barriers to vaccine uptake need to be minimised
 
@@ -1584,7 +1584,7 @@ prerequisite for resuming activities of various kinds. For example,
 vaccination could be mandatory for health care workers to engage in
 certain activities as has been used in some settings, for example, with
 influenza and hepatitis B vaccination
-[^128],[^132](http://sciwheel.com/work/citation?ids=1306315,9711286&pre=&pre=&suf=&suf=&sa=0,0).
+[^128],[^132].
 
 ## Priority groups will often require dedicated focus accounting for specific needs and concerns
 
@@ -1606,26 +1606,26 @@ extremely important for this population to have adequate access and high
 uptake. Studies have shown that immunisations in the UK are well
 received, but there is evidence that uptake of some immunisations are
 lower in Black and Asian minority groups
-[^133](http://sciwheel.com/work/citation?ids=9382775&pre=&suf=&sa=0).
+[^133].
 Cultural belief differences as well as cultural mistrust are major
 obstacles in the implementation of vaccine and immunization promotion
-[^134](http://sciwheel.com/work/citation?ids=3745641&pre=&suf=&sa=0).
+[^134].
 There is a long history of minorities being mistreated by the healthcare
 system which reduces their participation. Physician communication
 behaviours have been shown to have different effects on patient trust
 depending on the race of the patient
-[^135](http://sciwheel.com/work/citation?ids=6452357&pre=&suf=&sa=0).
+[^135].
 While cultural mistrust may deter ethnic minorities from going to their
 general practitioner, lack of culturally sensitive communication limits
 the public health information they receive. Health guidance
 communication only given in English reduces the participation in
 immunization among children from ethnic minority backgrounds due to
 language barriers
-[^134](http://sciwheel.com/work/citation?ids=3745641&pre=&suf=&sa=0).
+[^134].
 Overcoming these barriers will require collaboration with patients and
 their families to ensure that ethnic minority populations have access to
 vaccinations
-[^136](http://sciwheel.com/work/citation?ids=6433182&pre=&suf=&sa=0).
+[^136].
 
 # Requirements and consequences of vaccination programmes, possible scenarios
 
@@ -1660,7 +1660,7 @@ vaccine may be developed but not available to the UK as a priority.
 Decisions on which vaccine strategies to adopt will depend on the
 availability of a vaccine, the immunity elicited and acceptability of
 the vaccine
-[^79],[^137],[^138],[^139],[^140](http://sciwheel.com/work/citation?ids=9089111,9361602,9656721,9131894,9651311&pre=&pre=&pre=&pre=&pre=&suf=&suf=&suf=&suf=&suf=&sa=0,0,0,0,0).
+[^79],[^137],[^138],[^139],[^140].
 Different vaccine strategies will have different results; immunity in
 vulnerable populations and those at high risk of exposure, or reduced
 transmission or elimination of the infection in the population at large.
@@ -1673,7 +1673,7 @@ non-pharmaceutical interventions .
 Current clinical trials are designed to test efficacy in reducing
 clinical disease (symptomatic infection) and the FDA has stipulated a
 requirement for 50% efficacy for licensure
-[^40](http://sciwheel.com/work/citation?ids=9644154&pre=&suf=&sa=0);
+[^40];
 trials are not necessarily designed to detect protection against
 infection, severe disease, transmission, or efficacy in different
 groups, although these may be measured as secondary outcomes. A vaccine
@@ -1688,7 +1688,7 @@ evaluated as they complete clinical trials, and vaccine strategies
 adapted on an ongoing basis. This should be supported by modelling
 studies to determine optimal vaccination strategies as information
 emerges on vaccine properties and availability
-[^138],[^139],[^140](http://sciwheel.com/work/citation?ids=9656721,9131894,9651311&pre=&pre=&pre=&suf=&suf=&suf=&sa=0,0,0).
+[^138],[^139],[^140].
 As vaccine strategies develop, this will require clear open
 communication with the public and health care workers.
 
@@ -1723,24 +1723,24 @@ In Scenario 1, vaccines would be administered to those at most risk of
 severe disease. This would require fewer doses than a strategy of
 widespread vaccination, and is likely to be the optimal strategy when
 vaccine supplies are limited
-[^65],[^143](http://sciwheel.com/work/citation?ids=9500788,9717646&pre=&pre=&suf=&suf=&sa=0,0).
+[^65],[^143].
 Decisions will need to be made as to who should be within the priority
 groups for vaccination according to efficacy and availability
-[^79],[^137](http://sciwheel.com/work/citation?ids=9361602,9089111&pre=&pre=&suf=&suf=&sa=0,0).
+[^79],[^137].
 The UK Joint Committee on Vaccination and Immunisation (JCVI) has issued
 interim advice that this could include those over 50 and with other risk
 factors, such as chronic heart disease, chronic kidney disease, chronic
 pulmonary disease, malignancy, obesity and dementia
-[^144](http://sciwheel.com/work/citation?ids=9366099&pre=&suf=&sa=0).
+[^144].
 The WHO initially recommended prioritisation of people over 65, adults
 between 30 and 70 suffering from cardiovascular disease, cancer,
 diabetes, obesity or chronic respiratory disease, as well as health care
 workers
-[^137](http://sciwheel.com/work/citation?ids=9361602&pre=&suf=&sa=0).
+[^137].
 Priority groups could also include those in the clinically extremely
 vulnerable group, who have been shielding, pregnant women and those who
 are immunosuppressed
-[^144](http://sciwheel.com/work/citation?ids=9366099&pre=&suf=&sa=0),
+[^144],
 but only if the vaccine can be safely used in these groups. The vaccine
 should ideally be effective at preventing severe disease in a high
 proportion of those in the high-risk groups such as older people, who
@@ -1791,14 +1791,14 @@ high risk of exposure, particularly health care workers could be
 prioritised. Priority might be extended to key workers, such as
 emergency services and teachers, and occupations at high risk of
 exposure
-[^64],[^137](http://sciwheel.com/work/citation?ids=9501723,9361602&pre=&pre=&suf=&suf=&sa=0,0).
+[^64],[^137].
 The vaccine does not need to be effective in vulnerable groups, and
 protection may not need to be long lived although a requirement for
 frequent boosters will be more difficult and costly to implement. The
 historically low uptake of vaccines, such as the seasonal influenza
 vaccine, and reasons for vaccine hesitancy among health care workers
 would need to be addressed if uptake were low
-[^146](http://sciwheel.com/work/citation?ids=5606975&pre=&suf=&sa=0).
+[^146].
 There is precedent for an expectation of vaccination of healthcare
 workers in the NHS who are restricted in the procedures they can carry
 out if they are not vaccinated against Hepatitis B. The virus will
@@ -1810,17 +1810,17 @@ of health and care workers by creating a cocoon which protects the
 vulnerable. In our recent report, we estimate that early in the
 pandemic, at least 10% (CI 4-15%) of all COVID-19 infections in England
 were among these groups, with 6% of infections among care home residents
-[^147](http://sciwheel.com/work/citation?ids=9712218&pre=&suf=&sa=0).
+[^147].
 Vaccination of care home staff against influenza has been shown to
 significantly reduce mortality
-[^148](http://sciwheel.com/work/citation?ids=1815480&pre=&suf=&sa=0). A
+[^148]. A
 significant proportion of transmission events are likely to occur within
 households. Therefore, if transmission is reduced by vaccination, it
 might be extended to those who share households with those in vulnerable
 groups. 74% of clinically extremely vulnerable (CEV) people live with
 other people (in the UK), and 15% live in a household with children aged
 under 16 years
-[^141](http://sciwheel.com/work/citation?ids=9658058&pre=&suf=&sa=0).
+[^141].
 However, it will be difficult to identify and prioritise all contacts of
 the vulnerable.
 
@@ -1864,7 +1864,7 @@ vaccinated.
 
 Under Scenario 3, the vaccine is offered to the whole population or
 large sectors of the population
-[^149],[^150](http://sciwheel.com/work/citation?ids=1000723,1461185&pre=&pre=&suf=&suf=&sa=0,0).
+[^149],[^150].
 A widespread vaccination programme would eventually aim to achieve herd
 immunity, in which a sufficient proportion of a population is immune to
 prevent sustained transmission of an infection. This strategy would
@@ -1875,28 +1875,28 @@ milder SARS-CoV-2 infection which are still unknown.
 For widespread use, the WHO recommends a vaccine product profile of at
 least 50% efficacy in the wider population, preferably 70%, with
 consistent protection shown in the older people
-[^62],[^118](http://sciwheel.com/work/citation?ids=9500735,9546262&pre=&pre=&suf=&suf=&sa=0,0).
+[^62],[^118].
 A widespread vaccination policy could substantially reduce disease
 burden, even in the absence of herd immunity. A recent model suggested
 that, assuming immunity lasts at least one year, over 50% of deaths
 could be averted with as little as 35% of the population vaccinated if a
 vaccine has more than 50% efficacy
-[^65](http://sciwheel.com/work/citation?ids=9500788&pre=&suf=&sa=0).
+[^65].
 Once a vaccine is widely available and assuming sufficient vaccine
 efficiency, widespread vaccination, particularly of high-transmission
 groups may prove to be a more efficient strategy to minimise deaths and
 hospitalisations than targeting vulnerable groups
-[^65],[^140],[^143](http://sciwheel.com/work/citation?ids=9500788,9651311,9717646&pre=&pre=&pre=&suf=&suf=&suf=&sa=0,0,0),
+[^65],[^140],[^143],
 however, this is dependent on our ability to identify and prioritise
 those driving transmission events, for example, the role of children in
 SARS-CoV2 transmission is still unclear
-[^151],[^152](http://sciwheel.com/work/citation?ids=9102939,8989797&pre=&pre=&suf=&suf=&sa=0,0).
+[^151],[^152].
 
 To achieve herd immunity, a suitable vaccine must provide sufficient
 immunity in those vaccinated to reach an immunity threshold within the
 population. Estimates of the proportion of the population that would
 need to be immune to achieve herd immunity vary
-[^153](http://sciwheel.com/work/citation?ids=9646130&pre=&suf=&sa=0).
+[^153].
 Vaccine induced immunity will be in addition to naturally acquired
 immunity following infection. For SARS-CoV-2, estimates of R<sub>0</sub>
 vary, however (based on 1-1/R<sub>0</sub>) the proportion of the
@@ -1904,14 +1904,14 @@ population that would need to be immune to achieve herd immunity has
 been estimated as 50-80%, although herd immunity may be achieved at a
 lower rate of immunity, for example if it exists in those more likely to
 transmit infection and depending on behaviours
-[^139],[^154],[^155](http://sciwheel.com/work/citation?ids=9131894,8634848,8940477&pre=&pre=&pre=&suf=&suf=&suf=&sa=0,0,0).
+[^139],[^154],[^155].
 A recent model suggested that the epidemic might be constrained if 50%
 of the population is vaccinated, in addition to naturally acquired
 immunity, if that vaccination is optimally targeted for example to those
 most likely to be onwards transmitters; however in reality optimal
 strategies are unlikely to be achieved, as those transmitting cannot be
 easily identified and selectively prioritised
-[^65](http://sciwheel.com/work/citation?ids=9500788&pre=&suf=&sa=0).
+[^65].
 
 This strategy requires a vaccine to be available in a large number of
 doses. The UK government has agreements to secure hundreds of millions
@@ -1928,7 +1928,7 @@ therefore the virus would continue to circulate, as immunity may be
 induced in too low a proportion of recipients or be too short lived to
 achieve herd immunity, however the extent and frequency of outbreaks
 would be expected to decrease
-[^63],[^156],[^157](http://sciwheel.com/work/citation?ids=9516539,733106,9636611&pre=&pre=&pre=&suf=&suf=&suf=&sa=0,0,0).
+[^63],[^156],[^157].
 Even if herd immunity is achieved, outbreaks could still occur for
 example, in social groups or geographical regions of low uptake or as
 immunity wanes.
@@ -1944,7 +1944,7 @@ likely to remain vulnerable to infection or disease. If the vaccine is
 partially effective, correlates of protection are unknown and therefore
 protection cannot be tested for, widespread vaccination could lead to
 increases in risky behaviour in those who assume they are protected
-[^118](http://sciwheel.com/work/citation?ids=9546262&pre=&suf=&sa=0).
+[^118].
 
 Even once high levels of immunity are achieved in the population,
 surveillance must be maintained as there is a risk that the virus could
@@ -1990,7 +1990,7 @@ crucially must induce immunity sufficiently rapidly to protect before
 the outbreak has spread through the community. The WHO recommends
 immunity must be induced in less than 2 weeks and ideally following a
 single dose to be suitable to contain outbreaks
-[^62](http://sciwheel.com/work/citation?ids=9500735&pre=&suf=&sa=0).
+[^62].
 Immunity induced by the vaccine could be short lived if it is sufficient
 to contain the outbreak. Sufficient doses would need to be available
 locally as part of a rapid response. Success would require continuous
@@ -2037,7 +2037,7 @@ Individuals receiving vaccines will need to be monitored for longevity
 of immunity and efficacy in clinically and geographically diverse
 populations to establish the overall effectiveness of first generation
 vaccines
-[^118],[^159](http://sciwheel.com/work/citation?ids=9546262,9211484&pre=&pre=&suf=&suf=&sa=0,0).
+[^118],[^159].
 Furthermore, if different vaccines are suitable for use in different
 populations or more than one vaccine needs to be used in combination,
 this will require coordination of the manufacturing and supply chains.
@@ -2057,26 +2057,26 @@ potentially reducing the effectiveness of any vaccine. SARS-CoV-2
 mutates less frequently than some other viruses which use RNA as their
 genetic code (such as influenza) because coronaviruses possess a genetic
 proof-reading mechanism
-[^160],[^161],[^162](http://sciwheel.com/work/citation?ids=3040680,8550793,9687431&pre=&pre=&pre=&suf=&suf=&suf=&sa=0,0,0).
+[^160],[^161],[^162].
 Changes to the genetic code of a virus can come with a fitness cost, for
 example, in terms of ability to replicate and transmit, and therefore
 immunity within the population must be above a certain threshold to
 drive selection of otherwise detrimental mutants
-[^156](http://sciwheel.com/work/citation?ids=733106&pre=&suf=&sa=0). As
+[^156]. As
 not all parts of the virus are able to mutate without detriment to the
 virus, if these regions are also the target for vaccine induced
 immunity, viral evasion of immunity may not occur. For the moment, there
 is no evidence that SARS-CoV-2 is undergoing changes in its genetic code
 that will significantly change its recognition by immunological memory
 responses induced by current vaccine candidates
-[^162](http://sciwheel.com/work/citation?ids=9687431&pre=&suf=&sa=0).
+[^162].
 However, other CoVs show substantial genetic variability
-[^163],[^164](http://sciwheel.com/work/citation?ids=8819266,8560499&pre=&pre=&suf=&suf=&sa=0,0).
+[^163],[^164].
 Studies that use pseudovirus in culture have shown the potential for
 loss of recognition of the SARS-CoV-2 spike protein by antibody
 following mutation, although this was prevented if antibody recognising
 more than one part of the spike protein was present
-[^165](http://sciwheel.com/work/citation?ids=9328758&pre=&suf=&sa=0).
+[^165].
 Vaccines that induce immune responses to multiple parts of the spike
 protein or vaccines containing more than one viral component may protect
 against variants of the virus. Vaccine manufacturers will need to be
@@ -2094,7 +2094,7 @@ development and availability. Furthermore, allocation of vaccine doses,
 once available, to all nations collaboratively is likely to save more
 lives than unequal allocation of the same number of doses to a limited
 number of nations
-[^91],[^143](http://sciwheel.com/work/citation?ids=9666209,9717646&pre=&pre=&suf=&suf=&sa=0,0).
+[^91],[^143].
 
 If the first vaccines developed are sub-optimal, second generation
 vaccines will be needed which are more effective, cheaper, give
@@ -2130,7 +2130,7 @@ they are necessary so a second round of more cost effective vaccines may
 be needed. In LMIC the ability of the vaccine to be integrated into
 existing vaccination programmes and infrastructure will determine its
 affordability
-[^76](http://sciwheel.com/work/citation?ids=9500068&pre=&suf=&sa=0).
+[^76].
 
 Sustained funding will ensure that no one vaccine company develops a
 monopoly and will maintain an incentive for market entry of new
@@ -2152,12 +2152,12 @@ fund for vaccine development led to the establishment of the Coalition
 for Epidemic Preparedness and Innovations (CEPI), formally launched in
 2017, with the remit of developing vaccines for priority pathogens and
 improving preparedness for outbreaks of infectious diseases
-[^167],[^168],[^169],[^170](http://sciwheel.com/work/citation?ids=8573414,9466033,4153741,1281737&pre=&pre=&pre=&pre=&suf=&suf=&suf=&suf=&sa=0,0,0,0).
+[^167],[^168],[^169],[^170].
 In the long term, sustained global collaboration will ensure we are
 capable of responding to future outbreaks as part of an integrated
 international pandemic response, but investment is also needed in local
 health care provision and community engagement
-[^171](http://sciwheel.com/work/citation?ids=1297318&pre=&suf=&sa=0).
+[^171].
 Lessons must now be learned from the SARS-CoV-2 pandemic in order to
 prepare for the risks of future outbreaks.
 
@@ -2187,7 +2187,7 @@ failure taken entirely by the funder. Furthermore, it does not
 incentivise speed and efficiency of research. Pull funding can be used
 to reward both the development of the final product, and for achieving
 innovation, goals or milestones relating to health
-[^73](http://sciwheel.com/work/citation?ids=9530979&pre=&suf=&sa=0).
+[^73].
 
 To deploy vaccines faster for future outbreaks, the clinical trials and
 the regulatory approval process should be further accelerated, and surge
@@ -2201,7 +2201,7 @@ incorporates disease-agnostic prior knowledge. This could in principle
 serve as a “pre-qualification” to speed up clinical trials and the
 regulatory approval process, also in case of a new outbreak caused by a
 new pathogen
-[^172](http://sciwheel.com/work/citation?ids=9606951&pre=&suf=&sa=0).
+[^172].
 Maintaining surge vaccine manufacturing capacity is also crucial for
 rapid-response vaccine production. This would be comparatively easily
 achieved for the saRNA platform as it can produce high vaccine volumes,
@@ -2223,14 +2223,14 @@ vaccines. For example, rapid sharing of the genetic code of the
 SARS-CoV-2 virus and its use to develop novel vaccines occurred in
 record speed, due to the technologies developed as a result of
 investment in basic science
-[^173](http://sciwheel.com/work/citation?ids=3671022&pre=&suf=&sa=0).
+[^173].
 We need a better understanding of the transmission, disease mechanisms
 and immune response to infections, and investment in the development of
 effective vaccine technologies, particularly in the light of an aging
 global population. Continued investment should support the training and
 careers of personnel with expertise as well as infrastructure, in the
 following areas
-[^171],[^174],[^175],[^176],[^177](http://sciwheel.com/work/citation?ids=4633079,1297318,9469017,7216189,9468391&pre=&pre=&pre=&pre=&pre=&suf=&suf=&suf=&suf=&suf=&sa=0,0,0,0,0);
+[^171],[^174],[^175],[^176],[^177];
 
 1.  Pathogen surveillance and discovery
 
@@ -2275,12 +2275,12 @@ challenge trial of a candidate SARS-CoV-2 vaccine would involve the
 intentional infection of a small number of healthy volunteers with
 SARS-CoV-2; some of these volunteers would have received the vaccine,
 and some would have received a placebo. Eyal, Lipsitch and Smith
-[^57](http://sciwheel.com/work/citation?ids=8596169&pre=&suf=&sa=0)
+[^57]
 were among the first to argue that such human challenge studies could,
 through bypassing conventional Phase 3 trials of candidate vaccines,
 subtract many months from the licensing process, making effective
 vaccines available much more quickly. Jamrozik and Selgelid
-[^58](http://sciwheel.com/work/citation?ids=8984878&pre=&suf=&sa=0)
+[^58]
 argue that, in addition to this, human challenge studies could enable
 the rapid and accurate comparison of several candidate vaccines,
 simultaneously, whereas attempting this in Phase 3 trials would
@@ -2294,7 +2294,7 @@ human challenge studies), and the risk of infection of third parties
 such as researchers (which should be minimized by protective measures).
 
 On 6th May, the World Health Organization published a report
-[^181](http://sciwheel.com/work/citation?ids=9657539&pre=&suf=&sa=0)
+[^181]
 conditionally backing human challenge trials of candidate COVID-19
 vaccines, subject to certain criteria being met. The report states the
 following:
@@ -2369,12 +2369,12 @@ We remark that it remains the case, to our knowledge, that there is no
 death among COVID-19 patients, though there is some evidence that it
 shortens recovery time for severely ill patients (by a median of
 approximately four days), see
-[^182](http://sciwheel.com/work/citation?ids=8943399&pre=&suf=&sa=0).
+[^182].
 Since the above W.H.O. report was published, somewhat more effective
 treatments than remdesivir have been found. In particular, the
 corticosteroid dexamethasone has been shown (by a large Oxford
 University study,
-[^183](http://sciwheel.com/work/citation?ids=9298578&pre=&suf=&sa=0) to
+[^183] to
 reduce the death-rate of seriously ill COVID-19 patients on ventilators,
 by approximately one third; the clinical use of the corticosteroids
 dexamethasone and hydrocortisone, for patients with severe or critical
@@ -2463,17 +2463,17 @@ challenge studies of candidate vaccines for SARS-CoV-2 are ethically
 justified. To cite two high-profile examples, Nir Eyal, Director of
 Rutgers University’s Centre for Population-Level Bioethics, has argued
 forcefully in favour
-[^181](http://sciwheel.com/work/citation?ids=9657539&pre=&suf=&sa=0),
+[^181],
 whereas Eleanor Riley, formerly Director of the Roslin Institute and
 Professor of Immunology at Edinburgh University, has argued strongly
 against
-[^184](http://sciwheel.com/work/citation?ids=9657541&pre=&suf=&sa=0).
+[^184].
 These differences of opinion partly hinge on whether the level of risk
 (of severe illness, or death) to participants is within acceptable
 limits. Some researchers (such as Eyal, see
-[^181](http://sciwheel.com/work/citation?ids=9657539&pre=&suf=&sa=0);
+[^181];
 see also
-[^185](http://sciwheel.com/work/citation?ids=9657587&pre=&suf=&sa=0))
+[^185])
 have proposed that risks of organ donation be used for comparison. (It
 appears that the risk of death to a healthy young adult, when infected
 with SARS-CoV-2, is similar in magnitude to the risk of dying when
@@ -2483,7 +2483,7 @@ organ donation accrue to an individual close to the donor, whereas the
 benefits of human challenge trials accrue (in expectation) to the
 population at large, and furthermore are not guaranteed (as the trial
 may fail). Some researchers (such as Jamrozik and Selgelid
-[^58](http://sciwheel.com/work/citation?ids=8984878&pre=&suf=&sa=0))
+[^58])
 have proposed that the background risk (to certain vulnerable
 populations, e.g. healthcare workers in certain countries) be used for
 comparison, but (as Jamrozik and Selgelid concede), the objection can be
@@ -2561,7 +2561,7 @@ ethically justified, we propose the following questions.
 Vaccines in development as of 3rd September 2020.
 
 For latest updates see:
-[https://vac-lshtm.shinyapps.io/ncov\_vaccine\_landscape](http://sciwheel.com/work/bibliography/9644142)/
+[https://vac-lshtm.shinyapps.io/ncov\_vaccine\_landscape]/
 or
 
 [<span
@@ -2839,195 +2839,195 @@ sterile filtered and can be shipped to the fill-to-finish site.
 
 [^3]: Chandrashekar A, Liu J, Martinot AJ, McMahan K, Mercado NB, Peter L, et al. SARS-CoV-2 infection protects against rechallenge in rhesus macaques. Science. 2020 Aug 14;369(6505):812–7.
 
-[^4]: Pinto D, Park Y-J, Beltramello M, Walls AC, Tortorici MA, Bianchi S, et al. Cross-neutralization of SARS-CoV-2 by a human monoclonal SARS-CoV antibody. Nature. 2020 May 18;583(7815):290–5.(http://sciwheel.com/work/bibliography/8918363)
+[^4]: Pinto D, Park Y-J, Beltramello M, Walls AC, Tortorici MA, Bianchi S, et al. Cross-neutralization of SARS-CoV-2 by a human monoclonal SARS-CoV antibody. Nature. 2020 May 18;583(7815):290–5.
 
-[^5]: Wu Y, Wang F, Shen C, Peng W, Li D, Zhao C, et al. A noncompeting pair of human neutralizing antibodies block COVID-19 virus binding to its receptor ACE2. Science. 2020 Jun 12;368(6496):1274–8.(http://sciwheel.com/work/bibliography/8908797)
+[^5]: Wu Y, Wang F, Shen C, Peng W, Li D, Zhao C, et al. A noncompeting pair of human neutralizing antibodies block COVID-19 virus binding to its receptor ACE2. Science. 2020 Jun 12;368(6496):1274–8.
 
-[^6]: Premkumar L, Segovia-Chumbez B, Jadi R, Martinez DR, Raut R, Markmann A, et al. The receptor binding domain of the viral spike protein is an immunodominant and highly specific target of antibodies in SARS-CoV-2 patients. Sci Immunol. 2020 Jun 11;5(48).(http://sciwheel.com/work/bibliography/9099616)
+[^6]: Premkumar L, Segovia-Chumbez B, Jadi R, Martinez DR, Raut R, Markmann A, et al. The receptor binding domain of the viral spike protein is an immunodominant and highly specific target of antibodies in SARS-CoV-2 patients. Sci Immunol. 2020 Jun 11;5(48).
 
-[^7]: Chi X, Yan R, Zhang J, Zhang G, Zhang Y, Hao M, et al. A neutralizing human antibody binds to the N-terminal domain of the Spike protein of SARS-CoV-2. Science. 2020 Aug 7;369(6504):650–5.(http://sciwheel.com/work/bibliography/9131840)
+[^7]: Chi X, Yan R, Zhang J, Zhang G, Zhang Y, Hao M, et al. A neutralizing human antibody binds to the N-terminal domain of the Spike protein of SARS-CoV-2. Science. 2020 Aug 7;369(6504):650–5.
 
-[^8]: Brouwer PJM, Caniels TG, van der Straten K, Snitselaar JL, Aldon Y, Bangaru S, et al. Potent neutralizing antibodies from COVID-19 patients define multiple targets of vulnerability. Science. 2020 Aug 7;369(6504):643–50.(http://sciwheel.com/work/bibliography/9141928)
+[^8]: Brouwer PJM, Caniels TG, van der Straten K, Snitselaar JL, Aldon Y, Bangaru S, et al. Potent neutralizing antibodies from COVID-19 patients define multiple targets of vulnerability. Science. 2020 Aug 7;369(6504):643–50.
 
-[^9]: Weiskopf D, Schmitz KS, Raadsen MP, Grifoni A, Okba NMA, Endeman H, et al. Phenotype and kinetics of SARS-CoV-2-specific T cells in COVID-19 patients with acute respiratory distress syndrome. Sci Immunol. 2020 Jun 26;5(48).(http://sciwheel.com/work/bibliography/9157288)
+[^9]: Weiskopf D, Schmitz KS, Raadsen MP, Grifoni A, Okba NMA, Endeman H, et al. Phenotype and kinetics of SARS-CoV-2-specific T cells in COVID-19 patients with acute respiratory distress syndrome. Sci Immunol. 2020 Jun 26;5(48).
 
-[^10]: Grifoni A, Weiskopf D, Ramirez SI, Mateus J, Dan JM, Moderbacher CR, et al. Targets of T Cell Responses to SARS-CoV-2 Coronavirus in Humans with COVID-19 Disease and Unexposed Individuals. Cell. 2020 Jun 25;181(7):1489-1501.e15.(http://sciwheel.com/work/bibliography/8938195)
+[^10]: Grifoni A, Weiskopf D, Ramirez SI, Mateus J, Dan JM, Moderbacher CR, et al. Targets of T Cell Responses to SARS-CoV-2 Coronavirus in Humans with COVID-19 Disease and Unexposed Individuals. Cell. 2020 Jun 25;181(7):1489-1501.e15.
 
-[^11]: Ni L, Ye F, Cheng M-L, Feng Y, Deng Y-Q, Zhao H, et al. Detection of SARS-CoV-2-Specific Humoral and Cellular Immunity in COVID-19 Convalescent Individuals. Immunity. 2020 Jun 16;52(6):971-977.e3.(http://sciwheel.com/work/bibliography/8821644)
+[^11]: Ni L, Ye F, Cheng M-L, Feng Y, Deng Y-Q, Zhao H, et al. Detection of SARS-CoV-2-Specific Humoral and Cellular Immunity in COVID-19 Convalescent Individuals. Immunity. 2020 Jun 16;52(6):971-977.e3.
 
-[^12]: Peng Y, Mentzer AJ, Liu G, Yao X, Yin Z, Dong D, et al. Broad and strong memory CD4+ and CD8+ T cells induced by SARS-CoV-2 in UK convalescent individuals following COVID-19. Nat Immunol. 2020 Sep 4(http://sciwheel.com/work/bibliography/9588650).
+[^12]: Peng Y, Mentzer AJ, Liu G, Yao X, Yin Z, Dong D, et al. Broad and strong memory CD4+ and CD8+ T cells induced by SARS-CoV-2 in UK convalescent individuals following COVID-19. Nat Immunol. 2020 Sep 4.
 
-[^13]: Sekine T, Perez-Potti A, Rivera-Ballesteros O, Strålin K, Gorin JB, Olsson A, et al. Robust T cell immunity in convalescent individuals with asymptomatic or mild COVID-19. Cell. 2020 Aug 14(http://sciwheel.com/work/bibliography/9474006).
+[^13]: Sekine T, Perez-Potti A, Rivera-Ballesteros O, Strålin K, Gorin JB, Olsson A, et al. Robust T cell immunity in convalescent individuals with asymptomatic or mild COVID-19. Cell. 2020 Aug 14.
 
-[^14]: Gallais F, Velay A, Wendling M-J, Nazon C, Partisani M, Sibilia J, et al. Intrafamilial Exposure to SARS-CoV-2 Induces Cellular Immune Response without Seroconversion. medRxiv. 2020 Jun 22(http://sciwheel.com/work/bibliography/9131834).
+[^14]: Gallais F, Velay A, Wendling M-J, Nazon C, Partisani M, Sibilia J, et al. Intrafamilial Exposure to SARS-CoV-2 Induces Cellular Immune Response without Seroconversion. medRxiv. 2020 Jun 22.
 
-[^15]: Cao W-C, Liu W, Zhang P-H, Zhang F, Richardus JH. Disappearance of antibodies to SARS-associated coronavirus after recovery. N Engl J Med.  2007 Sep 13;357(11):1162–3.(http://sciwheel.com/work/bibliography/8382089)
+[^15]: Cao W-C, Liu W, Zhang P-H, Zhang F, Richardus JH. Disappearance of antibodies to SARS-associated coronavirus after recovery. N Engl J Med.  2007 Sep 13;357(11):1162–3.
 
-[^16]: Ng O-W, Chia A, Tan AT, Jadi RS, Leong HN, Bertoletti A, et al.  Memory T cell responses targeting the SARS coronavirus persist up to 11 years post-infection. Vaccine. 2016 Apr 12;34(17):2008–14.(http://sciwheel.com/work/bibliography/8453982)
+[^16]: Ng O-W, Chia A, Tan AT, Jadi RS, Leong HN, Bertoletti A, et al.  Memory T cell responses targeting the SARS coronavirus persist up to 11 years post-infection. Vaccine. 2016 Apr 12;34(17):2008–14.
 
-[^17]: Le Bert N, Tan AT, Kunasegaran K, Tham CYL, Hafezi M, Chia A, et al. SARS-CoV-2-specific T cell immunity in cases of COVID-19 and SARS, and uninfected controls. Nature. 2020 Jul 15;584(7821):457–62.(http://sciwheel.com/work/bibliography/9282728)
+[^17]: Le Bert N, Tan AT, Kunasegaran K, Tham CYL, Hafezi M, Chia A, et al. SARS-CoV-2-specific T cell immunity in cases of COVID-19 and SARS, and uninfected controls. Nature. 2020 Jul 15;584(7821):457–62.
 
-[^18]: Sekine T, Perez-Potti A, Rivera-Ballesteros O, Straling K, Gorin J-B, Olsson A, et al. Robust T cell immunity in convalescent individuals with asymptomatic or mild COVID-19. BioRxiv. 2020 Jun 29(http://sciwheel.com/work/bibliography/9161946).
+[^18]: Sekine T, Perez-Potti A, Rivera-Ballesteros O, Straling K, Gorin J-B, Olsson A, et al. Robust T cell immunity in convalescent individuals with asymptomatic or mild COVID-19. BioRxiv. 2020 Jun 29.
 
-[^19]: Hotez PJ, Corry DB, Strych U, Bottazzi ME. COVID-19 vaccines: neutralizing antibodies and the alum advantage. Nat Rev Immunol. 2020 Jun 4(http://sciwheel.com/work/bibliography/9065590).
+[^19]: Hotez PJ, Corry DB, Strych U, Bottazzi ME. COVID-19 vaccines: neutralizing antibodies and the alum advantage. Nat Rev Immunol. 2020 Jun 4.
 
-[^20]: Iwasaki A, Yang Y. The potential danger of suboptimal antibody responses in COVID-19. Nat Rev Immunol.  2020;20(6):339–41.(http://sciwheel.com/work/bibliography/8738702)
+[^20]: Iwasaki A, Yang Y. The potential danger of suboptimal antibody responses in COVID-19. Nat Rev Immunol.  2020;20(6):339–41.
 
-[^21]: Arvin AM, Fink K, Schmid MA, Cathcart A, Spreafico R, Havenar-Daughton C, et al. A perspective on potential antibody-dependent enhancement of SARS-CoV-2. Nature. 2020 Jul 13;584(7821):353–63.(http://sciwheel.com/work/bibliography/9277148)
+[^21]: Arvin AM, Fink K, Schmid MA, Cathcart A, Spreafico R, Havenar-Daughton C, et al. A perspective on potential antibody-dependent enhancement of SARS-CoV-2. Nature. 2020 Jul 13;584(7821):353–63.
 
-[^22]: Vennema H, de Groot RJ, Harbour DA, Dalderup M, Gruffydd-Jones T, Horzinek MC, et al. Early death after feline infectious peritonitis virus challenge due to recombinant vaccinia virus immunization. J Virol.  1990 Mar;64(3):1407–9.(http://sciwheel.com/work/bibliography/8673623)
+[^22]: Vennema H, de Groot RJ, Harbour DA, Dalderup M, Gruffydd-Jones T, Horzinek MC, et al. Early death after feline infectious peritonitis virus challenge due to recombinant vaccinia virus immunization. J Virol.  1990 Mar;64(3):1407–9.
 
-[^23]: Liu L, Wei Q, Lin Q, Fang J, Wang H, Kwok H, et al. Anti-spike IgG causes severe acute lung injury by skewing macrophage responses during acute SARS-CoV infection. JCI Insight. 2019 Feb 21;4(4).(http://sciwheel.com/work/bibliography/8261738)
+[^23]: Liu L, Wei Q, Lin Q, Fang J, Wang H, Kwok H, et al. Anti-spike IgG causes severe acute lung injury by skewing macrophage responses during acute SARS-CoV infection. JCI Insight. 2019 Feb 21;4(4).
 
-[^24]: Wan Y, Shang J, Sun S, Tai W, Chen J, Geng Q, et al. Molecular Mechanism for Antibody-Dependent Enhancement of Coronavirus Entry. J Virol. 2020 Feb 14;94(5).(http://sciwheel.com/work/bibliography/8336789)
+[^24]: Wan Y, Shang J, Sun S, Tai W, Chen J, Geng Q, et al. Molecular Mechanism for Antibody-Dependent Enhancement of Coronavirus Entry. J Virol. 2020 Feb 14;94(5).
 
-[^25]: Jaume M, Yip MS, Cheung CY, Leung HL, Li PH, Kien F, et al.  Anti-severe acute respiratory syndrome coronavirus spike antibodies trigger infection of human immune cells via a pH- and cysteine protease-independent FcγR pathway. J Virol. 2011 Oct 1;85(20):10582–97.(http://sciwheel.com/work/bibliography/8190601)
+[^25]: Jaume M, Yip MS, Cheung CY, Leung HL, Li PH, Kien F, et al.  Anti-severe acute respiratory syndrome coronavirus spike antibodies trigger infection of human immune cells via a pH- and cysteine protease-independent FcγR pathway. J Virol. 2011 Oct 1;85(20):10582–97.
 
-[^26]: Lambert P-H, Ambrosino DM, Andersen SR, Baric RS, Black SB, Chen RT, et al. Consensus summary report for CEPI/BC March 12-13, 2020 meeting: Assessment of risk of disease enhancement with COVID-19 vaccines. Vaccine. 2020 Jun 26;38(31):4783–91.(http://sciwheel.com/work/bibliography/9065022)
+[^26]: Lambert P-H, Ambrosino DM, Andersen SR, Baric RS, Black SB, Chen RT, et al. Consensus summary report for CEPI/BC March 12-13, 2020 meeting: Assessment of risk of disease enhancement with COVID-19 vaccines. Vaccine. 2020 Jun 26;38(31):4783–91.
 
-[^27]: Amanat F, Krammer F. SARS-CoV-2 Vaccines: Status Report. Immunity.  2020 Apr 14;52(4):583–9.(http://sciwheel.com/work/bibliography/8596103)
+[^27]: Amanat F, Krammer F. SARS-CoV-2 Vaccines: Status Report. Immunity.  2020 Apr 14;52(4):583–9.
 
-[^28]: COVID-19 vaccine tracker \[Internet\]. \[cited 2020 Sep 12\].  Available from: https://vac-lshtm.shinyapps.io/ncov\_vaccine\_landscape/(http://sciwheel.com/work/bibliography/9644142).
+[^28]: COVID-19 vaccine tracker \[Internet\]. \[cited 2020 Sep 12\].  Available from: https://vac-lshtm.shinyapps.io/ncov\_vaccine\_landscape/.
 
-[^29]: Draft landscape of COVID-19 candidate vaccines \[Internet\].  \[cited 2020 Sep 7\]. Available from: https://www.who.int/publications/m/item/draft-landscape-of-covid-19-candidate-vaccines(http://sciwheel.com/work/bibliography/9598897).
+[^29]: Draft landscape of COVID-19 candidate vaccines \[Internet\].  \[cited 2020 Sep 7\]. Available from: https://www.who.int/publications/m/item/draft-landscape-of-covid-19-candidate-vaccines.
 
-[^30]: Krammer F. SARS-CoV-2 vaccines in development. Nature. 2020 Sep 23(http://sciwheel.com/work/bibliography/9703196).
+[^30]: Krammer F. SARS-CoV-2 vaccines in development. Nature. 2020 Sep 23.
 
-[^31]: Zhu F-C, Li Y-H, Guan X-H, Hou L-H, Wang W-J, Li J-X, et al.  Safety, tolerability, and immunogenicity of a recombinant adenovirus type-5 vectored COVID-19 vaccine: a dose-escalation, open-label, non-randomised, first-in-human trial. Lancet. 2020 Jun 13;395(10240):1845–54.(http://sciwheel.com/work/bibliography/8949125)
+[^31]: Zhu F-C, Li Y-H, Guan X-H, Hou L-H, Wang W-J, Li J-X, et al.  Safety, tolerability, and immunogenicity of a recombinant adenovirus type-5 vectored COVID-19 vaccine: a dose-escalation, open-label, non-randomised, first-in-human trial. Lancet. 2020 Jun 13;395(10240):1845–54.
 
-[^32]: Folegatti PM, Ewer KJ, Aley PK, Angus B, Becker S, Belij-Rammerstorfer S, et al. Safety and immunogenicity of the ChAdOx1 nCoV-19 vaccine against SARS-CoV-2: a preliminary report of a phase 1/2, single-blind, randomised controlled trial. Lancet. 2020 Aug 15;396(10249):467–78.(http://sciwheel.com/work/bibliography/9307748)
+[^32]: Folegatti PM, Ewer KJ, Aley PK, Angus B, Becker S, Belij-Rammerstorfer S, et al. Safety and immunogenicity of the ChAdOx1 nCoV-19 vaccine against SARS-CoV-2: a preliminary report of a phase 1/2, single-blind, randomised controlled trial. Lancet. 2020 Aug 15;396(10249):467–78.
 
-[^33]: van Doremalen N, Lambe T, Spencer A, Belij-Rammerstorfer S, Purushotham JN, Port JR, et al. ChAdOx1 nCoV-19 vaccine prevents SARS-CoV-2 pneumonia in rhesus macaques. Nature. 2020 Jul 30(http://sciwheel.com/work/bibliography/9359413).
+[^33]: van Doremalen N, Lambe T, Spencer A, Belij-Rammerstorfer S, Purushotham JN, Port JR, et al. ChAdOx1 nCoV-19 vaccine prevents SARS-CoV-2 pneumonia in rhesus macaques. Nature. 2020 Jul 30.
 
-[^34]: Graham SP, McLean RK, Spencer AJ, Belij-Rammerstorfer S, Wright D, Ulaszewska M, et al. Evaluation of the immunogenicity of prime-boost vaccination with the replication-deficient viral vectored COVID-19 vaccine candidate ChAdOx1 nCoV-19. npj Vaccines. 2020 Jul 27;5:69.(http://sciwheel.com/work/bibliography/9340699)
+[^34]: Graham SP, McLean RK, Spencer AJ, Belij-Rammerstorfer S, Wright D, Ulaszewska M, et al. Evaluation of the immunogenicity of prime-boost vaccination with the replication-deficient viral vectored COVID-19 vaccine candidate ChAdOx1 nCoV-19. npj Vaccines. 2020 Jul 27;5:69.
 
-[^35]: Moderna Announces Positive Interim Phase 1 Data for its mRNA Vaccine (mRNA-1273) Against Novel Coronavirus \| Moderna, Inc.  \[Internet\]. \[cited 2020 Sep 22\]. Available from: https://investors.modernatx.com/news-releases/news-release-details/moderna-announces-positive-interim-phase-1-data-its-mrna-vaccine(http://sciwheel.com/work/bibliography/9697164).
+[^35]: Moderna Announces Positive Interim Phase 1 Data for its mRNA Vaccine (mRNA-1273) Against Novel Coronavirus \| Moderna, Inc.  \[Internet\]. \[cited 2020 Sep 22\]. Available from: https://investors.modernatx.com/news-releases/news-release-details/moderna-announces-positive-interim-phase-1-data-its-mrna-vaccine.
 
-[^36]: Jozwik A, Habibi MS, Paras A, Zhu J, Guvenel A, Dhariwal J, et al.  RSV-specific airway resident memory CD8+ T cells and differential disease severity after experimental human infection. Nat Commun. 2015 Dec 21;6:10224.(http://sciwheel.com/work/bibliography/1306209)
+[^36]: Jozwik A, Habibi MS, Paras A, Zhu J, Guvenel A, Dhariwal J, et al.  RSV-specific airway resident memory CD8+ T cells and differential disease severity after experimental human infection. Nat Commun. 2015 Dec 21;6:10224.
 
-[^37]: Hervé C, Laupèze B, Del Giudice G, Didierlaurent AM, Tavares Da Silva F. The how’s and what’s of vaccine reactogenicity. npj Vaccines.  2019 Sep 24;4:39.(http://sciwheel.com/work/bibliography/8896765)
+[^37]: Hervé C, Laupèze B, Del Giudice G, Didierlaurent AM, Tavares Da Silva F. The how’s and what’s of vaccine reactogenicity. npj Vaccines.  2019 Sep 24;4:39.
 
-[^38]: Plotkin SA. Correlates of protection induced by vaccination. Clin Vaccine Immunol. 2010 Jul;17(7):1055–65.(http://sciwheel.com/work/bibliography/166219)
+[^38]: Plotkin SA. Correlates of protection induced by vaccination. Clin Vaccine Immunol. 2010 Jul;17(7):1055–65.
 
-[^39]: Plotkin SA, Gilbert PB. Nomenclature for immune correlates of protection after vaccination. Clin Infect Dis. 2012 Jun;54(11):1615–7.(http://sciwheel.com/work/bibliography/8911510)
+[^39]: Plotkin SA, Gilbert PB. Nomenclature for immune correlates of protection after vaccination. Clin Infect Dis. 2012 Jun;54(11):1615–7.
 
-[^40]: Development and Licensure of Vaccines to Prevent COVID-19 \| FDA \[Internet\]. \[cited 2020 Sep 12\]. Available from: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/development-and-licensure-vaccines-prevent-covid-19(http://sciwheel.com/work/bibliography/9644154).
+[^40]: Development and Licensure of Vaccines to Prevent COVID-19 \| FDA \[Internet\]. \[cited 2020 Sep 12\]. Available from: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/development-and-licensure-vaccines-prevent-covid-19.
 
-[^41]: WHO Working Group on the Clinical Characterisation and Management of COVID-19 infection. A minimal common outcome measure set for COVID-19 clinical research. Lancet Infect Dis. 2020 Jun 12;20(8):e192–7.(http://sciwheel.com/work/bibliography/9183531)
+[^41]: WHO Working Group on the Clinical Characterisation and Management of COVID-19 infection. A minimal common outcome measure set for COVID-19 clinical research. Lancet Infect Dis. 2020 Jun 12;20(8):e192–7.
 
-[^42]: Chastain DB, Osae SP, Henao-Martínez AF, Franco-Paredes C, Chastain JS, Young HN. Racial disproportionality in covid clinical trials. N Engl J Med. 2020 Aug 11(http://sciwheel.com/work/bibliography/9539531).
+[^42]: Chastain DB, Osae SP, Henao-Martínez AF, Franco-Paredes C, Chastain JS, Young HN. Racial disproportionality in covid clinical trials. N Engl J Med. 2020 Aug 11.
 
-[^43]: Alexander PE, Debono VB, Mammen MJ, Iorio A, Aryal K, Deng D, et al. COVID-19 coronavirus research has overall low methodological quality thus far: case in point for chloroquine/hydroxychloroquine. J Clin Epidemiol. 2020 Apr 21(http://sciwheel.com/work/bibliography/8772422).
+[^43]: Alexander PE, Debono VB, Mammen MJ, Iorio A, Aryal K, Deng D, et al. COVID-19 coronavirus research has overall low methodological quality thus far: case in point for chloroquine/hydroxychloroquine. J Clin Epidemiol. 2020 Apr 21.
 
 [^44]: “We are not guinea pigs,” say South African anti-vaccine protesters \| Reuters \[Internet\]. \[cited 2020 Sep 24\]. Available from: <https://uk.reuters.com/article/uk-health-coronavirus-safrica-vaccine/we-are-not-guinea-pigs-say-south-african-anti-vaccine-protesters-idUKKBN2426SA>.
 
-[^45]: Lakdawala SS, Menachery VD. The search for a COVID-19 animal model.  Science. 2020 May 29;368(6494):942–3.(http://sciwheel.com/work/bibliography/8993230)
+[^45]: Lakdawala SS, Menachery VD. The search for a COVID-19 animal model.  Science. 2020 May 29;368(6494):942–3.
 
-[^46]: Wang H, Zhang Y, Huang B, Deng W, Quan Y, Wang W, et al.  Development of an Inactivated Vaccine Candidate, BBIBP-CorV, with Potent Protection against SARS-CoV-2. Cell. 2020 Aug 6;182(3):713-721.e9.(http://sciwheel.com/work/bibliography/9055908)
+[^46]: Wang H, Zhang Y, Huang B, Deng W, Quan Y, Wang W, et al.  Development of an Inactivated Vaccine Candidate, BBIBP-CorV, with Potent Protection against SARS-CoV-2. Cell. 2020 Aug 6;182(3):713-721.e9.
 
-[^47]: Deng W, Bao L, Liu J, Xiao C, Liu J, Xue J, et al. Primary exposure to SARS-CoV-2 protects against reinfection in rhesus macaques. Science.  2020 Aug 14;369(6505):818–23.(http://sciwheel.com/work/bibliography/9178094)
+[^47]: Deng W, Bao L, Liu J, Xiao C, Liu J, Xue J, et al. Primary exposure to SARS-CoV-2 protects against reinfection in rhesus macaques. Science.  2020 Aug 14;369(6505):818–23.
 
-[^48]: Shi J, Wen Z, Zhong G, Yang H, Wang C, Huang B, et al.  Susceptibility of ferrets, cats, dogs, and other domesticated animals to SARS-coronavirus 2. Science. 2020 May 29;368(6494):1016–20.(http://sciwheel.com/work/bibliography/8616701)
+[^48]: Shi J, Wen Z, Zhong G, Yang H, Wang C, Huang B, et al.  Susceptibility of ferrets, cats, dogs, and other domesticated animals to SARS-coronavirus 2. Science. 2020 May 29;368(6494):1016–20.
 
-[^49]: Ryan KA, Bewley KR, Fotheringham SA, Brown P, Hall Y, Marriott AC, et al. Dose-dependent response to infection with SARS-CoV-2 in the ferret model: evidence of protection to re-challenge. BioRxiv. 2020 May 29(http://sciwheel.com/work/bibliography/8997978).
+[^49]: Ryan KA, Bewley KR, Fotheringham SA, Brown P, Hall Y, Marriott AC, et al. Dose-dependent response to infection with SARS-CoV-2 in the ferret model: evidence of protection to re-challenge. BioRxiv. 2020 May 29.
 
-[^50]: Hassan AO, Case JB, Winkler ES, Thackray LB, Kafai NM, Bailey AL, et al. A SARS-CoV-2 Infection Model in Mice Demonstrates Protection by Neutralizing Antibodies. Cell. 2020 Aug 6;182(3):744-753.e4.(http://sciwheel.com/work/bibliography/9078812)
+[^50]: Hassan AO, Case JB, Winkler ES, Thackray LB, Kafai NM, Bailey AL, et al. A SARS-CoV-2 Infection Model in Mice Demonstrates Protection by Neutralizing Antibodies. Cell. 2020 Aug 6;182(3):744-753.e4.
 
-[^51]: Israelow B, Song E, Mao T, Lu P, Meir A, Liu F, et al. Mouse model of SARS-CoV-2 reveals inflammatory role of type I interferon signaling.  J Exp Med. 2020 Dec 7;217(12).(http://sciwheel.com/work/bibliography/9388568)
+[^51]: Israelow B, Song E, Mao T, Lu P, Meir A, Liu F, et al. Mouse model of SARS-CoV-2 reveals inflammatory role of type I interferon signaling.  J Exp Med. 2020 Dec 7;217(12).
 
-[^52]: Dinnon KH, Leist SR, Schäfer A, Edwards CE, Martinez DR, Montgomery SA, et al. A mouse-adapted model of SARS-CoV-2 to test COVID-19 countermeasures. Nature. 2020 Aug 27(http://sciwheel.com/work/bibliography/9550469).
+[^52]: Dinnon KH, Leist SR, Schäfer A, Edwards CE, Martinez DR, Montgomery SA, et al. A mouse-adapted model of SARS-CoV-2 to test COVID-19 countermeasures. Nature. 2020 Aug 27.
 
-[^53]: Winkler ES, Bailey AL, Kafai NM, Nair S, McCune BT, Yu J, et al.  SARS-CoV-2 infection of human ACE2-transgenic mice causes severe lung inflammation and impaired function. Nat Immunol. 2020 Aug 24(http://sciwheel.com/work/bibliography/9540791).
+[^53]: Winkler ES, Bailey AL, Kafai NM, Nair S, McCune BT, Yu J, et al.  SARS-CoV-2 infection of human ACE2-transgenic mice causes severe lung inflammation and impaired function. Nat Immunol. 2020 Aug 24.
 
-[^54]: Rogers TF, Zhao F, Huang D, Beutler N, Burns A, He W-T, et al.  Isolation of potent SARS-CoV-2 neutralizing antibodies and protection from disease in a small animal model. Science. 2020 Aug 21;369(6506):956–63.(http://sciwheel.com/work/bibliography/9128154)
+[^54]: Rogers TF, Zhao F, Huang D, Beutler N, Burns A, He W-T, et al.  Isolation of potent SARS-CoV-2 neutralizing antibodies and protection from disease in a small animal model. Science. 2020 Aug 21;369(6506):956–63.
 
-[^55]: Gao Q, Bao L, Mao H, Wang L, Xu K, Yang M, et al. Rapid development of an inactivated vaccine candidate for SARS-CoV-2. Science. 2020 May 6(http://sciwheel.com/work/bibliography/8872415).
+[^55]: Gao Q, Bao L, Mao H, Wang L, Xu K, Yang M, et al. Rapid development of an inactivated vaccine candidate for SARS-CoV-2. Science. 2020 May 6.
 
-[^56]: Erasmus JH, Khandhar AP, O’Connor MA, Walls AC, Hemann EA, Murapa P, et al. An Alphavirus-derived replicon RNA vaccine induces SARS-CoV-2 neutralizing antibody and T cell responses in mice and nonhuman primates. Sci Transl Med. 2020 Aug 5;12(555).(http://sciwheel.com/work/bibliography/9687276)
+[^56]: Erasmus JH, Khandhar AP, O’Connor MA, Walls AC, Hemann EA, Murapa P, et al. An Alphavirus-derived replicon RNA vaccine induces SARS-CoV-2 neutralizing antibody and T cell responses in mice and nonhuman primates. Sci Transl Med. 2020 Aug 5;12(555).
 
-[^57]: Eyal N, Lipsitch M, Smith PG. Human challenge studies to accelerate coronavirus vaccine licensure. J Infect Dis. 2020 May 11;221(11):1752–6.(http://sciwheel.com/work/bibliography/8596169)
+[^57]: Eyal N, Lipsitch M, Smith PG. Human challenge studies to accelerate coronavirus vaccine licensure. J Infect Dis. 2020 May 11;221(11):1752–6.
 
-[^58]: Jamrozik E, Selgelid MJ. COVID-19 human challenge studies: ethical issues. Lancet Infect Dis. 2020 May 29(http://sciwheel.com/work/bibliography/8984878).
+[^58]: Jamrozik E, Selgelid MJ. COVID-19 human challenge studies: ethical issues. Lancet Infect Dis. 2020 May 29.
 
-[^59]: WHO \| Key criteria for the ethical acceptability of COVID-19 human challenge studies \[Internet\]. \[cited 2020 Jun 11\]. Available from: https://www.who.int/ethics/publications/key-criteria-ethical-acceptability-of-covid-19-human-challenge/en/(http://sciwheel.com/work/bibliography/9072479).
+[^59]: WHO \| Key criteria for the ethical acceptability of COVID-19 human challenge studies \[Internet\]. \[cited 2020 Jun 11\]. Available from: https://www.who.int/ethics/publications/key-criteria-ethical-acceptability-of-covid-19-human-challenge/en/.
 
-[^60]: Carfì A, Bernabei R, Landi F, Gemelli Against COVID-19 Post-Acute Care Study Group. Persistent Symptoms in Patients After Acute COVID-19.  JAMA. 2020 Jul 9(http://sciwheel.com/work/bibliography/9232872).
+[^60]: Carfì A, Bernabei R, Landi F, Gemelli Against COVID-19 Post-Acute Care Study Group. Persistent Symptoms in Patients After Acute COVID-19.  JAMA. 2020 Jul 9.
 
-[^61]: Demicheli V, Jefferson T, Ferroni E, Rivetti A, Di Pietrantonj C.  Vaccines for preventing influenza in healthy adults. Cochrane Database Syst Rev. 2018 Feb 1;2:CD001269.(http://sciwheel.com/work/bibliography/4992963)
+[^61]: Demicheli V, Jefferson T, Ferroni E, Rivetti A, Di Pietrantonj C.  Vaccines for preventing influenza in healthy adults. Cochrane Database Syst Rev. 2018 Feb 1;2:CD001269.
 
-[^62]: Accelerating a safe and effective COVID-19 vaccine \[Internet\].  \[cited 2020 Aug 19\]. Available from: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov/accelerating-a-safe-and-effective-covid-19-vaccine(http://sciwheel.com/work/bibliography/9500735).
+[^62]: Accelerating a safe and effective COVID-19 vaccine \[Internet\].  \[cited 2020 Aug 19\]. Available from: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov/accelerating-a-safe-and-effective-covid-19-vaccine.
 
-[^63]: Saad-Roy CM, Wagner CE, Baker RE, Morris SE, Farrar J, Graham AL, et al. Immuno-epidemiological life-history and the dynamics of SARS-CoV-2 over the next five years. medRxiv. 2020 Jul 16(http://sciwheel.com/work/bibliography/9516539).
+[^63]: Saad-Roy CM, Wagner CE, Baker RE, Morris SE, Farrar J, Graham AL, et al. Immuno-epidemiological life-history and the dynamics of SARS-CoV-2 over the next five years. medRxiv. 2020 Jul 16.
 
-[^64]: Information R. WHO Strategic Advisory Group of Experts (SAGE) on Immunization  Working Group on COVID-19 Vaccines:  Prioritized Infectious Disease and Economic Modelling Questions.(http://sciwheel.com/work/bibliography/9501723)
+[^64]: Information R. WHO Strategic Advisory Group of Experts (SAGE) on Immunization  Working Group on COVID-19 Vaccines:  Prioritized Infectious Disease and Economic Modelling Questions.
 
-[^65]: Matrajt L, Eaton J, Leung T, Brown ER. Vaccine optimization for COVID-19, who to vaccinate first? medRxiv. 2020 Aug 15(http://sciwheel.com/work/bibliography/9500788).
+[^65]: Matrajt L, Eaton J, Leung T, Brown ER. Vaccine optimization for COVID-19, who to vaccinate first? medRxiv. 2020 Aug 15.
 
-[^66]: Knight SR, Ho A, Pius R, Buchan I, Carson G, Drake TM, et al. Risk stratification of patients admitted to hospital with COVID-19 using the ISARIC WHO Clinical Characterisation Protocol: development and validation of the 4C Mortality Score. BMJ. 2020 Sep 9;370:m3339.(http://sciwheel.com/work/bibliography/9715630)
+[^66]: Knight SR, Ho A, Pius R, Buchan I, Carson G, Drake TM, et al. Risk stratification of patients admitted to hospital with COVID-19 using the ISARIC WHO Clinical Characterisation Protocol: development and validation of the 4C Mortality Score. BMJ. 2020 Sep 9;370:m3339.
 
-[^67]: Dahlke C, Heidepriem J, Kobbe R, Santer R, Koch T, Fathi A, et al.  Distinct early IgA profile may determine severity of COVID-19 symptoms: an immunological case series. medRxiv. 2020 Apr 17(http://sciwheel.com/work/bibliography/8753250).
+[^67]: Dahlke C, Heidepriem J, Kobbe R, Santer R, Koch T, Fathi A, et al.  Distinct early IgA profile may determine severity of COVID-19 symptoms: an immunological case series. medRxiv. 2020 Apr 17.
 
-[^68]: World Economic Outlook, April 2020: The Great Lockdown \[Internet\]. \[cited 2020 Aug 25\]. Available from: https://www.imf.org/en/Publications/WEO/Issues/2020/04/14/weo-april-2020(http://sciwheel.com/work/bibliography/9529648).
+[^68]: World Economic Outlook, April 2020: The Great Lockdown \[Internet\]. \[cited 2020 Aug 25\]. Available from: https://www.imf.org/en/Publications/WEO/Issues/2020/04/14/weo-april-2020.
 
-[^69]: Pronker ES, Weenen TC, Commandeur H, Claassen EHJHM, Osterhaus ADME. Risk in vaccine research and development quantified. PLoS ONE.  2013 Mar 20;8(3):e57755.(http://sciwheel.com/work/bibliography/9447219)
+[^69]: Pronker ES, Weenen TC, Commandeur H, Claassen EHJHM, Osterhaus ADME. Risk in vaccine research and development quantified. PLoS ONE.  2013 Mar 20;8(3):e57755.
 
-[^70]: Pronker ES, Weenen TC, Commandeur HR, Osterhaus ADME, Claassen HJHM. The gold industry standard for risk and cost of drug and vaccine development revisited. Vaccine. 2011 Aug 11;29(35):5846–9.(http://sciwheel.com/work/bibliography/9464968)
+[^70]: Pronker ES, Weenen TC, Commandeur HR, Osterhaus ADME, Claassen HJHM. The gold industry standard for risk and cost of drug and vaccine development revisited. Vaccine. 2011 Aug 11;29(35):5846–9.
 
-[^71]: Gouglas D, Thanh Le T, Henderson K, Kaloudis A, Danielsen T, Hammersland NC, et al. Estimating the cost of vaccine development against epidemic infectious diseases: a cost minimisation study. Lancet Glob Health. 2018 Oct 18;6(12):e1386–96.(http://sciwheel.com/work/bibliography/9127635)
+[^71]: Gouglas D, Thanh Le T, Henderson K, Kaloudis A, Danielsen T, Hammersland NC, et al. Estimating the cost of vaccine development against epidemic infectious diseases: a cost minimisation study. Lancet Glob Health. 2018 Oct 18;6(12):e1386–96.
 
-[^72]: Snyder CM, Hoyt K, Gouglas D, Johnston T, Robinson J. Designing Pull Funding For A COVID-19 Vaccine. Health Aff (Millwood). 2020 Jul 23;101377hlthaff202000646.(http://sciwheel.com/work/bibliography/9514747)
+[^72]: Snyder CM, Hoyt K, Gouglas D, Johnston T, Robinson J. Designing Pull Funding For A COVID-19 Vaccine. Health Aff (Millwood). 2020 Jul 23;101377hlthaff202000646.
 
-[^73]: OECD. Treatments and a vaccine for COVID-19: the need for coordinating policies on R&D, manufacturing and access. OECD; 2020 May.(http://sciwheel.com/work/bibliography/9530979)
+[^73]: OECD. Treatments and a vaccine for COVID-19: the need for coordinating policies on R&D, manufacturing and access. OECD; 2020 May.
 
-[^74]: Kremer M, Levin J, Snyder C. Advance Market Commitments: Insights from Theory and Experience. Cambridge, MA: National Bureau of Economic Research; 2020 Feb.(http://sciwheel.com/work/bibliography/8570950)
+[^74]: Kremer M, Levin J, Snyder C. Advance Market Commitments: Insights from Theory and Experience. Cambridge, MA: National Bureau of Economic Research; 2020 Feb.
 
-[^75]: Morel CM, Mossialos E. Stoking the antibiotic pipeline. BMJ. 2010 May 18;340:c2115.(http://sciwheel.com/work/bibliography/9514716)
+[^75]: Morel CM, Mossialos E. Stoking the antibiotic pipeline. BMJ. 2010 May 18;340:c2115.
 
-[^76]: Berndt ER, Glennerster R, Kremer MR, Lee J, Levine R, Weizsäcker G, et al. Advance market commitments for vaccines against neglected diseases: estimating costs and effectiveness. Health Econ. 2007 May;16(5):491–511.(http://sciwheel.com/work/bibliography/9500068)
+[^76]: Berndt ER, Glennerster R, Kremer MR, Lee J, Levine R, Weizsäcker G, et al. Advance market commitments for vaccines against neglected diseases: estimating costs and effectiveness. Health Econ. 2007 May;16(5):491–511.
 
-[^77]: Light DW. Saving the pneumococcal AMC and GAVI. Hum Vaccin. 2011 Feb;7(2):138–41.(http://sciwheel.com/work/bibliography/9644120)
+[^77]: Light DW. Saving the pneumococcal AMC and GAVI. Hum Vaccin. 2011 Feb;7(2):138–41.
 
-[^78]: April 2020 NBER Digest \[Internet\]. \[cited 2020 Aug 12\].  Available from: https://nber.org/digest/apr20/w26775.shtml(http://sciwheel.com/work/bibliography/9442114).
+[^78]: April 2020 NBER Digest \[Internet\]. \[cited 2020 Aug 12\].  Available from: https://nber.org/digest/apr20/w26775.shtml.
 
-[^79]: Usher AD. COVID-19 vaccines for all? Lancet. 2020 Jun 13;395(10240):1822–3.(http://sciwheel.com/work/bibliography/9089111)
+[^79]: Usher AD. COVID-19 vaccines for all? Lancet. 2020 Jun 13;395(10240):1822–3.
 
-[^80]: Over £100 million cash boost to manufacture millions of doses of COVID-19 vaccine - GOV.UK \[Internet\]. \[cited 2020 Sep 12\]. Available from: https://www.gov.uk/government/news/over-100-million-cash-boost-to-manufacture-millions-of-doses-of-covid-19-vaccine(http://sciwheel.com/work/bibliography/9644113).
+[^80]: Over £100 million cash boost to manufacture millions of doses of COVID-19 vaccine - GOV.UK \[Internet\]. \[cited 2020 Sep 12\]. Available from: https://www.gov.uk/government/news/over-100-million-cash-boost-to-manufacture-millions-of-doses-of-covid-19-vaccine.
 
-[^81]: Callaway E. The unequal scramble for coronavirus vaccines - by the numbers. Nature.  2020;584(7822):506–7.(http://sciwheel.com/work/bibliography/9531006)
+[^81]: Callaway E. The unequal scramble for coronavirus vaccines - by the numbers. Nature.  2020;584(7822):506–7.
 
-[^82]: UK government invests in Livingston facility to bolster vaccine manufacturing capacity - GOV.UK \[Internet\]. \[cited 2020 Aug 12\].  Available from: https://www.gov.uk/government/news/uk-government-invests-in-livingston-facility-to-bolster-vaccine-manufacturing-capacity(http://sciwheel.com/work/bibliography/9441805).
+[^82]: UK government invests in Livingston facility to bolster vaccine manufacturing capacity - GOV.UK \[Internet\]. \[cited 2020 Aug 12\].  Available from: https://www.gov.uk/government/news/uk-government-invests-in-livingston-facility-to-bolster-vaccine-manufacturing-capacity.
 
-[^83]: Jab economics - Hard questions as scientists and governments seek covid-19 vaccines \| Finance & economics \| The Economist \[Internet\].  \[cited 2020 Aug 12\]. Available from: https://www.economist.com/finance-and-economics/2020/08/08/hard-questions-as-scientists-and-governments-seek-covid-19-vaccines(http://sciwheel.com/work/bibliography/9441804).
+[^83]: Jab economics - Hard questions as scientists and governments seek covid-19 vaccines \| Finance & economics \| The Economist \[Internet\].  \[cited 2020 Aug 12\]. Available from: https://www.economist.com/finance-and-economics/2020/08/08/hard-questions-as-scientists-and-governments-seek-covid-19-vaccines.
 
-[^84]: BD Receives Order from U.K. Government for 65 Million Injection Devices to Support COVID-19 Vaccination Campaign \[Internet\]. \[cited 2020 Aug 12\]. Available from: https://www.bd.com/en-uk/about-bd/news-and-media/press-releases/bd-receives-order-from-uk-government-for-65-million-injection-devices-to-support-covid-19-vaccination-campaign(http://sciwheel.com/work/bibliography/9442066).
+[^84]: BD Receives Order from U.K. Government for 65 Million Injection Devices to Support COVID-19 Vaccination Campaign \[Internet\]. \[cited 2020 Aug 12\]. Available from: https://www.bd.com/en-uk/about-bd/news-and-media/press-releases/bd-receives-order-from-uk-government-for-65-million-injection-devices-to-support-covid-19-vaccination-campaign.
 
-[^85]: Slaoui M, Hepburn M. Developing Safe and Effective Covid Vaccines - Operation Warp Speed’s Strategy and Approach. N Engl J Med. 2020 Aug 26(http://sciwheel.com/work/bibliography/9545348).
+[^85]: Slaoui M, Hepburn M. Developing Safe and Effective Covid Vaccines - Operation Warp Speed’s Strategy and Approach. N Engl J Med. 2020 Aug 26.
 
-[^86]: Yamey G, Schäferhoff M, Hatchett R, Pate M, Zhao F, McDade KK.  Ensuring global access to COVID-19 vaccines. Lancet. 2020 May 2;395(10234):1405–6.(http://sciwheel.com/work/bibliography/8560625)
+[^86]: Yamey G, Schäferhoff M, Hatchett R, Pate M, Zhao F, McDade KK.  Ensuring global access to COVID-19 vaccines. Lancet. 2020 May 2;395(10234):1405–6.
 
-[^87]: Opinion \| In the Race for a Coronavirus Vaccine, We Must Go Big.  Really, Really Big. - The New York Times \[Internet\]. \[cited 2020 Aug 25\]. Available from: https://www.nytimes.com/2020/05/04/opinion/coronavirus-vaccine.html(http://sciwheel.com/work/bibliography/9529436).
+[^87]: Opinion \| In the Race for a Coronavirus Vaccine, We Must Go Big.  Really, Really Big. - The New York Times \[Internet\]. \[cited 2020 Aug 25\]. Available from: https://www.nytimes.com/2020/05/04/opinion/coronavirus-vaccine.html.
 
-[^88]: COVAX explained \| Gavi, the Vaccine Alliance \[Internet\]. \[cited 2020 Sep 12\]. Available from: https://www.gavi.org/vaccineswork/covax-explained(http://sciwheel.com/work/bibliography/9644104).
+[^88]: COVAX explained \| Gavi, the Vaccine Alliance \[Internet\]. \[cited 2020 Sep 12\]. Available from: https://www.gavi.org/vaccineswork/covax-explained.
 
-[^89]: COVAX: Working for global equitable access to COVID-19 vaccines \[Internet\]. \[cited 2020 Sep 12\]. Available from: https://www.who.int/initiatives/act-accelerator/covax(http://sciwheel.com/work/bibliography/9644101).
+[^89]: COVAX: Working for global equitable access to COVID-19 vaccines \[Internet\]. \[cited 2020 Sep 12\]. Available from: https://www.who.int/initiatives/act-accelerator/covax.
 
-[^90]: Exclusive: Vaccine group says 76 rich countries now committed to “COVAX” access plan \| Reuters \[Internet\]. \[cited 2020 Sep 12\].  Available from: https://www.reuters.com/article/us-health-coronavirus-vaccines-covax-exc-idUSKBN25T39P(http://sciwheel.com/work/bibliography/9644109).
+[^90]: Exclusive: Vaccine group says 76 rich countries now committed to “COVAX” access plan \| Reuters \[Internet\]. \[cited 2020 Sep 12\].  Available from: https://www.reuters.com/article/us-health-coronavirus-vaccines-covax-exc-idUSKBN25T39P.
 
-[^91]: Chinazzi M, Davis J, Dean N, Mu K, Piontti A, Xiong X, et al.  Estimating the effect of cooperative versus uncooperative strategies of COVID-19 vaccine allocation: a modeling study.(http://sciwheel.com/work/bibliography/9666209)
+[^91]: Chinazzi M, Davis J, Dean N, Mu K, Piontti A, Xiong X, et al.  Estimating the effect of cooperative versus uncooperative strategies of COVID-19 vaccine allocation: a modeling study.
 
-[^92]: CEPI survey assesses potential COVID-19 vaccine manufacturing capacity – CEPI \[Internet\]. \[cited 2020 Sep 13\]. Available from: https://cepi.net/news\_cepi/cepi-survey-assesses-potential-covid-19-vaccine-manufacturing-capacity/(http://sciwheel.com/work/bibliography/9646232).
+[^92]: CEPI survey assesses potential COVID-19 vaccine manufacturing capacity – CEPI \[Internet\]. \[cited 2020 Sep 13\]. Available from: https://cepi.net/news\_cepi/cepi-survey-assesses-potential-covid-19-vaccine-manufacturing-capacity/.
 
-[^93]: Khamsi R. If a coronavirus vaccine arrives, can the world make enough? Nature.  2020;580(7805):578–80.(http://sciwheel.com/work/bibliography/8776842)
+[^93]: Khamsi R. If a coronavirus vaccine arrives, can the world make enough? Nature.  2020;580(7805):578–80.
 
-[^94]: Smith J, Lipsitch M, Almond JW. Vaccine production, distribution, access, and uptake. Lancet. 2011 Jul 30;378(9789):428–38.(http://sciwheel.com/work/bibliography/2301463)
+[^94]: Smith J, Lipsitch M, Almond JW. Vaccine production, distribution, access, and uptake. Lancet. 2011 Jul 30;378(9789):428–38.
 
-[^95]: UK government secures new COVID-19 vaccines and backs global clinical trial - GOV.UK \[Internet\]. \[cited 2020 Sep 7\]. Available from: https://www.gov.uk/government/news/uk-government-secures-new-covid-19-vaccines-and-backs-global-clinical-trial(http://sciwheel.com/work/bibliography/9598898).
+[^95]: UK government secures new COVID-19 vaccines and backs global clinical trial - GOV.UK \[Internet\]. \[cited 2020 Sep 7\]. Available from: <https://www.gov.uk/government/news/uk-government-secures-new-covid-19-vaccines-and-backs-global-clinical-trial>.
 
-[^96]: Oxford’s Covid-19 Vaccine Is the Coronavirus Front-Runner - Bloomberg \[Internet\]. \[cited 2020 Sep 7\]. Available from: https://www.bloomberg.com/news/features/2020-07-15/oxford-s-covid-19-vaccine-is-the-coronavirus-front-runner(http://sciwheel.com/work/bibliography/9598901).
+[^96]: Oxford’s Covid-19 Vaccine Is the Coronavirus Front-Runner - Bloomberg \[Internet\]. \[cited 2020 Sep 7\]. Available from: <https://www.bloomberg.com/news/features/2020-07-15/oxford-s-covid-19-vaccine-is-the-coronavirus-front-runner>.
 
-[^97]: Coronavirus Vaccine: AstraZeneca (AZN) Seeks Doses by September - Bloomberg \[Internet\]. \[cited 2020 Sep 7\]. Available from: https://www.bloomberg.com/news/articles/2020-05-17/astrazeneca-aims-for-30-million-u-k-vaccine-doses-by-september(http://sciwheel.com/work/bibliography/9598891).
+[^97]: Coronavirus Vaccine: AstraZeneca (AZN) Seeks Doses by September - Bloomberg \[Internet\]. \[cited 2020 Sep 7\]. Available from: <https://www.bloomberg.com/news/articles/2020-05-17/astrazeneca-aims-for-30-million-u-k-vaccine-doses-by-september>.
 
-[^98]: Britain Secures 90 Million Doses Of Potential Coronavirus Vaccines From Pfizer, BioNTech & Valneva \[Internet\]. \[cited 2020 Sep 7\].  Available from: https://www.forbes.com/sites/isabeltogoh/2020/07/20/britain-secures-90-million-doses-of-potential-coronavirus-vaccines-from-pfizer-biontech--valneva/\#be3d8254ae2e(http://sciwheel.com/work/bibliography/9598913).
+[^98]: Britain Secures 90 Million Doses Of Potential Coronavirus Vaccines From Pfizer, BioNTech & Valneva \[Internet\]. \[cited 2020 Sep 7\].  Available from: <https://www.forbes.com/sites/isabeltogoh/2020/07/20/britain-secures-90-million-doses-of-potential-coronavirus-vaccines-from-pfizer-biontech--valneva/\#be3d8254ae2e>.
 
 [^99]: Pfizer and BioNTech Announce Agreement with the United Kingdom for 30 Million Doses of mRNA-based Vaccine Candidate against SARS-CoV-2 \| Pfizer \[Internet\]. \[cited 2020 Sep 7\]. Available from: <https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-announce-agreement-united-kingdom-30>.
 
@@ -3043,9 +3043,9 @@ sterile filtered and can be shipped to the fill-to-finish site.
 
 [^105]: Sanofi and GSK agree with the UK government to supply up to 60 million doses of COVID-19 vaccine \| GSK \[Internet\]. \[cited 2020 Sep 7\]. Available from: <https://www.gsk.com/en-gb/media/press-releases/sanofi-and-gsk-agree-with-the-uk-government-to-supply-up-to-60-million-doses-of-covid-19-vaccine/>.
 
-[^106]: Sanofi and GSK selected for Operation Warp Speed to supply United States Government with 100 million doses of COVID-19 vaccine \| GSK \[Internet\]. \[cited 2020 Sep 7\]. Available from: https://www.gsk.com/en-gb/media/press-releases/sanofi-and-gsk-selected-for-operation-warp-speed-to-supply-united-states-government-with-100-million-doses-of-covid-19-vaccine/(http://sciwheel.com/work/bibliography/9598932).
+[^106]: Sanofi and GSK selected for Operation Warp Speed to supply United States Government with 100 million doses of COVID-19 vaccine \| GSK \[Internet\]. \[cited 2020 Sep 7\]. Available from: https://www.gsk.com/en-gb/media/press-releases/sanofi-and-gsk-selected-for-operation-warp-speed-to-supply-united-states-government-with-100-million-doses-of-covid-19-vaccine/.
 
-[^107]: IATA - The Time to Prepare for COVID-19 Vaccine Transport is Now \[Internet\]. \[cited 2020 Sep 10\]. Available from: https://www.iata.org/en/pressroom/pr/2020-09-09-01/(http://sciwheel.com/work/bibliography/9633254).
+[^107]: IATA - The Time to Prepare for COVID-19 Vaccine Transport is Now \[Internet\]. \[cited 2020 Sep 10\]. Available from: https://www.iata.org/en/pressroom/pr/2020-09-09-01/.
 
 [^108]: Coronavirus: Health workers’ army to be trained to deliver Covid vaccine - BBC News \[Internet\]. \[cited 2020 Sep 7\]. Available from: <https://www.bbc.co.uk/news/health-53946412>.
 
@@ -3053,152 +3053,152 @@ sterile filtered and can be shipped to the fill-to-finish site.
 
 [^110]: Nuffield Council on Bioethics. Fair and equitable access to COVID-19 treatments and vaccines \[Internet\]. Policy briefing: Key challenges for ensuring fair and equitable access to COVID-19 vaccines and treatments. 2020 \[cited 2020 Sep 29\]. Available from: <https://www.nuffieldbioethics.org/news/policy-briefing-key-challenges-for-ensuring-fair-and-equitable-access-to-covid-19-vaccines-and-treatments>.
 
-[^111]: Daniels N. Accountability for reasonableness. BMJ. 2000 Nov 25;321(7272):1300–1.(http://sciwheel.com/work/bibliography/1882430)
+[^111]: Daniels N. Accountability for reasonableness. BMJ. 2000 Nov 25;321(7272):1300–1.
 
-[^112]: Cookson R, Mirelman AJ, Griffin S, Asaria M, Dawkins B, Norheim OF, et al. Using Cost-Effectiveness Analysis to Address Health Equity Concerns. Value Health.  2017;20(2):206–12.(http://sciwheel.com/work/bibliography/4058990)
+[^112]: Cookson R, Mirelman AJ, Griffin S, Asaria M, Dawkins B, Norheim OF, et al. Using Cost-Effectiveness Analysis to Address Health Equity Concerns. Value Health.  2017;20(2):206–12.
 
-[^113]: How might COVID-19 affect the number of GPs available to see patients in England? \| The Health Foundation \[Internet\]. \[cited 2020 Sep 12\]. Available from: https://www.health.org.uk/publications/long-reads/how-might-covid-19-affect-the-number-of-gps-available-to-see-patients-in-england(http://sciwheel.com/work/bibliography/9644092).
+[^113]: How might COVID-19 affect the number of GPs available to see patients in England? \| The Health Foundation \[Internet\]. \[cited 2020 Sep 12\]. Available from: https://www.health.org.uk/publications/long-reads/how-might-covid-19-affect-the-number-of-gps-available-to-see-patients-in-england.
 
-[^114]: Smith RD, Correa C, Oh C. Trade, TRIPS, and pharmaceuticals.  Lancet. 2009 Feb 21;373(9664):684–91.(http://sciwheel.com/work/bibliography/1952060)
+[^114]: Smith RD, Correa C, Oh C. Trade, TRIPS, and pharmaceuticals.  Lancet. 2009 Feb 21;373(9664):684–91.
 
-[^115]: Hoen E ’t, Berger J, Calmy A, Moon S. Driving a decade of change: HIV/AIDS, patents and access to medicines for all. J Int AIDS Soc. 2011 Mar 27;14:15.(http://sciwheel.com/work/bibliography/2781693)
+[^115]: Hoen E ’t, Berger J, Calmy A, Moon S. Driving a decade of change: HIV/AIDS, patents and access to medicines for all. J Int AIDS Soc. 2011 Mar 27;14:15.
 
-[^116]: The rush to create a covid-19 vaccine may do more harm than good - The BMJ \[Internet\]. \[cited 2020 Aug 10\]. Available from: https://blogs.bmj.com/bmj/2020/08/05/the-rush-to-create-a-covid-19-vaccine-may-do-more-harm-than-good/(http://sciwheel.com/work/bibliography/9416768).
+[^116]: The rush to create a covid-19 vaccine may do more harm than good - The BMJ \[Internet\]. \[cited 2020 Aug 10\]. Available from: https://blogs.bmj.com/bmj/2020/08/05/the-rush-to-create-a-covid-19-vaccine-may-do-more-harm-than-good/.
 
-[^117]: Jiang S. Don’t rush to deploy COVID-19 vaccines and drugs without sufficient safety guarantees. Nature.  2020;579(7799):321.(http://sciwheel.com/work/bibliography/8459148)
+[^117]: Jiang S. Don’t rush to deploy COVID-19 vaccines and drugs without sufficient safety guarantees. Nature.  2020;579(7799):321.
 
-[^118]: Krause P, Fleming TR, Longini I, Henao-Restrepo AM, Peto R, World Health Organization Solidarity Vaccines Trial Expert Group. COVID-19 vaccine trials should seek worthwhile efficacy. Lancet. 2020 Aug 27(http://sciwheel.com/work/bibliography/9546262).
+[^118]: Krause P, Fleming TR, Longini I, Henao-Restrepo AM, Peto R, World Health Organization Solidarity Vaccines Trial Expert Group. COVID-19 vaccine trials should seek worthwhile efficacy. Lancet. 2020 Aug 27.
 
-[^119]: Harrison EA, Wu JW. Vaccine confidence in the time of COVID-19.  Eur J Epidemiol. 2020 Apr 22;35(4):325–30.(http://sciwheel.com/work/bibliography/8773177)
+[^119]: Harrison EA, Wu JW. Vaccine confidence in the time of COVID-19.  Eur J Epidemiol. 2020 Apr 22;35(4):325–30.
 
-[^120]: Gellin B. Why vaccine rumours stick—and getting them unstuck.  Lancet. 2020 Aug;396(10247):303–4.(http://sciwheel.com/work/bibliography/9361547)
+[^120]: Gellin B. Why vaccine rumours stick—and getting them unstuck.  Lancet. 2020 Aug;396(10247):303–4.
 
-[^121]: Van Bavel JJ, Baicker K, Boggio PS, Capraro V, Cichocka A, Cikara M, et al. Using Social and Behavioural Science to Support COVID-19 Pandemic Response. Nat Hum Behav. 2020 Apr 30;4(5):460–71.(http://sciwheel.com/work/bibliography/8802371)
+[^121]: Van Bavel JJ, Baicker K, Boggio PS, Capraro V, Cichocka A, Cikara M, et al. Using Social and Behavioural Science to Support COVID-19 Pandemic Response. Nat Hum Behav. 2020 Apr 30;4(5):460–71.
 
-[^122]: Schmid P, Betsch C. Effective strategies for rebutting science denialism in public discussions. Nat Hum Behav. 2019 Jun 24;3(9):931–9.(http://sciwheel.com/work/bibliography/7145030)
+[^122]: Schmid P, Betsch C. Effective strategies for rebutting science denialism in public discussions. Nat Hum Behav. 2019 Jun 24;3(9):931–9.
 
-[^123]: Bholat D, Broughton N, Ter Meer J, Walczak E. Enhancing central bank communications using simple and relatable information. J Monet Econ. 2019 Dec;108:1–15.(http://sciwheel.com/work/bibliography/9447478)
+[^123]: Bholat D, Broughton N, Ter Meer J, Walczak E. Enhancing central bank communications using simple and relatable information. J Monet Econ. 2019 Dec;108:1–15.
 
-[^124]: Haldane A, McMahon M. Central bank communications and the general public. AEA Papers and Proceedings. 2018 May 1;108:578–83.(http://sciwheel.com/work/bibliography/9447510)
+[^124]: Haldane A, McMahon M. Central bank communications and the general public. AEA Papers and Proceedings. 2018 May 1;108:578–83.
 
-[^125]: Haldane A, Macaulay A, McMahon M. The 3 E’s of Central Bank Communication with the Public. SSRN Journal.  2020(http://sciwheel.com/work/bibliography/9447459).
+[^125]: Haldane A, Macaulay A, McMahon M. The 3 E’s of Central Bank Communication with the Public. SSRN Journal.  2020.
 
-[^126]: Haydarov R, Anand S, Frouws B, Toure B, Okiror S, Bhui BR.  Evidence-Based Engagement of the Somali Pastoralists of the Horn of Africa in Polio Immunization: Overview of Tracking, Cross-Border, Operations, and Communication Strategies. Global Health Communication.  2016 Jan;2(1):11–8.(http://sciwheel.com/work/bibliography/3542195)
+[^126]: Haydarov R, Anand S, Frouws B, Toure B, Okiror S, Bhui BR.  Evidence-Based Engagement of the Somali Pastoralists of the Horn of Africa in Polio Immunization: Overview of Tracking, Cross-Border, Operations, and Communication Strategies. Global Health Communication.  2016 Jan;2(1):11–8.
 
-[^127]: Schuster M, Duclos P. WHO Recommendations Regarding Vaccine Hesitancy. Vaccine. 2015 Aug 14;33(34):4155–218.(http://sciwheel.com/work/bibliography/9712049)
+[^127]: Schuster M, Duclos P. WHO Recommendations Regarding Vaccine Hesitancy. Vaccine. 2015 Aug 14;33(34):4155–218.
 
-[^128]: Jarrett C, Wilson R, O’Leary M, Eckersberger E, Larson HJ, SAGE Working Group on Vaccine Hesitancy. Strategies for addressing vaccine hesitancy - A systematic review. Vaccine. 2015 Aug 14;33(34):4180–90.(http://sciwheel.com/work/bibliography/1306315)
+[^128]: Jarrett C, Wilson R, O’Leary M, Eckersberger E, Larson HJ, SAGE Working Group on Vaccine Hesitancy. Strategies for addressing vaccine hesitancy - A systematic review. Vaccine. 2015 Aug 14;33(34):4180–90.
 
-[^129]: Peretti-Watel P, Larson HJ, Ward JK, Schulz WS, Verger P. Vaccine hesitancy: clarifying a theoretical framework for an ambiguous notion.  PLoS Curr Influenza. 2015 Feb 25;7.(http://sciwheel.com/work/bibliography/3741925)
+[^129]: Peretti-Watel P, Larson HJ, Ward JK, Schulz WS, Verger P. Vaccine hesitancy: clarifying a theoretical framework for an ambiguous notion.  PLoS Curr Influenza. 2015 Feb 25;7.
 
-[^130]: Lyons BA, Hasell A, Tallapragada M, Jamieson KH. Conversion messages and attitude change: Strong arguments, not costly signals.  Public Underst Sci. 2019 Jan 10;28(3):320–38.(http://sciwheel.com/work/bibliography/9575881)
+[^130]: Lyons BA, Hasell A, Tallapragada M, Jamieson KH. Conversion messages and attitude change: Strong arguments, not costly signals.  Public Underst Sci. 2019 Jan 10;28(3):320–38.
 
-[^131]: Levine JM, Valle RS. The convert as a credible communicator. Soc Behav Pers. 1975 Jan 1;3(1):81–90.(http://sciwheel.com/work/bibliography/9575901)
+[^131]: Levine JM, Valle RS. The convert as a credible communicator. Soc Behav Pers. 1975 Jan 1;3(1):81–90.
 
-[^132]: Harris K, Maurer J, Black C, Euler G, Kadiyala S. Workplace efforts to promote influenza vaccination among healthcare personnel and their association with uptake during the 2009 pandemic influenza A (H1N1). Vaccine. 2011 Apr 5;29(16):2978–85.(http://sciwheel.com/work/bibliography/9711286)
+[^132]: Harris K, Maurer J, Black C, Euler G, Kadiyala S. Workplace efforts to promote influenza vaccination among healthcare personnel and their association with uptake during the 2009 pandemic influenza A (H1N1). Vaccine. 2011 Apr 5;29(16):2978–85.
 
-[^133]: Cover of vaccination evaluated rapidly (COVER) programme 2014 to 2015: quarterly data - GOV.UK \[Internet\]. \[cited 2020 Aug 6\].  Available from: https://www.gov.uk/government/statistics/cover-of-vaccination-evaluated-rapidly-cover-programme-2014-to-2015-quarterly-data(http://sciwheel.com/work/bibliography/9382775).
+[^133]: Cover of vaccination evaluated rapidly (COVER) programme 2014 to 2015: quarterly data - GOV.UK \[Internet\]. \[cited 2020 Aug 6\].  Available from: https://www.gov.uk/government/statistics/cover-of-vaccination-evaluated-rapidly-cover-programme-2014-to-2015-quarterly-data.
 
-[^134]: Forster AS, Rockliffe L, Chorley AJ, Marlow LAV, Bedford H, Smith SG, et al. Ethnicity-specific factors influencing childhood immunisation decisions among Black and Asian Minority Ethnic groups in the UK: a systematic review of qualitative research. J Epidemiol Community Health.  2017;71(6):544–9.(http://sciwheel.com/work/bibliography/3745641)
+[^134]: Forster AS, Rockliffe L, Chorley AJ, Marlow LAV, Bedford H, Smith SG, et al. Ethnicity-specific factors influencing childhood immunisation decisions among Black and Asian Minority Ethnic groups in the UK: a systematic review of qualitative research. J Epidemiol Community Health.  2017;71(6):544–9.
 
-[^135]: Martin KD, Roter DL, Beach MC, Carson KA, Cooper LA. Physician communication behaviors and trust among black and white patients with hypertension. Med Care. 2013 Feb;51(2):151–7.(http://sciwheel.com/work/bibliography/6452357)
+[^135]: Martin KD, Roter DL, Beach MC, Carson KA, Cooper LA. Physician communication behaviors and trust among black and white patients with hypertension. Med Care. 2013 Feb;51(2):151–7.
 
-[^136]: Brooks LA, Manias E, Bloomer MJ. Culturally sensitive communication in healthcare: A concept analysis. Collegian. 2018 Oct(http://sciwheel.com/work/bibliography/6433182).
+[^136]: Brooks LA, Manias E, Bloomer MJ. Culturally sensitive communication in healthcare: A concept analysis. Collegian. 2018 Oct.
 
-[^137]: Cohen J. The line is forming for a COVID-19 vaccine. Who should be at the front? Science. 2020 Jun 29(http://sciwheel.com/work/bibliography/9361602).
+[^137]: Cohen J. The line is forming for a COVID-19 vaccine. Who should be at the front? Science. 2020 Jun 29.
 
-[^138]: Awasthi R, Guliani KK, Bhatt A, Gill MS, Nagori A, Kumaraguru P, et al. VacSIM: Learning Effective Strategies for COVID-19 Vaccine Distribution using Reinforcement Learning. arXiv. 2020 Sep 14(http://sciwheel.com/work/bibliography/9656721).
+[^138]: Awasthi R, Guliani KK, Bhatt A, Gill MS, Nagori A, Kumaraguru P, et al. VacSIM: Learning Effective Strategies for COVID-19 Vaccine Distribution using Reinforcement Learning. arXiv. 2020 Sep 14.
 
-[^139]: Britton T, Ball F, Trapman P. A mathematical model reveals the influence of population heterogeneity on herd immunity to SARS-CoV-2.  Science. 2020 Jun 23(http://sciwheel.com/work/bibliography/9131894).
+[^139]: Britton T, Ball F, Trapman P. A mathematical model reveals the influence of population heterogeneity on herd immunity to SARS-CoV-2.  Science. 2020 Jun 23.
 
-[^140]: Bubar KM, Kissler SM, Lipsitch M, Cobey S, Grad Y, Larremore DB.  Model-informed COVID-19 vaccine prioritization strategies by age and serostatus. medRxiv. 2020 Sep 10(http://sciwheel.com/work/bibliography/9651311).
+[^140]: Bubar KM, Kissler SM, Lipsitch M, Cobey S, Grad Y, Larremore DB.  Model-informed COVID-19 vaccine prioritization strategies by age and serostatus. medRxiv. 2020 Sep 10.
 
-[^141]: Coronavirus and shielding of clinically extremely vulnerable people in England - Office for National Statistics \[Internet\]. \[cited 2020 Sep 15\]. Available from: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronavirusandshieldingofclinicallyextremelyvulnerablepeopleinengland/9julyto16july2020\#main-points(http://sciwheel.com/work/bibliography/9658058).
+[^141]: Coronavirus and shielding of clinically extremely vulnerable people in England - Office for National Statistics \[Internet\]. \[cited 2020 Sep 15\]. Available from: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronavirusandshieldingofclinicallyextremelyvulnerablepeopleinengland/9julyto16july2020\#main-points.
 
-[^142]: Old age structure variant - UK population in age groups - Office for National Statistics \[Internet\]. \[cited 2020 Sep 15\]. Available from: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/datasets/tablel21oldagestructurevariantukpopulationinagegroups(http://sciwheel.com/work/bibliography/9658055).
+[^142]: Old age structure variant - UK population in age groups - Office for National Statistics \[Internet\]. \[cited 2020 Sep 15\]. Available from: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/datasets/tablel21oldagestructurevariantukpopulationinagegroups.
 
-[^143]: Report 33 - Modelling the allocation and impact of a COVID-19 vaccine \| Faculty of Medicine \| Imperial College London \[Internet\].  \[cited 2020 Sep 25\]. Available from: https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-33-vaccine/(http://sciwheel.com/work/bibliography/9717646).
+[^143]: Report 33 - Modelling the allocation and impact of a COVID-19 vaccine \| Faculty of Medicine \| Imperial College London \[Internet\].  \[cited 2020 Sep 25\]. Available from: https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-33-vaccine/.
 
-[^144]: Joint Committee on Vaccination and Immunisation: interim advice on priority groups for COVID-19 vaccination - GOV.UK \[Internet\]. \[cited 2020 Aug 3\]. Available from: https://www.gov.uk/government/publications/priority-groups-for-coronavirus-covid-19-vaccination-advice-from-the-jcvi/interim-advice-on-priority-groups-for-covid-19-vaccination(http://sciwheel.com/work/bibliography/9366099).
+[^144]: Joint Committee on Vaccination and Immunisation: interim advice on priority groups for COVID-19 vaccination - GOV.UK \[Internet\]. \[cited 2020 Aug 3\]. Available from: https://www.gov.uk/government/publications/priority-groups-for-coronavirus-covid-19-vaccination-advice-from-the-jcvi/interim-advice-on-priority-groups-for-covid-19-vaccination.
 
-[^145]: Key workers reference tables - Office for National Statistics \[Internet\]. \[cited 2020 Sep 15\]. Available from: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/keyworkersreferencetables(http://sciwheel.com/work/bibliography/9658064).
+[^145]: Key workers reference tables - Office for National Statistics \[Internet\]. \[cited 2020 Sep 15\]. Available from: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/keyworkersreferencetables.
 
-[^146]: Karafillakis E, Dinca I, Apfel F, Cecconi S, Wűrz A, Takacs J, et al. Vaccine hesitancy among healthcare workers in Europe: A qualitative study. Vaccine. 2016 Sep 22;34(41):5013–20.(http://sciwheel.com/work/bibliography/5606975)
+[^146]: Karafillakis E, Dinca I, Apfel F, Cecconi S, Wűrz A, Takacs J, et al. Vaccine hesitancy among healthcare workers in Europe: A qualitative study. Vaccine. 2016 Sep 22;34(41):5013–20.
 
-[^147]: The DELVE Initiative. Scoping Report on Hospital and Health Care Acquisition of COVID-19 and its Control. \[Internet\]. 2020 \[cited 2020 Sep 24\]. Available from: https://rs-delve.github.io/reports/2020/07/06/nosocomial-scoping-report.html(http://sciwheel.com/work/bibliography/9712218).
+[^147]: The DELVE Initiative. Scoping Report on Hospital and Health Care Acquisition of COVID-19 and its Control. \[Internet\]. 2020 \[cited 2020 Sep 24\]. Available from: https://rs-delve.github.io/reports/2020/07/06/nosocomial-scoping-report.html.
 
-[^148]: Hayward AC, Harling R, Wetten S, Johnson AM, Munro S, Smedley J, et al. Effectiveness of an influenza vaccine programme for care home staff to prevent death, morbidity, and health service use among residents: cluster randomised controlled trial. BMJ. 2006 Dec 16;333(7581):1241.(http://sciwheel.com/work/bibliography/1815480)
+[^148]: Hayward AC, Harling R, Wetten S, Johnson AM, Munro S, Smedley J, et al. Effectiveness of an influenza vaccine programme for care home staff to prevent death, morbidity, and health service use among residents: cluster randomised controlled trial. BMJ. 2006 Dec 16;333(7581):1241.
 
-[^149]: Baguelin M, Flasche S, Camacho A, Demiris N, Miller E, Edmunds WJ.  Assessing optimal target populations for influenza vaccination programmes: an evidence synthesis and modelling study. PLoS Med. 2013 Oct 8;10(10):e1001527.(http://sciwheel.com/work/bibliography/1000723)
+[^149]: Baguelin M, Flasche S, Camacho A, Demiris N, Miller E, Edmunds WJ.  Assessing optimal target populations for influenza vaccination programmes: an evidence synthesis and modelling study. PLoS Med. 2013 Oct 8;10(10):e1001527.
 
-[^150]: Carman WF, Elder AG, Wallace LA, McAulay K, Walker A, Murray GD, et al. Effects of influenza vaccination of health-care workers on mortality of elderly people in long-term care: a randomised controlled trial. Lancet. 2000 Jan 8;355(9198):93–7.(http://sciwheel.com/work/bibliography/1461185)
+[^150]: Carman WF, Elder AG, Wallace LA, McAulay K, Walker A, Murray GD, et al. Effects of influenza vaccination of health-care workers on mortality of elderly people in long-term care: a randomised controlled trial. Lancet. 2000 Jan 8;355(9198):93–7.
 
-[^151]: Davies NG, Klepac P, Liu Y, Prem K, Jit M, CMMID COVID-19 working group, et al. Age-dependent effects in the transmission and control of COVID-19 epidemics. Nat Med. 2020 Jun 16;26(8):1205–11.(http://sciwheel.com/work/bibliography/9102939)
+[^151]: Davies NG, Klepac P, Liu Y, Prem K, Jit M, CMMID COVID-19 working group, et al. Age-dependent effects in the transmission and control of COVID-19 epidemics. Nat Med. 2020 Jun 16;26(8):1205–11.
 
-[^152]: Viner RM, Mytton OT, Bonell C, Melendez-Torres GJ, Ward JL, Hudson L, et al. Susceptibility to and transmission of COVID-19 amongst children and adolescents compared with adults: a systematic review and meta-analysis. medRxiv. 2020 May 24(http://sciwheel.com/work/bibliography/8989797).
+[^152]: Viner RM, Mytton OT, Bonell C, Melendez-Torres GJ, Ward JL, Hudson L, et al. Susceptibility to and transmission of COVID-19 amongst children and adolescents compared with adults: a systematic review and meta-analysis. medRxiv. 2020 May 24.
 
-[^153]: Fontanet A, Cauchemez S. COVID-19 herd immunity: where are we? Nat Rev Immunol. 2020 Oct;20(10):583–4.(http://sciwheel.com/work/bibliography/9646130)
+[^153]: Fontanet A, Cauchemez S. COVID-19 herd immunity: where are we? Nat Rev Immunol. 2020 Oct;20(10):583–4.
 
-[^154]: Flaxman S, Mishra S, Gandy A, Unwin H, Coupland H, Mellan T, et al. Report 13: Estimating the number of infections and the impact of non-pharmaceutical interventions on COVID-19 in 11 European countries.  Imperial College London.  2020(http://sciwheel.com/work/bibliography/8634848).
+[^154]: Flaxman S, Mishra S, Gandy A, Unwin H, Coupland H, Mellan T, et al. Report 13: Estimating the number of infections and the impact of non-pharmaceutical interventions on COVID-19 in 11 European countries.  Imperial College London.  2020.
 
-[^155]: Randolph HE, Barreiro LB. Herd Immunity: Understanding COVID-19.  Immunity. 2020 May 19;52(5):737–41.(http://sciwheel.com/work/bibliography/8940477)
+[^155]: Randolph HE, Barreiro LB. Herd Immunity: Understanding COVID-19.  Immunity. 2020 May 19;52(5):737–41.
 
-[^156]: Scherer A, McLean A. Mathematical models of vaccination. Br Med Bull. 2002;62:187–99.(http://sciwheel.com/work/bibliography/733106)
+[^156]: Scherer A, McLean A. Mathematical models of vaccination. Br Med Bull. 2002;62:187–99.
 
-[^157]: Béraud G. Mathematical models and vaccination strategies. Vaccine.  2018 Aug 28;36(36):5366–72.(http://sciwheel.com/work/bibliography/9636611)
+[^157]: Béraud G. Mathematical models and vaccination strategies. Vaccine.  2018 Aug 28;36(36):5366–72.
 
-[^158]: Hepatitis A: the green book, chapter 17 - GOV.UK \[Internet\].  \[cited 2020 Sep 24\]. Available from: https://www.gov.uk/government/publications/hepatitis-a-the-green-book-chapter-17(http://sciwheel.com/work/bibliography/9712280).
+[^158]: Hepatitis A: the green book, chapter 17 - GOV.UK \[Internet\].  \[cited 2020 Sep 24\]. Available from: https://www.gov.uk/government/publications/hepatitis-a-the-green-book-chapter-17.
 
-[^159]: Lurie N, Sharfstein JM, Goodman JL. The Development of COVID-19 Vaccines: Safeguards Needed. JAMA. 2020 Aug 4;324(5):439–40.(http://sciwheel.com/work/bibliography/9211484)
+[^159]: Lurie N, Sharfstein JM, Goodman JL. The Development of COVID-19 Vaccines: Safeguards Needed. JAMA. 2020 Aug 4;324(5):439–40.
 
-[^160]: Sanjuán R, Nebot MR, Chirico N, Mansky LM, Belshaw R. Viral mutation rates. J Virol. 2010 Oct;84(19):9733–48.(http://sciwheel.com/work/bibliography/3040680)
+[^160]: Sanjuán R, Nebot MR, Chirico N, Mansky LM, Belshaw R. Viral mutation rates. J Virol. 2010 Oct;84(19):9733–48.
 
-[^161]: Bar-On YM, Flamholz A, Phillips R, Milo R. SARS-CoV-2 (COVID-19) by the numbers. elife. 2020 Apr 2;9.(http://sciwheel.com/work/bibliography/8550793)
+[^161]: Bar-On YM, Flamholz A, Phillips R, Milo R. SARS-CoV-2 (COVID-19) by the numbers. elife. 2020 Apr 2;9.
 
-[^162]: SET-C. The SARS-CoV-2 genome: variation, implication and application. The Royal Society; 2020 Aug.(http://sciwheel.com/work/bibliography/9687431)
+[^162]: SET-C. The SARS-CoV-2 genome: variation, implication and application. The Royal Society; 2020 Aug.
 
-[^163]: Vijgen L, Keyaerts E, Lemey P, Moës E, Li S, Vandamme A-M, et al.  Circulation of genetically distinct contemporary human coronavirus OC43 strains. Virology. 2005 Jun 20;337(1):85–92.(http://sciwheel.com/work/bibliography/8819266)
+[^163]: Vijgen L, Keyaerts E, Lemey P, Moës E, Li S, Vandamme A-M, et al.  Circulation of genetically distinct contemporary human coronavirus OC43 strains. Virology. 2005 Jun 20;337(1):85–92.
 
-[^164]: Ren L, Zhang Y, Li J, Xiao Y, Zhang J, Wang Y, et al. Genetic drift of human coronavirus OC43 spike gene during adaptive evolution.  Sci Rep. 2015 Jun 22;5:11451.(http://sciwheel.com/work/bibliography/8560499)
+[^164]: Ren L, Zhang Y, Li J, Xiao Y, Zhang J, Wang Y, et al. Genetic drift of human coronavirus OC43 spike gene during adaptive evolution.  Sci Rep. 2015 Jun 22;5:11451.
 
-[^165]: Weisblum Y, Schmidt F, Zhang F, DaSilva J, Poston D, Lorenzi JCC, et al. Escape from neutralizing antibodies by SARS-CoV-2 spike protein variants. BioRxiv. 2020 Jul 22(http://sciwheel.com/work/bibliography/9328758).
+[^165]: Weisblum Y, Schmidt F, Zhang F, DaSilva J, Poston D, Lorenzi JCC, et al. Escape from neutralizing antibodies by SARS-CoV-2 spike protein variants. BioRxiv. 2020 Jul 22.
 
-[^166]: Moderna pitches virus vaccine at about $50-$60 per course \| Financial Times \[Internet\]. \[cited 2020 Sep 24\]. Available from: https://www.ft.com/content/405c0d07-d15a-4f5b-8a77-3c2fbd5d4c1c(http://sciwheel.com/work/bibliography/9715734).
+[^166]: Moderna pitches virus vaccine at about $50-$60 per course \| Financial Times \[Internet\]. \[cited 2020 Sep 24\]. Available from: https://www.ft.com/content/405c0d07-d15a-4f5b-8a77-3c2fbd5d4c1c.
 
-[^167]: Gouglas D, Christodoulou M, Plotkin SA, Hatchett R. CEPI: driving progress toward epidemic preparedness and response. Epidemiol Rev. 2019 Jan 31;41(1):28–33.(http://sciwheel.com/work/bibliography/8573414)
+[^167]: Gouglas D, Christodoulou M, Plotkin SA, Hatchett R. CEPI: driving progress toward epidemic preparedness and response. Epidemiol Rev. 2019 Jan 31;41(1):28–33.
 
-[^168]: Plotkin SA. Vaccines for epidemic infections and the role of CEPI.  Hum Vaccin Immunother. 2017 Dec 2;13(12):2755–62.(http://sciwheel.com/work/bibliography/9466033)
+[^168]: Plotkin SA. Vaccines for epidemic infections and the role of CEPI.  Hum Vaccin Immunother. 2017 Dec 2;13(12):2755–62.
 
-[^169]: Røttingen J-A, Gouglas D, Feinberg M, Plotkin S, Raghavan KV, Witty A, et al. New Vaccines against Epidemic Infectious Diseases. N Engl J Med. 2017 Feb 16;376(7):610–3.(http://sciwheel.com/work/bibliography/4153741)
+[^169]: Røttingen J-A, Gouglas D, Feinberg M, Plotkin S, Raghavan KV, Witty A, et al. New Vaccines against Epidemic Infectious Diseases. N Engl J Med. 2017 Feb 16;376(7):610–3.
 
-[^170]: Moon S, Sridhar D, Pate MA, Jha AK, Clinton C, Delaunay S, et al.  Will Ebola change the game? Ten essential reforms before the next pandemic. The report of the Harvard-LSHTM Independent Panel on the Global Response to Ebola. Lancet. 2015 Nov 28;386(10009):2204–21.(http://sciwheel.com/work/bibliography/1281737)
+[^170]: Moon S, Sridhar D, Pate MA, Jha AK, Clinton C, Delaunay S, et al.  Will Ebola change the game? Ten essential reforms before the next pandemic. The report of the Harvard-LSHTM Independent Panel on the Global Response to Ebola. Lancet. 2015 Nov 28;386(10009):2204–21.
 
-[^171]: Currie J, Grenfell B, Farrar J. Infectious diseases. Beyond Ebola.  Science. 2016 Feb 19;351(6275):815–6.(http://sciwheel.com/work/bibliography/1297318)
+[^171]: Currie J, Grenfell B, Farrar J. Infectious diseases. Beyond Ebola.  Science. 2016 Feb 19;351(6275):815–6.
 
 [^172]: Kis Z, Kontoravdi C, Dey AK, Shattock R, Shah N. Rapid development and deployment of high‐volume vaccines for pandemic response. Jnl Adv Manuf & Process. 2020 Jul;2(3).
 
-[^173]: Bloom DE, Black S, Rappuoli R. Emerging infectious diseases: A proactive approach. Proc Natl Acad Sci USA. 2017 Apr 18;114(16):4055–9.(http://sciwheel.com/work/bibliography/3671022)
+[^173]: Bloom DE, Black S, Rappuoli R. Emerging infectious diseases: A proactive approach. Proc Natl Acad Sci USA. 2017 Apr 18;114(16):4055–9.
 
-[^174]: Graham BS, Sullivan NJ. Emerging viral diseases from a vaccinology perspective: preparing for the next pandemic. Nat Immunol. 2018 Jan;19(1):20–8.(http://sciwheel.com/work/bibliography/4633079)
+[^174]: Graham BS, Sullivan NJ. Emerging viral diseases from a vaccinology perspective: preparing for the next pandemic. Nat Immunol. 2018 Jan;19(1):20–8.
 
-[^175]: Osterholm M, Moore K, Ostrowsky J, Kimball-Baker K, Farrar J, Wellcome Trust-CIDRAP Ebola Vaccine Team B. The Ebola Vaccine Team B: a model for promoting the rapid development of medical countermeasures for emerging infectious disease threats. Lancet Infect Dis. 2016 Jan;16(1):e1–9.(http://sciwheel.com/work/bibliography/9469017)
+[^175]: Osterholm M, Moore K, Ostrowsky J, Kimball-Baker K, Farrar J, Wellcome Trust-CIDRAP Ebola Vaccine Team B. The Ebola Vaccine Team B: a model for promoting the rapid development of medical countermeasures for emerging infectious disease threats. Lancet Infect Dis. 2016 Jan;16(1):e1–9.
 
-[^176]: Rappuoli R, Hanon E. Sustainable vaccine development: a vaccine manufacturer’s perspective. Curr Opin Immunol. 2018 May 8;53:111–8.(http://sciwheel.com/work/bibliography/7216189)
+[^176]: Rappuoli R, Hanon E. Sustainable vaccine development: a vaccine manufacturer’s perspective. Curr Opin Immunol. 2018 May 8;53:111–8.
 
-[^177]: Hoyt K, Hatchett R. Preparing for the next Zika. Nat Biotechnol.  2016 Apr;34(4):384–6.(http://sciwheel.com/work/bibliography/9468391)
+[^177]: Hoyt K, Hatchett R. Preparing for the next Zika. Nat Biotechnol.  2016 Apr;34(4):384–6.
 
-[^178]: Plotkin SA. Vaccines we need but don’t have. Viral Immunol.  2018;31(2):114–6.(http://sciwheel.com/work/bibliography/9466023)
+[^178]: Plotkin SA. Vaccines we need but don’t have. Viral Immunol.  2018;31(2):114–6.
 
-[^179]: Poland GA, Whitaker JA, Poland CM, Ovsyannikova IG, Kennedy RB.  Vaccinology in the third millennium: scientific and social challenges.  Curr Opin Virol. 2016 Mar 30;17:116–25.(http://sciwheel.com/work/bibliography/1985835)
+[^179]: Poland GA, Whitaker JA, Poland CM, Ovsyannikova IG, Kennedy RB.  Vaccinology in the third millennium: scientific and social challenges.  Curr Opin Virol. 2016 Mar 30;17:116–25.
 
-[^180]: Sheerin D, Openshaw PJ, Pollard AJ. Issues in vaccinology: Present challenges and future directions. Eur J Immunol. 2017 Sep 27;47(12):2017–25.(http://sciwheel.com/work/bibliography/4279028)
+[^180]: Sheerin D, Openshaw PJ, Pollard AJ. Issues in vaccinology: Present challenges and future directions. Eur J Immunol. 2017 Sep 27;47(12):2017–25.
 
-[^181]: WHO conditionally backs Covid-19 vaccine trials that infect people \| Science \| The Guardian \[Internet\]. \[cited 2020 Sep 15\].  Available from: https://www.theguardian.com/science/2020/may/08/who-conditionally-backs-covid-19-vaccine-trials-that-infect-people(http://sciwheel.com/work/bibliography/9657539).
+[^181]: WHO conditionally backs Covid-19 vaccine trials that infect people \| Science \| The Guardian \[Internet\]. \[cited 2020 Sep 15\].  Available from: https://www.theguardian.com/science/2020/may/08/who-conditionally-backs-covid-19-vaccine-trials-that-infect-people.
 
-[^182]: Beigel JH, Tomashek KM, Dodd LE, Mehta AK, Zingman BS, Kalil AC, et al. Remdesivir for the Treatment of Covid-19 - Preliminary Report. N Engl J Med. 2020 May 22(http://sciwheel.com/work/bibliography/8943399).
+[^182]: Beigel JH, Tomashek KM, Dodd LE, Mehta AK, Zingman BS, Kalil AC, et al. Remdesivir for the Treatment of Covid-19 - Preliminary Report. N Engl J Med. 2020 May 22.
 
-[^183]: RECOVERY Collaborative Group, Horby P, Lim WS, Emberson JR, Mafham M, Bell JL, et al. Dexamethasone in Hospitalized Patients with Covid-19 - Preliminary Report. N Engl J Med. 2020 Jul 17(http://sciwheel.com/work/bibliography/9298578).
+[^183]: RECOVERY Collaborative Group, Horby P, Lim WS, Emberson JR, Mafham M, Bell JL, et al. Dexamethasone in Hospitalized Patients with Covid-19 - Preliminary Report. N Engl J Med. 2020 Jul 17.
 
-[^184]: UK scientists want to infect volunteers with Covid-19 in race to find vaccine \| Society \| The Guardian \[Internet\]. \[cited 2020 Sep 15\]. Available from: https://www.theguardian.com/society/2020/may/24/uk-scientists-want-to-infect-volunteers-with-covid-19-in-race-to-find-vaccine(http://sciwheel.com/work/bibliography/9657541).
+[^184]: UK scientists want to infect volunteers with Covid-19 in race to find vaccine \| Society \| The Guardian \[Internet\]. \[cited 2020 Sep 15\]. Available from: https://www.theguardian.com/society/2020/may/24/uk-scientists-want-to-infect-volunteers-with-covid-19-in-race-to-find-vaccine.
 
-[^185]: Miller FG, Joffe S. Limits to research risks. J Med Ethics. 2009 Jul;35(7):445–9.(http://sciwheel.com/work/bibliography/9657587)
+[^185]: Miller FG, Joffe S. Limits to research risks. J Med Ethics. 2009 Jul;35(7):445–9.
