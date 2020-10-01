@@ -19,108 +19,6 @@ abstract: |
   distributing a vaccine for COVID-19, the impact of those challenges
   and future strategies to mitigate their effects.<!--break-->
 
-  **A successful vaccination programme must consider the suitability
-  of different vaccines.** Key information that is needed to evaluate
-  vaccines includes the ability to prevent disease in different
-  groups, such as older people; the longevity of the immune response;
-  the requirement for multiple doses and boosters; the ability to
-  reduce infection and transmission of the virus; the tolerability and
-  safety; the ability to be manufactured, distributed and administered
-  at scale, affordability, and access and acceptability. Many of these
-  properties will be unknown until well after the initial data on the
-  first vaccine trials emerge.
-
-  **Long term studies will be needed to establish vaccine
-  effectiveness and longevity of protection.** Few vaccines give
-  lifelong protection following a single dose. A partially protective
-  vaccine may not be effective in priority groups, may allow onwards
-  transmission, or could require higher vaccination rates to achieve
-  the same levels of protection in a population. A vaccine of low
-  efficacy may not achieve herd immunity. Rare adverse events or
-  limited effectiveness in the field may only come to light when very
-  large numbers of people are vaccinated.  Multiple doses may be
-  needed to stimulate an effective level of immunity and if a
-  candidate yields short-lived immunity, boosters may be required,
-  with implications for manufacturing capacity, distribution and for
-  generation of immunity in the wider population.
-
-  **Further research is needed to understand the immune response to
-  SARS-CoV-2 and the levels of immunity required for protection, and
-  if and when immunity wanes.** We do not yet know which immune
-  responses can protect against infection and can only determine
-  whether a vaccine protects against disease by carrying out large
-  scale trials. A better understanding of which immune responses are
-  protective, using data from animal models, clinical trials and
-  potentially human challenge studies will allow us to determine the
-  correlates of protection and measure protection at an individual and
-  population level. Standardisation of vaccine trials is needed to
-  allow comparison and evaluation of different candidates.
-
-  **Manufacturing will need to be scaled to meet the enormous demand
-  of a global immunisation programme and vaccine availability is
-  likely to be limited initially, requiring prioritisation of
-  recipients.** The scale of manufacture required will depend on
-  knowing the amount of active ingredient needed per dose, the number
-  of doses needed, the production process needed and how long it will
-  take to manufacture. Candidate vaccines using new technology are as
-  yet unproven in their ability to be produced at scale but have the
-  potential to be vastly more efficient in production than
-  well-established platforms. For the overall vaccine manufacturing
-  process, the bottlenecks could be the fill-to-finish process whereby
-  the drug substance is filled into vials or other containers and the
-  so-called drug product is obtained. Although some facilities can be
-  repurposed, this is not the case for all stages in manufacture.
-
-  **The vaccine manufacturing-distribution-administration chain
-  represents a complex system with multiple parts and multiple
-  objectives which are sometimes competing.** Production may be
-  limited by supply chains of materials and delivery systems. The
-  requirements for storage and transportation may limit distribution
-  and access globally. Efforts might be required to improve
-  thermostability of vaccines and minimise the requirement for low
-  temperatures for distribution. The most important bottleneck here
-  appears to be the final administration step.  Administration of a
-  vaccine will require a large number of appropriately trained health
-  workers with access to - and relationships with - different
-  communities.
-
-  **Unequal access and vaccine availability risks exacerbating health
-  inequalities.** Ethnic minority groups have been disproportionately
-  impacted by the pandemic and overcoming barriers to vaccination will
-  require culturally sensitive collaboration. Criteria for vaccine
-  prioritisation should be defined and made explicit. There should be
-  public dialogue and engagement to manage expectations and
-  understanding of vaccine effectiveness, safety, side effects,
-  availability and access.
-
-  **The diverse reasons for vaccine hesitancy will need to be
-  addressed to engender public trust, with clear messaging targeted to
-  different groups.** Acceptability will be determined by factors such
-  as efficacy, doses required, side-effects, and perceived
-  risks. There are a number of reasons for vaccine hesitancy and a
-  range of strategies are needed, such as ‘convert communicators’,
-  where those with previously strongly held opinions explain why they
-  changed their mind. Other barriers to vaccine uptake such as
-  financial disincentives should be removed.
-
-  Vaccine strategies will need to be planned and revised on the basis
-  of an integrated understanding of the emerging data on immunology,
-  economics, manufacturing and behavioural issues, which will govern a
-  successful vaccination programme.
-
-  **Global collaboration is needed to ensure that vaccines will be
-  affordable and available equitably, ensuring the greatest health
-  outcomes**. International collaboration reduces the risks of
-  investment and helps to secure global supplies and affordability.
-
-  **Global coordination and investment will be needed in the longer
-  term to provide preparedness for future pandemics.** The development
-  of second-generation vaccines should be incentivised. Global
-  coordination will be needed to protect all nations against
-  outbreaks. Strategic vision and investment in scientific innovation
-  and understanding of infectious disease, vaccine design, testing and
-  manufacture as well as public expectations of vaccination will
-  provide long-term solutions and preparedness.
 note: This paper has drawn on evidence available up to 25th September 2020. Further evidence
   on this topic is constantly published and DELVE will continue to develop this report
   as it becomes available. This independent overview of the science has been provided
@@ -137,57 +35,171 @@ note: This paper has drawn on evidence available up to 25th September 2020. Furt
 
 # Table of Contents
 
+* [Key Points](#key-points)
 1. [SARS-CoV-2 vaccines](#1-sars-cov-2-vaccines) 
-  * [What constitutes an effective vaccine?](#what-constitutes-an-effective-vaccine)
-    * [How do vaccines work?](#how-do-vaccines-work) 
-    * [What makes an ideal vaccine?](#what-makes-an-ideal-vaccine)
-  * [What immune responses can protect against COVID-19?](#what-immune-responses-can-protect-against-covid-19) 
-    * [The role of antibodies](#the-role-of-antibodies) 
-    * [The role of T cells](#the-role-of-t-cells) 
-    * [Immune enhancement of disease](#immune-enhancement-of-disease) 
-  * [What is the current situation with vaccines in clinical
-development?](#what-is-the-current-situation-with-vaccines-in-clinical-development)
+    * [What constitutes an effective vaccine?](#what-constitutes-an-effective-vaccine)
+        * [How do vaccines work?](#how-do-vaccines-work) 
+        * [What makes an ideal vaccine?](#what-makes-an-ideal-vaccine)
+    * [What immune responses can protect against COVID-19?](#what-immune-responses-can-protect-against-covid-19) 
+        * [The role of antibodies](#the-role-of-antibodies) 
+        * [The role of T cells](#the-role-of-t-cells) 
+        * [Immune enhancement of disease](#immune-enhancement-of-disease) 
+    * [What is the current situation with vaccines in clinical development?](#what-is-the-current-situation-with-vaccines-in-clinical-development)
+
 2. [Ensuring the success of a vaccine programme: vaccine
 efficacy](#2-ensuring-the-success-of-a-vaccine-programme-vaccine-efficacy)
-  * [Testing and evaluation of vaccine
+    * [Testing and evaluation of vaccine
 candidates](#testing-and-evaluation-of-vaccine-candidates) 
-  * [Partially effective vaccines](#partially-effective-vaccines) 
-    * [Partial immunity means higher vaccination rates are
+    * [Partially effective vaccines](#partially-effective-vaccines) 
+        * [Partial immunity means higher vaccination rates are
 required](#partial-immunity-means-higher-vaccination-rates-are-required)
-    * [What might influence the efficacy of SARS-CoV-2 vaccines?](#what-might-influence-the-efficacy-of-sars-cov-2-vaccines) 
-  * [Further research is required to determine how the immune response can
-protect against SARS-CoV-2](#further-research-is-required-to-determine-how-the-immune-response-can-protect-against-sars-cov-2)
+        * [What might influence the efficacy of SARS-CoV-2 vaccines?](#what-might-influence-the-efficacy-of-sars-cov-2-vaccines) 
+     * [Further research is required to determine how the immune response can protect against SARS-CoV-2](#further-research-is-required-to-determine-how-the-immune-response-can-protect-against-sars-cov-2)
+
 3. [Ensuring the success of a vaccination programme: vaccine availability](#3-ensuring-the-success-of-a-vaccination-programme-vaccine-availability)
-  * [Financial incentives for vaccine development](#financial-incentives-for-vaccine-development)
-  * [Challenges in manufacture of a future
+    * [Financial incentives for vaccine development](#financial-incentives-for-vaccine-development)
+    * [Challenges in manufacture of a future
 vaccine](#challenges-in-manufacture-of-a-future-vaccine) 
-    * [Manufacturing Processes](#manufacturing-processes) 
-    * [Challenges in Manufacture](#challenges-in-manufacture) 
-    * [Supply chain, distribution and administration](#supply-chain-distribution-and-administration) 
-    * [Advantages of an integrated manufacturing-distribution-administration chain](#advantages-of-an-integrated-manufacturing-distribution-administration-chain)
-  * [Lack of access to vaccines may exacerbate health inequalities in the UK and globally](#lack-of-access-to-vaccines-may-exacerbate-health-inequalities-in-the-uk-and-globally)
+        * [Manufacturing Processes](#manufacturing-processes) 
+        * [Challenges in Manufacture](#challenges-in-manufacture) 
+        * [Supply chain, distribution and administration](#supply-chain-distribution-and-administration) 
+        * [Advantages of an integrated manufacturing-distribution-administration chain](#advantages-of-an-integrated-manufacturing-distribution-administration-chain)
+    * [Lack of access to vaccines may exacerbate health inequalities in the UK and globally](#lack-of-access-to-vaccines-may-exacerbate-health-inequalities-in-the-uk-and-globally)
+
 4. [Ensuring the success of a vaccination programme: vaccine acceptability](#4-ensuring-the-success-of-a-vaccination-programme-vaccine-acceptability)
-  * [Safety, tolerability, effectiveness and routes of administration may influence vaccine acceptability](#safety-tolerability-effectiveness-and-routes-of-administration-may-influence-vaccine-acceptability)
-  * [Clear communication is needed to build trust in vaccines, increase
+    * [Safety, tolerability, effectiveness and routes of administration may influence vaccine acceptability](#safety-tolerability-effectiveness-and-routes-of-administration-may-influence-vaccine-acceptability)
+    * [Clear communication is needed to build trust in vaccines, increase
 acceptability and thus effectiveness](#clear-communication-is-needed-to-build-trust-in-vaccines-increase-acceptability-and-thus-effectiveness)
-  * [Barriers to vaccine uptake need to be minimised](#barriers-to-vaccine-uptake-need-to-be-minimised) 
-  * [Priority groups will often require dedicated focus accounting for
+    * [Barriers to vaccine uptake need to be minimised](#barriers-to-vaccine-uptake-need-to-be-minimised) 
+    * [Priority groups will often require dedicated focus accounting for
 specific needs and concerns](#priority-groups-will-often-require-dedicated-focus-accounting-for-specific-needs-and-concerns)
+
 5. [Requirements and consequences of vaccination programmes, possible scenarios](#5-requirements-and-consequences-of-vaccination-programmes-possible-scenarios)
+    * [Scenario 1: Vaccination of groups most vulnerable to severe disease](#scenario-1-vaccination-of-groups-most-vulnerable-to-severe-disease)
+    * [Scenario 2: Vaccination aimed at reducing incidence in those at high risk of infection](#scenario-2-vaccination-aimed-at-reducing-incidence-in-those-at-high-risk-of-infection)
+    * [Scenario 3: Vaccination of wider population](#scenario-3-vaccination-of-wider-population)
+    * [Scenario 4: Vaccination in response to local outbreaks](#scenario-4-vaccination-in-response-to-local-outbreaks)
+
 6. [Long-term lessons and preparedness](#6-long-term-lessons-and-preparedness) 
-  * [Long-term effectiveness and safety of vaccines in different populations should be monitored](#long-term-effectiveness-and-safety-of-vaccines-in-different-populations-should-be-monitored)
-  * [A coordinated global vaccination programme and support for development of second-generation vaccines is needed](#a-coordinated-global-vaccination-programme-and-support-for-development-of-second-generation-vaccines-is-needed) 
-  * [Investment in vaccine R&D, global organisation and public perceptions of vaccination will aid pandemic preparedness, UK plc and support global health in the long term](#investment-in-vaccine-rd-global-organisation-and-public-perceptions-of-vaccination-will-aid-pandemic-preparedness-uk-plc-and-support-global-health-in-the-long-term)
+    * [Long-term effectiveness and safety of vaccines in different populations should be monitored](#long-term-effectiveness-and-safety-of-vaccines-in-different-populations-should-be-monitored)
+    * [A coordinated global vaccination programme and support for development of second-generation vaccines is needed](#a-coordinated-global-vaccination-programme-and-support-for-development-of-second-generation-vaccines-is-needed) 
+    * [Investment in vaccine R&D, global organisation and public perceptions of vaccination will aid pandemic preparedness, UK plc and support global health in the long term](#investment-in-vaccine-rd-global-organisation-and-public-perceptions-of-vaccination-will-aid-pandemic-preparedness-uk-plc-and-support-global-health-in-the-long-term)
 
 ## Appendices
 
 * [Appendix 1 Human challenge studies](#appendix-1-human-challenge-studies) 
 * [Appendix 2 Vaccines in Development](#appendix-2-vaccines-in-development) 
 * [Appendix 3 Vaccine production](#appendix-3-vaccine-production) 
-  * [Production of the ChAdOx1 vaccine](#production-of-the-chadox1-vaccine)
-  * [Production of self-amplifying RNA vaccines](#production-of-self-amplifying-rna-vaccines) 
+    * [Production of the ChAdOx1 vaccine](#production-of-the-chadox1-vaccine)
+    * [Production of self-amplifying RNA vaccines](#production-of-self-amplifying-rna-vaccines) 
   * [Overview of Vaccine Manufacturing Processes](#_nx4athswo3b6) 
  
+
+# Key Points
+
+*  **A successful vaccination programme must consider the suitability
+  of different vaccines.** Key information that is needed to evaluate
+  vaccines includes the ability to prevent disease in different
+  groups, such as older people; the longevity of the immune response;
+  the requirement for multiple doses and boosters; the ability to
+  reduce infection and transmission of the virus; the tolerability and
+  safety; the ability to be manufactured, distributed and administered
+  at scale, affordability, and access and acceptability. Many of these
+  properties will be unknown until well after the initial data on the
+  first vaccine trials emerge.
+
+*  **Long term studies will be needed to establish vaccine
+  effectiveness and longevity of protection.** Few vaccines give
+  lifelong protection following a single dose. A partially protective
+  vaccine may not be effective in priority groups, may allow onwards
+  transmission, or could require higher vaccination rates to achieve
+  the same levels of protection in a population. A vaccine of low
+  efficacy may not achieve herd immunity. Rare adverse events or
+  limited effectiveness in the field may only come to light when very
+  large numbers of people are vaccinated.  Multiple doses may be
+  needed to stimulate an effective level of immunity and if a
+  candidate yields short-lived immunity, boosters may be required,
+  with implications for manufacturing capacity, distribution and for
+  generation of immunity in the wider population.
+
+*  **Further research is needed to understand the immune response to
+  SARS-CoV-2 and the levels of immunity required for protection, and
+  if and when immunity wanes.** We do not yet know which immune
+  responses can protect against infection and can only determine
+  whether a vaccine protects against disease by carrying out large
+  scale trials. A better understanding of which immune responses are
+  protective, using data from animal models, clinical trials and
+  potentially human challenge studies will allow us to determine the
+  correlates of protection and measure protection at an individual and
+  population level. Standardisation of vaccine trials is needed to
+  allow comparison and evaluation of different candidates.
+
+*  **Manufacturing will need to be scaled to meet the enormous demand
+  of a global immunisation programme and vaccine availability is
+  likely to be limited initially, requiring prioritisation of
+  recipients.** The scale of manufacture required will depend on
+  knowing the amount of active ingredient needed per dose, the number
+  of doses needed, the production process needed and how long it will
+  take to manufacture. Candidate vaccines using new technology are as
+  yet unproven in their ability to be produced at scale but have the
+  potential to be vastly more efficient in production than
+  well-established platforms. For the overall vaccine manufacturing
+  process, the bottlenecks could be the fill-to-finish process whereby
+  the drug substance is filled into vials or other containers and the
+  so-called drug product is obtained. Although some facilities can be
+  repurposed, this is not the case for all stages in manufacture.
+
+*  **The vaccine manufacturing-distribution-administration chain
+  represents a complex system with multiple parts and multiple
+  objectives which are sometimes competing.** Production may be
+  limited by supply chains of materials and delivery systems. The
+  requirements for storage and transportation may limit distribution
+  and access globally. Efforts might be required to improve
+  thermostability of vaccines and minimise the requirement for low
+  temperatures for distribution. The most important bottleneck here
+  appears to be the final administration step.  Administration of a
+  vaccine will require a large number of appropriately trained health
+  workers with access to - and relationships with - different
+  communities.
+
+*  **Unequal access and vaccine availability risks exacerbating health
+  inequalities.** Ethnic minority groups have been disproportionately
+  impacted by the pandemic and overcoming barriers to vaccination will
+  require culturally sensitive collaboration. Criteria for vaccine
+  prioritisation should be defined and made explicit. There should be
+  public dialogue and engagement to manage expectations and
+  understanding of vaccine effectiveness, safety, side effects,
+  availability and access.
+
+* **The diverse reasons for vaccine hesitancy will need to be
+    addressed to engender public trust, with clear messaging targeted to
+    different groups.** Acceptability will be determined by factors such
+    as efficacy, doses required, side-effects, and perceived
+    risks. There are a number of reasons for vaccine hesitancy and a
+    range of strategies are needed, such as ‘convert communicators’,
+    where those with previously strongly held opinions explain why they
+    changed their mind. Other barriers to vaccine uptake such as
+    financial disincentives should be removed.
+
+    Vaccine strategies will need to be planned and revised on the basis
+    of an integrated understanding of the emerging data on immunology,
+    economics, manufacturing and behavioural issues, which will govern a
+    successful vaccination programme.
+
+*  **Global collaboration is needed to ensure that vaccines will be
+  affordable and available equitably, ensuring the greatest health
+  outcomes**. International collaboration reduces the risks of
+  investment and helps to secure global supplies and affordability.
+
+*  **Global coordination and investment will be needed in the longer
+  term to provide preparedness for future pandemics.** The development
+  of second-generation vaccines should be incentivised. Global
+  coordination will be needed to protect all nations against
+  outbreaks. Strategic vision and investment in scientific innovation
+  and understanding of infectious disease, vaccine design, testing and
+  manufacture as well as public expectations of vaccination will
+  provide long-term solutions and preparedness.
+
 
 # 1. SARS-CoV-2 vaccines
 
@@ -264,21 +276,21 @@ Antibodies typically appear a few weeks after infection but wane within
 2-3 years. Similar studies following SARS-CoV-2 infection are in
 progress. Currently, the only SARS-CoV-2 data are from non-human
 primates, in which the presence of antibodies that bind and block the
-virus correlates with protection.[^2],[^3]
+virus correlates with protection.[^2] [^3]
 Neutralising antibodies can in principle act to prevent viral entry and
 replication in cells, thus preventing infection. Neutralising antibodies
 that bind to the outer spike (S) protein of the SARS-CoV-2 virus have
 been identified in most people who have recovered from infection,
-[^4],[^5],[^6],[^7],[^8] but whether these are protective remains to be confirmed.
+[^4] [^5] [^6] [^7] [^8] but whether these are protective remains to be confirmed.
 
 ### The role of T cells
 
 SARS-CoV-2-specific T cells are detectable in convalescing patients
-following COVID-19,[^9],[^10],[^11],[^12],[^13]
+following COVID-19,[^9] [^10] [^11] [^12] [^13]
 but their role in protection is not known. Studies have reported that
 virus-specific T cells are detectable even in those who do not have
 detectable levels of antibody, and in those who experienced mild or
-asymptomatic infection.[^13],[^14]
+asymptomatic infection.[^13] [^14]
 Thus T cell responses may prove to be a more reliable test of prior
 exposure to SARS-CoV-2 than serological tests for antibodies, and a
 better test for population surveys of previous infection. However, the
@@ -286,7 +298,7 @@ longevity of T cell responses is not known, and tests for the presence
 of T-cells are technically more demanding than those for antibodies. T
 cells produced following SARS-CoV (SARS) infection were still detectable
 after more than 11 years, whereas the antibody response waned over 2-3
-years.[^15],[^16],[^17]
+years.[^15] [^16] [^17]
 Most studies of T cell memory to SARS-CoV-2 have been able to measure
 responses at least a month after symptom onset.
 
@@ -298,7 +310,7 @@ cross-reactive. Several groups have reported the presence of T cells in
 individuals with no evidence of SARS-CoV-2 infection, which nevertheless
 recognise SARS-CoV-2. These T cells may be developed in response to
 circulating common cold strains of coronavirus,
-[^9],[^10],[^17],[^18]
+[^9] [^10] [^17] [^18]
 although not all reports agree.
 [^12]
 Cross-reactive T cells may contribute to protection against COVID-19,
@@ -316,11 +328,11 @@ or mis-targeted, or if they enhance entry of the virus into cells.
 Historically, this has occurred with some vaccines (which commonly focus
 on inducing high levels of a single type of immune response), leading to
 vaccine-enhanced disease. There is a risk that this could occur
-following vaccination against SARS-CoV-2.[^19],[^20],[^21]
+following vaccination against SARS-CoV-2.[^19] [^20] [^21]
 Antibody dependent enhancement (ADE) occurred following vaccination
-against a feline coronavirus[^20],[^22] and the potential for antibody enhanced uptake of virus can be
+against a feline coronavirus[^20] [^22] and the potential for antibody enhanced uptake of virus can be
 demonstrated in the laboratory for the related MERS and SARS-CoV-1
-viruses.[^23],[^24],[^25]
+viruses.[^23] [^24] [^25]
 Animal models of SARS-CoV-2 infection for vaccine development may prove
 useful for assessing safety in this context
 [^26] but there is currently no reliable predictive measurement of immune enhanced
@@ -334,13 +346,13 @@ enhancement.
 ## What is the current situation with vaccines in clinical development?
 
 Over 200 SARS-CoV-2 vaccine candidates are currently in development
-[^27],[^28],[^29],[^30][<span
+[^27] [^28] [^29] [^30][<span
 class="underline">(Appendix
 2)</span>](https://www.who.int/publications/m/item/draft-landscape-of-covid-19-candidate-vaccines).
 Some candidates that are in the later stages of clinical trials (e.g.
 the Oxford/Astrazeneca ChAdOx1) are based on “viral vectors”, where part
 of the SARS-CoV-2 genetic code is inserted into another harmless virus.
-[^31],[^32],[^33],[^34]
+[^31] [^32] [^33] [^34]
 When the harmless virus enters a cell, it produces the SARS-CoV-2 S
 protein which stimulates the immune system to produce antibodies and
 memory cells against this viral protein. An alternative design is where
@@ -461,7 +473,7 @@ symptomatic infection within a relatively short time. For many vaccines,
 having high levels of antibodies and/or T cells is associated with
 efficacy. These immune markers may then act as correlates of protection
 so that their measurement can be used as a surrogate to predict vaccine
-efficacy.[^38],[^39]
+efficacy.[^38] [^39]
 
 Once correlates of protection are identified they might be used in
 vaccine trials and allow researchers to estimate vaccine efficacy before
@@ -584,11 +596,11 @@ to test vaccines and determine protective mechanisms. Safety testing of
 vaccines in animal models can help to predict potential harmful effects
 including vaccine enhanced disease upon infection. Non-human primates
 can be infected with SARS-CoV-2 as they possess a similar ACE2 receptor
-(which the virus uses to infect cells) to humans[^2],[^45],[^46]
+(which the virus uses to infect cells) to humans[^2] [^45] [^46]
 and SARS-CoV-2 challenged or vaccinated rhesus macaques demonstrated
-protection against reinfection.[^2],[^3],[^47]
+protection against reinfection.[^2] [^3] [^47]
 Small animals can also be infected, including transgenic mice which have
-been engineered to express the human ACE2 receptor.[^48],[^49],[^50],[^51],[^52],[^53]
+been engineered to express the human ACE2 receptor.[^48] [^49] [^50] [^51] [^52] [^53]
 The Syrian golden hamster in particular has emerged as a suitable animal
 model for SARS-CoV-2 and has been used to demonstrate the protective
 effect of antibodies.[^54]
@@ -596,13 +608,13 @@ However, data from animal experiments must be interpreted with caution.
 Rechallenge studies have so far been undertaken only a short time after
 vaccination or primary infection, so the longevity of protection is not
 known, furthermore variation in models employed reduces our ability to
-compare different vaccines.[^33],[^55]
+compare different vaccines.[^33] [^55]
 Animal immune systems differ fundamentally from the human immune system
 in certain respects we understand and possibly ways we do not understand
 yet, experimental animals are often housed under unusually clean
 conditions and lack experience of infections and other diseases, and the
 doses of virus used in animal experiments tend to be much higher than
-those encountered in natural human infection.[^45],[^49],[^51],[^56]
+those encountered in natural human infection.[^45] [^49] [^51] [^56]
 NHPs are currently viewed as the most useful model but are very
 expensive so numbers used are very small. NHPs are also outbred so
 results can be highly variable and most animal models (including NHPs)
@@ -628,7 +640,7 @@ effective treatment or long-term complications require careful
 consideration to balance the risks to individual volunteers and benefit
 to society in accelerating the development of effective vaccines,
 especially when field trials using community exposure are still possible
-albeit only in some places.[^58],[^59],[^60]
+albeit only in some places.[^58] [^59] [^60]
 The WHO has published an ethical framework for SARS-CoV-2 challenge
 studies and a number of groups are considering strategies to mitigate
 risk. Specifically, COVID-19 is now known to cause mild or asymptomatic
@@ -797,7 +809,7 @@ must be specifically tested in clinical trials of appropriate groups.
 Ultimately, the ability to properly plan for the level of vaccination
 required and who to prioritise will depend on an improved understanding
 of the nature and duration of vaccine immunity, disease susceptibility
-and transmission.[^64],[^65],[^66]
+and transmission.[^64] [^65] [^66]
 To interpret the results of different trials and to aid the design of
 future trials, further research is needed to understand which immune
 responses protect against infection and disease, and should be the goal
@@ -886,27 +898,27 @@ monopoly and prices set by willingness to pay and investment needs for
 future development. Historically, development of new vaccines is seen as
 high risk and has typically taken around 10 years at a cost estimated as
 between USD 500 million to USD 1-2bn, with a likelihood of entering the market
-of only 6-7%.[^69],[^70],[^71]
+of only 6-7%.[^69] [^70] [^71]
 
 Both ‘push’ and ‘pull’ incentives can be used to finance vaccine
 development and both have been used to accelerate the development of
-SARS-CoV-2 vaccines.[^72],[^73],[^74]
+SARS-CoV-2 vaccines.[^72] [^73] [^74]
 ‘Push’ funding finances investment in basic research and development of
 both the vaccine and manufacturing capacity without the need for a
 specific goal to be achieved, thereby reducing the cost for the
 developer. ‘Pull’ funding has been used to accelerate the development,
 availability and uptake of vaccines and other medical products, by
-guaranteeing reward for successful development.[^72],[^74],[^75]
+guaranteeing reward for successful development.[^72] [^74] [^75]
 An example of ‘pull’ funding are Advanced Market Commitments (AMCs),
 purchase agreements that can be used to guarantee price and quantity of
 vaccines purchased before the results of clinical trials are known and
-in advance of licencing.[^74],[^76]
+in advance of licencing.[^74] [^76]
 AMC have been used, most notably, by the global vaccine alliance Gavi, a
 public-private partnership, to secure supply of vaccines for preventing
-pneumococcal disease in low income countries.[^76],[^77]
+pneumococcal disease in low income countries.[^76] [^77]
 A purchase guarantee at a fixed price incentivises and de-risks vaccine
 development and investment in manufacturing capacity for the provider,
-and secures affordable vaccine supply for the purchaser,[^74],[^78]
+and secures affordable vaccine supply for the purchaser,[^74] [^78]
 although AMC have been criticised for the relatively high price paid.[^79]
 The concerns about high prices may be ameliorated if joint negotiations
 are carried out by multiple countries. For SARS-CoV-2 vaccines such
@@ -925,7 +937,7 @@ millions of doses[^81] (Table 1). The UK government has invested in vaccine manu
 to increase capacity, for example, in partnership with biotech company
 Valneva in Livingston, West Lothian, as well as supporting the fast
 track construction of the UK Vaccine Manufacturing and Innovation Centre
-(VMIC).[^82],[^83]
+(VMIC).[^82] [^83]
 Furthermore, the government has secured other necessary supplies for
 example, ordering 65 million injection devices for autumn 2020.[^84]
 The US government has invested in the development of vaccine candidates
@@ -949,7 +961,7 @@ COVAX is a global collaboration on COVID-19 vaccines coordinated by
 Gavi, CEPI and the WHO, which aims to secure billions of doses of
 affordable SARS-CoV-2 vaccines which will be available to all
 participating nations, securing sufficient supply initially for 3% and
-then 20% of participating countries' populations.[^79],[^88],[^89]
+then 20% of participating countries' populations.[^79] [^88] [^89]
 COVAX aims to secure USD 18.1bn in funding to support the development,
 procurement and delivery of 2 billion doses of vaccines by the end of 2021. 
 The Gavi COVAX AMC will fund access for lower-income countries. To
@@ -959,7 +971,7 @@ Such international collaboration to invest in multiple vaccine
 candidates reduces the risk to individual countries, strengthens their
 negotiating position and helps to secure global supplies, reduces the
 risk that ‘vaccine nationalism’ could reduce availability, and that a
-bidding war could increase prices,[^72],[^81]
+bidding war could increase prices,[^72] [^81]
 rendering vaccines unaffordable to LMIC. The participation of a
 significant number of high-income countries will likely create
 incentives for others to join the syndicate. If it is politically
@@ -1062,7 +1074,7 @@ fill lines may need significant modification.
 
 The type of vaccine is very important for determining what route of
 manufacture is needed and therefore what type and scale of capacity is
-needed.[^93],[^94] Administration route and storage conditions determine the methods of
+needed.[^93] [^94] Administration route and storage conditions determine the methods of
 fill finish, storage and distribution of the product.
 
 Not all platforms under development, such as RNA vaccines, have a proven
@@ -1097,7 +1109,7 @@ state.
 
 **Table 1.** List of COVID-19 vaccines ordered by the UK Government,
 subject to clinical success and regulatory approval, listed in the order
-of their advancement through clinical trials.
+of their advancement through clinical trials. Table summarise information from a range of sources.[^29] [^95] [^96] [^97] [^98] [^99] [^100] [^101] [^102] [^103] [^104] [^105] [^106]
 
 <table>
 <tbody>
@@ -1109,7 +1121,7 @@ of their advancement through clinical trials.
 <th>Manufacturing partner</th>
 <th><p>Manufacturing</p>
 <p>location</p></th>
-<th>Source</th>
+<th>Sources</th>
 </tr>
 <tr class="even">
 <td>University of Oxford AstraZeneca</td>
@@ -1118,7 +1130,7 @@ of their advancement through clinical trials.
 <td>30 + 70</td>
 <td>Serum Institute of India</td>
 <td>India, UK, Netherlands</td>
-<td>(29,95–97)</td>
+<td>[<a href="#fn:29" class="footnote">29</a>,<a href="#fn:95" class="footnote">95</a>,<a href="#fn:96" class="footnote">96</a>,<a href="#fn:97" class="footnote">97</a>]</td>
 </tr>
 <tr class="odd">
 <td>BioNTech, Pfizer</td>
@@ -1127,7 +1139,7 @@ of their advancement through clinical trials.
 <td>30</td>
 <td>BioNTech, Pfizer</td>
 <td>Germany, USA, Belgium</td>
-<td>(29,95,98–100)</td>
+<td>[<a href="#fn:29" class="footnote">29</a>,<a href="#fn:95" class="footnote">95</a>,<a href="#fn:98" class="footnote">98</a>,<a href="#fn:99" class="footnote">99</a>,<a href="#fn:100" class="footnote">100</a>]</td>
 </tr>
 <tr class="even">
 <td>Janssen Pharmaceutical Companies</td>
@@ -1136,7 +1148,7 @@ of their advancement through clinical trials.
 <td>30 + 22</td>
 <td>Biological E</td>
 <td>India</td>
-<td>(29,95,101)</td>
+<td>[<a href="#fn:29" class="footnote">29</a>,<a href="#fn:95" class="footnote">95</a>,<a href="#fn:101" class="footnote">101</a>]</td>
 </tr>
 <tr class="odd">
 <td>Novavax</td>
@@ -1145,7 +1157,7 @@ of their advancement through clinical trials.
 <td>60</td>
 <td>FUJIFILM Diosynth Biotechnologies</td>
 <td>Teesside, UK</td>
-<td>(29,95,102)</td>
+<td>[<a href="#fn:29" class="footnote">29</a>,<a href="#fn:95" class="footnote">95</a>,<a href="#fn:102" class="footnote">102</a>]</td>
 </tr>
 <tr class="even">
 <td>Imperial College London</td>
@@ -1154,7 +1166,7 @@ of their advancement through clinical trials.
 <td>Not disclosed</td>
 <td>Centre for Process Innovation</td>
 <td>Darlington, UK</td>
-<td>(29,95,103)</td>
+<td>[<a href="#fn:29" class="footnote">29</a>,<a href="#fn:95" class="footnote">95</a>,<a href="#fn:103" class="footnote">103</a>]</td>
 </tr>
 <tr class="odd">
 <td>Valneva</td>
@@ -1163,7 +1175,7 @@ of their advancement through clinical trials.
 <td>60 + 40</td>
 <td>Valneva UK</td>
 <td>Livingston, Scotland</td>
-<td>(29,95,98,104)</td>
+<td>[<a href="#fn:29" class="footnote">29</a>,<a href="#fn:95" class="footnote">95</a>,<a href="#fn:98" class="footnote">98</a>,<a href="#fn:104" class="footnote">104</a>]</td>
 </tr>
 <tr class="even">
 <td>Sanofi Pasteur, GSK</td>
@@ -1172,7 +1184,7 @@ of their advancement through clinical trials.
 <td>60</td>
 <td>Sanofi Pasteur, GSK</td>
 <td>USA</td>
-<td>(29,95,105,106)</td>
+<td>[<a href="#fn:29" class="footnote">29</a>,<a href="#fn:95" class="footnote">95</a>,<a href="#fn:105" class="footnote">105</a>,<a href="#fn:106" class="footnote">106</a>]</td> 
 </tr>
 </tbody>
 </table>
@@ -1471,7 +1483,7 @@ risk that a vaccine that is poorly effective or reactogenic, or which
 requires multiple booster injections will not create an incentive for
 uptake among those who perceive themselves at low risk, and if the
 vaccine is perceived as having been rushed through safety testing, this
-might create long term distrust and hesitancy.[^116],[^117],[^118],[^119]
+might create long term distrust and hesitancy.[^116] [^117] [^118] [^119]
 
 ## Clear communication is needed to build trust in vaccines, increase acceptability and thus effectiveness
 
@@ -1482,7 +1494,7 @@ informed decision-making. Such communication should include information
 on the benefits of any vaccine to individuals and their close contacts
 and community; it should not hide the potential limitations of vaccines
 including possible limited availability, incomplete protection requiring
-boosting and reactogenicity.[^37],[^120],[^121],[^122]
+boosting and reactogenicity.[^37] [^120] [^121] [^122]
 While such negative or complicating factors might lower uptake, their
 discovery post-rollout is likely to have a far greater negative impact
 on uptake. One important aspect of vaccination to be communicated
@@ -1493,7 +1505,7 @@ are supportive when vaccines are rolled out in a staggered manner.
 Effective communication programmes can benefit from using previously
 validated approaches. For example, the 3 E’s (Explanation, Engagement
 and Education) approach is used by the Bank of England to address the
-‘twin deficits’ of public understanding and trust.[^123],[^124],[^125]
+‘twin deficits’ of public understanding and trust.[^123] [^124] [^125]
 Involving widely trusted individuals with broad reach, such as
 healthcare professionals particularly in primary care, can help to
 manage expectations and anxieties.[^37]
@@ -1518,7 +1530,7 @@ vaccine hesitancies will require alternative strategies that meet
 individuals where they are. One example of such an approach is ‘convert
 communicators’, where those with previously strongly held opinions
 explain why they previously held that position and provide new
-information that caused them to change their mind.[^130],[^131]
+information that caused them to change their mind.[^130] [^131]
 
 ## Barriers to vaccine uptake need to be minimised
 
@@ -1540,7 +1552,7 @@ A further step to reducing barriers would be to mandate vaccination as a
 prerequisite for resuming activities of various kinds. For example,
 vaccination could be mandatory for health care workers to engage in
 certain activities as has been used in some settings, for example, with
-influenza and hepatitis B vaccination.[^128],[^132]
+influenza and hepatitis B vaccination.[^128] [^132]
 
 ## Priority groups will often require dedicated focus accounting for specific needs and concerns
 
@@ -1610,7 +1622,7 @@ the next 6-18 months. However, these may be suboptimal. Furthermore, a
 vaccine may be developed but not available to the UK as a priority.
 Decisions on which vaccine strategies to adopt will depend on the
 availability of a vaccine, the immunity elicited and acceptability of
-the vaccine.[^79],[^137],[^138],[^139],[^140]
+the vaccine.[^79] [^137] [^138] [^139] [^140]
 Different vaccine strategies will have different results; immunity in
 vulnerable populations and those at high risk of exposure, or reduced
 transmission or elimination of the infection in the population at large.
@@ -1636,11 +1648,11 @@ This will necessitate a flexible approach, in which vaccines are
 evaluated as they complete clinical trials, and vaccine strategies
 adapted on an ongoing basis. This should be supported by modelling
 studies to determine optimal vaccination strategies as information
-emerges on vaccine properties and availability.[^138],[^139],[^140]
+emerges on vaccine properties and availability.[^138] [^139] [^140]
 As vaccine strategies develop, this will require clear open
 communication with the public and health care workers.
 
-#### Scenario 1: Vaccination of groups most vulnerable to severe disease</td>
+## Scenario 1: Vaccination of groups most vulnerable to severe disease
 
 <table>
 <tbody>
@@ -1657,8 +1669,8 @@ communication with the public and health care workers.
 <td>Effective at preventing severe disease in high risk groups.</td>
 <td>Virus continues to circulate.</td>
 <td><p>Examples:</p>
-<p><strong>5m doses</strong> (2.2m clinically extremely vulnerable in UK)(141)</p>
-<p><strong>29m doses</strong> (12.5m UK over 65s)(142)</p>
+<p><strong>5m doses</strong> (2.2m clinically extremely vulnerable in UK)[<a href="#fn:141" class="footnote">141</a>]</p>
+<p><strong>29m doses</strong> (12.5m UK over 65s)[<a href="#fn:142" class="footnote">142</a>]</p>
 <p><strong>60m doses</strong> (25.5m UK over 50s)</p></td>
 <td><p>Potential for large reduction in disease burden for relatively low number of doses.</p>
 <p>Some vaccines might be of low efficacy in older people.</p>
@@ -1667,12 +1679,12 @@ communication with the public and health care workers.
 </tbody>
 </table>
 
-In Scenario 1, vaccines would be administered to those at most risk of
+In Scenario 1,[^141] [^142] vaccines would be administered to those at most risk of
 severe disease. This would require fewer doses than a strategy of
 widespread vaccination, and is likely to be the optimal strategy when
-vaccine supplies are limited.[^65],[^143]
+vaccine supplies are limited.[^65] [^143]
 Decisions will need to be made as to who should be within the priority
-groups for vaccination according to efficacy and availability.[^79],[^137]
+groups for vaccination according to efficacy and availability.[^79] [^137]
 The UK Joint Committee on Vaccination and Immunisation (JCVI) has issued
 interim advice that this could include those over 50 and with other risk
 factors, such as chronic heart disease, chronic kidney disease, chronic
@@ -1702,7 +1714,7 @@ If the vaccine is only partially protective, protection will be
 difficult to confirm in an individual in the absence of clear correlates
 of protection.
 
-#### Scenario 2: Vaccination aimed at reducing incidence in those at high risk of infection
+## Scenario 2: Vaccination aimed at reducing incidence in those at high risk of infection
 
 <table>
 <tbody>
@@ -1722,19 +1734,19 @@ of protection.
 <p><strong>7.5m doses</strong></p>
 <p>(3.3m UK health and social care workers)</p>
 <p><strong>17m doses</strong></p>
-<p>(7.3m other key workers)<a href="http://sciwheel.com/work/citation?ids=9658064&amp;pre=&amp;suf=&amp;sa=0">(145)</a></p></td>
+<p>(7.3m other key workers)<a href="http://sciwheel.com/work/citation?ids=9658064&amp;pre=&amp;suf=&amp;sa=0">[<a href="#fn:145" class="footnote">145</a>]</a></p></td>
 <td>Not all those at high risk can be identified.</td>
 </tr>
 </tbody>
 </table>
 
-In Scenario 2, the strategy aims to protect those at the highest risk of
+In Scenario 2,[^145] the strategy aims to protect those at the highest risk of
 infection to reduce the incidence of disease. Those in occupations at
 high risk of exposure, particularly health care workers could be
 prioritised. Priority might be extended to key workers, such as
 emergency services and teachers, and occupations at high risk of
 exposure
-[^64],[^137].
+[^64] [^137].
 The vaccine does not need to be effective in vulnerable groups, and
 protection may not need to be long lived although a requirement for
 frequent boosters will be more difficult and costly to implement. The
@@ -1776,7 +1788,7 @@ which do not protect all recipients, could result in inadvertent
 transmission, particularly if behaviour changes in those who have been
 vaccinated.
 
-#### Scenario 3: Vaccination of wider population
+## Scenario 3: Vaccination of wider population
 
 <table>
 <tbody>
@@ -1789,7 +1801,7 @@ vaccinated.
 <th>Advantages &amp; Limitations</th>
 </tr>
 <tr class="odd">
-<td>Whole population or large sectors of the population with eventual aim of achieving herd immunity <a href="http://sciwheel.com/work/citation?ids=1000723,1461185&amp;pre=&amp;pre=&amp;suf=&amp;suf=&amp;sa=0,0">(149,150)</a></td>
+<td>Whole population or large sectors of the population with eventual aim of achieving herd immunity [<a href="#fn:149" class="footnote">149</a>,<a href="#fn:150" class="footnote">150</a>]</td>
 <td><p>Ideally generates long lived immunity in high proportion of recipients.</p>
 <p>Vaccine platform must be scalable.</p></td>
 <td><p>At first the virus continues to circulate, but transmission may be reduced.</p>
@@ -1807,7 +1819,7 @@ vaccinated.
 
 Under Scenario 3, the vaccine is offered to the whole population or
 large sectors of the population
-[^149],[^150].
+[^149] [^150].
 A widespread vaccination programme would eventually aim to achieve herd
 immunity, in which a sufficient proportion of a population is immune to
 prevent sustained transmission of an infection. This strategy would
@@ -1818,7 +1830,7 @@ milder SARS-CoV-2 infection which are still unknown.
 For widespread use, the WHO recommends a vaccine product profile of at
 least 50% efficacy in the wider population, preferably 70%, with
 consistent protection shown in the older people
-[^62],[^118].
+[^62] [^118].
 A widespread vaccination policy could substantially reduce disease
 burden, even in the absence of herd immunity. A recent model suggested
 that, assuming immunity lasts at least one year, over 50% of deaths
@@ -1829,11 +1841,11 @@ Once a vaccine is widely available and assuming sufficient vaccine
 efficiency, widespread vaccination, particularly of high-transmission
 groups may prove to be a more efficient strategy to minimise deaths and
 hospitalisations than targeting vulnerable groups
-[^65],[^140],[^143],
+[^65] [^140] [^143],
 however, this is dependent on our ability to identify and prioritise
 those driving transmission events, for example, the role of children in
 SARS-CoV2 transmission is still unclear
-[^151],[^152].
+[^151] [^152].
 
 To achieve herd immunity, a suitable vaccine must provide sufficient
 immunity in those vaccinated to reach an immunity threshold within the
@@ -1847,7 +1859,7 @@ population that would need to be immune to achieve herd immunity has
 been estimated as 50-80%, although herd immunity may be achieved at a
 lower rate of immunity, for example if it exists in those more likely to
 transmit infection and depending on behaviours
-[^139],[^154],[^155].
+[^139] [^154] [^155].
 A recent model suggested that the epidemic might be constrained if 50%
 of the population is vaccinated, in addition to naturally acquired
 immunity, if that vaccination is optimally targeted for example to those
@@ -1871,7 +1883,7 @@ therefore the virus would continue to circulate, as immunity may be
 induced in too low a proportion of recipients or be too short lived to
 achieve herd immunity, however the extent and frequency of outbreaks
 would be expected to decrease
-[^63],[^156],[^157].
+[^63] [^156] [^157].
 Even if herd immunity is achieved, outbreaks could still occur for
 example, in social groups or geographical regions of low uptake or as
 immunity wanes.
@@ -1899,7 +1911,7 @@ or in the longer term if mutation of the virus allows it to evade
 immunity. Only the eventual goal of global eradication or control will
 ensure the low risk of outbreaks in the UK.
 
-#### Scenario 4: Vaccination in response to local outbreaks
+## Scenario 4: Vaccination in response to local outbreaks
 
 <table>
 <tbody>
@@ -1921,8 +1933,7 @@ ensure the low risk of outbreaks in the UK.
 </tbody>
 </table>
 
-In Scenario 4, members of
-communities are vaccinated in response to outbreaks due to the higher
+In Scenario 4, members of communities are vaccinated in response to outbreaks due to the higher
 risk of transmission events in the wider community following a spike in
 cases. For example, Hepatitis A vaccination can be employed following
 localised outbreaks.[^158] Scenario 4 might be used once vaccination is
@@ -1980,7 +1991,7 @@ Individuals receiving vaccines will need to be monitored for longevity
 of immunity and efficacy in clinically and geographically diverse
 populations to establish the overall effectiveness of first generation
 vaccines
-[^118],[^159].
+[^118] [^159].
 Furthermore, if different vaccines are suitable for use in different
 populations or more than one vaccine needs to be used in combination,
 this will require coordination of the manufacturing and supply chains.
@@ -2000,7 +2011,7 @@ potentially reducing the effectiveness of any vaccine. SARS-CoV-2
 mutates less frequently than some other viruses which use RNA as their
 genetic code (such as influenza) because coronaviruses possess a genetic
 proof-reading mechanism
-[^160],[^161],[^162].
+[^160] [^161] [^162].
 Changes to the genetic code of a virus can come with a fitness cost, for
 example, in terms of ability to replicate and transmit, and therefore
 immunity within the population must be above a certain threshold to
@@ -2014,7 +2025,7 @@ that will significantly change its recognition by immunological memory
 responses induced by current vaccine candidates
 [^162].
 However, other CoVs show substantial genetic variability
-[^163],[^164].
+[^163] [^164].
 Studies that use pseudovirus in culture have shown the potential for
 loss of recognition of the SARS-CoV-2 spike protein by antibody
 following mutation, although this was prevented if antibody recognising
@@ -2037,7 +2048,7 @@ development and availability. Furthermore, allocation of vaccine doses,
 once available, to all nations collaboratively is likely to save more
 lives than unequal allocation of the same number of doses to a limited
 number of nations
-[^91],[^143].
+[^91] [^143].
 
 If the first vaccines developed are sub-optimal, second generation
 vaccines will be needed which are more effective, cheaper, give
@@ -2094,7 +2105,7 @@ fund for vaccine development led to the establishment of the Coalition
 for Epidemic Preparedness and Innovations (CEPI), formally launched in
 2017, with the remit of developing vaccines for priority pathogens and
 improving preparedness for outbreaks of infectious diseases
-[^167],[^168],[^169],[^170].
+[^167] [^168] [^169] [^170].
 In the long term, sustained global collaboration will ensure we are
 capable of responding to future outbreaks as part of an integrated
 international pandemic response, but investment is also needed in local
@@ -2168,7 +2179,7 @@ and immune response to infections, and investment in the development of
 effective vaccine technologies, particularly in the light of an aging
 global population. Continued investment should support the training and
 careers of personnel with expertise as well as infrastructure, in the
-following areas;[^171],[^174],[^175],[^176],[^177]
+following areas;[^171] [^174] [^175] [^176] [^177]
 
 1.  Pathogen surveillance and discovery
 
@@ -2188,7 +2199,7 @@ There are still many challenges in the field of vaccinology. Such
 investments combined with financial incentives, will not only provide
 long term preparedness for future global pandemics but will facilitate
 development and success of vaccines for existing infections which are
-desperately needed to improve global health.[^178],[^179],[^180]
+desperately needed to improve global health.[^178] [^179] [^180]
 
 
 #### Acknowledgements
@@ -2816,7 +2827,7 @@ sterile filtered and can be shipped to the fill-to-finish site.
 
 [^28]: COVID-19 vaccine tracker \[Internet\]. \[cited 2020 Sep 12\].  Available from: <https://vac-lshtm.shinyapps.io/ncov_vaccine_landscape/>.
 
-[^29]: Draft landscape of COVID-19 candidate vaccines \[Internet\].  \[cited 2020 Sep 7\]. Available from: https://www.who.int/publications/m/item/draft-landscape-of-covid-19-candidate-vaccines.
+[^29]: Draft landscape of COVID-19 candidate vaccines \[Internet\].  \[cited 2020 Sep 7\]. Available from: <https://www.who.int/publications/m/item/draft-landscape-of-covid-19-candidate-vaccines>.
 
 [^30]: Krammer F. SARS-CoV-2 vaccines in development. Nature. 2020 Sep 23.
 
@@ -2828,7 +2839,7 @@ sterile filtered and can be shipped to the fill-to-finish site.
 
 [^34]: Graham SP, McLean RK, Spencer AJ, Belij-Rammerstorfer S, Wright D, Ulaszewska M, et al. Evaluation of the immunogenicity of prime-boost vaccination with the replication-deficient viral vectored COVID-19 vaccine candidate ChAdOx1 nCoV-19. npj Vaccines. 2020 Jul 27;5:69.
 
-[^35]: Moderna Announces Positive Interim Phase 1 Data for its mRNA Vaccine (mRNA-1273) Against Novel Coronavirus \| Moderna, Inc.  \[Internet\]. \[cited 2020 Sep 22\]. Available from: https://investors.modernatx.com/news-releases/news-release-details/moderna-announces-positive-interim-phase-1-data-its-mrna-vaccine.
+[^35]: Moderna Announces Positive Interim Phase 1 Data for its mRNA Vaccine (mRNA-1273) Against Novel Coronavirus \| Moderna, Inc.  \[Internet\]. \[cited 2020 Sep 22\]. Available from: <https://investors.modernatx.com/news-releases/news-release-details/moderna-announces-positive-interim-phase-1-data-its-mrna-vaccine>.
 
 [^36]: Jozwik A, Habibi MS, Paras A, Zhu J, Guvenel A, Dhariwal J, et al.  RSV-specific airway resident memory CD8+ T cells and differential disease severity after experimental human infection. Nat Commun. 2015 Dec 21;6:10224.
 
@@ -2838,7 +2849,7 @@ sterile filtered and can be shipped to the fill-to-finish site.
 
 [^39]: Plotkin SA, Gilbert PB. Nomenclature for immune correlates of protection after vaccination. Clin Infect Dis. 2012 Jun;54(11):1615–7.
 
-[^40]: Development and Licensure of Vaccines to Prevent COVID-19 \| FDA \[Internet\]. \[cited 2020 Sep 12\]. Available from: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/development-and-licensure-vaccines-prevent-covid-19.
+[^40]: Development and Licensure of Vaccines to Prevent COVID-19 \| FDA \[Internet\]. \[cited 2020 Sep 12\]. Available from: <https://www.fda.gov/regulatory-information/search-fda-guidance-documents/development-and-licensure-vaccines-prevent-covid-19>.
 
 [^41]: WHO Working Group on the Clinical Characterisation and Management of COVID-19 infection. A minimal common outcome measure set for COVID-19 clinical research. Lancet Infect Dis. 2020 Jun 12;20(8):e192–7.
 
@@ -2876,13 +2887,13 @@ sterile filtered and can be shipped to the fill-to-finish site.
 
 [^58]: Jamrozik E, Selgelid MJ. COVID-19 human challenge studies: ethical issues. Lancet Infect Dis. 2020 May 29.
 
-[^59]: WHO \| Key criteria for the ethical acceptability of COVID-19 human challenge studies \[Internet\]. \[cited 2020 Jun 11\]. Available from: https://www.who.int/ethics/publications/key-criteria-ethical-acceptability-of-covid-19-human-challenge/en/.
+[^59]: WHO \| Key criteria for the ethical acceptability of COVID-19 human challenge studies \[Internet\]. \[cited 2020 Jun 11\]. Available from: <https://www.who.int/ethics/publications/key-criteria-ethical-acceptability-of-covid-19-human-challenge/en/>.
 
 [^60]: Carfì A, Bernabei R, Landi F, Gemelli Against COVID-19 Post-Acute Care Study Group. Persistent Symptoms in Patients After Acute COVID-19.  JAMA. 2020 Jul 9.
 
 [^61]: Demicheli V, Jefferson T, Ferroni E, Rivetti A, Di Pietrantonj C.  Vaccines for preventing influenza in healthy adults. Cochrane Database Syst Rev. 2018 Feb 1;2:CD001269.
 
-[^62]: Accelerating a safe and effective COVID-19 vaccine \[Internet\].  \[cited 2020 Aug 19\]. Available from: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov/accelerating-a-safe-and-effective-covid-19-vaccine.
+[^62]: Accelerating a safe and effective COVID-19 vaccine \[Internet\].  \[cited 2020 Aug 19\]. Available from: <https://www.who.int/emergencies/diseases/novel-coronavirus-2019/global-research-on-novel-coronavirus-2019-ncov/accelerating-a-safe-and-effective-covid-19-vaccine>.
 
 [^63]: Saad-Roy CM, Wagner CE, Baker RE, Morris SE, Farrar J, Graham AL, et al. Immuno-epidemiological life-history and the dynamics of SARS-CoV-2 over the next five years. medRxiv. 2020 Jul 16.
 
@@ -2894,7 +2905,7 @@ sterile filtered and can be shipped to the fill-to-finish site.
 
 [^67]: Dahlke C, Heidepriem J, Kobbe R, Santer R, Koch T, Fathi A, et al.  Distinct early IgA profile may determine severity of COVID-19 symptoms: an immunological case series. medRxiv. 2020 Apr 17.
 
-[^68]: World Economic Outlook, April 2020: The Great Lockdown \[Internet\]. \[cited 2020 Aug 25\]. Available from: https://www.imf.org/en/Publications/WEO/Issues/2020/04/14/weo-april-2020.
+[^68]: World Economic Outlook, April 2020: The Great Lockdown \[Internet\]. \[cited 2020 Aug 25\]. Available from: <https://www.imf.org/en/Publications/WEO/Issues/2020/04/14/weo-april-2020>.
 
 [^69]: Pronker ES, Weenen TC, Commandeur H, Claassen EHJHM, Osterhaus ADME. Risk in vaccine research and development quantified. PLoS ONE.  2013 Mar 20;8(3):e57755.
 
@@ -2914,31 +2925,31 @@ sterile filtered and can be shipped to the fill-to-finish site.
 
 [^77]: Light DW. Saving the pneumococcal AMC and GAVI. Hum Vaccin. 2011 Feb;7(2):138–41.
 
-[^78]: April 2020 NBER Digest \[Internet\]. \[cited 2020 Aug 12\].  Available from: https://nber.org/digest/apr20/w26775.shtml.
+[^78]: April 2020 NBER Digest \[Internet\]. \[cited 2020 Aug 12\].  Available from: <https://nber.org/digest/apr20/w26775.shtml>.
 
 [^79]: Usher AD. COVID-19 vaccines for all? Lancet. 2020 Jun 13;395(10240):1822–3.
 
-[^80]: Over £100 million cash boost to manufacture millions of doses of COVID-19 vaccine - GOV.UK \[Internet\]. \[cited 2020 Sep 12\]. Available from: https://www.gov.uk/government/news/over-100-million-cash-boost-to-manufacture-millions-of-doses-of-covid-19-vaccine.
+[^80]: Over £100 million cash boost to manufacture millions of doses of COVID-19 vaccine - GOV.UK \[Internet\]. \[cited 2020 Sep 12\]. Available from: <https://www.gov.uk/government/news/over-100-million-cash-boost-to-manufacture-millions-of-doses-of-covid-19-vaccine>.
 
 [^81]: Callaway E. The unequal scramble for coronavirus vaccines - by the numbers. Nature.  2020;584(7822):506–7.
 
-[^82]: UK government invests in Livingston facility to bolster vaccine manufacturing capacity - GOV.UK \[Internet\]. \[cited 2020 Aug 12\].  Available from: https://www.gov.uk/government/news/uk-government-invests-in-livingston-facility-to-bolster-vaccine-manufacturing-capacity.
+[^82]: UK government invests in Livingston facility to bolster vaccine manufacturing capacity - GOV.UK \[Internet\]. \[cited 2020 Aug 12\].  Available from: <https://www.gov.uk/government/news/uk-government-invests-in-livingston-facility-to-bolster-vaccine-manufacturing-capacity>.
 
-[^83]: Jab economics - Hard questions as scientists and governments seek covid-19 vaccines \| Finance & economics \| The Economist \[Internet\].  \[cited 2020 Aug 12\]. Available from: https://www.economist.com/finance-and-economics/2020/08/08/hard-questions-as-scientists-and-governments-seek-covid-19-vaccines.
+[^83]: Jab economics - Hard questions as scientists and governments seek covid-19 vaccines \| Finance & economics \| The Economist \[Internet\].  \[cited 2020 Aug 12\]. Available from: <https://www.economist.com/finance-and-economics/2020/08/08/hard-questions-as-scientists-and-governments-seek-covid-19-vaccines>.
 
-[^84]: BD Receives Order from U.K. Government for 65 Million Injection Devices to Support COVID-19 Vaccination Campaign \[Internet\]. \[cited 2020 Aug 12\]. Available from: https://www.bd.com/en-uk/about-bd/news-and-media/press-releases/bd-receives-order-from-uk-government-for-65-million-injection-devices-to-support-covid-19-vaccination-campaign.
+[^84]: BD Receives Order from U.K. Government for 65 Million Injection Devices to Support COVID-19 Vaccination Campaign \[Internet\]. \[cited 2020 Aug 12\]. Available from: <https://www.bd.com/en-uk/about-bd/news-and-media/press-releases/bd-receives-order-from-uk-government-for-65-million-injection-devices-to-support-covid-19-vaccination-campaign>.
 
 [^85]: Slaoui M, Hepburn M. Developing Safe and Effective Covid Vaccines - Operation Warp Speed’s Strategy and Approach. N Engl J Med. 2020 Aug 26.
 
 [^86]: Yamey G, Schäferhoff M, Hatchett R, Pate M, Zhao F, McDade KK.  Ensuring global access to COVID-19 vaccines. Lancet. 2020 May 2;395(10234):1405–6.
 
-[^87]: Opinion \| In the Race for a Coronavirus Vaccine, We Must Go Big.  Really, Really Big. - The New York Times \[Internet\]. \[cited 2020 Aug 25\]. Available from: https://www.nytimes.com/2020/05/04/opinion/coronavirus-vaccine.html.
+[^87]: Opinion \| In the Race for a Coronavirus Vaccine, We Must Go Big.  Really, Really Big. - The New York Times \[Internet\]. \[cited 2020 Aug 25\]. Available from: <https://www.nytimes.com/2020/05/04/opinion/coronavirus-vaccine.html>.
 
-[^88]: COVAX explained \| Gavi, the Vaccine Alliance \[Internet\]. \[cited 2020 Sep 12\]. Available from: https://www.gavi.org/vaccineswork/covax-explained.
+[^88]: COVAX explained \| Gavi, the Vaccine Alliance \[Internet\]. \[cited 2020 Sep 12\]. Available from: <https://www.gavi.org/vaccineswork/covax-explained>.
 
-[^89]: COVAX: Working for global equitable access to COVID-19 vaccines \[Internet\]. \[cited 2020 Sep 12\]. Available from: https://www.who.int/initiatives/act-accelerator/covax.
+[^89]: COVAX: Working for global equitable access to COVID-19 vaccines \[Internet\]. \[cited 2020 Sep 12\]. Available from: <https://www.who.int/initiatives/act-accelerator/covax>.
 
-[^90]: Exclusive: Vaccine group says 76 rich countries now committed to “COVAX” access plan \| Reuters \[Internet\]. \[cited 2020 Sep 12\].  Available from: https://www.reuters.com/article/us-health-coronavirus-vaccines-covax-exc-idUSKBN25T39P.
+[^90]: Exclusive: Vaccine group says 76 rich countries now committed to “COVAX” access plan \| Reuters \[Internet\]. \[cited 2020 Sep 12\].  Available from: <https://www.reuters.com/article/us-health-coronavirus-vaccines-covax-exc-idUSKBN25T39P>.
 
 [^91]: Chinazzi M, Davis J, Dean N, Mu K, Piontti A, Xiong X, et al.  Estimating the effect of cooperative versus uncooperative strategies of COVID-19 vaccine allocation: a modeling study.
 
@@ -2958,7 +2969,7 @@ sterile filtered and can be shipped to the fill-to-finish site.
 
 [^99]: Pfizer and BioNTech Announce Agreement with the United Kingdom for 30 Million Doses of mRNA-based Vaccine Candidate against SARS-CoV-2 \| Pfizer \[Internet\]. \[cited 2020 Sep 7\]. Available from: <https://www.pfizer.com/news/press-release/press-release-detail/pfizer-and-biontech-announce-agreement-united-kingdom-30>.
 
-[^100]: Pfizer and BioNTech Dose First Participants in the U.S. as Part of Global COVID-19 mRNA Vaccine Development Program \| Pfizer \[Internet\].  \[cited 2020 Sep 7\]. Available from: <https://www.pfizer.com/news/press-release/press-release-detail/pfizer\_and\_biontech\_dose\_first\_participants\_in\_the\_u\_s\_as\_part\_of\_global\_covid\_19\_mrna\_vaccine\_development\_program>.
+[^100]: Pfizer and BioNTech Dose First Participants in the U.S. as Part of Global COVID-19 mRNA Vaccine Development Program \| Pfizer \[Internet\].  \[cited 2020 Sep 7\]. Available from: <https://www.pfizer.com/news/press-release/press-release-detail/pfizer_and_biontech_dose_first_participants_in_the_u_s_as_part_of_global_covid_19_mrna_vaccine_development_program>.
 
 [^101]: Biological E to manufacture Janssen’s Covid-19 vaccine \[Internet\]. \[cited 2020 Sep 7\]. Available from: <https://www.pharmaceutical-technology.com/news/biological-e-covid-vaccine-deals/>.
 
@@ -2970,9 +2981,9 @@ sterile filtered and can be shipped to the fill-to-finish site.
 
 [^105]: Sanofi and GSK agree with the UK government to supply up to 60 million doses of COVID-19 vaccine \| GSK \[Internet\]. \[cited 2020 Sep 7\]. Available from: <https://www.gsk.com/en-gb/media/press-releases/sanofi-and-gsk-agree-with-the-uk-government-to-supply-up-to-60-million-doses-of-covid-19-vaccine/>.
 
-[^106]: Sanofi and GSK selected for Operation Warp Speed to supply United States Government with 100 million doses of COVID-19 vaccine \| GSK \[Internet\]. \[cited 2020 Sep 7\]. Available from: https://www.gsk.com/en-gb/media/press-releases/sanofi-and-gsk-selected-for-operation-warp-speed-to-supply-united-states-government-with-100-million-doses-of-covid-19-vaccine/.
+[^106]: Sanofi and GSK selected for Operation Warp Speed to supply United States Government with 100 million doses of COVID-19 vaccine \| GSK \[Internet\]. \[cited 2020 Sep 7\]. Available from: <https://www.gsk.com/en-gb/media/press-releases/sanofi-and-gsk-selected-for-operation-warp-speed-to-supply-united-states-government-with-100-million-doses-of-covid-19-vaccine/>.
 
-[^107]: IATA - The Time to Prepare for COVID-19 Vaccine Transport is Now \[Internet\]. \[cited 2020 Sep 10\]. Available from: https://www.iata.org/en/pressroom/pr/2020-09-09-01/.
+[^107]: IATA - The Time to Prepare for COVID-19 Vaccine Transport is Now \[Internet\]. \[cited 2020 Sep 10\]. Available from: <https://www.iata.org/en/pressroom/pr/2020-09-09-01/>.
 
 [^108]: Coronavirus: Health workers’ army to be trained to deliver Covid vaccine - BBC News \[Internet\]. \[cited 2020 Sep 7\]. Available from: <https://www.bbc.co.uk/news/health-53946412>.
 
@@ -2984,13 +2995,13 @@ sterile filtered and can be shipped to the fill-to-finish site.
 
 [^112]: Cookson R, Mirelman AJ, Griffin S, Asaria M, Dawkins B, Norheim OF, et al. Using Cost-Effectiveness Analysis to Address Health Equity Concerns. Value Health.  2017;20(2):206–12.
 
-[^113]: How might COVID-19 affect the number of GPs available to see patients in England? \| The Health Foundation \[Internet\]. \[cited 2020 Sep 12\]. Available from: https://www.health.org.uk/publications/long-reads/how-might-covid-19-affect-the-number-of-gps-available-to-see-patients-in-england.
+[^113]: How might COVID-19 affect the number of GPs available to see patients in England? \| The Health Foundation \[Internet\]. \[cited 2020 Sep 12\]. Available from: <https://www.health.org.uk/publications/long-reads/how-might-covid-19-affect-the-number-of-gps-available-to-see-patients-in-england>.
 
 [^114]: Smith RD, Correa C, Oh C. Trade, TRIPS, and pharmaceuticals.  Lancet. 2009 Feb 21;373(9664):684–91.
 
 [^115]: Hoen E ’t, Berger J, Calmy A, Moon S. Driving a decade of change: HIV/AIDS, patents and access to medicines for all. J Int AIDS Soc. 2011 Mar 27;14:15.
 
-[^116]: The rush to create a covid-19 vaccine may do more harm than good - The BMJ \[Internet\]. \[cited 2020 Aug 10\]. Available from: https://blogs.bmj.com/bmj/2020/08/05/the-rush-to-create-a-covid-19-vaccine-may-do-more-harm-than-good/.
+[^116]: The rush to create a covid-19 vaccine may do more harm than good - The BMJ \[Internet\]. \[cited 2020 Aug 10\]. Available from: <https://blogs.bmj.com/bmj/2020/08/05/the-rush-to-create-a-covid-19-vaccine-may-do-more-harm-than-good/>.
 
 [^117]: Jiang S. Don’t rush to deploy COVID-19 vaccines and drugs without sufficient safety guarantees. Nature.  2020;579(7799):321.
 
@@ -3024,7 +3035,7 @@ sterile filtered and can be shipped to the fill-to-finish site.
 
 [^132]: Harris K, Maurer J, Black C, Euler G, Kadiyala S. Workplace efforts to promote influenza vaccination among healthcare personnel and their association with uptake during the 2009 pandemic influenza A (H1N1). Vaccine. 2011 Apr 5;29(16):2978–85.
 
-[^133]: Cover of vaccination evaluated rapidly (COVER) programme 2014 to 2015: quarterly data - GOV.UK \[Internet\]. \[cited 2020 Aug 6\].  Available from: https://www.gov.uk/government/statistics/cover-of-vaccination-evaluated-rapidly-cover-programme-2014-to-2015-quarterly-data.
+[^133]: Cover of vaccination evaluated rapidly (COVER) programme 2014 to 2015: quarterly data - GOV.UK \[Internet\]. \[cited 2020 Aug 6\].  Available from: <https://www.gov.uk/government/statistics/cover-of-vaccination-evaluated-rapidly-cover-programme-2014-to-2015-quarterly-data>.
 
 [^134]: Forster AS, Rockliffe L, Chorley AJ, Marlow LAV, Bedford H, Smith SG, et al. Ethnicity-specific factors influencing childhood immunisation decisions among Black and Asian Minority Ethnic groups in the UK: a systematic review of qualitative research. J Epidemiol Community Health.  2017;71(6):544–9.
 
@@ -3040,19 +3051,19 @@ sterile filtered and can be shipped to the fill-to-finish site.
 
 [^140]: Bubar KM, Kissler SM, Lipsitch M, Cobey S, Grad Y, Larremore DB.  Model-informed COVID-19 vaccine prioritization strategies by age and serostatus. medRxiv. 2020 Sep 10.
 
-[^141]: Coronavirus and shielding of clinically extremely vulnerable people in England - Office for National Statistics \[Internet\]. \[cited 2020 Sep 15\]. Available from: https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronavirusandshieldingofclinicallyextremelyvulnerablepeopleinengland/9julyto16july2020\#main-points.
+[^141]: Coronavirus and shielding of clinically extremely vulnerable people in England - Office for National Statistics \[Internet\]. \[cited 2020 Sep 15\]. Available from: <https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronavirusandshieldingofclinicallyextremelyvulnerablepeopleinengland/9julyto16july2020\#main-points>.
 
-[^142]: Old age structure variant - UK population in age groups - Office for National Statistics \[Internet\]. \[cited 2020 Sep 15\]. Available from: https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/datasets/tablel21oldagestructurevariantukpopulationinagegroups.
+[^142]: Old age structure variant - UK population in age groups - Office for National Statistics \[Internet\]. \[cited 2020 Sep 15\]. Available from: <https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/datasets/tablel21oldagestructurevariantukpopulationinagegroups>.
 
-[^143]: Report 33 - Modelling the allocation and impact of a COVID-19 vaccine \| Faculty of Medicine \| Imperial College London \[Internet\].  \[cited 2020 Sep 25\]. Available from: https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-33-vaccine/.
+[^143]: Report 33 - Modelling the allocation and impact of a COVID-19 vaccine \| Faculty of Medicine \| Imperial College London \[Internet\].  \[cited 2020 Sep 25\]. Available from: <https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/report-33-vaccine/>.
 
-[^144]: Joint Committee on Vaccination and Immunisation: interim advice on priority groups for COVID-19 vaccination - GOV.UK \[Internet\]. \[cited 2020 Aug 3\]. Available from: https://www.gov.uk/government/publications/priority-groups-for-coronavirus-covid-19-vaccination-advice-from-the-jcvi/interim-advice-on-priority-groups-for-covid-19-vaccination.
+[^144]: Joint Committee on Vaccination and Immunisation: interim advice on priority groups for COVID-19 vaccination - GOV.UK \[Internet\]. \[cited 2020 Aug 3\]. Available from: <https://www.gov.uk/government/publications/priority-groups-for-coronavirus-covid-19-vaccination-advice-from-the-jcvi/interim-advice-on-priority-groups-for-covid-19-vaccination>.
 
-[^145]: Key workers reference tables - Office for National Statistics \[Internet\]. \[cited 2020 Sep 15\]. Available from: https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/keyworkersreferencetables.
+[^145]: Key workers reference tables - Office for National Statistics \[Internet\]. \[cited 2020 Sep 15\]. Available from: <https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/keyworkersreferencetables>.
 
 [^146]: Karafillakis E, Dinca I, Apfel F, Cecconi S, Wűrz A, Takacs J, et al. Vaccine hesitancy among healthcare workers in Europe: A qualitative study. Vaccine. 2016 Sep 22;34(41):5013–20.
 
-[^147]: The DELVE Initiative. Scoping Report on Hospital and Health Care Acquisition of COVID-19 and its Control. \[Internet\]. 2020 \[cited 2020 Sep 24\]. Available from: https://rs-delve.github.io/reports/2020/07/06/nosocomial-scoping-report.html.
+[^147]: The DELVE Initiative. Scoping Report on Hospital and Health Care Acquisition of COVID-19 and its Control. \[Internet\]. 2020 \[cited 2020 Sep 24\]. Available from: <https://rs-delve.github.io/reports/2020/07/06/nosocomial-scoping-report.html>.
 
 [^148]: Hayward AC, Harling R, Wetten S, Johnson AM, Munro S, Smedley J, et al. Effectiveness of an influenza vaccine programme for care home staff to prevent death, morbidity, and health service use among residents: cluster randomised controlled trial. BMJ. 2006 Dec 16;333(7581):1241.
 
@@ -3074,7 +3085,7 @@ sterile filtered and can be shipped to the fill-to-finish site.
 
 [^157]: Béraud G. Mathematical models and vaccination strategies. Vaccine.  2018 Aug 28;36(36):5366–72.
 
-[^158]: Hepatitis A: the green book, chapter 17 - GOV.UK \[Internet\].  \[cited 2020 Sep 24\]. Available from: https://www.gov.uk/government/publications/hepatitis-a-the-green-book-chapter-17.
+[^158]: Hepatitis A: the green book, chapter 17 - GOV.UK \[Internet\].  \[cited 2020 Sep 24\]. Available from: <https://www.gov.uk/government/publications/hepatitis-a-the-green-book-chapter-17>.
 
 [^159]: Lurie N, Sharfstein JM, Goodman JL. The Development of COVID-19 Vaccines: Safeguards Needed. JAMA. 2020 Aug 4;324(5):439–40.
 
@@ -3090,7 +3101,7 @@ sterile filtered and can be shipped to the fill-to-finish site.
 
 [^165]: Weisblum Y, Schmidt F, Zhang F, DaSilva J, Poston D, Lorenzi JCC, et al. Escape from neutralizing antibodies by SARS-CoV-2 spike protein variants. BioRxiv. 2020 Jul 22.
 
-[^166]: Moderna pitches virus vaccine at about $50-$60 per course \| Financial Times \[Internet\]. \[cited 2020 Sep 24\]. Available from: https://www.ft.com/content/405c0d07-d15a-4f5b-8a77-3c2fbd5d4c1c.
+[^166]: Moderna pitches virus vaccine at about $50-$60 per course \| Financial Times \[Internet\]. \[cited 2020 Sep 24\]. Available from: <https://www.ft.com/content/405c0d07-d15a-4f5b-8a77-3c2fbd5d4c1c>.
 
 [^167]: Gouglas D, Christodoulou M, Plotkin SA, Hatchett R. CEPI: driving progress toward epidemic preparedness and response. Epidemiol Rev. 2019 Jan 31;41(1):28–33.
 
@@ -3120,12 +3131,12 @@ sterile filtered and can be shipped to the fill-to-finish site.
 
 [^180]: Sheerin D, Openshaw PJ, Pollard AJ. Issues in vaccinology: Present challenges and future directions. Eur J Immunol. 2017 Sep 27;47(12):2017–25.
 
-[^181]: WHO conditionally backs Covid-19 vaccine trials that infect people \| Science \| The Guardian \[Internet\]. \[cited 2020 Sep 15\].  Available from: https://www.theguardian.com/science/2020/may/08/who-conditionally-backs-covid-19-vaccine-trials-that-infect-people.
+[^181]: WHO conditionally backs Covid-19 vaccine trials that infect people \| Science \| The Guardian \[Internet\]. \[cited 2020 Sep 15\].  Available from: <https://www.theguardian.com/science/2020/may/08/who-conditionally-backs-covid-19-vaccine-trials-that-infect-people>.
 
 [^182]: Beigel JH, Tomashek KM, Dodd LE, Mehta AK, Zingman BS, Kalil AC, et al. Remdesivir for the Treatment of Covid-19 - Preliminary Report. N Engl J Med. 2020 May 22.
 
 [^183]: RECOVERY Collaborative Group, Horby P, Lim WS, Emberson JR, Mafham M, Bell JL, et al. Dexamethasone in Hospitalized Patients with Covid-19 - Preliminary Report. N Engl J Med. 2020 Jul 17.
 
-[^184]: UK scientists want to infect volunteers with Covid-19 in race to find vaccine \| Society \| The Guardian \[Internet\]. \[cited 2020 Sep 15\]. Available from: https://www.theguardian.com/society/2020/may/24/uk-scientists-want-to-infect-volunteers-with-covid-19-in-race-to-find-vaccine.
+[^184]: UK scientists want to infect volunteers with Covid-19 in race to find vaccine \| Society \| The Guardian \[Internet\]. \[cited 2020 Sep 15\]. Available from: <https://www.theguardian.com/society/2020/may/24/uk-scientists-want-to-infect-volunteers-with-covid-19-in-race-to-find-vaccine>.
 
 [^185]: Miller FG, Joffe S. Limits to research risks. J Med Ethics. 2009 Jul;35(7):445–9.
