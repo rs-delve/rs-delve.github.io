@@ -18,12 +18,11 @@ abstract: |
   issues involved in developing, evaluating, manufacturing and
   distributing a vaccine for COVID-19, the impact of those challenges
   and future strategies to mitigate their effects.<!--break-->
-
-note: This paper has drawn on evidence available up to 25th September 2020. Further evidence
-  on this topic is constantly published and DELVE will continue to develop this report
-  as it becomes available. This independent overview of the science has been provided
-  in good faith by subject experts. DELVE and the Royal Society accept no legal liability
-  for decisions made based on this evidence.
+note: This paper has drawn on evidence available up to 25th September 2020. Further
+  evidence on this topic is constantly published and DELVE will continue to develop
+  this report as it becomes available. This independent overview of the science has
+  been provided in good faith by subject experts. DELVE and the Royal Society accept
+  no legal liability for decisions made based on this evidence.
 ---
 
 <style>
