@@ -35,6 +35,7 @@ note: This paper has drawn on evidence available up to 25th September 2020. Furt
 # Table of Contents
 
 * [Key Points](#key-points)
+
 1. [SARS-CoV-2 vaccines](#1-sars-cov-2-vaccines) 
     * [What constitutes an effective vaccine?](#what-constitutes-an-effective-vaccine)
         * [How do vaccines work?](#how-do-vaccines-work) 
