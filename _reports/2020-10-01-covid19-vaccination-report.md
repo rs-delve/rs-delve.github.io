@@ -121,7 +121,6 @@ abstract: |
   and understanding of infectious disease, vaccine design, testing and
   manufacture as well as public expectations of vaccination will
   provide long-term solutions and preparedness.
-published: false
 ---
 
 <style>
@@ -133,64 +132,59 @@ published: false
 
 # Table of Contents
 
-* [SARS-CoV-2 vaccines](#sars-cov-2-vaccines) 
-* [What constitutes an effective vaccine?](#what-constitutes-an-effective-vaccine)
-* [How do vaccines work?](#how-do-vaccines-work) 
-* [What makes an ideal vaccine?](#what-makes-an-ideal-vaccine)
-[What immune responses can protect against
-COVID-19?](#what-immune-responses-can-protect-against-covid-19) 
-* [The role of antibodies](#the-role-of-antibodies) 
-* [The role of T cells](#the-role-of-t-cells) 
-* [Immune enhancement of disease](#immune-enhancement-of-disease) 
-* [What is the current situation with vaccines in clinical
+1. [SARS-CoV-2 vaccines](#1-sars-cov-2-vaccines) 
+  * [What constitutes an effective vaccine?](#what-constitutes-an-effective-vaccine)
+    * [How do vaccines work?](#how-do-vaccines-work) 
+    * [What makes an ideal vaccine?](#what-makes-an-ideal-vaccine)
+  * [What immune responses can protect against COVID-19?](#what-immune-responses-can-protect-against-covid-19) 
+    * [The role of antibodies](#the-role-of-antibodies) 
+    * [The role of T cells](#the-role-of-t-cells) 
+    * [Immune enhancement of disease](#immune-enhancement-of-disease) 
+  * [What is the current situation with vaccines in clinical
 development?](#what-is-the-current-situation-with-vaccines-in-clinical-development)
-* [Ensuring the success of a vaccine programme: vaccine
-efficacy](#ensuring-the-success-of-a-vaccine-programme-vaccine-efficacy)
-* [Testing and evaluation of vaccine
+2. [Ensuring the success of a vaccine programme: vaccine
+efficacy](#2-ensuring-the-success-of-a-vaccine-programme-vaccine-efficacy)
+  * [Testing and evaluation of vaccine
 candidates](#testing-and-evaluation-of-vaccine-candidates) 
-* [Partially effective vaccines](#partially-effective-vaccines) 
-* [Partial immunity means higher vaccination rates are
+  * [Partially effective vaccines](#partially-effective-vaccines) 
+    * [Partial immunity means higher vaccination rates are
 required](#partial-immunity-means-higher-vaccination-rates-are-required)
-[What might influence the efficacy of SARS-CoV-2 vaccines?](#what-might-influence-the-efficacy-of-sars-cov-2-vaccines) 
-* [Further research is required to determine how the immune response can
+    * [What might influence the efficacy of SARS-CoV-2 vaccines?](#what-might-influence-the-efficacy-of-sars-cov-2-vaccines) 
+  * [Further research is required to determine how the immune response can
 protect against SARS-CoV-2](#further-research-is-required-to-determine-how-the-immune-response-can-protect-against-sars-cov-2)
-* [Ensuring the success of a vaccination programme: vaccine
-availability](#_thkseb1l1mfs)
-* [Financial incentives for vaccine development](#financial-incentives-for-vaccine-development)
-* [Challenges in manufacture of a future
+3. [Ensuring the success of a vaccination programme: vaccine availability](#3-ensuring-the-success-of-a-vaccination-programme-vaccine-availability)
+  * [Financial incentives for vaccine development](#financial-incentives-for-vaccine-development)
+  * [Challenges in manufacture of a future
 vaccine](#challenges-in-manufacture-of-a-future-vaccine) 
-* [Manufacturing Processes](#manufacturing-processes) 
-* [Challenges in Manufacture](#challenges-in-manufacture) 
-* [Supply chain, distribution and administration](#supply-chain-distribution-and-administration) 
-* [Advantages of an integrated manufacturing-distribution-administration
-chain](#advantages-of-an-integrated-manufacturing-distribution-administration-chain)
-* [Lack of access to vaccines may exacerbate health inequalities in the UK and globally](#lack-of-access-to-vaccines-may-exacerbate-health-inequalities-in-the-uk-and-globally)
-* [Ensuring the success of a vaccination programme: vaccine acceptability](#ensuring-the-success-of-a-vaccination-programme-vaccine-acceptability)
-* [Safety, tolerability, effectiveness and routes of administration may influence vaccine acceptability](#safety-tolerability-effectiveness-and-routes-of-administration-may-influence-vaccine-acceptability)
-[Clear communication is needed to build trust in vaccines, increase
+    * [Manufacturing Processes](#manufacturing-processes) 
+    * [Challenges in Manufacture](#challenges-in-manufacture) 
+    * [Supply chain, distribution and administration](#supply-chain-distribution-and-administration) 
+    * [Advantages of an integrated manufacturing-distribution-administration chain](#advantages-of-an-integrated-manufacturing-distribution-administration-chain)
+  * [Lack of access to vaccines may exacerbate health inequalities in the UK and globally](#lack-of-access-to-vaccines-may-exacerbate-health-inequalities-in-the-uk-and-globally)
+4. [Ensuring the success of a vaccination programme: vaccine acceptability](#4-ensuring-the-success-of-a-vaccination-programme-vaccine-acceptability)
+  * [Safety, tolerability, effectiveness and routes of administration may influence vaccine acceptability](#safety-tolerability-effectiveness-and-routes-of-administration-may-influence-vaccine-acceptability)
+  * [Clear communication is needed to build trust in vaccines, increase
 acceptability and thus effectiveness](#clear-communication-is-needed-to-build-trust-in-vaccines-increase-acceptability-and-thus-effectiveness)
-[Barriers to vaccine uptake need to be minimised](#barriers-to-vaccine-uptake-need-to-be-minimised) 
-* [Priority groups will often require dedicated focus accounting for
+  * [Barriers to vaccine uptake need to be minimised](#barriers-to-vaccine-uptake-need-to-be-minimised) 
+  * [Priority groups will often require dedicated focus accounting for
 specific needs and concerns](#priority-groups-will-often-require-dedicated-focus-accounting-for-specific-needs-and-concerns)
-* [Requirements and consequences of vaccination programmes, possible
-scenarios](#requirements-and-consequences-of-vaccination-programmes-possible-scenarios)
-* [Long term lessons and preparedness](#_jy571i4iqxz5) 
-* [Long-term effectiveness and safety of vaccines in different populations should be monitored](#long-term-effectiveness-and-safety-of-vaccines-in-different-populations-should-be-monitored)
-* [A coordinated global vaccination programme and support for development of second-generation vaccines is needed](#_w17zo4cc680j) 
-* [Investment in vaccine R&D, global organisation and public perceptions
-of vaccination will aid pandemic preparedness, UK plc and support global health in the long term](#investment-in-vaccine-rd-global-organisation-and-public-perceptions-of-vaccination-will-aid-pandemic-preparedness-uk-plc-and-support-global-health-in-the-long-term)
+5. [Requirements and consequences of vaccination programmes, possible scenarios](#5-requirements-and-consequences-of-vaccination-programmes-possible-scenarios)
+6. [Long-term lessons and preparedness](#6-long-term-lessons-and-preparedness) 
+  * [Long-term effectiveness and safety of vaccines in different populations should be monitored](#long-term-effectiveness-and-safety-of-vaccines-in-different-populations-should-be-monitored)
+  * [A coordinated global vaccination programme and support for development of second-generation vaccines is needed](#a-coordinated-global-vaccination-programme-and-support-for-development-of-second-generation-vaccines-is-needed) 
+  * [Investment in vaccine R&D, global organisation and public perceptions of vaccination will aid pandemic preparedness, UK plc and support global health in the long term](#investment-in-vaccine-rd-global-organisation-and-public-perceptions-of-vaccination-will-aid-pandemic-preparedness-uk-plc-and-support-global-health-in-the-long-term)
 
 ## Appendices
 
 * [Appendix 1 Human challenge studies](#appendix-1-human-challenge-studies) 
 * [Appendix 2 Vaccines in Development](#appendix-2-vaccines-in-development) 
 * [Appendix 3 Vaccine production](#appendix-3-vaccine-production) 
-* [Production of the ChAdOx1 vaccine](#production-of-the-chadox1-vaccine)
-* [Production of self-amplifying RNA vaccines](#production-of-self-amplifying-rna-vaccines) 
-* [Overview of Vaccine Manufacturing Processes](#_nx4athswo3b6) 
+  * [Production of the ChAdOx1 vaccine](#production-of-the-chadox1-vaccine)
+  * [Production of self-amplifying RNA vaccines](#production-of-self-amplifying-rna-vaccines) 
+  * [Overview of Vaccine Manufacturing Processes](#_nx4athswo3b6) 
  
 
-# SARS-CoV-2 vaccines
+# 1. SARS-CoV-2 vaccines
 
 The SARS-CoV-2 pandemic has led to a global effort to develop, test,
 manufacture and distribute effective vaccines at unprecedented speed.
@@ -384,7 +378,7 @@ success of a vaccine programme will depend on vaccine efficacy,
 availability and uptake.
 
 
-# Ensuring the success of a vaccine programme: vaccine efficacy
+# 2. Ensuring the success of a vaccine programme: vaccine efficacy
 
 -   Vaccines are unlikely to yield 100% protection in all recipients and
     may vary in their ability to produce immune responses and memory to
@@ -419,15 +413,13 @@ availability and uptake.
 Different vaccines will generate distinctive immune responses, and
 therefore have different abilities to prevent infection, transmission
 and disease. Immunity generated may be mainly antibody-mediated or a
-more balanced antibody and T cell response
-[^36]. A
+more balanced antibody and T cell response.[^36] A
 variety of T cell types can be produced, with different abilities to
 protect against infection and form memory cells. Memory may be short or
 long-lived. Different vaccines may require single or multiple doses to
 induce a good memory response and will differ in the immediate unwanted
 side effects (reactogenicity) that will influence vaccine uptake and
-acceptability
-[^37].
+acceptability.[^37]
 Vaccines may work less well in certain groups, particularly in older
 people who often respond poorly to vaccination and are particularly
 vulnerable to SARS-CoV-2.
@@ -439,8 +431,7 @@ subsequent location of generated immunity. Systemic vaccination via for
 example injection into a muscle, may not induce good local immune
 responses in the airways, so may not prevent upper respiratory tract
 infection, viral shedding or transmission even if it protects the lung.
-This phenomenon has been seen in non-human primates studies
-[^3]. The
+This phenomenon has been seen in non-human primates studies.[^3] The
 majority of vaccines currently under development administer the vaccine
 by the intramuscular route. Phase III clinical trials currently underway
 use a reduction in COVID-19 disease in vaccine recipients as their
@@ -563,8 +554,7 @@ cases in vaccinated people. Studies in Brazil, South Africa and the USA
 are likely to be the only ones in which this may be currently possible
 for SARS-CoV-2, although targeting high-incidence groups such as
 healthcare workers may have a role. There are risks that study quality
-might suffer if clinical trials are accelerated to catch pandemic waves:
-(43).There are also implications for the ethics of vaccine studies in
+might suffer if clinical trials are accelerated to catch pandemic waves.[^43] There are also implications for the ethics of vaccine studies in
 low and middle income countries (LMIC), public trust and vaccine
 acceptance, as highlighted by recent demonstrations in South Africa
 against some vaccine studies, which some believe to be exploiting local
@@ -617,9 +607,7 @@ do not show much disease or pathology with SARS-CoV-2.
 
 To address gaps in understanding of protective immunity and to develop a
 strategy for selecting or rejecting vaccine candidates, human infection
-challenge with SARS-CoV-2 is being considered[^57]
-([Appendix
-1](#appendix-1-human-challenge-studies)). Human infection
+challenge with SARS-CoV-2 is being considered[^57] ([Appendix 1](#appendix-1-human-challenge-studies)). Human infection
 challenges with influenza and other respiratory viruses have been
 conducted safely for many decades and have provided critical knowledge
 for the development of vaccines. By deliberately inoculating volunteers
@@ -730,7 +718,7 @@ vaccinated individual’s susceptibility to natural infection to a level
 below that of an unvaccinated person. Although successful vaccines may
 operate on the basis of the generation of a memory T cell or antibody
 response against the pathogen (as previously discussed in the immunology
-section), these details are not explicitly considered in,[^63]
+section), these details are not explicitly considered in [^63],
 and instead are accounted for more generally through the parameters
 describing the effectiveness of the vaccine-induced immune response.
 
@@ -849,7 +837,7 @@ resulting in conflicting data on T cell responses from different
 studies.
 
 
-# Ensuring the success of a vaccination programme: vaccine availability
+# 3. Ensuring the success of a vaccination programme: vaccine availability
 
 -   Financial investment and advanced purchasing agreements have
     incentivised rapid development and production of SARS-CoV-2 vaccines
@@ -1026,8 +1014,7 @@ the manufacturing challenges are:
 ### UK capacity to develop and make a COVID-19 vaccine
 
 It is clear that worldwide there will be a long lag time to reach a
-suitable level of sustainable manufacturing
-[^93].
+suitable level of sustainable manufacturing.[^93]
 With vaccine development normally taking over 10 years and costing 1 to
 2 billion pounds, capacity has been built as needed. To build a new
 biotechnology manufacturing and filling facility can typically take 3-5
@@ -1070,9 +1057,7 @@ fill lines may need significant modification.
 
 The type of vaccine is very important for determining what route of
 manufacture is needed and therefore what type and scale of capacity is
-needed
-[^93,94].
-Administration route and storage conditions determine the methods of
+needed.[^93],[^94] Administration route and storage conditions determine the methods of
 fill finish, storage and distribution of the product.
 
 Not all platforms under development, such as RNA vaccines, have a proven
@@ -1460,7 +1445,7 @@ equitable access for all globally provide valuable opportunities to
 collaborate with other countries to promote health equity.[^89]
 
 
-# Ensuring the success of a vaccination programme: vaccine acceptability 
+# 4. Ensuring the success of a vaccination programme: vaccine acceptability 
 
 -   Safety, tolerability, effectiveness and routes of administration may
     influence vaccine acceptability
@@ -1588,7 +1573,7 @@ Overcoming these barriers will require collaboration with patients and
 their families to ensure that ethnic minority populations have access to
 vaccinations.[^136]
 
-# Requirements and consequences of vaccination programmes, possible scenarios
+# 5. Requirements and consequences of vaccination programmes, possible scenarios
 
 -   Once vaccines have successfully completed clinical trials, decisions
     will need to be made as to the most appropriate vaccination
@@ -1954,7 +1939,7 @@ attempts to trace and vaccinate only direct contacts and their contacts
 and immunisation of the wider local community likely to be a more
 effective strategy.
 
-# Long term lessons and preparedness
+# 6. Long-term lessons and preparedness
 
 -   Global coordination of vaccine purchase, production and distribution
     is needed
