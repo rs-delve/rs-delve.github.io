@@ -121,6 +121,11 @@ abstract: |
   and understanding of infectious disease, vaccine design, testing and
   manufacture as well as public expectations of vaccination will
   provide long-term solutions and preparedness.
+note: This paper has drawn on evidence available up to 25th September 2020. Further evidence
+  on this topic is constantly published and DELVE will continue to develop this report
+  as it becomes available. This independent overview of the science has been provided
+  in good faith by subject experts. DELVE and the Royal Society accept no legal liability
+  for decisions made based on this evidence.
 ---
 
 <style>
@@ -1916,11 +1921,11 @@ ensure the low risk of outbreaks in the UK.
 </tbody>
 </table>
 
-<span id="_jy571i4iqxz5" class="anchor"></span>In Scenario 4, members of
+In Scenario 4, members of
 communities are vaccinated in response to outbreaks due to the higher
 risk of transmission events in the wider community following a spike in
 cases. For example, Hepatitis A vaccination can be employed following
-localised outbreaks (158). Scenario 4 might be used once vaccination is
+localised outbreaks.[^158] Scenario 4 might be used once vaccination is
 more widespread in a population, if immunity wanes or coverage is low in
 certain populations, allowing sustained transmission to occur. The
 vaccine itself would ideally prevent both transmission and disease, but
@@ -2067,8 +2072,7 @@ also be significant pressure to reduce annual re-vaccination costs if
 they are necessary so a second round of more cost effective vaccines may
 be needed. In LMIC the ability of the vaccine to be integrated into
 existing vaccination programmes and infrastructure will determine its
-affordability
-[^76].
+affordability.[^76]
 
 Sustained funding will ensure that no one vaccine company develops a
 monopoly and will maintain an incentive for market entry of new
@@ -2124,8 +2128,7 @@ candidates and research with a poor chance of success, with the risk of
 failure taken entirely by the funder. Furthermore, it does not
 incentivise speed and efficiency of research. Pull funding can be used
 to reward both the development of the final product, and for achieving
-innovation, goals or milestones relating to health
-[^73].
+innovation, goals or milestones relating to health.[^73]
 
 To deploy vaccines faster for future outbreaks, the clinical trials and
 the regulatory approval process should be further accelerated, and surge
@@ -2138,8 +2141,7 @@ platforms, with a Quality by Design (QbD) modelling framework which
 incorporates disease-agnostic prior knowledge. This could in principle
 serve as a “pre-qualification” to speed up clinical trials and the
 regulatory approval process, also in case of a new outbreak caused by a
-new pathogen
-[^172].
+new pathogen.[^172]
 Maintaining surge vaccine manufacturing capacity is also crucial for
 rapid-response vaccine production. This would be comparatively easily
 achieved for the saRNA platform as it can produce high vaccine volumes,
@@ -2160,30 +2162,26 @@ novel vaccine platforms will shorten future development times for novel
 vaccines. For example, rapid sharing of the genetic code of the
 SARS-CoV-2 virus and its use to develop novel vaccines occurred in
 record speed, due to the technologies developed as a result of
-investment in basic science
-[^173].
+investment in basic science.[^173]
 We need a better understanding of the transmission, disease mechanisms
 and immune response to infections, and investment in the development of
 effective vaccine technologies, particularly in the light of an aging
 global population. Continued investment should support the training and
 careers of personnel with expertise as well as infrastructure, in the
-following areas
-[^171],[^174],[^175],[^176],[^177];
+following areas;[^171],[^174],[^175],[^176],[^177]
 
 1.  Pathogen surveillance and discovery
 
-<!-- -->
-
-1.  Basic science relating to infectious diseases and development of
+2.  Basic science relating to infectious diseases and development of
     novel vaccines
 
-2.  Pre-clinical and clinical testing of vaccines and novel vaccine
+3.  Pre-clinical and clinical testing of vaccines and novel vaccine
     platforms
 
-3.  Population scale monitoring and measuring of vaccine effectiveness
+4.  Population scale monitoring and measuring of vaccine effectiveness
     and adverse events
 
-4.  Vaccine manufacturing; skills training, facilitation of technology
+5.  Vaccine manufacturing; skills training, facilitation of technology
     transfer and scale up
 
 There are still many challenges in the field of vaccinology. Such
@@ -2212,13 +2210,11 @@ candidate SARS-CoV-2 vaccines be seriously considered. In brief, a human
 challenge trial of a candidate SARS-CoV-2 vaccine would involve the
 intentional infection of a small number of healthy volunteers with
 SARS-CoV-2; some of these volunteers would have received the vaccine,
-and some would have received a placebo. Eyal, Lipsitch and Smith
-[^57]
+and some would have received a placebo. Eyal, Lipsitch and Smith[^57]
 were among the first to argue that such human challenge studies could,
 through bypassing conventional Phase 3 trials of candidate vaccines,
 subtract many months from the licensing process, making effective
-vaccines available much more quickly. Jamrozik and Selgelid
-[^58]
+vaccines available much more quickly. Jamrozik and Selgelid[^58]
 argue that, in addition to this, human challenge studies could enable
 the rapid and accurate comparison of several candidate vaccines,
 simultaneously, whereas attempting this in Phase 3 trials would
@@ -2231,8 +2227,7 @@ public confidence in vaccines (in the event of untoward effects of the
 human challenge studies), and the risk of infection of third parties
 such as researchers (which should be minimized by protective measures).
 
-On 6th May, the World Health Organization published a report
-[^181]
+On 6th May, the World Health Organization published a report[^181]
 conditionally backing human challenge trials of candidate COVID-19
 vaccines, subject to certain criteria being met. The report states the
 following:
@@ -2270,49 +2265,56 @@ severe disease or death in young adults. Global public trust in clinical
 research and vaccines depends on there being heightened vigilance to
 ensure that, if they proceed, SARS-CoV-2 challenge studies are conducted
 to the highest scientific and ethical standards. Eight ethical criteria
-for conducting SARS-CoV-2 challenge studies are set out in Table 1:
+for conducting SARS-CoV-2 challenge studies are set out in Table 2:
 
-**Table 1:** Eight criteria for SARS-CoV-2 challenge studies
-<table><tr><td>
+**Table 2:** Eight criteria for SARS-CoV-2 challenge studies
+<table>
+<tr><td>
 Criterion 1: SARS-CoV-2 challenge studies must have strong scientific
 justification.
-</td></tr><tr><td>
+</td></tr>
+<tr><td>
 Criterion 2: It must be reasonable to expect that the potential benefits
 of SARS-CoV-2 challenge studies outweigh risks.
-</td></tr><tr><td>
+</td></tr>
+<tr><td>
 Criterion 3: SARS-CoV-2 challenge research programmes should be informed
 by consultation and engagement with the public as well as relevant
 experts and policy-makers.
-</td></tr><tr><td>
+</td></tr>
+<tr><td>
 Criterion 4: SARS-CoV-2 challenge study research programmes should
 involve close coordination between researchers, funders, policy-makers
 and regulators.
-</td></tr><tr><td>
+</td></tr>
+<tr><td>
 Criterion 5: SARS-CoV-2 challenge studies should be situated where the
 research can be conducted to the highest scientific, clinical and
 ethical standards.
-</td></tr><tr><td>
+</td></tr>
+<tr><td>
 Criterion 6: SARS-CoV-2 challenge study researchers should ensure that
 participant selection criteria limit and minimize risk.
-</td></tr><tr><td>
+</td></tr>
+<tr><td>
 Criterion 7: SARS-CoV-2 challenge studies should be reviewed by a
 specialized independent committee.
-</td></tr><tr><td>
+</td></tr>
+<tr><td>
 Criterion 8: SARS-CoV-2 challenge studies must involve rigorous informed
 consent.
-</td></tr></table>
+</td></tr>
+</table>
 
 We remark that it remains the case, to our knowledge, that there is no
 (statistically significant) evidence that remdesivir reduces the risk of
 death among COVID-19 patients, though there is some evidence that it
 shortens recovery time for severely ill patients (by a median of
-approximately four days), see
-[^182].
+approximately four days), see [^182].
 Since the above W.H.O. report was published, somewhat more effective
 treatments than remdesivir have been found. In particular, the
 corticosteroid dexamethasone has been shown (by a large Oxford
-University study,
-[^183] to
+University study,[^183] to
 reduce the death-rate of seriously ill COVID-19 patients on ventilators,
 by approximately one third; the clinical use of the corticosteroids
 dexamethasone and hydrocortisone, for patients with severe or critical
@@ -2400,18 +2402,10 @@ There remain differences of opinion among experts, as to whether human
 challenge studies of candidate vaccines for SARS-CoV-2 are ethically
 justified. To cite two high-profile examples, Nir Eyal, Director of
 Rutgers University’s Centre for Population-Level Bioethics, has argued
-forcefully in favour
-[^181],
-whereas Eleanor Riley, formerly Director of the Roslin Institute and
-Professor of Immunology at Edinburgh University, has argued strongly
-against
-[^184].
+forcefully in favour,[^181] whereas Eleanor Riley, formerly Director of the Roslin Institute and Professor of Immunology at Edinburgh University, has argued strongly against.[^184]
 These differences of opinion partly hinge on whether the level of risk
 (of severe illness, or death) to participants is within acceptable
-limits. Some researchers (such as Eyal, see
-[^181];
-see also
-[^185])
+limits. Some researchers (such as Eyal, see [^181]; see also [^185])
 have proposed that risks of organ donation be used for comparison. (It
 appears that the risk of death to a healthy young adult, when infected
 with SARS-CoV-2, is similar in magnitude to the risk of dying when
@@ -2420,8 +2414,7 @@ equivalence between these scenarios is imperfect, as the benefits of
 organ donation accrue to an individual close to the donor, whereas the
 benefits of human challenge trials accrue (in expectation) to the
 population at large, and furthermore are not guaranteed (as the trial
-may fail). Some researchers (such as Jamrozik and Selgelid
-[^58])
+may fail). Some researchers (such as Jamrozik and Selgelid[^58])
 have proposed that the background risk (to certain vulnerable
 populations, e.g. healthcare workers in certain countries) be used for
 comparison, but (as Jamrozik and Selgelid concede), the objection can be
@@ -2498,12 +2491,8 @@ ethically justified, we propose the following questions.
 
 Vaccines in development as of 3rd September 2020.
 
-For latest updates see:
-[https://vac-lshtm.shinyapps.io/ncov\_vaccine\_landscape]/
-or
-
-[<span
-class="underline">https://www.who.int/publications/m/item/draft-landscape-of-covid-19-candidate-vaccines</span>](https://www.who.int/publications/m/item/draft-landscape-of-covid-19-candidate-vaccines)
+For latest updates see: <https://vac-lshtm.shinyapps.io/ncov_vaccine_landscape>
+or <https://www.who.int/publications/m/item/draft-landscape-of-covid-19-candidate-vaccines>
 
 <table>
 <tbody>
