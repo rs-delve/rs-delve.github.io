@@ -2,7 +2,7 @@
 title: Mapping and Nowcasting the Covid-19 Epidemic in British Local Authorities
 date: 2020-09-30 00:00:00 Z
 layout: post
-yw-private: true
+private: true
 authors:
 - given: Yee Whye
   family: Teh
