@@ -8,14 +8,12 @@ layout: page
 * [**Good Morning Britain, 14/08/2020 08:19:00 - 14/08/2020
 08:23:58**](https://protect-eu.mimecast.com/s/BewHCBgXMc8QVQtMUxIa?domain=durrants.net)  
 *ITV1, 14 Aug 2020  
-*Instant Play Link:  
-<http://my.tvey.es/z2TLd>
+*Instant Play Link: <http://my.tvey.es/z2TLd>
 
 * [**BBC Radio 4, 14/08/2020 08:05:02 - 14/08/2020
 08:08:16**](https://protect-eu.mimecast.com/s/FojdCWnKEFD7j7t6Al80X?domain=durrants.net)  
 *BBC Radio 4 FM, 14 Aug 2020*  
-Instant Play Link:  
-<http://my.tvey.es/c4XNe>
+Instant Play Link: <http://my.tvey.es/c4XNe>
 
 * [**Sky News Today, 14/08/2020 16:35:04 - 14/08/2020
 16:40:03**](https://protect-eu.mimecast.com/s/z7vaCDRZOI32oKF52Si95?domain=durrants.net)
