@@ -13,9 +13,9 @@ abstract: |
   schools open or shut, we need to recognise there are risks from having
   schools open and risks from having schools shut. In open schools, the
   risks to pupils themselves from COVID-19 are very low, though there are
-  risks to school staff, parents/carers and the wider community. Closing
+  risks to school staff, parents/carers and the wider community. 
 
-  schools causes loss of learning and deterioration in children’s
+  Closing schools causes loss of learning and deterioration in children’s
   mental and physical health, for example. Keeping schools shut
   increases inequalities, in both children’s education achievement and
   their long-term prospects. The goal of “levelling up” therefore
