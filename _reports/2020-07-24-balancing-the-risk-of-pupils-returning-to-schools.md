@@ -8,44 +8,29 @@ authors:
   url: http://rs-delve.github.io/people.html
 report_number: 4
 layout: report
-abstract: |
-  As we move into a phase of continuously reviewing decisions to keep
-  schools open or shut, we need to recognise there are risks from having
-  schools open and risks from having schools shut. In open schools, the
-  risks to pupils themselves from COVID-19 are very low, though there are
-  risks to school staff, parents/carers and the wider community. 
-
-  Closing schools causes loss of learning and deterioration in children’s
-  mental and physical health, for example. Keeping schools shut
-  increases inequalities, in both children’s education achievement and
-  their long-term prospects. The goal of “levelling up” therefore
-  needs schools to be open. Keeping schools open is also the key to
-  unlocking the rest of the economy, allowing parents to leave
-  teaching to teachers and return to their own jobs.  The evidence on
-  the infection risk from school opening is limited, though to date it
-  suggests that the risk from opening schools, relative to restarting
-  many other activities, is not as high. The experience of most other
-  countries which have already taken this step supports this. By
-  contrast, the evidence on the negative impact of closing schools is
-  considerable and robust. <!--break-->
-
-  The report sets out this case in detail. The aim is to provide an
-  evidence framework for understanding the risks involved in
-  re-opening and re-closing schools.
-
-  The key issues are the effect of schools closing and re-opening on:
-
-  -   risks from infection
-
-  -   risks from loss of skills and increases in inequality
-
-  -   risks to child and parent mental health
-
-  -   risks from parents not being able to return to work.
-
-  The report addresses each these in turn, describing first the current
-  state of knowledge, and second, the steps that we can take to collect
-  more data specific to the UK to inform future decisions.
+abstract: "As we move into a phase of continuously reviewing decisions to keep\nschools
+  open or shut, we need to recognise there are risks from having\nschools open and
+  risks from having schools shut. In open schools, the\nrisks to pupils themselves
+  from COVID-19 are very low, though there are\nrisks to school staff, parents/carers
+  and the wider community. \n\nClosing schools causes loss of learning and deterioration
+  in children’s\nmental and physical health, for example. Keeping schools shut\nincreases
+  inequalities, in both children’s education achievement and\ntheir long-term prospects.
+  The goal of “levelling up” therefore\nneeds schools to be open. Keeping schools
+  open is also the key to\nunlocking the rest of the economy, allowing parents to
+  leave\nteaching to teachers and return to their own jobs.  The evidence on\nthe
+  infection risk from school opening is limited, though to date it\nsuggests that
+  the risk from opening schools, relative to restarting\nmany other activities, is
+  not as high. The experience of most other\ncountries which have already taken this
+  step supports this. By\ncontrast, the evidence on the negative impact of closing
+  schools is\nconsiderable and robust. <!--break-->\n\nThe report sets out this case
+  in detail. The aim is to provide an\nevidence framework for understanding the risks
+  involved in\nre-opening and re-closing schools.\n\nThe key issues are the effect
+  of schools closing and re-opening on:\n\n-   risks from infection\n\n-   risks from
+  loss of skills and increases in inequality\n\n-   risks to child and parent mental
+  health\n\n-   risks from parents not being able to return to work.\n\nThe report
+  addresses each these in turn, describing first the current\nstate of knowledge,
+  and second, the steps that we can take to collect\nmore data specific to the UK
+  to inform future decisions.\n"
 note: This paper has drawn on evidence available up to 10 July 2020. Further evidence
   on this topic is constantly published and DELVE will continue to develop this report
   as it is prepared for publication. This independent overview of the science has

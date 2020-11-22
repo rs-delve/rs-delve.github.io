@@ -11,7 +11,7 @@ authors:
   family: Montgomery
   institute: 
   url: "/people/jessica-montgomery.html"
-- given: Ulrich 
+- given: Ulrich
   family: Paquet
   institute: 
   url: "/people/ulrich-paquet.html"
