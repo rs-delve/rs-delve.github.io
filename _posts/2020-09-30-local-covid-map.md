@@ -7,9 +7,6 @@ authors:
 - given: Yee Whye
   family: Teh
   url: "/people/yee-whye-teh.html"
-- given: Avishkar
-  family: Bhoopchand
-  url: "/people/avishkar-bhoopchand.html"
 ---
 
 Yee Whye Teh, Avishkar Bhoopchand, Peter Diggle, Bryn Elesedy, Bobby He, Michael Hutchinson, Ulrich Paquet, Jonathan Read, Nenad Tomasev, Sheheryar Zaidi
@@ -42,11 +39,21 @@ from the combined Pillars 1 and 2 of UK's testing strategy.
 Unfortunately, due to the unclear relationship between the number of positive tests
 and true incidence rates, predictions of the system cannot be directly
 interpreted as predictions of true transmission and incidence rates. 
-However, we believe it can be used, along with other indicators based potentially on other data sources, to build a fuller and more timely picture of the state of the Covid-19 epidemic each local authority as it unfolds.
-Further
-details of the limitations of the system can be found
+However, we believe it can be used, along with other indicators based potentially on other data sources, to build a fuller and more timely picture of the state of the Covid-19 epidemic in each local authority as it unfolds.
+Further details of the limitations of the system can be found
 [here](http://rs-delve.github.io/Rmap/limitations.html).
 
+Our system complements a number of other publicly available systems for tracking the 
+Covid-19 epidemic in British local authorities:
+* [epiforecasts.io](https://epiforecasts.io/covid/posts/national/united-kingdom/) applies the [EpiEstim](https://cran.r-project.org/web/packages/EpiEstim/index.html) R package, based on [Cori et al](https://academic.oup.com/aje/article/178/9/1505/89262),  to national and regional positive test count data, after suitable preprocessing.
+* [BDI Local Covid Tracker](https://bdi-pathogens.shinyapps.io/LocalCovidTracker/) also applies [EpiEstim](https://cran.r-project.org/web/packages/EpiEstim/index.html) to preprocessed positive test count data, at both upper-tier and lower-tier local authority levels.
+* [Imperial College covid19local](https://imperialcollegelondon.github.io/covid19local/) applies the Bayesian semimechanistic model of [Flaxman et al 2020](https://www.nature.com/articles/s41586-020-2405-7) as implemented in the [epidemia](https://imperialcollegelondon.github.io/epidemia/index.html) R package to individual local authorities, using death and positive test count data.
+* [PHE/Cambridge Nowcasting](https://www.mrc-bsu.cam.ac.uk/tackling-covid-19/nowcasting-and-forecasting-of-covid-19/) uses Bayesian inference on an age-specific transmission model described in [Birrell et al](https://www.medrxiv.org/content/10.1101/2020.08.24.20180737v1.full.pdf) applied to regional death count data. This was updated weekly until August 6, 2020.
+
+There are a number of important next steps for the project:
+* Evaluating the accuracy of predictions of the system using historical data, potentially using seroprevalence data.
+* Extending the model to include delay distributions between infection to symptom onset and to test specimen being taken.
+* Extending the model to different type of observations, including deaths, hospitalisations, seroprevalence and symptom onsets.
 
 ### Map
 
