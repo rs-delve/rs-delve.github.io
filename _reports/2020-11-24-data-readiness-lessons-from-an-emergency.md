@@ -6,7 +6,7 @@ authors:
     name: The DELVE Initiative
   institute: The Royal Society
   url: http://rs-delve.github.io/people.html
-published: False
+published: True
 report_number: 7
 layout: report
 abstract: |
@@ -60,11 +60,17 @@ note: |
   margin-right: auto;
   }
   .casestudy { background: #e0f0e0; 
-   padding: 25px 20px 20px 25px;
    border-style: solid;
-   margin: 20px 0 20px 0;}
+   margin-top: 0px;
+   margin-bottom: 20px;
+   margin-right: 0px;
+   margin-left: 0px;
+   padding-top: 5px;
+   padding-bottom: 10px;
+   padding-right: 20px;
+   padding-left: 20px;}
   .box { background: #e0f0e0; 
-   padding: 25px 20px 20px 25px;
+   padding: 0px 20px 20px 25px;
    border-style: solid;
    margin: 20px 0 20px 0;}
 </style>
@@ -192,16 +198,16 @@ inform COVID-19 policy](#challenges-in-accessing-and-analysing-non-traditional-d
 
 1. [Background](#1-background)
     * [DELVE’s remit and data science for COVID-19 policy](#delves-remit-and-data-science-for-covid-19-policy)
-	* [Case Study 1: What is the COVID-19 reproduction rate in a local area?](#case-study-1-what-is-the-covid-19-reproduction-rate-in-a-local-area)
-	* [Case Study 2: How much more are the elderly at risk in different
-countries?](#case-study-2-how-much-more-are-the-elderly-at-risk-in-different-countries)
+	* [Case Study 1](#case-study-1-what-is-the-covid-19-reproduction-rate-in-a-local-area): What is the COVID-19 reproduction rate in a local area?
+	* [Case Study 2](#case-study-2-how-much-more-are-the-elderly-at-risk-in-different-countries): How much more are the elderly at risk in different
+countries?
 	    * [Discoverability](#discoverability)
 	    * [Accessibility](#accessibility)
 		* [Inconsistent data](#inconsistent-data)
 		* [Ephemeral reporting](#ephemeral-reporting)
 		* [Languages](#languages)
 		* [Curating high-quality data sources](#curating-high-quality-data-sources)
-	* [Case Study 3: How have COVID-19 policies affected consumer behaviour, and what are the implications for economic growth?](#case-study-3-how-have-covid-19-policies-affected-consumer-behaviour-and-what-are-the-implications-for-economic-growth)
+	* [Case Study 3](#case-study-3-how-have-covid-19-policies-affected-consumer-behaviour-and-what-are-the-implications-for-economic-growth): How have COVID-19 policies affected consumer behaviour, and what are the implications for economic growth?
 	* [Understanding different data types](#understanding-different-data-types)
 2. [Challenges in Data Sharing](#challenges-in-data-sharing)
     * [Streamline the data preparation pipeline](#streamline-the-data-preparation-pipeline)
@@ -209,19 +215,19 @@ countries?](#case-study-2-how-much-more-are-the-elderly-at-risk-in-different-cou
 	* [Implementing a framework for data readiness in DELVE projects](#implementing-a-framework-for-data-readiness-in-delve-projects)
 		* [Accreditation mechanisms](#accreditation-mechanisms)
 		* [Build capability for long-term data sharing](#build-capability-for-long-term-data-sharing)
-	* [Box A. Coordinated collaboration to enable data use: using human
+	* [Box A](#box-a.-coordinated-collaboration-to-enable-data-use-using-human-mobility-data-to-understand-the-impact-of-covid-19-policies-on-the-movement-of-people). Coordinated collaboration to enable data use: using human
 mobility data to understand the impact of COVID-19 policies on the
-movement of people](#box-a.-coordinated-collaboration-to-enable-data-use-using-human-mobility-data-to-understand-the-impact-of-covid-19-policies-on-the-movement-of-people)
-	* [Box B. Coordinated collaboration to enable data use: using transaction
+movement of people
+	* [Box B](#box-b.-coordinated-collaboration-to-enable-data-use-using-transaction-data-to-understand-the-impact-of-policy-interventions-on-economic-activity). Coordinated collaboration to enable data use: using transaction
 data to understand the impact of policy interventions on economic
-activity](#box-b.-coordinated-collaboration-to-enable-data-use-using-transaction-data-to-understand-the-impact-of-policy-interventions-on-economic-activity)
-	    * [The value of pathfinder projects](#the-value-of-pathfinder-projects)
-		* [Accounting for data bias](#accounting-for-data-bias)
-		* [Create incentives or duties to promote responsible data sharing](#create-incentives-or-duties-to-promote-responsible-data-sharing)
+activity
+	* [The value of pathfinder projects](#the-value-of-pathfinder-projects)
+	* [Accounting for data bias](#accounting-for-data-bias)
+	* [Create incentives or duties to promote responsible data sharing](#create-incentives-or-duties-to-promote-responsible-data-sharing)
 3. [Conclusion](#conclusion)
 
 * [Appendices](#appendices)
-    * [Appendix A: Python code for loading COVID-19 cases](#appendix-a)
+    * [Appendix A](#appendix-a): Python code for loading COVID-19 cases]
 
 * Addenda{% assign addenda = site.addenda | sort: 'date' | reverse %}{% for addendum in addenda  %}{% if addendum.report == 'DATA' %}
     * [{{ addendum.title }}]({%if addendum.pdfonly %}{{ addendum.pdf }}{% else %}{{ addendum.url }}{%endif%}){% endif %}{% endfor %}
@@ -302,7 +308,7 @@ the successes that have been achieved elsewhere, which may offer lessons
 for the UK’s data strategy. For example, the French interbank network,
 Groupement des Cartes Bancaires (CB), made nearly five billion payment
 card transactions from approximately 70 million cards issued by all
-banks in France available for analysis[^5]. Their partnership with
+banks in France available for analysis.[^5] Their partnership with
 analysts complied with the EU GDPR (Article 89), and produced an
 intricately detailed view of the impact of COVID-19 on consumer spending
 and business sales on a daily and weekly scale. We examine such examples
@@ -348,7 +354,7 @@ policymaking. These scenarios cover:
     of economic growth or constriction - but they rely on access to data
     held by private companies.
 
-{% capture contents %}
+{% capture divcontents %}
 ## Case Study 1: What is the COVID-19 reproduction rate in a local area?
 
 ***Important statistics, such as local COVID-19 reproduction rate, are
@@ -374,7 +380,7 @@ number of COVID-19 cases in a local area. Through these numbers it is
 possible to estimate daily changes in the number of cases, and hence the
 rate of reproduction. This data is provided in a clean and curated form
 by Public Health England and NHSX on the UK Government’s COVID-19
-dashboard[^7].
+dashboard.[^7]
 
 When disease prevalence is low in a particular region, it becomes more
 difficult to estimate $R$ for that location. One way of improving the
@@ -399,7 +405,7 @@ local districts. This data is derived from location information from
 more than 80% of the mobile phones in Spain and can be accessed without
 prior registration.[^8] Access to this data has allowed Spanish
 authorities to include origin to destination mobility in their estimates
-of local $R$ through a metapopulation model[^9], from which correlations
+of local $R$ through a metapopulation model,[^9] from which correlations
 between regional mobility and COVID-19 reproduction also become clear.
 Furthermore, interconnected communities could be detected from granular
 mobility flows; these then supported decisions regarding selective
@@ -432,12 +438,12 @@ enable data use).
     accessed 23 October 2020
 
 {% endcapture %}
-{% include div.html style="casestudy" contents=contents %}
+{% include div.html style="casestudy" contents=divcontents %}
 
 
 
 
-{% capture contents %}
+{% capture divcontents %}
 ## Case Study 2: How much more are the elderly at risk in different countries?
 
 ***International comparisons can help policymakers understand what types
@@ -453,8 +459,8 @@ readiness could help speed up this process.***
 One aim of the DELVE group was to make international comparisons to
 inform the UK response to the disease. Detailed daily COVID-19 case and
 mortality data are provided for different nations by Johns Hopkins
-University[^10], the European Centre for Disease Prevention and Control
-(ECDC)[^11] and the World Health Organisation (WHO)[^12]. These
+University,[^10] the European Centre for Disease Prevention and Control
+(ECDC)[^11] and the World Health Organisation (WHO).[^12] These
 resources are useful in many analyses seeking to track the spread of the
 virus. However, these data do not provide the breakdown of such cases by
 age and sex, so they are not useful for understanding the variation in
@@ -479,7 +485,7 @@ unable to locate their COVID-19 by age dashboard by following links from
 their official government statistics websites. India doesn’t seem to
 provide any official source for age-disaggregated data, but there is an
 unofficial crowd-sourced project called COVID-19 India that does
-so[^13].
+so.[^13]
 
 ### Accessibility
 
@@ -496,45 +502,46 @@ encountered:
     high-quality data, there may be work required to wrangle data into
     forms suitable for analysis. For example, the French Institute for
     Demographic Studies (INED) have collected COVID-19 death data from
-    sixteen different countries[^16]. These are provided as Microsoft
+    sixteen different countries.[^16] These are provided as Microsoft
     Excel spreadsheets. However, inconsistent formatting and layouts
     across different releases of these spreadsheets (for example, cells
     which were previously merged becoming unmerged) break the processing
     pipeline for other aggregating sites or data scientists analyzing
     the data.
 
-2.  **Machine readable, but not machine accessible, data.** This is data
-    that exists in electronic form, but in formats that are designed for
-    human eyes. One common example of this data is tables in portable
-    document format (PDF) - an open standard for documents that is
-    designed for ease of human reading. When data is presented in these
-    formats it is reformatted for the convenience of our eyes, but these
-    changes bring challenges to the computer programs used for data
-    analysis. As a result, information can be lost and the data is
-    challenging to access electronically.[^17] One way of managing these
-    difficulties is to write a secondary program - called a ‘parser’ -
-    to extract the data from the PDF file. Depending on the layout of
-    the tables in the document, different parsers must be written. If
-    data is interrupted by column or page breaks this can also lead to
-    problems for the parsers. This means that different PDF reports
-    present different challenges. For example, the Italian
-    EpiCentro[^18] formats their tables in a consistent way, so a single
-    parser can be written to collate age and sex data from them. In
-    contrast, the Spanish Ministry of Health, Consumption and Social
-    Welfare[^19] have frequently changing layouts and formats. This data
-    requires considerable software engineering experience alongside
-    manual effort to extract. This type of expertise is often not
-    available to scientists or statisticians. To illustrate the
-    difference in effort required for loading this data we include in
-    Appendix A examples of python code that show the difference between
-    loading data from a CSV and data from a PDF. The process of writing
-    these additional parsers adds to the time taken for analysis, and
-    the complexity of the resulting code.
+2.  **Machine readable, but not machine accessible, data.** This is
+    data that exists in electronic form, but in formats that are
+    designed for human eyes. One common example of this data is tables
+    in portable document format (PDF) - an open standard for documents
+    that is designed for ease of human reading. When data is presented
+    in these formats it is reformatted for the convenience of our
+    eyes, but these changes bring challenges to the computer programs
+    used for data analysis. As a result, information can be lost and
+    the data is challenging to access electronically.[^17] One way of
+    managing these difficulties is to write a secondary program -
+    called a ‘parser’ - to extract the data from the PDF
+    file. Depending on the layout of the tables in the document,
+    different parsers must be written. If data is interrupted by
+    column or page breaks this can also lead to problems for the
+    parsers. This means that different PDF reports present different
+    challenges. For example, the Italian EpiCentro[^18] formats their
+    tables in a consistent way, so a single parser can be written to
+    collate age and sex data from them. In contrast, the Spanish
+    Ministry of Health, Consumption and Social Welfare[^19] have
+    frequently changing layouts and formats. This data requires
+    considerable software engineering experience alongside manual
+    effort to extract. This type of expertise is often not available
+    to scientists or statisticians. To illustrate the difference in
+    effort required for loading this data we include in
+    [Appendix A](#appendix-a) examples of python code that show the
+    difference between loading data from a CSV and data from a
+    PDF. The process of writing these additional parsers adds to the
+    time taken for analysis, and the complexity of the resulting code.
 
 3.  **Machine inaccessible.** The final format is one where direct human
     intervention is required, as it is not possible to feed the data
     directly into any form of computer program. For example, in
-    Portugal’s reports[^20], data is presented only in the form of
+    Portugal’s reports,[^20] data is presented only in the form of
     charts, meaning that manual parsing is the only option to extract
     values.
 
@@ -550,17 +557,17 @@ Centre for Disease Prevention and Control as shown in the figure below.
 This raises questions about the reliability of different data sources,
 which needs to be accounted for in any analysis.
 
-<img src="diagrams/media/image1.jpeg" style="width:3.51319in;height:2.61736in" />
+<img src="/diagrams/data/image1.jpeg" style="80%" />
 
-**Figure:** COVID-19 death data by age and sex provided by the Robert
-Koch Institute[^21], aggregated to daily counts and plotted against the
+**Figure:** *COVID-19 death data by age and sex provided by the Robert
+Koch Institute*[^21]*, aggregated to daily counts and plotted against the
 statistics provided by the European Centre for Disease Prevention and
-Control.
+Control.*
 
 ### Ephemeral reporting
 
 Some countries provide a historical time series of COVID cases and
-deaths by age and sex. Others, like Australia[^22], report only the
+deaths by age and sex. Others, like Australia,[^22] report only the
 latest age-disaggregated data through a dashboard that is refreshed
 daily. To collect this data a ‘web scraper’[^23] needs to be written and
 run daily. If this web-scraper is not written at the point of first
@@ -682,10 +689,9 @@ England, Wales, Scotland and Northern Ireland.
 
 {% endcapture %}
 
-{% include div.html style="casestudy" contents=contents %}
+{% include div.html style="casestudy" contents=divcontents %}
 
-{% capture contents %}
-
+{% capture divcontents %}
 ## Case Study 3: How have COVID-19 policies affected consumer behaviour, and what are the implications for economic growth?
 
 ***Official statistics play an important role in assessing the health,
@@ -724,7 +730,7 @@ It is only in the third quarter of 2020 that we see examples of research
 on large-scale payments data being facilitated by national statistics
 offices; in the case of Statistics Portugal (Instituto Nacional de
 Estatística), it was fully anonymized data from more than 6 million
-people[^26]. The examples from other countries are insightful, and we
+people.[^26] The examples from other countries are insightful, and we
 examine them further in [Box B](#box-b.-coordinated-collaboration-to-enable-data-use-using-transaction-data-to-understand-the-impact-of-policy-interventions-on-economic-activity).
 
 In contrast, it seems that no financial institution in the UK that has
@@ -732,11 +738,11 @@ made large-scale payments data widely available for policy analysis and
 research during the COVID-19 pandemic. There have been studies that use
 data from limited samples of households from financial apps like Money
 Dashboard, which showed the change in weekly consumer spending in
-different sectors in the UK between 2019 and 2020[^27]. Similarly,
+different sectors in the UK between 2019 and 2020.[^27] Similarly,
 categorized samples of daily firm-to-firm transactions from the CHAPS
 payments system gave indications of daily changes to staple, delayable
 (like DIY and household goods) and work-related spending prior to and
-during lockdown[^28]. CHAPS is a sterling same-day payment system that
+during lockdown.[^28] CHAPS is a sterling same-day payment system that
 is used for instance to settle high-value wholesale payments. The
 samples are small: around 15,000 financial app users in the UK and 90 UK
 companies, and not the kind of large-scale data available in other
@@ -769,7 +775,7 @@ are approaches that can enable use of this data.
 [^28]: Second quarter 2020 Bank of England Speech (Andy Haldene) <https://www.bankofengland.co.uk/-/media/boe/files/speech/2020/the-second-quarter-speech-by-andy-haldane.pdf>, accessed 23 October 2020
 
 {% endcapture %}
-{% include div.html style="casestudy" contents=contents %}
+{% include div.html style="casestudy" contents=divcontents %}
 
 
 ## Understanding different data types
@@ -779,10 +785,10 @@ The early stages of the pandemic were characterized by uncertainty about
 the incidence and prevalence of COVID-19 at both local and national
 levels, raising question marks over the apparent and actual
 hospitalization and mortality rates. These questions have been addressed
-through increasing the scale and scope of the UK’s testing program[^29].
+through increasing the scale and scope of the UK’s testing program.[^29]
 Similarly, probability surveys that we speculated may be necessary, for
 instance to assess the prevalence of COVID-19, were either enacted as
-proposed or modified appropriately as prioritizations changed[^30]. Such
+proposed or modified appropriately as prioritizations changed.[^30] Such
 core studies are foundational to implementing any public health
 response. These areas are not the focus of this report. Our aim is to
 characterize the new data modalities, which we come by through
@@ -958,7 +964,7 @@ long path of negotiating digital access, only to discover that the data
 would not ultimately be useful for the original question.
 
 
-{% capture contents %}
+{% capture divcontents %}
 ## Implementing a framework for data readiness in DELVE projects
 
 DELVE set out to address a series of research questions in areas where
@@ -991,7 +997,7 @@ others have moved between levels. For example:
     capacity increased, or as other institutions shared data more
     widely. An example of Band C data that became available during the
     course of the pandemic is the Human Mortality Database’s Short-term
-    Mortality Fluctuations (STMF) time series[^33], which makes
+    Mortality Fluctuations (STMF) time series,[^33] which makes
     historical weekly mortality statistics available for 34 countries.
 
 From the data scientist’s point of view, we encountered two patterns at
@@ -1058,9 +1064,22 @@ COVID19 are therefore:
 
 -   The efficiency of overarching processes by which Bands D and C data
     could be brought into Band B.
+
+#### Footnotes and References
+
+[^33]: Short-Term Mortality Fluctuations Dataseries (STMF) in the Human
+    Mortality Database
+
+    <https://www.mortality.org/Public/STMF_DOC/STMFNote.pdf>,
+    accessed 23 October 2020
+
+[^34]: Google COVID-19 Community Mobility Reports
+
+    <https://www.google.com/covid19/mobility/>
+
 {% endcapture %}
 
-{% include div.html style="casestudy" contents=contents %}
+{% include div.html style="casestudy" contents=divcontents %}
 
 Within DELVE projects, the data readiness bands provided a common
 language in interdisciplinary collaborations; from the mutual
@@ -1107,7 +1126,7 @@ property.
 In this respect, there may be lessons from recent developments in the
 governance of health data and the role of accreditation mechanisms in
 enabling rapid data access while continuing careful data
-stewardship[^35]. One way to reach this goal is for the ONS to
+stewardship.[^35] One way to reach this goal is for the ONS to
 collaborate with the Information Commissioner’s Office (ICO) to
 formulate their accreditation process into a standardized qualification
 for data access. The qualification could be equivalent to a “data
@@ -1116,7 +1135,7 @@ access to *different* data types with the appropriate standardized
 ethical and legal training in place. The authorisation and
 authentication of researchers is emerging as an international best
 practice, with the ONS, HDR UK and other organisations already
-subscribing to the “five safes” framework[^36].In practice the ONS would
+subscribing to the “five safes” framework.[^36] In practice the ONS would
 form part of the convening group that generalizes their framework to a
 *national qualification* that would include other data sets, with scope
 for other institutions to join later.
@@ -1161,7 +1180,7 @@ than real. Several factors likely contribute to this dynamic:
 Overcoming these barriers to collaboration takes time, energy, and human
 resources, all of which are in high demand at times of crisis.
 
-{% capture contents %}
+{% capture divcontents %}
 ## Box A. Coordinated collaboration to enable data use: using human mobility data to understand the impact of COVID-19 policies on the movement of people
 
 Mobility data is informative to public health actions across early-,
@@ -1187,7 +1206,7 @@ shutdown of all non-essential activities).
 
 **An early call to action**: On 12 March 2020 an article in El País,
 titled *El valor de los móviles y la Covid-19* (The value of mobiles and
-COVID-19)[^42], made the case for more effective use of mobile phone
+COVID-19),[^42] made the case for more effective use of mobile phone
 data. In it, Nuria Oliver explained a feeling of *déjà-vu* as cases
 surged in Spain. A decade ago, human mobility data from mobile phones
 were used to model the impact of the Mexican Government’s response to
@@ -1210,7 +1229,7 @@ functions were already defined. The INE initially paid the
 telecommunications companies for their data and contributions to the
 pilot project. The foundational data sharing agreements and
 infrastructure took more than a year to lay. A pandemic doesn’t afford
-us this time. Quoting Nuria Oliver[^43],
+us this time. Quoting Nuria Oliver,[^43]
 
 > If you have an epidemic with exponential growth, you have no time.
 
@@ -1247,7 +1266,7 @@ governance challenges:
     counts of it was larger than 100.
 
 -   Data in kind, given generously, could stand in competition with
-    business products of the same or similar data[^44]. Origin to
+    business products of the same or similar data.[^44] Origin to
     destination mobility data from mobile signals, when appropriately
     aggregated, anonymized and analyzed, can provide valuable and
     actionable information to businesses. Data sharing, if not properly
@@ -1293,10 +1312,9 @@ governance challenges:
 
 {% endcapture %}
 
-{% include div.html style="box" contents=contents %}
+{% include div.html style="box" contents=divcontents %}
 
-{% capture contents %}
-
+{% capture divcontents %}
 ## Box B. Coordinated collaboration to enable data use: using transaction data to understand the impact of policy interventions on economic activity
 
 To understand the nation’s economic health, policymakers typically rely
@@ -1318,7 +1336,7 @@ consumer spending and business sales on a daily and weekly scale was
 possible as a result of coordinated cooperation between France's
 national interbank network, Groupement des Cartes Bancaires (CB). This
 made nearly five billion payment card transactions from approximately 70
-million cards issued by all banks in France available for analysis[^45].
+million cards issued by all banks in France available for analysis.[^45]
 Their partnership with analysts complied with the EU GDPR (Article 89),
 suggesting that the same should be possible in the UK.
 
@@ -1353,7 +1371,7 @@ Sweden from 1 January 2018 to 5 April 2020. As the samples from the two
 countries -- with very different COVID-19 policies -- are similar in key
 sociodemographics, geographic concentration in urban or rural areas and
 local exposure to affected industries, a comparison between the economic
-impact of policy interventions becomes possible[^49]. Importantly, all
+impact of policy interventions becomes possible.[^49] Importantly, all
 data processing and aggregating was done inside Danske Bank by
 authorized personnel, following GDPR. Danske Bank controls data access,
 and public researchers could formally apply to collaborate.
@@ -1371,7 +1389,7 @@ and insurance programs played an important role in limiting the effects
 of labor market disruptions on spending.
 
 There are American examples of coordinated cooperation, notably that of
-the Opportunity Insights Economic Tracker[^51] [^52], which relies on
+the Opportunity Insights Economic Tracker,[^51] [^52] which relies on
 payments data from at least eleven third-party providers.
 
 [^45]: Consumers' Mobility, Expenditure and Online-Offline Substitution
@@ -1427,16 +1445,16 @@ payments data from at least eleven third-party providers.
 
 {% endcapture %}
 
-{% include div.html style="box" contents=contents %}
+{% include div.html style="box" contents=divcontents %}
 
 The common denominator between the successful examples of data sharing
 cited in this report is the pre-existence of collaborative relationships
-or simple mechanisms by which they could be initiated. There have been
+or simple mechanisms by which relationships could be initiated. There have been
 successful examples of data sharing frameworks that have been
 established at pace to enable access to data held in the private sector.
 The experiences of other countries, set out in this report, illustrate
 the opportunity to pursue this at scale across multiple
-stakeholders[^53]
+stakeholders.[^53]
 
 At a time of national crisis, with events proceeding at pace, there is
 very little time to build the foundational infrastructure for
@@ -1525,7 +1543,7 @@ by user agreements.
 
 The barriers to data sharing between organisations have been
 well-explored prior to the COVID-19 crisis. A 2017 report by HM Treasury
-described how data is “an under-exploited asset”[^57], and a range of
+described how data is “an under-exploited asset”,[^57] and a range of
 forces can act as disincentives to data use. For example:
 
 -   A lack of common technical standards or the efforts needed to make
@@ -1665,7 +1683,7 @@ improving data quality and accessibility. DELVE used the data readiness
 bands, outlined in this report, as a common language for understanding
 progress in a data sharing project. Other efforts, such as the Oxford’s
 Blavatnik School of Government’s COVID-19 Government Response
-Tracker[^73], show alternative means of compiling agile data resources
+Tracker,[^73] show alternative means of compiling agile data resources
 in an emergency.
 
 Ensuring these efforts are successful and sustainable will require
@@ -1819,15 +1837,6 @@ table_areas = [
 
     <https://arxiv.org/abs/1705.02245>
 
-[^33]: Short-Term Mortality Fluctuations Dataseries (STMF) in the Human
-    Mortality Database
-
-    <https://www.mortality.org/Public/STMF_DOC/STMFNote.pdf>,
-    accessed 23 October 2020
-
-[^34]: Google COVID-19 Community Mobility Reports
-
-    <https://www.google.com/covid19/mobility/>
 
 [^35]: The Global Alliance for Genomics & Health (GA4GH) has approved
     the technical specifications for "access passports" and associated

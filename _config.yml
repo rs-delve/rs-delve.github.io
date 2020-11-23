@@ -38,10 +38,9 @@ markdown: kramdown
 github_username: rs-delve
 display:
   copy_button:
-    bibtex: false
-    endnote: false
-    apa: false
-    ris: false
+    bibtex: true
+    endnote: true
+    apa: true
   comments: false
 ghub:
   edit: true
