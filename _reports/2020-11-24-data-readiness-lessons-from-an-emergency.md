@@ -124,9 +124,8 @@ activity
 
 * [Appendices](#appendices)
     * [Appendix A](#appendix-a): Python code for loading COVID-19 cases]
-
-* Addenda{% assign addenda = site.addenda | sort: 'date' | reverse %}{% for addendum in addenda  %}{% if addendum.report == 'DATA' %}
-    * [{{ addendum.title }}]({%if addendum.pdfonly %}{{ addendum.pdf }}{% else %}{{ addendum.url }}{%endif%}){% endif %}{% endfor %}
+    * [Other Appendices](#other-appendices){% assign addenda = site.addenda | sort: 'date' | reverse %}{% for addendum in addenda  %}{% if addendum.report == 'DATA' %}
+        * [{{ addendum.title }}]({%if addendum.pdfonly %}{{ addendum.pdf }}{% else %}{{ addendum.url }}{%endif%}){% endif %}{% endfor %}
 	
 * [Footnotes and References](#footnotes-and-references)
 
@@ -394,7 +393,7 @@ difficult to estimate $R$ for that location. One way of improving the
 accuracy of these estimates is to consider neighbouring regions: by
 understanding the aggregate movement of people between regions, we can
 hope to understand cross infection between regions and use our
-understanding of cross infection to improve our estimate of R. One way
+understanding of cross infection to improve our estimate of $R$. One way
 of tracking this movement of people is through origin to destination
 mobility data.
 
@@ -884,20 +883,21 @@ requirements.
 
 Data quality can improve when data sharing guidelines are used. Some
 attempts to formulate such guidelines for the use of data in research
-can already be found emerging from the Bioinformatics community. A range
-of organisations have also been active in developing and promoting the
-‘FAIR’ principles for data use, seeking to ensure that open data is made
-“Findable”, “Accessible”, “Interoperable” and “Reusable”.[^31] Each of
-these terms indicates a desired state for data by which an individual
-data set can be judged, in particular around the meta data and the
-licensing of the data set. These principles describe a useful
-destination where we would like our datasets to be, but they are less
-helpful when it comes to characterizing the nature of the journey to get
-there, what capabilities and resources will be needed, what the
-milestones should be monitored. In particular, they are of little help
-when it comes to resourcing a project, either from the perspective of
-the generators of the data set, or from the point of view of the
-putative users of the data.
+can already be found emerging from the Bioinformatics community. A
+range of organisations have also been active in developing and
+promoting the ‘FAIR’ principles for data use, seeking to ensure that
+open data is made “Findable”, “Accessible”, “Interoperable” and
+“Reusable”.[^31] Each of these terms indicates a desired state for
+data by which an individual data set can be judged, in particular
+around the meta data and the licensing of the data set. These
+principles describe a useful destination where we would like our
+datasets to be, but they are less helpful when it comes to
+characterizing the nature of the journey to get there, what
+capabilities and resources will be needed, what milestones should be
+monitored. In particular, they are of little help when it comes to
+resourcing a project, either from the perspective of the generators of
+the data set, or from the point of view of the putative users of the
+data.
 
 The pipeline for data from discovery and acquisition to decision is
 fundamentally different for happenstance data created by everyday
