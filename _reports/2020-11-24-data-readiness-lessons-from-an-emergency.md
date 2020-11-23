@@ -1,13 +1,12 @@
 ---
 title: 'Data Readiness: Lessons from an Emergency'
 date: 2020-11-24 00:00:00 Z
-published: False
+published: false
 authors:
 - consortium:
     name: The DELVE Initiative
   institute: The Royal Society
   url: http://rs-delve.github.io/people.html
-published: False
 report_number: 7
 layout: report
 abstract: |
