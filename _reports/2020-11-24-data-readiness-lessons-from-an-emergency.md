@@ -1,7 +1,7 @@
 ---
 title: 'Data Readiness: Lessons from an Emergency'
 date: 2020-11-24 00:00:00 Z
-published: true
+published: false
 authors:
 - consortium:
     name: The DELVE Initiative
