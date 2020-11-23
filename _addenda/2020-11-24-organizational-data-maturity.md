@@ -1,7 +1,6 @@
 ---
 title: Organisational Data Maturity
 date: 2020-11-24 00:00:00 Z
-published: true
 layout: addendum
 authors:
 - given: Neil D.
