@@ -1757,6 +1757,25 @@ table_areas = [
 				multiple_tables=False, stream=True)[0])
 ```
 
+## Other Appendices
+
+The following are materials prepared by individual members of DELVE as
+inputs into this report.
+
+{% assign addenda = site.addenda | sort: 'ref'  %}
+<ul>
+{% for addendum in addenda  %}
+{% if addendum.report == 'DATA' %}
+<li> {% include link-addendum-title.html %}
+  {% if addendum.authors %}
+{% assign authors=addendum.authors %}
+    <p><i>Prepared for the DELVE Initiative by {% include listauthors.html %}</i></p></li>
+{% endif %}
+{% endif %}
+{% endfor %}
+</ul>
+
+
 ### Footnotes and References 
 
 [^1]: Health data is another important data modality that we do not
