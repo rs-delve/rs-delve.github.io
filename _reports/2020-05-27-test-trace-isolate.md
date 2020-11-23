@@ -9,7 +9,7 @@ authors:
 layout: report
 report_number: 2
 abstract: |
-  When effectively implemented at scale, Test, Trace, Isolate (TTI) can contribute to controlling the UK COVID-19 epidemic, but only as part of a wider package of public health interventions, including physical and social distancing, control of infection procedures, outbreak investigation and control. TTI is most effective in breaking chains of transmission, and reducing the effective reproductive number (R<sub>e</sub>), when there is maximum: (i) **speed**, i.e., quick turn-around of both index case testing and contact tracing (and testing); (ii) **compliance**, i.e., a high proportion of people in each chain are willing and able to follow guidance; and (iii) **coverage**, i.e., identification of most chains through integration of consistent case data and real-time, high-precision population surveillance. Each of these three aspects of TTI needs careful attention, as do the trade-offs implicit in choices of how precisely to implement TTI in terms of who to test, trace and isolate, and when to do so.
+  When effectively implemented at scale, Test, Trace, Isolate (TTI) can contribute to controlling the UK COVID-19 epidemic, but only as part of a wider package of public health interventions, including physical and social distancing, control of infection procedures, outbreak investigation and control. TTI is most effective in breaking chains of transmission, and reducing the effective reproductive number ($R_e$), when there is maximum: (i) **speed**, i.e., quick turn-around of both index case testing and contact tracing (and testing); (ii) **compliance**, i.e., a high proportion of people in each chain are willing and able to follow guidance; and (iii) **coverage**, i.e., identification of most chains through integration of consistent case data and real-time, high-precision population surveillance. Each of these three aspects of TTI needs careful attention, as do the trade-offs implicit in choices of how precisely to implement TTI in terms of who to test, trace and isolate, and when to do so.
 
   <!--break-->
 
@@ -89,7 +89,7 @@ note: This work was carried out rapidly in May 2020 so that an early version cou
     taken to test and to trace individuals makes a substantial impact on
     the relative effectiveness of TTI: our simulation model finds that
     reducing the overall turnaround time from five days to three leads
-    to 60% greater reduction in R<sub>e</sub> due to contact tracing of
+    to 60% greater reduction in $R_e$ due to contact tracing of
     extra-household contacts. Since the impact of a TTI system on
     secondary infections is dominated by the large impact of immediate
     isolation of symptomatic cases and their household contacts, the
@@ -221,7 +221,7 @@ surveillance and other NPI measures.
 
 All aspects of a coordinated TTI system must be firmly guided by the
 core public health purpose of reducing transmissions and contributing to
-maintaining an effective reproduction number (R<sub>e</sub>) below 1.
+maintaining an effective reproduction number ($R_e$) below 1.
 Alongside its public health benefits, the system enables identification
 of cases for clinical care and provides intelligence on the course of
 the epidemic (surveillance), which in turn enables TTI to be targeted to
@@ -232,7 +232,7 @@ sources, including an empirical review of the implementation and impact
 of TTI in the context of COVID-19, reviews of the potential role of the
 business sector and of systematic surveillance in supporting TTI, and a
 single-generation mathematical model to capture how variation in TTI
-implementation might affect the R<sub>e</sub>. The report’s overall goal
+implementation might affect the $R_e$. The report’s overall goal
 is to present evidence on how TTI might be implemented and what its
 impact might be as part of a COVID-19 epidemic response.
 
@@ -412,7 +412,7 @@ preventing secondary Covid-19 infections.
 S1 to S5 are increasingly stringent NPI scenarios. S1 involves no
 restrictions on social interaction, only requiring households of
 symptomatic individuals to quarantine; S5 reflects the situation before
-May 9<sup>th</sup>. R<sub>e</sub> reflects transmissions from index
+May 9<sup>th</sup>. $R_e$ reflects transmissions from index
 cases to their secondary and tertiary contacts. See Technical Document 3
 for details.
 
@@ -426,7 +426,7 @@ The findings of our model highlight the importance of speed and
 compliance to the effectiveness of TTI. The figure above summarises the
 results for test-based TTI across five scenarios ranging from most (S5)
 to least (S1) severe NPI measures. Overall, this simulation indicates
-that contact tracing can generate a reduction in R<sub>e</sub> of 5-15%,
+that contact tracing can generate a reduction in $R_e$ of 5-15%,
 depending on the stringency of other government measures and under
 reasonable assumptions about testing/tracing speed and public
 compliance.
@@ -448,7 +448,7 @@ half of their onward transmissions to tertiary cases had already
 occurred. Our simulation model finds that reducing the overall
 turnaround time from five days to three leads to 60% improvement in
 effectiveness of the test-based TTI system (in terms of reduction in
-R<sub>e</sub>), due to the quarantining of infected contacts just as
+$R_e$), due to the quarantining of infected contacts just as
 they are expected to be most infectious. For now, we assume that
 point-of-care testing is not imminent, although a high-quality,
 immediate test became available should provide a small additional
@@ -565,7 +565,7 @@ when they get them; (ii) quarantine their households; and (iii)
 self-isolate when instructed to when contact-traced from an index case.
 We found that the level of compliance significantly affects our results.
 For example, for test-based TTI in the context of moderate NPIs,
-R<sub>e</sub> falls from 1.9 at 50% compliance to 1.4 at 80% compliance.
+$R_e$ falls from 1.9 at 50% compliance to 1.4 at 80% compliance.
 We considered the added benefit of app-based tracing, but found it to
 have a relatively minor impact on effectiveness in our base-case
 scenario. This reflected our assumptions that all contacts of each index
@@ -834,7 +834,7 @@ A key question in the context of TTI is whether to test contacts, and if
 so when. In our modelling we showed that, depending on the severity of
 the other NPIs in place, testing all contacts of index cases who test
 positive would require 50-171% more tests than using symptoms to guide
-such tests, but without a substantial impact on R<sub>e</sub> (since
+such tests, but without a substantial impact on $R_e$ (since
 given testing and tracing delays, the only people they differentially
 capture are those who are asymptomatic). In situations where all
 contacts of positive index cases are advised to quarantine for 14 days,

@@ -1,11 +1,12 @@
 ---
-title: Data Readiness: Lessons from an Emergency
+title: "Data Readiness: Lessons from an Emergency"
 date: 2020-11-24 00:00:00 Z
 authors:
 - consortium:
     name: The DELVE Initiative
   institute: The Royal Society
   url: http://rs-delve.github.io/people.html
+published: False
 report_number: 7
 layout: report
 abstract: |
@@ -25,7 +26,9 @@ abstract: |
   not originally collected with a particular research or policy
   question in mind but are created through the normal course of events
   in our digital lives, and our interactions with digital systems and
-  services. This happenstance data pertains to individual citizens and
+  services. 
+  
+  This happenstance data pertains to individual citizens and
   their daily activities. To be useful it needs to be anonymized,
   aggregated and statistically calibrated to provide meaningful
   metrics for robust decision making while managing concerns about
@@ -42,12 +45,13 @@ abstract: |
   data. This is the landscape of data readiness; the availability and
   quality of the UK nation’s data dictates our ability to respond in
   an agile manner to evolving events.<!--break-->
-note: This paper has drawn on evidence available up to 12 November 2020.
-Further evidence on this topic is constantly published and DELVE will
-continue to develop this report as it becomes available. This
-independent overview of the science has been provided in good faith by
-subject experts. DELVE and the Royal Society accept no legal liability
-for decisions made based on this evidence.
+note: |
+  This paper has drawn on evidence available up to 12 November 2020.
+  Further evidence on this topic is constantly published and DELVE
+  will continue to develop this report as it becomes available. This
+  independent overview of the science has been provided in good faith
+  by subject experts. DELVE and the Royal Society accept no legal
+  liability for decisions made based on this evidence.
 ---
 
 
@@ -56,11 +60,15 @@ for decisions made based on this evidence.
   margin-left: auto;
   margin-right: auto;
   }
-  .casestudy { background: #e0f0e0; }
-  .box { background: #e0f0e0; }
+  .casestudy { background: #e0f0e0; 
+   padding: 25px 20px 20px 25px;
+   border-style: solid;
+   margin: 20px 0 20px 0;}
+  .box { background: #e0f0e0; 
+   padding: 25px 20px 20px 25px;
+   border-style: solid;
+   margin: 20px 0 20px 0;}
 </style>
-
-Then, whenever we want a create a box, we just enclose it with these tags (in TOC and body) in the report's .md file:
 
 # Key points 
 
@@ -162,7 +170,7 @@ different types of data in policymaking.
         data). Efficient resourcing and strategic implementation of data
         sharing projects will only be possible if Treasury and Cabinet
         Office are aligned on plausible benefits and costs of data
-        sharing pro jects.
+        sharing projects.
 
     -   Mobility data: Another project should drive a step-change in the
         use of mobility data for public policy. To achieve this, the ONS
@@ -181,7 +189,7 @@ different types of data in policymaking.
 [Challenges in accessing and analysing non-traditional data sources to
 inform COVID-19 policy](#challenges-in-accessing-and-analysing-non-traditional-data-sources-to-inform-covid-19-policy)
 
-[Recommendations 2](#recommendations)
+[Recommendations](#recommendations)
 
 1. [Background](#1-background)
     * [DELVE’s remit and data science for COVID-19 policy](#delves-remit-and-data-science-for-covid-19-policy)
@@ -212,10 +220,13 @@ activity](#box-b.-coordinated-collaboration-to-enable-data-use-using-transaction
 		* [Accounting for data bias](#accounting-for-data-bias)
 		* [Create incentives or duties to promote responsible data sharing](#create-incentives-or-duties-to-promote-responsible-data-sharing)
 3. [Conclusion](#conclusion)
+
 * [Appendices](#appendices)
     * [Appendix A: Python code for loading COVID-19 cases](#appendix-a)
-* Addenda
+
+* Addenda{% assign addenda = site.addenda | sort: 'date' | reverse %}{% for addendum in addenda  %}{% if addendum.report == 'DATA' %}
     * [{{ addendum.title }}]({%if addendum.pdfonly %}{{ addendum.pdf }}{% else %}{{ addendum.url }}{%endif%}){% endif %}{% endfor %}
+	
 * [Footnotes and References](#footnotes-and-references)
 
 # 1. Background
@@ -263,7 +274,7 @@ The breadth of these questions highlights the intersections of expertise
 that were required as well as the diversity of data sources that were
 potentially in scope of these efforts.
 
-In March 2020, DELVE formed an initial list of datasets we felt would be
+In early April 2020, DELVE formed an initial list of datasets we felt would be
 informative in addressing policy questions. This data included mobility
 data (e.g. the aggregated movements of mobile telephones between
 different cell towers) and payments transaction data (e.g. aggregated
@@ -296,7 +307,7 @@ banks in France available for analysis[^5]. Their partnership with
 analysts complied with the EU GDPR (Article 89), and produced an
 intricately detailed view of the impact of COVID-19 on consumer spending
 and business sales on a daily and weekly scale. We examine such examples
-of coordinated collaboration to enable data use in Boxes A and B in this
+of coordinated collaboration to enable data use in Boxes [A](#box-a.-coordinated-collaboration-to-enable-data-use-using-human-mobility-data-to-understand-the-impact-of-covid-19-policies-on-the-movement-of-people) and [B](#box-b.-coordinated-collaboration-to-enable-data-use-using-transaction-data-to-understand-the-impact-of-policy-interventions-on-economic-activity) in this
 report. While there are examples of the successful deployment of similar
 data types to support COVID-19 policy development in the UK, the scale
 of collaborations established elsewhere demonstrates the wider
@@ -338,8 +349,7 @@ policymaking. These scenarios cover:
     of economic growth or constriction - but they rely on access to data
     held by private companies.
 
-<div class="casestudy">
-
+{% capture contents %}
 ## Case Study 1: What is the COVID-19 reproduction rate in a local area?
 
 ***Important statistics, such as local COVID-19 reproduction rate, are
@@ -355,8 +365,8 @@ DELVE’s report on the economics of lockdown demonstrates the importance
 of deploying localised responses to the pandemic. The use of such
 measures is now a central component of the government’s approach to
 managing the spread of COVID-19. However, it remains challenging to
-accurately measure the disease’s reproduction rate - the R number - at a
-local level: the ability to estimate R diminishes with reduced
+accurately measure the disease’s reproduction rate - the $R$ number - at a
+local level: the ability to estimate $R$ diminishes with reduced
 transmission, and transmission reduces as disease numbers drop as they
 tend to when we focus on smaller local regions.
 
@@ -368,7 +378,7 @@ by Public Health England and NHSX on the UK Government’s COVID-19
 dashboard[^7].
 
 When disease prevalence is low in a particular region, it becomes more
-difficult to estimate R for that location. One way of improving the
+difficult to estimate $R$ for that location. One way of improving the
 accuracy of these estimates is to consider neighbouring regions: by
 understanding the aggregate movement of people between regions, we can
 hope to understand cross infection between regions and use our
@@ -390,7 +400,7 @@ local districts. This data is derived from location information from
 more than 80% of the mobile phones in Spain and can be accessed without
 prior registration.[^8] Access to this data has allowed Spanish
 authorities to include origin to destination mobility in their estimates
-of local R through a metapopulation model[^9], from which correlations
+of local $R$ through a metapopulation model[^9], from which correlations
 between regional mobility and COVID-19 reproduction also become clear.
 Furthermore, interconnected communities could be detected from granular
 mobility flows; these then supported decisions regarding selective
@@ -401,11 +411,34 @@ such a region would be, as most mobility is internal and not to other
 geographical areas. Lastly, the data is informative in simulating the
 effect that decisions on population mobility have in the future
 evolution of the pandemic. We consider factors that contributed to the
-Spanish mobility data’s existence in Box A (Coordinated collaboration to
+Spanish mobility data’s existence in [Box A](#box-a.-coordinated-collaboration-to-enable-data-use-using-human-mobility-data-to-understand-the-impact-of-covid-19-policies-on-the-movement-of-people) (Coordinated collaboration to
 enable data use).
-</div>
 
-<div class="casestudy">
+#### Footnotes and References
+
+[^7]: GOV.UK: Coronavirus (COVID-19) in the UK
+    <https://coronavirus.data.gov.uk/>
+
+[^8]: Información estadística para el análisis del impacto de la crisis
+    COVID-19 / Datos de movilidad (Statistical information for the
+    analysis of the impact of the COVID-19 crisis / Mobility data)
+
+    <https://www.ine.es/covid/covid_movilidad.htm>
+
+[^9]: Análisis del grupo de trabajo de ciencias de datos para el
+    COVID-19 Comunitat Valenciana (Analysis of the data sciences working
+    group for COVID-19 Comunitat Valenciana)
+
+    <http://infocoronavirus.gva.es/documents/170024890/170025022/Informe+Movilidad+gva+Mayo+2020.pdf/5b043319-eed9-4a66-8477-d214ffe11c39>,
+    accessed 23 October 2020
+
+{% endcapture %}
+{% include div.html style="casestudy" contents=contents %}
+
+
+
+
+{% capture contents %}
 ## Case Study 2: How much more are the elderly at risk in different countries?
 
 ***International comparisons can help policymakers understand what types
@@ -572,9 +605,88 @@ management systems that were better placed to respond to the challenges
 of COVID-19. In contrast, in the UK a range of different agencies have
 different responsibilities for collecting different forms of data across
 England, Wales, Scotland and Northern Ireland.
-</div>
 
-<div class="casestudy">
+#### Footnotes and References
+
+[^10]: COVID-19 Data Repository by the Center for Systems Science and
+    Engineering (CSSE) at Johns Hopkins University
+
+    <https://github.com/CSSEGISandData/COVID-19</span>](https://github.com/CSSEGISandData/COVID-19>
+
+[^11]: European Centre for Disease Prevention and Control: COVID-19 data
+
+    <https://www.ecdc.europa.eu/en/covid-19/data>
+
+[^12]: WHO Coronavirus Disease (COVID-19) Dashboard: Situation by
+    Country, Territory & Area
+
+    <https://covid19.who.int/table>
+
+[^13]: COVID-19 India: A crowdsourced initiative
+
+    <https://www.covid19india.org/>
+
+[^14]: Robert Koch Institute: Infectious Disease Epidemiology
+
+    <https://www.rki.de/EN/Home/homepage_node.html>
+
+[^15]: EPISTAT Belgian Infectious Diseases Dashboard
+
+    <https://epistat.wiv-isp.be/>
+
+[^16]: Institut national d'études démographiques (INED): Demography of
+    COVID-19 deaths
+
+    <https://dc-covid.site.ined.fr/en/data/>
+
+[^17]: Best Practices for PDF and Data: Use Cases, Methods, Next Steps
+    by Thomas Forth and Paul Connell. The ODI. Available from <https://www.w3.org/community/pdf-open-data/odi-report-best-practices-for-pdf-and-data/>
+
+[^18]: Istituto Superiore di Sanità: L'epidemiologia per la sanità
+    pubblica (Epidemiology for public health)
+
+    <https://www.epicentro.iss.it/>
+
+[^19]: Ministry of Health, Consumer Affairs and Social Welfare (Spain)
+
+    <https://www.mscbs.gob.es/en/home.htm>
+
+[^20]: For example: COVID-19: Relatório de situação, 2 September 2020
+
+    <https://covid19.min-saude.pt/wp-content/uploads/2020/09/184_DGS_boletim_20200902.pdf>
+    (accessed 23 October 2020)
+
+[^21]: CSV files and table with the Covid-19 infections and mortality
+    per day (time series)
+
+    <https://hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6>,
+    accessed 23 October 2020
+
+[^22]: COVID-19 cases by age, group and sex
+
+    <https://www.health.gov.au/resources/covid-19-cases-by-age-group-and-sex>,
+    accessed 23 October 2020
+
+[^23]: A web scraper is an automated program for regularly accessing a
+    webpage and extracting data from that webpage.
+
+[^24]: Gobierno de México. Datos Abiertos - Dirección General de
+    Epidemiología (Government of Mexico. Open Data - General Directorate
+    of Epidemiology)
+
+    <https://www.gob.mx/salud/documentos/datos-abiertos-152127>,
+    accessed 23 October 2020
+
+[^25]: Legal Framework for the National Digital Strategy of Mexico
+
+    <http://www.oecd.org/gov/mexico-legal-framework.pdf>
+
+{% endcapture %}
+
+{% include div.html style="casestudy" contents=contents %}
+
+{% capture contents %}
+
 ## Case Study 3: How have COVID-19 policies affected consumer behaviour, and what are the implications for economic growth?
 
 ***Official statistics play an important role in assessing the health,
@@ -614,7 +726,7 @@ on large-scale payments data being facilitated by national statistics
 offices; in the case of Statistics Portugal (Instituto Nacional de
 Estatística), it was fully anonymized data from more than 6 million
 people[^26]. The examples from other countries are insightful, and we
-examine them further in Box B.
+examine them further in [Box B](#box-b.-coordinated-collaboration-to-enable-data-use-using-transaction-data-to-understand-the-impact-of-policy-interventions-on-economic-activity).
 
 In contrast, it seems that no financial institution in the UK that has
 made large-scale payments data widely available for policy analysis and
@@ -640,7 +752,26 @@ carefully-manage the personal data of their customers, that other
 countries operating within the GDPR have succeeded in setting in place
 data sharing arrangements to make use of such data suggests that there
 are approaches that can enable use of this data.
-</div>
+
+#### Footnotes and References
+
+[^26]: How do People Respond to Small Probability Events with Large,
+    Negative Consequences? Martin Eichenbaum et al, 2020
+
+    <https://www.kellogg.northwestern.edu/faculty/rebelo/htm/portugalcovid.pdf>
+
+[^27]: Hacioglu, S., D. Kaenzig, and P. Surico. 2020. “Consumption in
+    the Time of COVID-19: Evidence from UK Transaction Data.” *CEPR
+    Discussion Paper* No. 14733
+
+    <https://cepr.org/active/publications/discussion_papers/dp.php?dpno=14733>,
+    accessed 23 October 2020
+
+[^28]: Second quarter 2020 Bank of England Speech (Andy Haldene) <https://www.bankofengland.co.uk/-/media/boe/files/speech/2020/the-second-quarter-speech-by-andy-haldane.pdf>, accessed 23 October 2020
+
+{% endcapture %}
+{% include div.html style="casestudy" contents=contents %}
+
 
 ## Understanding different data types
 
@@ -794,7 +925,7 @@ maturity marker that helped coordinate and prioritise the efforts of our
 research software engineers in bringing datasets to a state of
 availability.
 
-Case Studies 1 to 3 tell different tales of data readiness. To provide
+Case Studies [1](#case-study-1-what-is-the-covid-19-reproduction-rate-in-a-local-area) to [3](#case-study-3-how-have-covid-19-policies-affected-consumer-behaviour-and-what-are-the-implications-for-economic-growth) tell different tales of data readiness. To provide
 the language with which we could describe the state of data, we broadly
 classify data into a spectrum of Bands of readiness.[^32] The starting
 point for anyone wishing to provide an answer could be in any of these
@@ -828,8 +959,7 @@ long path of negotiating digital access, only to discover that the data
 would not ultimately be useful for the original question.
 
 
-<div class="casestudy">
-
+{% capture contents %}
 ## Implementing a framework for data readiness in DELVE projects
 
 DELVE set out to address a series of research questions in areas where
@@ -839,7 +969,7 @@ that might be available, labelling sources as being in Band A, B, C or
 D. This process highlighted areas where rapid data analysis might be
 possible.
 
-In Case Studies 1 to 3 there are examples where data has to be collected
+In Case Studies [1](#case-study-1-what-is-the-covid-19-reproduction-rate-in-a-local-area) to [3](#case-study-3-how-have-covid-19-policies-affected-consumer-behaviour-and-what-are-the-implications-for-economic-growth) there are examples where data has to be collected
 from scratch specifically for the question, and others where data has to
 be brought together from a diversity of existing sources. Over time,
 some datasets have remained at a single data readiness level, while
@@ -929,14 +1059,16 @@ COVID19 are therefore:
 
 -   The efficiency of overarching processes by which Bands D and C data
     could be brought into Band B.
-</div>
+{% endcapture %}
+
+{% include div.html style="casestudy" contents=contents %}
 
 Within DELVE projects, the data readiness bands provided a common
 language in interdisciplinary collaborations; from the mutual
 understanding that hearsay data is only hearsay data, to the properties
 that make it fit for purpose. As most effort is usually spent at the
 transitions between the Bands, it frames the challenges to readying
-data. Foremost, Case Study 1 highlighted the downstream impact of the
+data. Foremost, [Case Study 1](#case-study-1-what-is-the-covid-19-reproduction-rate-in-a-local-area) highlighted the downstream impact of the
 practices of data producers and publishers: substantial “data wrangling”
 is required to bring data from online dashboards and PDFs into
 research-friendly formats. A coherent vocabulary about the readiness of
@@ -996,7 +1128,7 @@ Access to happenstance data will typically require the coordinated
 cooperation of many parties. In the case of mobility data and
 transaction data, for example, effective collaborations during COVID-19
 have relied on the skills and expertise of individuals from across the
-public sector, private sector and academia. Boxes A and B outline the
+public sector, private sector and academia. Boxes [A](#box-a.-coordinated-collaboration-to-enable-data-use-using-human-mobility-data-to-understand-the-impact-of-covid-19-policies-on-the-movement-of-people) and [B](#box-b.-coordinated-collaboration-to-enable-data-use-using-transaction-data-to-understand-the-impact-of-policy-interventions-on-economic-activity) outline the
 coordinated collaboration required to enable data use, and explore the
 requirements to set up such collaborations across different countries.
 
@@ -1030,13 +1162,13 @@ than real. Several factors likely contribute to this dynamic:
 Overcoming these barriers to collaboration takes time, energy, and human
 resources, all of which are in high demand at times of crisis.
 
-<div class="box">
+{% capture contents %}
 ## Box A. Coordinated collaboration to enable data use: using human mobility data to understand the impact of COVID-19 policies on the movement of people
 
 Mobility data is informative to public health actions across early-,
 middle-, and late-stage phases of the COVID-19 pandemic.[^38] [^39] It
 is crucial to modelling (estimating) local COVID-19 spread. In our
-example in Case Study 1, we noted that a scientist in the UK can obtain
+example in [Case Study 1](#case-study-1-what-is-the-covid-19-reproduction-rate-in-a-local-area), we noted that a scientist in the UK can obtain
 counts of the daily flow of people from origin to destination between
 more than 3,000 districts in Spain at the single click of a button, with
 data running back to the start of the COVID-19 pandemic in Europe in
@@ -1081,7 +1213,7 @@ pilot project. The foundational data sharing agreements and
 infrastructure took more than a year to lay. A pandemic doesn’t afford
 us this time. Quoting Nuria Oliver[^43],
 
-*“If you have an epidemic with exponential growth, you have no time.”*
+> If you have an epidemic with exponential growth, you have no time.
 
 In March 2020, within a week of the publishing of the call to action in
 El País, presidents or former presidents of Orange, Telefónica and
@@ -1124,9 +1256,48 @@ governance challenges:
     or business model of the company originally holding the data. The
     presence of a trusted intermediate to manage data sharing activities
     can help mitigate this risk.
-</div>
 
-<div class="box">
+#### Footnotes and References
+
+[^38]: Mobile phone data for informing public health actions across the
+    COVID-19 pandemic life cycle by Nuria Oliver *et al* in Science
+    Advances 2020 6 (23)
+	
+    <https://advances.sciencemag.org/content/6/23/eabc0764>
+
+[^39]: The use of mobile phone data to inform analysis of COVID-19
+    pandemic epidemiology by Kyra H. Grantz *et al* in Nature
+    Communications 11:4961 (2020)
+
+    <https://www.nature.com/articles/s41467-020-18190-5>
+
+[^40]: Nuria Oliver: what big data and the Mexican pandemic taught us.
+    Talk at WIRED 2013 <https://www.youtube.com/watch?v=H5_FeuuS-zs>
+
+[^41]: Using Big Data to fight pandemics
+
+    <https://www.telefonica.com/en/web/responsible-business/article/-/blogs/using-big-data-to-fight-pandemics>,
+    accessed 23 October 2020
+
+[^42]: El valor de los móviles y la Covid-19 (The value of mobiles and
+    Covid-19) by Nuria Oliver published in *El País*
+
+    <https://elpais.com/elpais/2020/03/12/opinion/1584016142_423943.html>,
+    accessed 23 October 2020
+
+[^43]: Personal interview
+
+[^44]: An origin to destination mobility example is “Flux Vision” from
+    Orange Business Services <https://www.orange-business.com/en/products/flux-vision>,
+    accessed 23 October 2020
+
+
+{% endcapture %}
+
+{% include div.html style="box" contents=contents %}
+
+{% capture contents %}
+
 ## Box B. Coordinated collaboration to enable data use: using transaction data to understand the impact of policy interventions on economic activity
 
 To understand the nation’s economic health, policymakers typically rely
@@ -1203,7 +1374,61 @@ of labor market disruptions on spending.
 There are American examples of coordinated cooperation, notably that of
 the Opportunity Insights Economic Tracker[^51] [^52], which relies on
 payments data from at least eleven third-party providers.
-</div>
+
+[^45]: Consumers' Mobility, Expenditure and Online-Offline Substitution
+    Response to Covid19: Evidence from French Transaction Data. By David
+    Bounie et al, 2020
+
+    <https://www.telecom-paris.fr/consumers-mobility-online-substitution-covid-19>
+
+    <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3588373>
+
+[^46]: What and how did people buy during the Great Lockdown? Evidence
+    from electronic payments. By Bruno P. Carvalho *et al*, 2020
+
+    <https://ideas.repec.org/p/eca/wpaper/2013-307531.html>,
+    accessed 23 October 2020
+
+[^47]: How do People Respond to Small Probability Events with Large,
+    Negative Consequences? By Martin Eichenbaum et al, 2020
+
+    <https://www.kellogg.northwestern.edu/faculty/rebelo/htm/portugalcovid.pdf>,
+    accessed 23 October 2020
+
+[^48]: Tracking the COVID-19 Crisis with High-Resolution Transaction
+    Data. By Vasco M. Carvalho et al, Cambridge-INET Working Paper
+    Series No: 2020/16
+
+    <http://www.econ.cam.ac.uk/research-files/repec/cam/pdf/cwpe2030.pdf>,
+    accessed 23 October 2020
+
+[^49]: Social distancing laws cause only small losses of economic
+    activity during the COVID-19 pandemic in Scandinavia. By Adam
+    Sheridan *et al* in Proceedings of the National Academy of Sciences
+    Aug 2020, 117 (34) 20468-20473
+
+    <https://www.pnas.org/content/117/34/20468>
+
+[^50]: Initial Impacts of the Pandemic on Consumer Behavior: Evidence
+    from Linked Income, Spending, and Savings Data, by Natalie Cox *et
+    al*, Becker Friedman Institute working paper number 2020-82
+
+    <https://bfi.uchicago.edu/wp-content/uploads/BFI_WP_202082.pdf>
+
+[^51]: Opportunity Insights Economic Tracker
+
+    <https://tracktherecovery.org/>
+
+[^52]: The Economic Impacts of COVID-19: Evidence from a New Public
+    Database Built Using Private Sector Data. By Raj Chetty et al, 2020
+
+    <https://opportunityinsights.org/wp-content/uploads/2020/05/tracker_paper.pdf>,
+    accessed 23 October 2020
+
+
+{% endcapture %}
+
+{% include div.html style="box" contents=contents %}
 
 The common denominator between the successful examples of data sharing
 cited in this report is the pre-existence of collaborative relationships
@@ -1237,19 +1462,19 @@ stages of the data-sharing pipeline.
 Through implementation, pathfinder projects provide examples of
 addressing governance issues by practical necessity. Some are:
 
--   **Multi-party data sharing.** In the examples in Boxes A and B that
+-   **Multi-party data sharing.** In the examples in Boxes [A](#box-a.-coordinated-collaboration-to-enable-data-use-using-human-mobility-data-to-understand-the-impact-of-covid-19-policies-on-the-movement-of-people) and [B](#box-b.-coordinated-collaboration-to-enable-data-use-using-transaction-data-to-understand-the-impact-of-policy-interventions-on-economic-activity) that
     go beyond prior academic-corporate relationships, data sharing has
     worked best for organisations that had already invested in the
     infrastructure and governance mechanisms to enable data sharing
     between multiple parties in a secure and privacy-aware way.
 
--   **Protocols for contributors.** We noted in Box A that data given in
+-   **Protocols for contributors.** We noted in Box [A](#box-a.-coordinated-collaboration-to-enable-data-use-using-human-mobility-data-to-understand-the-impact-of-covid-19-policies-on-the-movement-of-people) that data given in
     kind could stand in competition with business products that use the
     same data, for example aggregated human mobility data. A pathfinder
     project will contextualize the criteria by which data is
     contributed, including timelines and compensation.
 
--   **Data privacy.** In Box A the INE, as a trusted third-party,
+-   **Data privacy.** In [Box A](#box-a.-coordinated-collaboration-to-enable-data-use-using-human-mobility-data-to-understand-the-impact-of-covid-19-policies-on-the-movement-of-people) the INE, as a trusted third-party,
     ensured that anonymized and aggregated data wasn’t re-identifiable,
     even when combined with other datasets.
 
@@ -1265,7 +1490,7 @@ metrics (such as GDP) from happenstance data like payments data. The
 project may not require any law change, but would require a dedicated
 effort from Government to institutionalise a process that will enable
 the same kind of collaboration between academia, government and the key
-private sector players as the examples in Box B.
+private sector players as the examples in [Box B](#box-b.-coordinated-collaboration-to-enable-data-use-using-transaction-data-to-understand-the-impact-of-policy-interventions-on-economic-activity).
 
 A second pathfinder project should produce daily views of population
 mobility between geographic regions, aggregated from origin to
@@ -1285,7 +1510,7 @@ questions for which it provides a basis for answers to. This
 necessitates calibration through surveys or complimentary data, much
 like the REACT-1[^56] studies calibrate and correct for the systematic
 underreporting of COVID-19 cases in the UK. The examples of mobility and
-transaction data in Boxes A and B preclude the movement and economic
+transaction data in Boxes [A](#box-a.-coordinated-collaboration-to-enable-data-use-using-human-mobility-data-to-understand-the-impact-of-covid-19-policies-on-the-movement-of-people) and [B](#box-b.-coordinated-collaboration-to-enable-data-use-using-transaction-data-to-understand-the-impact-of-policy-interventions-on-economic-activity) preclude the movement and economic
 activity of anyone who is digitally disenfranchised. Without a careful
 correction, data will be biased by the uneven use of smartphones or
 credit cards.
@@ -1484,59 +1709,60 @@ Python code snippet for loading COVID-19 cases by age and sex for
 Belgium:
 
 ```python
-pd.read\_csv('https://epistat.sciensano.be/Data/COVID19BE\_CASES\_AGESEX.csv',
-parse\_dates=\['DATE'\])
+pd.read_csv('https://epistat.sciensano.be/Data/COVID19BE_CASES_AGESEX.csv',
+            parse_dates=['DATE'])
 ```
 
 Python code snippet for loading COVID-19 cases by age and sex for Spain
-for a *single day*. Note that the coordinates listed in table\_areas can
+for a *single day*. Note that the coordinates listed in table_areas can
 change from report to report and need to be established manually.
 
 ```python
-url =
-'https://www.mscbs.gob.es/en/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion\_54\_COVID-19.pdf'
- 
-table\_areas = \[
- \# (top left bottom right)
- \[1.85\*72, 0.8\*72, 4.75\*72, 7.65\*72\],
- \[4.75\*72, 0.8\*72, 7.5\*72, 7.65\*72\],
- \[7.5\*72, 0.8\*72, 10.1\*72, 7.65\*72\],
-\]
- 
- url = base\_url.format(report=report\_number)
- with urlopen(url) as f:
-   b = BytesIO(f.read())
- reader = PdfFileReader(b)
- num\_pages = reader.getNumPages()
- found\_page = -1
- date = None
- for i in range(num\_pages):
-   page = reader.getPage(i)
-   text = page.extractText()
- 
-   if i == 0:
-     match = re.search(r'.\*(\\d{2}\\.\\d{2}\\.(?:\\d{2}){1,2}).\*',text)
-     if not match:
-       print("COULDN'T FIND DATE MATCH!")
-       print(text)
-       break
-     date\_text = match.groups()\[0\]
-     if len(date\_text) == 8:
-       date\_text = date\_text + '20'
-     date = pd.to\_datetime(date\_text, format='%d.%m.%Y')
- 
-   if re.search('.\*edad y sexo.\*', text):
-     print(f'Found age data on page {i} in report {report\_number}')
-     found\_page = i
- 
- if found\_page \>= 0:
-   print(f'Attempting to read table from page {found\_page}')
-   dfs = \[\]
- 
-   for area in table\_areas:
-     b.seek(0)
-     dfs.append(tabula.read\_pdf(b, output\_format='dataframe',
-pages=found\_page+1, area=area, pandas\_options={'dtype': 'str','header': None}, multiple\_tables=False, stream=True)\[0\])
+url = 'https://www.mscbs.gob.es/en/profesionales/saludPublica/ccayes/alertasActual/nCov-China/documentos/Actualizacion_54_COVID-19.pdf'
+
+table_areas = [
+ # (top left bottom right)
+ [1.85*72, 0.8*72, 4.75*72, 7.65*72],
+ [4.75*72, 0.8*72, 7.5*72, 7.65*72],
+ [7.5*72, 0.8*72, 10.1*72, 7.65*72],
+]
+ 
+ url = base_url.format(report=report_number)
+ with urlopen(url) as f:
+   b = BytesIO(f.read())
+ reader = PdfFileReader(b)
+ num_pages = reader.getNumPages()
+ found_page = -1
+ date = None
+ for i in range(num_pages):
+   page = reader.getPage(i)
+   text = page.extractText()
+ 
+   if i == 0:
+     match = re.search(r'.*(\d{2}\.\d{2}\.(?:\d{2}){1,2}).*',text)
+     if not match:
+       print("COULDN'T FIND DATE MATCH!")
+       print(text)
+       break
+     date_text = match.groups()[0]
+     if len(date_text) == 8:
+       date_text = date_text + '20'
+     date = pd.to_datetime(date_text, format='%d.%m.%Y')
+ 
+   if re.search('.*edad y sexo.*', text):
+     print(f'Found age data on page {i} in report {report_number}')
+     found_page = i
+ 
+ if found_page >= 0:
+   print(f'Attempting to read table from page {found_page}')
+   dfs = []
+ 
+   for area in table_areas:
+     b.seek(0)
+     dfs.append(tabula.read_pdf(b, output_format='dataframe',
+                pages=found_page+1, area=area, 
+				pandas_options={'dtype': 'str','header': None}, 
+				multiple_tables=False, stream=True)[0])
 ```
 
 ### Footnotes and References 
@@ -1548,19 +1774,16 @@ pages=found\_page+1, area=area, pandas\_options={'dtype': 'str','header': None},
 
 [^2]: Royal Society convenes data analytics group to tackle COVID-19
 
-    [<span
-    class="underline">https://royalsociety.org/news/2020/04/royal-society-convenes-data-analytics-group-to-tackle-covid-19/</span>](https://royalsociety.org/news/2020/04/royal-society-convenes-data-analytics-group-to-tackle-covid-19/)
+    <https://royalsociety.org/news/2020/04/royal-society-convenes-data-analytics-group-to-tackle-covid-19/>
 
 [^3]: Economic Aspects of the COVID-19 Crisis in the UK
 
-    [<span
-    class="underline">https://rs-delve.github.io/reports/2020/08/14/economic-aspects-of-the-covid19-crisis-in-the-uk.html</span>](https://rs-delve.github.io/reports/2020/08/14/economic-aspects-of-the-covid19-crisis-in-the-uk.html)
+    <https://rs-delve.github.io/reports/2020/08/14/economic-aspects-of-the-covid19-crisis-in-the-uk.html>
 
 [^4]: UK Science, Research and Technology Capability and Influence in
     Global Disease Outbreaks
 
-    [<span
-    class="underline">https://committees.parliament.uk/work/91/uk-science-research-and-technology-capability-and-influence-in-global-disease-outbreaks/publications/</span>](https://committees.parliament.uk/work/91/uk-science-research-and-technology-capability-and-influence-in-global-disease-outbreaks/publications/),
+    <https://committees.parliament.uk/work/91/uk-science-research-and-technology-capability-and-influence-in-global-disease-outbreaks/publications/>,
     accessed 23 October 2020
 
 [^5]: Consumers' Mobility, Expenditure and Online-Offline Substitution
@@ -1575,329 +1798,103 @@ pages=found\_page+1, area=area, pandas\_options={'dtype': 'str','header': None},
     Spending Pulse data (further information at: <https://www.mastercardservices.com/en/solutions/spendingpulse>
     and Retail Location Information data (further information at: <https://cityinnovatorsforum.com/assessing-and-forecasting-the-economic-impact-of-covid-19/>)
 
-[^7]: GOV.UK: Coronavirus (COVID-19) in the UK
-    <https://coronavirus.data.gov.uk/>
-
-[^8]: Información estadística para el análisis del impacto de la crisis
-    COVID-19 / Datos de movilidad (Statistical information for the
-    analysis of the impact of the COVID-19 crisis / Mobility data)
-
-    <https://www.ine.es/covid/covid_movilidad.htm>
-
-[^9]: Análisis del grupo de trabajo de ciencias de datos para el
-    COVID-19 Comunitat Valenciana (Analysis of the data sciences working
-    group for COVID-19 Comunitat Valenciana)
-
-    <http://infocoronavirus.gva.es/documents/170024890/170025022/Informe+Movilidad+gva+Mayo+2020.pdf/5b043319-eed9-4a66-8477-d214ffe11c39>,
-    accessed 23 October 2020
-
-[^10]: COVID-19 Data Repository by the Center for Systems Science and
-    Engineering (CSSE) at Johns Hopkins University
-
-    <https://github.com/CSSEGISandData/COVID-19</span>](https://github.com/CSSEGISandData/COVID-19>
-
-[^11]: European Centre for Disease Prevention and Control: COVID-19 data
-
-    <https://www.ecdc.europa.eu/en/covid-19/data>
-
-[^12]: WHO Coronavirus Disease (COVID-19) Dashboard: Situation by
-    Country, Territory & Area
-
-    <https://covid19.who.int/table>
-
-[^13]: COVID-19 India: A crowdsourced initiative
-
-    <https://www.covid19india.org/>
-
-[^14]: Robert Koch Institute: Infectious Disease Epidemiology
-
-    <https://www.rki.de/EN/Home/homepage_node.html>
-
-[^15]: EPISTAT Belgian Infectious Diseases Dashboard
-
-    <https://epistat.wiv-isp.be/>
-
-[^16]: Institut national d'études démographiques (INED): Demography of
-    COVID-19 deaths
-
-    <https://dc-covid.site.ined.fr/en/data/>
-
-[^17]: Best Practices for PDF and Data: Use Cases, Methods, Next Steps
-    by Thomas Forth and Paul Connell. The ODI. Available from <https://www.w3.org/community/pdf-open-data/odi-report-best-practices-for-pdf-and-data/>
-
-[^18]: Istituto Superiore di Sanità: L'epidemiologia per la sanità
-    pubblica (Epidemiology for public health)
-
-    <https://www.epicentro.iss.it/>
-
-[^19]: Ministry of Health, Consumer Affairs and Social Welfare (Spain)
-
-    <https://www.mscbs.gob.es/en/home.htm>
-
-[^20]: For example: COVID-19: Relatório de situação, 2 September 2020
-
-    [<span
-    class="underline">https://covid19.min-saude.pt/wp-content/uploads/2020/09/184\_DGS\_boletim\_20200902.pdf</span>](https://covid19.min-saude.pt/wp-content/uploads/2020/09/184_DGS_boletim_20200902.pdf)
-    (accessed 23 October 2020)
-
-[^21]: CSV files and table with the Covid-19 infections and mortality
-    per day (time series)
-
-    [<span
-    class="underline">https://hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6</span>](https://hub.arcgis.com/datasets/dd4580c810204019a7b8eb3e0b329dd6),
-    accessed 23 October 2020
-
-[^22]: COVID-19 cases by age, group and sex
-
-    [<span
-    class="underline">https://www.health.gov.au/resources/covid-19-cases-by-age-group-and-sex</span>](https://www.health.gov.au/resources/covid-19-cases-by-age-group-and-sex),
-    accessed 23 October 2020
-
-[^23]: A web scraper is an automated program for regularly accessing a
-    webpage and extracting data from that webpage.
-
-[^24]: Gobierno de México. Datos Abiertos - Dirección General de
-    Epidemiología (Government of Mexico. Open Data - General Directorate
-    of Epidemiology)
-
-    [<span
-    class="underline">https://www.gob.mx/salud/documentos/datos-abiertos-152127</span>](https://www.gob.mx/salud/documentos/datos-abiertos-152127),
-    accessed 23 October 2020
-
-[^25]: Legal Framework for the National Digital Strategy of Mexico
-
-    [<span
-    class="underline">http://www.oecd.org/gov/mexico-legal-framework.pdf</span>](http://www.oecd.org/gov/mexico-legal-framework.pdf)
-
-[^26]: How do People Respond to Small Probability Events with Large,
-    Negative Consequences? Martin Eichenbaum et al, 2020
-
-    [<span
-    class="underline">https://www.kellogg.northwestern.edu/faculty/rebelo/htm/portugalcovid.pdf</span>](https://www.kellogg.northwestern.edu/faculty/rebelo/htm/portugalcovid.pdf)
-
-[^27]: Hacioglu, S., D. Kaenzig, and P. Surico. 2020. “Consumption in
-    the Time of COVID-19: Evidence from UK Transaction Data.” *CEPR
-    Discussion Paper* No. 14733
-
-    [<span
-    class="underline">https://cepr.org/active/publications/discussion\_papers/dp.php?dpno=14733</span>](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=14733),
-    accessed 23 October 2020
-
-[^28]: Second quarter 2020 Bank of England Speech (Andy Haldene) [<span
-    class="underline">https://www.bankofengland.co.uk/-/media/boe/files/speech/2020/the-second-quarter-speech-by-andy-haldane.pdf</span>](https://www.bankofengland.co.uk/-/media/boe/files/speech/2020/the-second-quarter-speech-by-andy-haldane.pdf),
-    accessed 23 October 2020
-
 [^29]: Coronavirus (COVID-19): Scaling up our testing programmes.
     Department of Health and Social Care, published 04 April 2020
 
-    [<span
-    class="underline">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/878121/coronavirus-covid-19-testing-strategy.pdf</span>](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/878121/coronavirus-covid-19-testing-strategy.pdf),
+    <https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/878121/coronavirus-covid-19-testing-strategy.pdf>,
     accessed 23 October 2020
 
 [^30]: As an example, the REACT-1 (Real-time Assessment of Community
     Transmission) Study tests a representative sample of 120,000
     randomly selected individuals every month to obtain an unbiased
     estimate of how many people in the population are infected with
-    COVID-19. [<span
-    class="underline">https://www.imperial.ac.uk/medicine/research-and-impact/groups/react-study/the-react-1-programme/</span>](https://www.imperial.ac.uk/medicine/research-and-impact/groups/react-study/the-react-1-programme/),
+    COVID-19. <https://www.imperial.ac.uk/medicine/research-and-impact/groups/react-study/the-react-1-programme/>,
     accessed 23 October 2020
 
 [^31]: See, for example, the 2016 G20 Leaders’ Communique from the
-    Hangzhou Summit, paragraph 12, available at: [<span
-    class="underline">https://ec.europa.eu/commission/presscorner/detail/en/STATEMENT\_16\_2967</span>](https://ec.europa.eu/commission/presscorner/detail/en/STATEMENT_16_2967)
+    Hangzhou Summit, paragraph 12, available at: <https://ec.europa.eu/commission/presscorner/detail/en/STATEMENT_16_2967>
     and the work of the International Science Council’s Committee on
-    Data (CODATA) [<span
-    class="underline">https://codata.org/initiatives/working-groups/fair-data-expert-group/</span>](https://codata.org/initiatives/working-groups/fair-data-expert-group/)
+    Data (CODATA) <https://codata.org/initiatives/working-groups/fair-data-expert-group/>
 
 [^32]: Data Readiness Levels, by Neil D. Lawrence (2017)
 
-    [<span
-    class="underline">https://arxiv.org/abs/1705.02245</span>](https://arxiv.org/abs/1705.02245)
+    <https://arxiv.org/abs/1705.02245>
 
 [^33]: Short-Term Mortality Fluctuations Dataseries (STMF) in the Human
     Mortality Database
 
-    [<span
-    class="underline">https://www.mortality.org/Public/STMF\_DOC/STMFNote.pdf</span>](https://www.mortality.org/Public/STMF_DOC/STMFNote.pdf),
+    <https://www.mortality.org/Public/STMF_DOC/STMFNote.pdf>,
     accessed 23 October 2020
 
 [^34]: Google COVID-19 Community Mobility Reports
 
-    [<span
-    class="underline">https://www.google.com/covid19/mobility/</span>](https://www.google.com/covid19/mobility/)
+    <https://www.google.com/covid19/mobility/>
 
 [^35]: The Global Alliance for Genomics & Health (GA4GH) has approved
     the technical specifications for "access passports" and associated
     infrastructure for authentication and authorization.
 
-    https://www.ga4gh.org/news/ga4gh-passports-and-the-authorization-and-authentication-infrastructure/
+    <https://www.ga4gh.org/news/ga4gh-passports-and-the-authorization-and-authentication-infrastructure/>
 
 [^36]: UK Data Service. Regulating access to data: five safes: Safe
     people, safe projects, safe settings, safe outputs, safe data
-    ([<span
-    class="underline">https://www.ukdataservice.ac.uk/manage-data/legal-ethical/access-control/five-safes</span>](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/access-control/five-safes)).
+    (<https://www.ukdataservice.ac.uk/manage-data/legal-ethical/access-control/five-safes>).
     This framework also includes the notion of accredited and auditable
     multi-tenant trusted research environments (TREs), which reduce data
     travel and simplifies multiple concurrent layers of security
-    (https://ukhealthdata.org/wp-content/uploads/2020/07/200723-Alliance-Board\_Paper-E\_TRE-Green-Paper.pdf)
+    <https://ukhealthdata.org/wp-content/uploads/2020/07/200723-Alliance-Board\_Paper-E\_TRE-Green-Paper.pdf>
 
 [^37]: Data’s value: how and why should we measure it? By Ben Snaith *et
     al*, 2018. Open Data Institute blog post
 
-    [<span
-    class="underline">https://theodi.org/article/datas-value-how-and-why-should-we-measure-it/</span>](https://theodi.org/article/datas-value-how-and-why-should-we-measure-it/)
+    <https://theodi.org/article/datas-value-how-and-why-should-we-measure-it/>
 
-[^38]: Mobile phone data for informing public health actions across the
-    COVID-19 pandemic life cycle by Nuria Oliver *et al* in Science
-    Advances 2020 6 (23)
-
-    [<span
-    class="underline">https://advances.sciencemag.org/content/6/23/eabc0764</span>](https://advances.sciencemag.org/content/6/23/eabc0764)
-
-[^39]: The use of mobile phone data to inform analysis of COVID-19
-    pandemic epidemiology by Kyra H. Grantz *et al* in Nature
-    Communications 11:4961 (2020)
-
-    [<span
-    class="underline">https://www.nature.com/articles/s41467-020-18190-5</span>](https://www.nature.com/articles/s41467-020-18190-5)
-
-[^40]: Nuria Oliver: what big data and the Mexican pandemic taught us.
-    Talk at WIRED 2013 [<span
-    class="underline">https://www.youtube.com/watch?v=H5\_FeuuS-zs</span>](https://www.youtube.com/watch?v=H5_FeuuS-zs)
-
-[^41]: Using Big Data to fight pandemics
-
-    [<span
-    class="underline">https://www.telefonica.com/en/web/responsible-business/article/-/blogs/using-big-data-to-fight-pandemics</span>](https://www.telefonica.com/en/web/responsible-business/article/-/blogs/using-big-data-to-fight-pandemics),
-    accessed 23 October 2020
-
-[^42]: El valor de los móviles y la Covid-19 (The value of mobiles and
-    Covid-19) by Nuria Oliver published in *El País*
-
-    [<span
-    class="underline">https://elpais.com/elpais/2020/03/12/opinion/1584016142\_423943.html</span>](https://elpais.com/elpais/2020/03/12/opinion/1584016142_423943.html),
-    accessed 23 October 2020
-
-[^43]: Personal interview
-
-[^44]: An origin to destination mobility example is “Flux Vision” from
-    Orange Business Services [<span
-    class="underline">https://www.orange-business.com/en/products/flux-vision</span>](https://www.orange-business.com/en/products/flux-vision),
-    accessed 23 October 2020
-
-[^45]: Consumers' Mobility, Expenditure and Online-Offline Substitution
-    Response to Covid19: Evidence from French Transaction Data. By David
-    Bounie et al, 2020
-
-    [<span
-    class="underline">https://www.telecom-paris.fr/consumers-mobility-online-substitution-covid-19</span>](https://www.telecom-paris.fr/consumers-mobility-online-substitution-covid-19)
-
-    [<span
-    class="underline">https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=3588373</span>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3588373)
-
-[^46]: What and how did people buy during the Great Lockdown? Evidence
-    from electronic payments. By Bruno P. Carvalho *et al*, 2020
-
-    [<span
-    class="underline">https://ideas.repec.org/p/eca/wpaper/2013-307531.html</span>](https://ideas.repec.org/p/eca/wpaper/2013-307531.html),
-    accessed 23 October 2020
-
-[^47]: How do People Respond to Small Probability Events with Large,
-    Negative Consequences? By Martin Eichenbaum et al, 2020
-
-    [<span
-    class="underline">https://www.kellogg.northwestern.edu/faculty/rebelo/htm/portugalcovid.pdf</span>](https://www.kellogg.northwestern.edu/faculty/rebelo/htm/portugalcovid.pdf),
-    accessed 23 October 2020
-
-[^48]: Tracking the COVID-19 Crisis with High-Resolution Transaction
-    Data. By Vasco M. Carvalho et al, Cambridge-INET Working Paper
-    Series No: 2020/16
-
-    [<span
-    class="underline">http://www.econ.cam.ac.uk/research-files/repec/cam/pdf/cwpe2030.pdf</span>](http://www.econ.cam.ac.uk/research-files/repec/cam/pdf/cwpe2030.pdf),
-    accessed 23 October 2020
-
-[^49]: Social distancing laws cause only small losses of economic
-    activity during the COVID-19 pandemic in Scandinavia. By Adam
-    Sheridan *et al* in Proceedings of the National Academy of Sciences
-    Aug 2020, 117 (34) 20468-20473
-
-    [<span
-    class="underline">https://www.pnas.org/content/117/34/20468</span>](https://www.pnas.org/content/117/34/20468)
-
-[^50]: Initial Impacts of the Pandemic on Consumer Behavior: Evidence
-    from Linked Income, Spending, and Savings Data, by Natalie Cox *et
-    al*, Becker Friedman Institute working paper number 2020-82
-
-    [<span
-    class="underline">https://bfi.uchicago.edu/wp-content/uploads/BFI\_WP\_202082.pdf</span>](https://bfi.uchicago.edu/wp-content/uploads/BFI_WP_202082.pdf)
-
-[^51]: Opportunity Insights Economic Tracker
-
-    [<span
-    class="underline">https://tracktherecovery.org/</span>](https://tracktherecovery.org/)
-
-[^52]: The Economic Impacts of COVID-19: Evidence from a New Public
-    Database Built Using Private Sector Data. By Raj Chetty et al, 2020
-
-    [<span
-    class="underline">https://opportunityinsights.org/wp-content/uploads/2020/05/tracker\_paper.pdf</span>](https://opportunityinsights.org/wp-content/uploads/2020/05/tracker_paper.pdf),
-    accessed 23 October 2020
 
 [^53]: See footnote 6 for examples of such data sharing arrangements.
 
 [^54]: Legal Framework for the National Digital Strategy of Mexico
 
-    [<span
-    class="underline">http://www.oecd.org/gov/mexico-legal-framework.pdf</span>](http://www.oecd.org/gov/mexico-legal-framework.pdf)
+    <http://www.oecd.org/gov/mexico-legal-framework.pdf>
 
 [^55]: This includes, for example, work by the ONS on the ‘Five Safes’,
-    further information about which is available at [<span
-    class="underline">https://www.ons.gov.uk/aboutus/whatwedo/statistics/requestingstatistics/approvedresearcherscheme</span>](https://www.ons.gov.uk/aboutus/whatwedo/statistics/requestingstatistics/approvedresearcherscheme)
+    further information about which is available at <https://www.ons.gov.uk/aboutus/whatwedo/statistics/requestingstatistics/approvedresearcherscheme>
 
 [^56]: REACT-1 (Real-time Assessment of Community Transmission) Study.
-    [<span
-    class="underline">https://www.imperial.ac.uk/medicine/research-and-impact/groups/react-study/the-react-1-programme/</span>](https://www.imperial.ac.uk/medicine/research-and-impact/groups/react-study/the-react-1-programme/),
+    <https://www.imperial.ac.uk/medicine/research-and-impact/groups/react-study/the-react-1-programme/>,
     accessed 23 October 2020
 
 [^57]: The economic value of data: discussion paper. By HM Treasury,
     August 2018
 
-    [<span
-    class="underline">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/731349/20180730\_HMT\_Discussion\_Paper\_-\_The\_Economic\_Value\_of\_Data.pdf</span>](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/731349/20180730_HMT_Discussion_Paper_-_The_Economic_Value_of_Data.pdf),
+    <https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/731349/20180730_HMT_Discussion_Paper_-_The_Economic_Value_of_Data.pdf>,
     accessed 23 October 2020
 
-[^58]: [<span
-    class="underline">https://ec.europa.eu/jrc/sites/jrcsh/files/jrc104756.pdf</span>](https://ec.europa.eu/jrc/sites/jrcsh/files/jrc104756.pdf)
+[^58]: <https://ec.europa.eu/jrc/sites/jrcsh/files/jrc104756.pdf>
 
 [^59]: Data’s value: how and why should we measure it? By Ben Snaith *et
     al*, 2018. Open Data Institute blog post
 
-    [<span
-    class="underline">https://theodi.org/article/datas-value-how-and-why-should-we-measure-it/</span>](https://theodi.org/article/datas-value-how-and-why-should-we-measure-it/)
+    <https://theodi.org/article/datas-value-how-and-why-should-we-measure-it/>
 
 [^60]: Data sharing: implications for policy and practice. Extract from
     “Towards trusted data sharing: guidance and case studies” at
     reports.raeng.org.uk/datasharing. Royal Academy of Engineering
-    [<span
-    class="underline">https://cdn.instantmagazine.com/upload/12506/data\_sharing\_-\_implications\_for\_policy\_and\_practice.2ea38cb146d4.pdf</span>](https://cdn.instantmagazine.com/upload/12506/data_sharing_-_implications_for_policy_and_practice.2ea38cb146d4.pdf),
+	
+    <https://cdn.instantmagazine.com/upload/12506/data_sharing_-_implications_for_policy_and_practice.2ea38cb146d4.pdf>,
     accessed 23 October 2020
 
 [^61]: See pages 9 and 10 in “The Value of Data” by the Bennett
     Institute for Public Policy, Cambridge, 2020
 
-    [<span
-    class="underline">https://www.bennettinstitute.cam.ac.uk/media/uploads/files/Value\_of\_data\_summary\_report\_26\_Feb.pdf</span>](https://www.bennettinstitute.cam.ac.uk/media/uploads/files/Value_of_data_summary_report_26_Feb.pdf)
+    <https://www.bennettinstitute.cam.ac.uk/media/uploads/files/Value_of_data_summary_report_26_Feb.pdf>
 
 [^62]: For example the Emergent Alliance
 
-    [<span
-    class="underline">https://emergentalliance.org</span>](https://emergentalliance.org)
+    <https://emergentalliance.org>
 
 [^63]: Google COVID-19 Community Mobility Reports
 
-    [<span
-    class="underline">https://www.google.com/covid19/mobility/</span>](https://www.google.com/covid19/mobility/)
+    <https://www.google.com/covid19/mobility/>
 
 [^64]: This information is required because data is likely to be biased,
     with the UK population not being represented uniformly, and further
@@ -1907,17 +1904,14 @@ pages=found\_page+1, area=area, pandas\_options={'dtype': 'str','header': None},
 [^65]: The relevant legislation around the Office for National
     Statistics’s transparency and governance is further detailed at:
 
-    [<span
-    class="underline">https://www.ons.gov.uk/aboutus/transparencyandgovernance/datastrategy/relevantlegislation</span>](https://www.ons.gov.uk/aboutus/transparencyandgovernance/datastrategy/relevantlegislation)
+    <https://www.ons.gov.uk/aboutus/transparencyandgovernance/datastrategy/relevantlegislation>
 
 [^66]: Office for National Statistics (2019), ‘Accessing secure research
-    data as an accredited researcher’ [<span
-    class="underline">https://www.ons.gov.uk/aboutus/whatwedo/statistics/requestingstatistics/approvedresearcherscheme</span>](https://www.ons.gov.uk/aboutus/whatwedo/statistics/requestingstatistics/approvedresearcherscheme)
+    data as an accredited researcher’ <https://www.ons.gov.uk/aboutus/whatwedo/statistics/requestingstatistics/approvedresearcherscheme>
 
 [^67]: For further information, see:
 
-    [<span
-    class="underline">https://www.gov.uk/government/publications/coronavirus-covid-19-notification-of-data-controllers-to-share-information</span>](https://www.gov.uk/government/publications/coronavirus-covid-19-notification-of-data-controllers-to-share-information)
+    <https://www.gov.uk/government/publications/coronavirus-covid-19-notification-of-data-controllers-to-share-information>
 
 [^68]: Dynamics of data science skills. Royal Society Report, 2019
 
@@ -1927,14 +1921,12 @@ pages=found\_page+1, area=area, pandas\_options={'dtype': 'str','header': None},
 [^69]: Institute for Government report: Making a success of digital
     government. By Emily Andrews et al
 
-    [<span
-    class="underline">https://www.instituteforgovernment.org.uk/sites/default/files/publications/IFGJ4942\_Digital\_Government\_Report\_10\_16%20WEB%20%28a%29.pdf</span>](https://www.instituteforgovernment.org.uk/sites/default/files/publications/IFGJ4942_Digital_Government_Report_10_16%20WEB%20%28a%29.pdf),
+    <https://www.instituteforgovernment.org.uk/sites/default/files/publications/IFGJ4942_Digital_Government_Report_10_16%20WEB%20%28a%29.pdf>,
     accessed 23 October 2020
 
 [^70]: See paragraphs 130-131 in:
 
-    [<span
-    class="underline">https://publications.parliament.uk/pa/cm201719/cmselect/cmsctech/1455/145509.htm</span>](https://publications.parliament.uk/pa/cm201719/cmselect/cmsctech/1455/145509.htm)
+    <https://publications.parliament.uk/pa/cm201719/cmselect/cmsctech/1455/145509.htm>
 
 [^71]: “The privilege of public service”. 2020 Ditchley Annual Lecture,
     by Michael Gove. [<span
@@ -1942,13 +1934,11 @@ pages=found\_page+1, area=area, pandas\_options={'dtype': 'str','header': None},
 
 [^72]: Dynamics of data science skills. Royal Society Report, 2019
 
-    [<span
-    class="underline">https://royalsociety.org/topics-policy/projects/dynamics-of-data-science/</span>](https://royalsociety.org/topics-policy/projects/dynamics-of-data-science/)
+    <https://royalsociety.org/topics-policy/projects/dynamics-of-data-science/>
 
 [^73]: Oxford COVID-19 Government Response Tracker
 
-    [<span
-    class="underline">https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker</span>](https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker)
+    <https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker>
 
 [^74]: See, for example, Royal Society and Ipsos MORI (2017) Public
     views of machine learning, available at
@@ -1964,6 +1954,5 @@ pages=found\_page+1, area=area, pandas\_options={'dtype': 'str','header': None},
     <https://royalsociety.org/-/media/policy/projects/ai-and-society/RS-CDEI-Roundtable---Note-of-Discussions.pdf>
 
 [^77]: Cabinet Office (2017) National Risk Register of Civil
-    Emergencies, available at: [<span
-    class="underline">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/644968/UK\_National\_Risk\_Register\_2017.pdf</span>](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/644968/UK_National_Risk_Register_2017.pdf)
+    Emergencies, available at: <https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/644968/UK_National_Risk_Register_2017.pdf>
 

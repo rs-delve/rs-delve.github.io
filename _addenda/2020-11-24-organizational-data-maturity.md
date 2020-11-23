@@ -15,6 +15,7 @@ authors:
   family: Paquet
   institute: 
   url: "/people/ulrich-paquet.html"
+published: False
 ref: TD1
 report: DATA
 abstract: 
@@ -22,6 +23,7 @@ abstract:
 
 ### Table of Contents
 
+* [Introduction](#introduction)
 * [The Interface with Science](#the-interface-with-science)
 * [Case study: Met Office Informatics Lab COVID-19 Pangeo Environment](#case-study-met-office-informatics-lab-covid-19-pangeo-environment)
 * [Data Maturity Assessments](#data-maturity-assessments)
@@ -34,6 +36,7 @@ abstract:
 	5. [Transparent](#transparent)
 * [Footnotes and References](#footnotes-and-references)
 
+## Introduction
 
 One challenge that the DELVE group experienced was understanding how
 much resource was necessary to bring a particular data set up to the
@@ -122,8 +125,6 @@ example, the DELVE Global COVID-19 Dataset[^86] includes
 population-weighted weather data for every day for every country where
 COVID-19 statistics are reported by the ECDC[^87].
 
-## 
-
 ## Data Maturity Assessments
 
 Whether “Band A” data is public, or in a controlled environment like the
@@ -152,9 +153,8 @@ Data Maturity as five levels. Although many similar models exist[^88],
 the intent of these levels is to be a starting point that should be
 adapted according to the specific context that it is applied in.
 
-|                              |                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Maturity Level               | Data Sharing                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Maturity Level               | Data Sharing                                                                                                                   |
+|------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                                                                                                                                                                                                                                                                                                                                                                                                                |
 | **1** Reactive               | Data sharing is not possible or ad-hoc at best.                                                                                                                                                                                                                                                                                                                                                                                                                |
 | **2** Repeatable             | Some limited data service provision is possible and expected, in particular between neighboring teams. Some limited data provision to distinct teams may also be possible                                                                                                                                                                                                                                                                                      |
 | **3** Managed and Integrated | Data is available through published APIs; corrections to requested data are monitored and API service quality is discussed within the team. Data security protocols are partially automated ensuring electronic access for the data is possible.                                                                                                                                                                                                               |
@@ -177,74 +177,72 @@ level above. In practice, these characteristics would be reviewed in
 aggregate to give a holistic picture of data management across an
 organisation.[^91]
 
-### 1 Reactive
+### 1. Reactive
 
 *Data sharing is not possible or ad-hoc at best.*
 
-1.  It is difficult to identify relevant data sets and their owners.
+a.  It is difficult to identify relevant data sets and their owners.
 
-<!-- -->
-
-1.  It is possible to access data, but this may take significant time,
+b.  It is possible to access data, but this may take significant time,
     energy and personal connections.
 
-2.  Data is most commonly shared via ad hoc means, like attaching it to
+c.  Data is most commonly shared via ad hoc means, like attaching it to
     an email.
 
-3.  The quality of data available means that it is often incorrect or
+d.  The quality of data available means that it is often incorrect or
     incomplete.
 
-### 2 Repeatable
+### 2. Repeatable
 
 *Some limited data service provision is possible and expected, in
 particular between neighboring teams. Some limited data provision to
 distinct teams may also be possible.*
 
-1.  Data analysis and documentation is of sufficient quality to enable
+a.  Data analysis and documentation is of sufficient quality to enable
     its replication one year later.
 
-2.  There are standards for documentation that ensure that data is
+b.  There are standards for documentation that ensure that data is
     usable across teams.
 
-3.  The time and effort involved in data preparation are commonly
+c.  The time and effort involved in data preparation are commonly
     understood.
 
-4.  Data is used to inform decision-making, though not always routinely.
+d.  Data is used to inform decision-making, though not always routinely.
 
-### 3 Managed and Integrated
+### 3. Managed and Integrated
 
 *Data is available through published APIs; corrections to requested data
 are monitored and API service quality is discussed within the team. Data
 security protocols are partially automated ensuring electronic access
 for the data is possible.*
 
-1.  Within the organisation, teams publish and share data as a supported
+a.  Within the organisation, teams publish and share data as a supported
     output.
 
-2.  Documentation is of sufficient quality to enable teams across the
+b.  Documentation is of sufficient quality to enable teams across the
     organisation that were not involved in its collection to use it
     directly.
 
-3.  Procedures for data access are documented for other teams, and there
+c.  Procedures for data access are documented for other teams, and there
     is a way to obtain secure access to data.
 
-### 4 Optimized
+### 4. Optimized
 
 *Teams provide reliable data services to other teams. The security and
 privacy implications of data sharing are automatically handled through
 privacy and security aware ecosystems.*
 
-1.  Within teams, data quality is constantly monitored, for instance
+a.  Within teams, data quality is constantly monitored, for instance
     through a dashboard. Errors could be flagged for correction.
 
-2.  There are well-established processes to allow easy sharing of
+b.  There are well-established processes to allow easy sharing of
     high-quality data across teams and track how the same datasets are
     used by multiple teams across the organisation.
 
-3.  Data API access is streamlined by an approval process for joining
+c.  Data API access is streamlined by an approval process for joining
     digital security groups.
 
-### 5 Transparent
+### 5. Transparent
 
 *Internal organizational data is available to external organizations
 with appropriate privacy and security policies. Decision making across
@@ -254,11 +252,11 @@ frameworks are agreed, data dependent services (including AI systems)
 could be rapidly and securely redeployed on company data in the service
 of national emergencies.*
 
-1.  Data from APIs are combined in a transparent way to enable
+a.  Data from APIs are combined in a transparent way to enable
     decision-making, which could be fully automated or through the
     organization’s management.
 
-2.  Data generated by teams within the organisation can be used by
+b.  Data generated by teams within the organisation can be used by
     people outside of the organization.
 
 ### Footnotes and References
