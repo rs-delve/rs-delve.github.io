@@ -54,7 +54,6 @@ note: |
   liability for decisions made based on this evidence.
 ---
 
-
 <style>
   img {
   margin-left: auto;
