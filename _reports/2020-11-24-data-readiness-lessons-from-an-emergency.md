@@ -1,50 +1,40 @@
 ---
-title: "Data Readiness: Lessons from an Emergency"
+title: 'Data Readiness: Lessons from an Emergency'
 date: 2020-11-24 00:00:00 Z
+published: false
 authors:
 - consortium:
     name: The DELVE Initiative
   institute: The Royal Society
   url: http://rs-delve.github.io/people.html
-published: False
 report_number: 7
 layout: report
-abstract: |
-  Responding to the COVID-19 pandemic has required rapid
-  decision-making in changing circumstances. Those decisions and their
-  effects on the health and wealth of the nation can be better
-  informed with data. Today, technologies that can acquire data are
-  pervasive. Data is continually produced by devices like mobile
-  phones, payment points and road traffic sensors. This creates
-  opportunities for nowcasting of important metrics such as GDP,
-  population movements and disease prevalence, which can be used to
-  design policy interventions that are targeted to the needs of
-  specific sectors or localities. The data collected as a by-product
-  of daily activities is different to epidemiological or other
-  population research data that might be used to drive the decisions
-  of state. These new forms of data are happenstance, in that they are
-  not originally collected with a particular research or policy
-  question in mind but are created through the normal course of events
-  in our digital lives, and our interactions with digital systems and
-  services. 
-  
-  This happenstance data pertains to individual citizens and
-  their daily activities. To be useful it needs to be anonymized,
-  aggregated and statistically calibrated to provide meaningful
-  metrics for robust decision making while managing concerns about
-  individual privacy or business value. This process necessitates
-  particular technical and domain expertise that is often found in
-  *academia*, but it must be conducted in partnership with the
-  *industries*, and *public sector organisations*, that collect or
-  generate the data and *government* authorities that take action
-  based on those insights. Such collaborations require governance
-  mechanisms that can respond rapidly to emerging areas of need, a
-  common language between partners about how data is used and how it
-  is being protected, and careful stewardship to ensure appropriate
-  balancing of data subjects’ rights and the benefit of using this
-  data. This is the landscape of data readiness; the availability and
-  quality of the UK nation’s data dictates our ability to respond in
-  an agile manner to evolving events.<!--break-->
+abstract: "Responding to the COVID-19 pandemic has required rapid\ndecision-making
+  in changing circumstances. Those decisions and their\neffects on the health and
+  wealth of the nation can be better\ninformed with data. Today, technologies that
+  can acquire data are\npervasive. Data is continually produced by devices like mobile\nphones,
+  payment points and road traffic sensors. This creates\nopportunities for nowcasting
+  of important metrics such as GDP,\npopulation movements and disease prevalence,
+  which can be used to\ndesign policy interventions that are targeted to the needs
+  of\nspecific sectors or localities. The data collected as a by-product\nof daily
+  activities is different to epidemiological or other\npopulation research data that
+  might be used to drive the decisions\nof state. These new forms of data are happenstance,
+  in that they are\nnot originally collected with a particular research or policy\nquestion
+  in mind but are created through the normal course of events\nin our digital lives,
+  and our interactions with digital systems and\nservices. \n\nThis happenstance data
+  pertains to individual citizens and\ntheir daily activities. To be useful it needs
+  to be anonymized,\naggregated and statistically calibrated to provide meaningful\nmetrics
+  for robust decision making while managing concerns about\nindividual privacy or
+  business value. This process necessitates\nparticular technical and domain expertise
+  that is often found in\n*academia*, but it must be conducted in partnership with
+  the\n*industries*, and *public sector organisations*, that collect or\ngenerate
+  the data and *government* authorities that take action\nbased on those insights.
+  Such collaborations require governance\nmechanisms that can respond rapidly to emerging
+  areas of need, a\ncommon language between partners about how data is used and how
+  it\nis being protected, and careful stewardship to ensure appropriate\nbalancing
+  of data subjects’ rights and the benefit of using this\ndata. This is the landscape
+  of data readiness; the availability and\nquality of the UK nation’s data dictates
+  our ability to respond in\nan agile manner to evolving events.<!--break-->\n"
 note: |
   This paper has drawn on evidence available up to 12 November 2020.
   Further evidence on this topic is constantly published and DELVE

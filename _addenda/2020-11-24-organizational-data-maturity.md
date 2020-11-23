@@ -1,6 +1,7 @@
 ---
 title: Organisational Data maturity
 date: 2020-11-24 00:00:00 Z
+published: false
 layout: addendum
 authors:
 - given: Neil D.
@@ -15,7 +16,6 @@ authors:
   family: Paquet
   institute: 
   url: "/people/ulrich-paquet.html"
-published: False
 ref: TD1
 report: DATA
 abstract: 
