@@ -1,7 +1,7 @@
 ---
-title: Organisational Data maturity
+title: Organisational Data Maturity
 date: 2020-11-24 00:00:00 Z
-published: false
+published: true
 layout: addendum
 authors:
 - given: Neil D.
@@ -16,9 +16,22 @@ authors:
   family: Paquet
   institute: 
   url: "/people/ulrich-paquet.html"
+abstract: |
+  Advances in machine learning over the last 5-10 years have generated
+  interest across the private, public and third sector in the
+  potential of advanced data analytics to enhance productivity and
+  improve decision-making. Many organisations aspire to be data driven
+  in their decision making, but are held back from achieving this goal
+  by issues arising from the accessibility and availability of data
+  between teams or collaborators. Data maturity frameworks can provide
+  practical guidance for organisations seeking to improve their data
+  management practices and create value from the data they hold. This
+  document proposes a data maturity model with five levels, (i)
+  reactive, (ii) repeatable, (iii) managed/integrated, (iv) optimized,
+  and (v) transparent, alongside a set of indicators for organisations
+  to analyse their current maturity level and ways of improving this.
 ref: TD1
 report: DATA
-abstract: 
 ---
 
 <style>
