@@ -1,12 +1,13 @@
 ---
-title: "Data Readiness: Lessons from an Emergency"
+title: 'Data Readiness: Lessons from an Emergency'
 date: 2020-11-24 00:00:00 Z
+published: False
 authors:
 - consortium:
     name: The DELVE Initiative
   institute: The Royal Society
   url: http://rs-delve.github.io/people.html
-published: True
+published: False
 report_number: 7
 layout: report
 abstract: |
@@ -26,25 +27,25 @@ abstract: |
   not originally collected with a particular research or policy
   question in mind but are created through the normal course of events
   in our digital lives, and our interactions with digital systems and
-  services. 
-  
-  This happenstance data pertains to individual citizens and
-  their daily activities. To be useful it needs to be anonymized,
-  aggregated and statistically calibrated to provide meaningful
-  metrics for robust decision making while managing concerns about
-  individual privacy or business value. This process necessitates
-  particular technical and domain expertise that is often found in
-  *academia*, but it must be conducted in partnership with the
-  *industries*, and *public sector organisations*, that collect or
-  generate the data and *government* authorities that take action
-  based on those insights. Such collaborations require governance
-  mechanisms that can respond rapidly to emerging areas of need, a
-  common language between partners about how data is used and how it
-  is being protected, and careful stewardship to ensure appropriate
-  balancing of data subjects’ rights and the benefit of using this
-  data. This is the landscape of data readiness; the availability and
-  quality of the UK nation’s data dictates our ability to respond in
-  an agile manner to evolving events.<!--break-->
+  services.
+
+  This happenstance data pertains to individual citizens and their
+  daily activities. To be useful it needs to be anonymized, aggregated
+  and statistically calibrated to provide meaningful metrics for
+  robust decision making while managing concerns about individual
+  privacy or business value. This process necessitates particular
+  technical and domain expertise that is often found in *academia*,
+  but it must be conducted in partnership with the *industries*, and
+  *public sector organisations*, that collect or generate the data and
+  *government* authorities that take action based on those insights.
+  Such collaborations require governance mechanisms that can respond
+  rapidly to emerging areas of need, a common language between
+  partners about how data is used and how it is being protected, and
+  careful stewardship to ensure appropriate balancing of data
+  subjects’ rights and the benefit of using this data. This is the
+  landscape of data readiness; the availability and quality of the UK
+  nation’s data dictates our ability to respond in an agile manner to
+  evolving events.<!--break-->
 note: |
   This paper has drawn on evidence available up to 12 November 2020.
   Further evidence on this topic is constantly published and DELVE
