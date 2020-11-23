@@ -2,6 +2,7 @@
 title: DELVE Global COVID-19 Dataset
 date: 2020-06-02 00:00:00 Z
 layout: data-software
+ref: global-data
 authors:
 - given: Aviskar
   family: Bhoopchand
