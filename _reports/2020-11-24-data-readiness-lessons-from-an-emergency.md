@@ -1265,8 +1265,7 @@ governance challenges:
 
 [^38]: Mobile phone data for informing public health actions across the
     COVID-19 pandemic life cycle by Nuria Oliver *et al* in Science
-    Advances 2020 6 (23)
-	
+    Advances 2020 6 (23)	
     <https://advances.sciencemag.org/content/6/23/eabc0764>
 
 [^39]: The use of mobile phone data to inform analysis of COVID-19
@@ -1920,8 +1919,7 @@ inputs into this report.
     views of machine learning, available at
     <https://royalsociety.org/topics-policy/projects/machine-learning/>
 
-[^75]: See, for example, work by Understanding Patient Data, available
-    at
+[^75]: See, for example, work by Understanding Patient Data, available at
     <https://understandingpatientdata.org.uk/sites/default/files/2018-08/Public%20attitudes%20key%20themes.pdf>
 
 [^76]: For further discussion of this, see work by the Royal Society and
