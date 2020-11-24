@@ -558,7 +558,7 @@ Centre for Disease Prevention and Control as shown in the figure below.
 This raises questions about the reliability of different data sources,
 which needs to be accounted for in any analysis.
 
-<object data="/diagrams/data/image1.svg" width="80%"></object>
+<object data="/diagrams/data/image1.svg" width="100%"></object>
 
 **Figure:** *COVID-19 death data by age and sex provided by the Robert
 Koch Institute*[^21]*, aggregated to daily counts and plotted against the
