@@ -1863,8 +1863,7 @@ inputs into this report.
 
 [^60]: Data sharing: implications for policy and practice. Extract from
     “Towards trusted data sharing: guidance and case studies” at
-    reports.raeng.org.uk/datasharing. Royal Academy of Engineering
-	
+    <http://reports.raeng.org.uk/datasharing>. Royal Academy of Engineering	
     <https://cdn.instantmagazine.com/upload/12506/data_sharing_-_implications_for_policy_and_practice.2ea38cb146d4.pdf>,
     accessed 23 October 2020
 
