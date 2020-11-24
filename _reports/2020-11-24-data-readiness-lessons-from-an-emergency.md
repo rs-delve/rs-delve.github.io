@@ -83,13 +83,11 @@ note: |
 
 # Table of Contents
 
-[Summary](#summary)
-[Key points](#key-points)
-
-[Challenges in accessing and analysing non-traditional data sources to
+* [Summary](#summary)
+* [Key points](#key-points)
+* [Challenges in accessing and analysing non-traditional data sources to
 inform COVID-19 policy](#challenges-in-accessing-and-analysing-non-traditional-data-sources-to-inform-covid-19-policy)
-
-[Recommendations](#recommendations)
+* [Recommendations](#recommendations)
 
 1. [Background](#1-background)
     * [DELVE’s remit and data science for COVID-19 policy](#delves-remit-and-data-science-for-covid-19-policy)
@@ -121,12 +119,12 @@ activity
 	* [Create incentives or duties to promote responsible data sharing](#create-incentives-or-duties-to-promote-responsible-data-sharing)
 3. [Conclusion](#conclusion)
 
-* [Appendices](#appendices)
+#### [Appendices](#appendices)
     * [Appendix A](#appendix-a): Python code for loading COVID-19 cases]
     * [Other Appendices](#other-appendices){% assign addenda = site.addenda | sort: 'date' | reverse %}{% for addendum in addenda  %}{% if addendum.report == 'DATA' %}
         * [{{ addendum.title }}]({%if addendum.pdfonly %}{{ addendum.pdf }}{% else %}{{ addendum.url }}{%endif%}){% endif %}{% endfor %}
 	
-* [Footnotes and References](#footnotes-and-references)
+#### [Footnotes and References](#footnotes-and-references)
 
 # Key points 
 
