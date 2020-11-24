@@ -2,7 +2,7 @@
 title: Jamie Mitchell
 given: Jamie
 family: Mitchell
-url: https://www.linkedin.com/in/jamie-mitchell-b544b450/
+webpage: https://www.linkedin.com/in/jamie-mitchell-b544b450/
 ---
 
-Jamie Mitchell is based at the UK Met Office.
+Jamie Mitchell is an analyst at the UK Met Office.
