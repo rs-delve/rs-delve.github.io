@@ -120,9 +120,9 @@ activity
 3. [Conclusion](#conclusion)
 
 #### [Appendices](#appendices)
-    * [Appendix A](#appendix-a): Python code for loading COVID-19 cases]
-    * [Other Appendices](#other-appendices){% assign addenda = site.addenda | sort: 'date' | reverse %}{% for addendum in addenda  %}{% if addendum.report == 'DATA' %}
-        * [{{ addendum.title }}]({%if addendum.pdfonly %}{{ addendum.pdf }}{% else %}{{ addendum.url }}{%endif%}){% endif %}{% endfor %}
+* [Appendix A](#appendix-a): Python code for loading COVID-19 cases]
+* [Other Appendices](#other-appendices){% assign addenda = site.addenda | sort: 'date' | reverse %}{% for addendum in addenda  %}{% if addendum.report == 'DATA' %}
+    * [{{ addendum.title }}]({%if addendum.pdfonly %}{{ addendum.pdf }}{% else %}{{ addendum.url }}{%endif%}){% endif %}{% endfor %}
 	
 #### [Footnotes and References](#footnotes-and-references)
 
