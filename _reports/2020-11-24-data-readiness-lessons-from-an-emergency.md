@@ -558,7 +558,7 @@ Centre for Disease Prevention and Control as shown in the figure below.
 This raises questions about the reliability of different data sources,
 which needs to be accounted for in any analysis.
 
-<img src="/diagrams/data/image1.jpeg" style="80%" />
+<object data="/diagrams/data/image1.svg" width="80%"></object>
 
 **Figure:** *COVID-19 death data by age and sex provided by the Robert
 Koch Institute*[^21]*, aggregated to daily counts and plotted against the
@@ -617,7 +617,7 @@ England, Wales, Scotland and Northern Ireland.
 
 [^10]: COVID-19 Data Repository by the Center for Systems Science and
     Engineering (CSSE) at Johns Hopkins University
-    <https://github.com/CSSEGISandData/COVID-19</span>](https://github.com/CSSEGISandData/COVID-19>
+    <https://github.com/CSSEGISandData/COVID-19>
 
 [^11]: European Centre for Disease Prevention and Control: COVID-19 data
     <https://www.ecdc.europa.eu/en/covid-19/data>
