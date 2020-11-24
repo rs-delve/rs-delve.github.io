@@ -3,6 +3,14 @@ title: People
 layout: default
 ---
 
+<style>
+ul {
+  columns: 3;
+  -webkit-columns: 3;
+  -moz-columns: 3;
+}
+</style>
+
 ## Action Team
 
 {% assign lastone = site.people | last %}

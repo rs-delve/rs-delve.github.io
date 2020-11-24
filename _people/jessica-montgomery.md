@@ -3,8 +3,10 @@ title: Jessica Montgomery
 layout: person
 given: Jessica
 family: Montgomery
-email: Jessica.Montgomery@royalsociety.org
+email: jkm40@cam.ac.uk
+url: https://www.linkedin.com/in/jessica-montgomery-206256144
 actionteam: true
 ---
 
-Jessica Montgomery is a Senior Policy Adviser at the Royal Society and secretariat to DELVE. 
+Jessica Montgomery is Executive Director of the Accelerate Program at the University of Cambridge. 
+She was also a Senior Policy Adviser at the Royal Society and a key member of the DELVE secretariat from its inception until her move to Cambridge in September 2020. 
