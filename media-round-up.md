@@ -5,47 +5,45 @@ layout: page
 
 ## DELVE Economics Report
 
-* [**Good Morning Britain, 14/08/2020 08:19:00 - 14/08/2020
-08:23:58**](https://protect-eu.mimecast.com/s/BewHCBgXMc8QVQtMUxIa?domain=durrants.net)  
+* [Good Morning Britain, 14/08/2020 08:19:00 - 14/08/2020
+08:23:58](https://protect-eu.mimecast.com/s/BewHCBgXMc8QVQtMUxIa?domain=durrants.net)  
 *ITV1, 14 Aug 2020  
 *Instant Play Link: <http://my.tvey.es/z2TLd>
 
-* [**BBC Radio 4, 14/08/2020 08:05:02 - 14/08/2020
-08:08:16**](https://protect-eu.mimecast.com/s/FojdCWnKEFD7j7t6Al80X?domain=durrants.net)  
+* [BBC Radio 4, 14/08/2020 08:05:02 - 14/08/2020
+08:08:16](https://protect-eu.mimecast.com/s/FojdCWnKEFD7j7t6Al80X?domain=durrants.net)  
 *BBC Radio 4 FM, 14 Aug 2020*  
 Instant Play Link: <http://my.tvey.es/c4XNe>
 
-* [**Sky News Today, 14/08/2020 16:35:04 - 14/08/2020
-16:40:03**](https://protect-eu.mimecast.com/s/z7vaCDRZOI32oKF52Si95?domain=durrants.net)
+* [Sky News Today, 14/08/2020 16:35:04 - 14/08/2020
+16:40:03](https://protect-eu.mimecast.com/s/z7vaCDRZOI32oKF52Si95?domain=durrants.net)
 (no link)  
 *Sky News, 14 Aug 2020*
 
-* [**Times Radio, 14/08/2020 05:50:02 - 14/08/2020
-05:55:00**](https://protect-eu.mimecast.com/s/BGoQCElXgIprWrUNDscn3?domain=durrants.net)  
+* [Times Radio, 14/08/2020 05:50:02 - 14/08/2020
+05:55:00](https://protect-eu.mimecast.com/s/BGoQCElXgIprWrUNDscn3?domain=durrants.net)  
 *Times Radio, 14 Aug 2020* Instant Play Link: <http://my.tvey.es/Nz7o8>
 
-* [**‘Raise sick pay’ to lower virus
-risk**](https://protect-eu.mimecast.com/s/bWkmCY6YJTAx3MHx27mM?domain=durrants.net)  
+* [‘Raise sick pay’ to lower virus risk](https://protect-eu.mimecast.com/s/bWkmCY6YJTAx3MHx27mM?domain=durrants.net)  
 *[bbc.co.uk](https://www.bbc.co.uk/news/business-53772260), 13 Aug
-2020* [**Web article
-link**](https://protect-eu.mimecast.com/s/MVPSCqjpEhX5OZHLFXKW?domain=ct.moreover.com)  
+2020* [Web article link](https://protect-eu.mimecast.com/s/MVPSCqjpEhX5OZHLFXKW?domain=ct.moreover.com)  
   
-* [**Academics urge targeted approach to
-Covid-19**](https://protect-eu.mimecast.com/s/emp8CZ4GKTQZMZuKzBbEc?domain=durrants.net)  
+* [Academics urge targeted approach to
+Covid-19](https://protect-eu.mimecast.com/s/emp8CZ4GKTQZMZuKzBbEc?domain=durrants.net)  
 *[thetimes.co.uk,](https://www.thetimes.co.uk/article/academics-urge-targeted-approach-to-covid-19-t20rd2mkf)
 14 Aug 2020*  
-[**Web article
-link**](https://protect-eu.mimecast.com/s/_7y7CX6XGTOvnvsDBXNtb?domain=thetimes.co.uk)  
+[Web article
+link](https://protect-eu.mimecast.com/s/_7y7CX6XGTOvnvsDBXNtb?domain=thetimes.co.uk)  
 **  
 * [Current rate of SSP can be seen as a “financial disincentive to
 self-isolate”](https://protect-eu.mimecast.com/s/C3MRCDRZOI32DzfxBGP9?domain=durrants.net)**  
 *[hrreview.co.uk](https://www.hrreview.co.uk/hr-news/current-rate-of-ssp-can-be-seen-as-a-financial-disincentive-to-self-isolate/126668),
 14 Aug 2020*  
-[**Web article
-link**](https://protect-eu.mimecast.com/s/oQ7-C98AzI2yrXuMz7dn?domain=ct.moreover.com)  
+[Web article
+link](https://protect-eu.mimecast.com/s/oQ7-C98AzI2yrXuMz7dn?domain=ct.moreover.com)  
   
-* [**Business leaders and academics back Mayor’s call for support to
-self-isolate**](https://protect-eu.mimecast.com/s/tNHfCGZXkTAx2RCmMEEW?domain=durrants.net)  
+* [Business leaders and academics back Mayor’s call for support to
+self-isolate](https://protect-eu.mimecast.com/s/tNHfCGZXkTAx2RCmMEEW?domain=durrants.net)  
 *[Aboutmanchester.co.uk,](https://aboutmanchester.co.uk/business-leaders-and-academics-back-mayors-call-for-support-to-self-isolate/)
 15 Aug 2020*
 
@@ -54,85 +52,81 @@ self-isolate**](https://protect-eu.mimecast.com/s/tNHfCGZXkTAx2RCmMEEW?domain=du
 
 ## Schools
 
-* [**Lost school time 'will hurt economy for 65
-years'**](https://protect-eu.mimecast.com/s/Bj6MCAnXLFEgRKs8Qbs5b?domain=durrants.net)  
+* [Lost school time 'will hurt economy for 65
+years'](https://protect-eu.mimecast.com/s/Bj6MCAnXLFEgRKs8Qbs5b?domain=durrants.net)  
 *[bbc.co.uk,](https://www.bbc.co.uk/news/education-53514564#:~:text=The%20school%20time%20lost%20because,by%20the%20Royal%20Society%20suggests.&text=The%20research%20group%2C%20including%20academics,in%20a%20reduced%20growth%20rate.)
 24 Jul 2020*  
-[**Web article
-link**](https://protect-eu.mimecast.com/s/nwP0Cj2gwhR2O4s71ONJv?domain=ct.moreover.com)
+[Web article
+link](https://protect-eu.mimecast.com/s/nwP0Cj2gwhR2O4s71ONJv?domain=ct.moreover.com)
 
-* [**School break will hit pay
-\[...\]**](https://protect-eu.mimecast.com/s/2mqUCr0qGc2pmRS7XsT1n?domain=durrants.net)
+* [School break will hit pay
+\[...\]](https://protect-eu.mimecast.com/s/2mqUCr0qGc2pmRS7XsT1n?domain=durrants.net)
 (no link)  
 *The Times, 24 Jul 2020*
 
-* [**Coronavirus in Scotland: Life-long effect on children as education
-disrupted**](https://protect-eu.mimecast.com/s/q8L3CxGz0hxyX5cvv1tsr?domain=durrants.net)  
+* [Coronavirus in Scotland: Life-long effect on children as education
+disrupted](https://protect-eu.mimecast.com/s/q8L3CxGz0hxyX5cvv1tsr?domain=durrants.net)  
 *[thetimes.co.uk](https://www.thetimes.co.uk/article/coronavirus-in-scotland-life-long-effect-on-children-as-education-disrupted-mclrzjng6),
 24 Jul 2020
-[**Web article
-link**](https://protect-eu.mimecast.com/s/4KY7Cg5DqhGrB1u33hcmI?domain=thetimes.co.uk)
+[Web article
+link](https://protect-eu.mimecast.com/s/4KY7Cg5DqhGrB1u33hcmI?domain=thetimes.co.uk)
 
-* [**Life-long effect on children**](https://protect-eu.mimecast.com/s/41VpCy8A4ILg4PsMQbJcK?domain=durrants.net)  
+* [Life-long effect on children](https://protect-eu.mimecast.com/s/41VpCy8A4ILg4PsMQbJcK?domain=durrants.net)  
 *[The Times Scotland](https://www.thetimes.co.uk/article/coronavirus-in-scotland-life-long-effect-on-children-as-education-disrupted-mclrzjng6),
 24 Jul 2020, p10, 
 
-* [**School break will hit pay**](https://protect-eu.mimecast.com/s/gSxfCBgXMc81nXc61DRUS?domain=durrants.net)  
+* [School break will hit pay](https://protect-eu.mimecast.com/s/gSxfCBgXMc81nXc61DRUS?domain=durrants.net)  
 *The Times Ireland, 24 Jul 2020*
 
-* [**Pupils' earnings will suffer for 50 years because of missed
-lessons**](https://protect-eu.mimecast.com/s/8pDCCvgxMcAGlnTX3ZWU5?domain=durrants.net)  
+* [Pupils' earnings will suffer for 50 years because of missed
+lessons](https://protect-eu.mimecast.com/s/8pDCCvgxMcAGlnTX3ZWU5?domain=durrants.net)  
 *[The Daily
 Telegraph](https://www.telegraph.co.uk/news/2020/07/24/coronavirus-will-reduce-earning-potential-todays-children-next/),
 24 Jul 2020*
 
-* [**UK children could 'lose 3% of lifetime earnings' due to lockdown
+* [UK children could 'lose 3% of lifetime earnings' due to lockdown
 school
-closures**](https://www.theguardian.com/education/2020/jul/24/uk-children-could-lose-3-of-lifetime-earnings-due-to-lockdown-school-closures)
+closures](https://www.theguardian.com/education/2020/jul/24/uk-children-could-lose-3-of-lifetime-earnings-due-to-lockdown-school-closures)
 
 * [The
 Guardian](https://www.theguardian.com/education/2020/jul/24/uk-children-could-lose-3-of-lifetime-earnings-due-to-lockdown-school-closures),
 24 July
 
-* [**UK economic cost of coronavirus school
-closures**](https://inews.co.uk/news/education/uk-economic-cost-coronavirus-school-closures-2080s-561164)
-
-* [**UK economic cost of coronavirus school
-closures**](https://inews.co.uk/news/education/uk-economic-cost-coronavirus-school-closures-2080s-561164),
+* [UK economic cost of coronavirus school
+closures](https://inews.co.uk/news/education/uk-economic-cost-coronavirus-school-closures-2080s-561164),
 The i 24 July
 
-* [**School closures will hit UK productivity for years, experts
-warn**](https://www.independent.co.uk/news/health/coronavirus-school-closed-pupils-royal-society-delve-a9634441.html)
+* [School closures will hit UK productivity for years, experts
+warn](https://www.independent.co.uk/news/health/coronavirus-school-closed-pupils-royal-society-delve-a9634441.html)
 Independent, 24 July
 
-* [**School closures reduce pupils earning potential in the
-future**](https://www.dailymail.co.uk/news/article-8554943/School-closures-reduce-pupils-earning-potential-future-report.html)
+* [School closures reduce pupils earning potential in the
+future](https://www.dailymail.co.uk/news/article-8554943/School-closures-reduce-pupils-earning-potential-future-report.html)
 Daily Mail, 24 July
 
-* [**Closed schools could sap pupils earnings for
-life**](https://news.stv.tv/politics/closed-schools-could-sap-pupils-earnings-for-life-report?top)
+* [Closed schools could sap pupils earnings for
+life](https://news.stv.tv/politics/closed-schools-could-sap-pupils-earnings-for-life-report?top)
 STV News
 
-* [**Re-opening schools must be the top priority, say
-scientists**](https://protect-eu.mimecast.com/s/JH1CCDRZOI31xLT5RRnqu?domain=durrants.net)  
+* [Re-opening schools must be the top priority, say
+scientists](https://protect-eu.mimecast.com/s/JH1CCDRZOI31xLT5RRnqu?domain=durrants.net)  
 *[The Herald](https://www.heraldscotland.com/news/18603534.coronavirus-no-notable-rise-infection-countries-schools-reopened-say-scientists/),
 24 Jul 2020*
 
 ### Specialist education press
 
-* [**Give teachers PPE to keep schools open, say
-researchers**](https://www.tes.com/news/coronavirus-give-teachers-ppe-keep-schools-open-say-researchers)
+* [Give teachers PPE to keep schools open, say researchers](https://www.tes.com/news/coronavirus-give-teachers-ppe-keep-schools-open-say-researchers)
 
 * [Times Education
 Supplement](https://www.tes.com/news/coronavirus-give-teachers-ppe-keep-schools-open-say-researchers),
 24 July 2020
 
-* [**The cost of lockdown attainment gap widens by up to 52 for primary
-pupils**](https://schoolsweek.co.uk/the-cost-of-lockdown-attainment-gap-widens-by-up-to-52-for-primary-pupils/)
+* [The cost of lockdown attainment gap widens by up to 52 for primary
+pupils](https://schoolsweek.co.uk/the-cost-of-lockdown-attainment-gap-widens-by-up-to-52-for-primary-pupils/)
 Schools Week, 24 July 2020
 
-* [**The eight policies to ensure schools can stay
-open**](https://schoolsweek.co.uk/the-8-policies-to-ensure-schools-can-stay-open/)
+* [The eight policies to ensure schools can stay
+open](https://schoolsweek.co.uk/the-8-policies-to-ensure-schools-can-stay-open/)
 Schools Week, 24 July 2020
 
 ## Nosocomial Infections
