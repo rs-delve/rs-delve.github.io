@@ -25,6 +25,7 @@ abstract: |
   transmission.
 note: An earlier version of this document was communicated to SAGE in April 2020.
 update: "/addenda/2020/07/07/masks-update.html"
+pdf: https://rs-delve.github.io/assets/pdf/2020-05-04-face-masks-for-the-general-public.pdf
 ---
 
 ### Table of Contents

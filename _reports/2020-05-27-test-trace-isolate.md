@@ -21,6 +21,7 @@ abstract: |
 note: This work was carried out rapidly in May 2020 so that an early version could
   inform discussions at SAGE. It may be revisited as further scientific evidence becomes
   available.
+pdf: https://rs-delve.github.io/assets/pdf/2020-05-27-test-trace-isolate.pdf
 ---
 
 ### Table of Contents

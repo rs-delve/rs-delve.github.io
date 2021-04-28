@@ -51,6 +51,7 @@ note: |
   independent overview of the science has been provided in good faith
   by subject experts. DELVE and the Royal Society accept no legal
   liability for decisions made based on this evidence.
+pdf: https://rs-delve.github.io/assets/pdf/2020-11-24-data-readiness-lessons-from-an-emergency.pdf
 ---
 
 <style>

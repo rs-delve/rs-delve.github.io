@@ -23,6 +23,7 @@ note: This paper has drawn on evidence available up to 25th September 2020. Furt
   this report as it becomes available. This independent overview of the science has
   been provided in good faith by subject experts. DELVE and the Royal Society accept
   no legal liability for decisions made based on this evidence.
+pdf: https://rs-delve.github.io/assets/pdf/2020-10-01-covid19-vaccination-report.pdf
 ---
 
 <style>

@@ -36,6 +36,7 @@ note: This paper has drawn on evidence available up to 10 July 2020. Further evi
   as it is prepared for publication. This independent overview of the science has
   been provided in good faith by subject experts. DELVE and the Royal Society accept
   no legal liability for decisions made based on this evidence.
+pdf: https://rs-delve.github.io/assets/pdf/2020-07-24-balancing-the-risk-of-pupils-returning-to-schools.pdf
 ---
 
 ### Table of Contents
