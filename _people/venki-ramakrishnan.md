@@ -4,7 +4,6 @@ position: 0
 layout: person
 given: Venki
 family: Ramakrishnan
-suffix: FRS
 steeringcommittee: true
 ---
 

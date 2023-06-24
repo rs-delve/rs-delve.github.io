@@ -29,7 +29,7 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-remote-theme
-remote_theme: lawrennd/proceedings
+remote_theme: rs-delve/jekyll-theme
 style: delve
 description: This is the GitHub Repository of the DELVE Initiative convened by the
   Royal Society as a multidisciplinary group of scientists, statisticians, economists,
