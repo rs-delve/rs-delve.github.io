@@ -25,6 +25,7 @@ collections:
     output: true
 logo: logo.png
 plugins:
+- webrick
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-remote-theme
